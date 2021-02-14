@@ -30,11 +30,15 @@ h2.book-brand {
 }
 
 .markdown h4 {
+	color: #ca5400;
 	margin-top: 2em;
 	margin-bottom: .5em;
 }
 
 .markdown .book-expand .book-expand-head {
+	background: var(--gray-200);
+}
+.markdown details summary {
 	background: var(--gray-200);
 }
 
