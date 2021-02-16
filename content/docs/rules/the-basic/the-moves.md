@@ -57,7 +57,7 @@ weight: 3
 
 「我要衝進去，然後把他們一個個丟飛出去，我需要骰〈直面威脅〉嗎？」麥特問道。
 
-「不用，」我說：「他們不是你的對手，所以不算什麼威脅。你輕而易舉地把他們全都丟飛了出去，並完全癱瘓了侵攻機獸的控制。然而，你也在此時聽見征服者的聲音從控制艙的入口傳來……」
+「不用。」我說：「他們不是你的對手，所以不算什麼威脅。你輕而易舉地把他們全都丟飛了出去，並完全癱瘓了侵攻機獸的控制。然而，你也在此時聽見征服者的聲音從控制艙的入口傳來……」
 {{< /hint >}}
 {{< /details >}}
 
@@ -73,89 +73,34 @@ weight: 3
 <tag>擲出7-9時</tag>，你標記一個狀態、或者ＧＭ會告訴你這股力量是多麼不穩定或僅只造成暫時性的影響。
 </div>
 {{< details title="〈釋放你的力量〉詳述" >}}
-Unleashing  your  powers  is  the  move  for  doing  something  complicated, 
-dangerous, and difficult with your powers. It is  definitely  not the “use your 
-powers” move—you’re probably using your abilities on nearly all of the basic 
-moves. This move is for those situations when you do something intense with 
-your powers, and we’re not sure how it’ll go, or if you can even pull it off.
+〈釋放你的力量〉這個動作就是使用你的能力去做某件複雜、危險、和複雜的行動。這個並不是「使用你的力量」動作──你的超能力大概可以用在幾乎所有其他基本動作上。這個動作針對的情境是：你用你的能力做出某個激烈的行動，而我們不確定它會如何發展、或甚至你是否能成功。
 
-This distinction is crucial—just using your abilities isn’t unleashing them. 
-Unleashing them means pushing them or using them in dangerous or difficult 
-situations. Over the course of the game you’ll establish a baseline for each 
-character that tells you when it feels like they’re unleashing and when they 
-aren’t. And keep in mind, these characters are all young superheroes, getting 
-the hang of their powers and what they can do—chances are, they unleash 
-their powers and push the boundaries of what they can do more often than not.
+這其中的差別相當關鍵──單純使用你的超能力並不算是釋放力量。釋放力量意味著你將能力逼到極限、或在危險或困難的情況下使用它們。在遊戲過程中，你們將會位每個角色建立各自能力的基準，而這也將告訴你們什麼情況下算是釋放力量、什麼時候不算。記住，這些角色全都是年輕的英雄，他們還在熟悉自己的超能力、摸索自己能做到什麼──當時機來到，他們往往能夠釋放力量，突破自己原本能力的限制。
 
-If you aren’t trying to overcome an obstacle, reshape your environment, 
-or extend your senses, then you’re probably not unleashing your powers. That 
-said, these categories are pretty open-ended. Overcoming an obstacle covers 
-both flying faster than the villainous Speed Demon to get to the artifact first 
-and smashing through the sorcerous energy field Gehenna cast to keep you 
-away from her sanctum. Reshaping your environment covers both bringing 
-down one wall of the building so you can escape and using your magnetic 
-powers to trap the villain inside a cage of steel. Extending your senses covers 
-both extending your telepathy into someone’s mind and using your super-
-vision to see halfway across the city. 
+若你並沒有打算克服阻礙、重塑環境、或延展感官的話，那麼你大概也不會釋放你的力量。儘管如此，這三個行動分類的解釋其實相當廣泛。比如說，「克服阻礙」包括了搶先邪惡的神速惡魔一步飛到上古神器的位置、到粉碎煉獄女為阻撓你接近她聖所而施展的巫術能量力場牆。「重塑環境」可以是擊垮建築物的其中一面牆好讓你從中逃脫、也可以是使用你的磁力控制超能力來把反派囚禁在金屬構成的牢籠中。「延展感官」則涵蓋了像將你的心靈感應能力延伸觸及到他人的心中、或是使用你的超視覺看到半個城市外的景象。
 
-Unleash your powers is a bit of an overarching move. When you’re trying 
-to punch out a titanic rock monster, it feels like you’re unleashing your powers, 
-namely your tremendous strength...except, that’s a move to directly engage 
-a threat. When you’re trying to create a massive ice wall to save your friends 
-from an explosion, it feels like you’re unleashing your powers...except, that’s 
-a move to defend someone from an immediate threat. Always see if another 
-move fits better and more specifically  than unleash your powers before using 
+〈釋放你的力量〉是個稍微有些包羅萬象的動作。當你嘗試揮拳打擊一頭巨大的岩石怪物時，你可能會覺得你在〈釋放你的力量〉，也就是你的超能怪力……然而這其實是個〈直面威脅〉的動作。當你嘗試創造一道龐大的寒冰之牆以保護你的朋友們不受爆炸所傷，你可能會覺得你在〈釋放你的力量〉……但這實際上是個從立即性威脅中〈保衛某人〉的動作。在使用這個動作之前，永遠記得先檢查是否有其他動作更具體或更符合當下的情境──這個動作正是為了處理其他動作不適用的情況而存在的。
 
-this move—it’s really here for situations where the other moves don’t fit. 
-If the characters are just using their regular abilities to solve a problem—
-running from a threat with no special powers, for example, or trying to drive 
-a car into an enemy—then it’s not unleashing your powers. The GM just says 
-what happens based on the fiction. If you want to try to take control over what 
-happens, use your powers to solve problems!
+如果角色們僅僅是使用他們正常人的能力去解決問題──比如說，不使用任何超能力來逃離威脅、或僅僅是開車撞向敵人──那麼這就不是〈釋放你的力量〉。GM直接根據敘事情境來描述發生了什麼事。如果你想嘗試控制下來發生的事，那麼就使用你的超能力來解決問題吧！
+
 
 #### 關於〈釋放你的力量〉的選項
-On a hit, you do it means that as long as you roll 7 or higher, you do the thing 
-you set out to do, no matter what. But on a 7-9, you have to choose to either 
-mark a condition (of your choice, not the GM’s), or let the GM tell you how 
-your effect is unstable or temporary.
+**若成功，你成功達成目的** 意味著只要你骰出 7 或以上，無論你打算做什麼，你都能成功做到你想做的事情。但當你擲出 7-9 時，你必須選擇標記一個狀態（狀態由你選擇，而不是GM）、或讓GM告訴你這股力量是多麼不穩定或僅只造成暫時性的影響。
 
-Temporary is pretty self-explanatory—it puts a time pressure on the effect, 
-and it could be anything from, “You’ve wrapped the villain in a metal cage, 
-but he’s gonna break out soon, you’ve only bought yourself a bit of time,” to 
-“You’ve managed to lift up the debris of the collapsed building with your 
-gravity powers, but you can only hold it up for a bit longer.” 
+**暫時性的影響** 就是字面上的意思──它帶來了時間壓力，且這可以是任何包括「你用金屬牢籠困住了反派，但他很快就會從中逃脫，你只給你們爭取到了短暫的時間」到「你試著運用你的重力操控能力抬起了坍方建築的殘骸，但你只能夠再支撐一小段時間！」
 
-Unstable is about unintended additional consequences, often dangerous to 
-you or others. Unstable effects never take away from the core success of the 
-roll—you still did whatever you intended to do. But they add an additional 
-element  that  complicates  the  situation:  collateral  damage,  unintended 
-consequence, or worse. The GM might even make you roll to take a powerful 
-blow as a result of an unstable effect. 
+**不穩定的效果** 代表著預料之外的額外後果，通常會對你或他人帶來危險。不穩定的效果永遠不會影響到擲骰成功的核心──你仍然做到了你打算做的事。但它添加進來的元素將使情況變得更加複雜──附帶傷害、超乎預期的後果、或者更糟。GM甚至可以要求你為此進行〈承受沉重打擊〉動作。
+
 
 #### 〈釋放你的力量〉的範例
 {{< hint info >}}
-Sarah is playing Fission the Nova, who’s currently stuck in a nuclear reactor that was 
-damaged in an attack by Helldrake; it’s about to overload and detonate half the city. 
-Sarah says, “I suck in all the radiation and nuclear force, then I want to fire it up into 
-the sky in a single beam of light!” I grin, both because that’s awesome, and because 
-I’m excited to find out if this works. This is absolutely Fission pushing his powers to 
-the limit and reshaping the environment by pulling away all that radiation, so I ask 
-Sarah to roll to unleash Fission’s powers. Sarah gets a big ol’ 13. Fission successfully 
-siphons it all off and shoots it into the sky!
+莎拉扮演的角色是「新星」裂變俠，他現在正困在一座核子反應爐內，反應爐因為獄炎龍女的攻擊而嚴重受損；瀕臨超載，很快就要爆炸然後夷平幾乎半座城市。莎拉說：「我要吸收所有的輻射和核力，然後我想要把它們凝聚成一道光束射向天空！」我咧嘴微笑，不只因為這想法讚到不行，也因為我非常期待看到接下來會發生什麼事。我們可以很肯定在這個情境中，裂變俠會將自己的能力逼到極限，並試圖透過吸收所有的輻射來重塑環境，因此我請莎拉擲骰進行〈釋放你的力量〉動作。莎拉骰出了一個大大的 13。裂變俠成功將核能輻射汲取殆盡，並將之射向了空中！
 {{< /hint >}}
 
 {{< hint info >}}
-Mark is playing Sureshot the Beacon, whose abilities are acrobatics and his bow and 
-trick arrows. Sureshot is trying to get into the thick of the action below from his 
-perch atop a nearby building—he wants duke it out with the VENOM goons on the 
-ground. Mark says, “Sureshot fires an arrow with a long tether attached to the end 
-of it, then uses that to zipline his way to the ground. So that’s probably unleashing 
-his powers, right?”
+馬克扮演的角色是「明燈」神射手，他的超能力選了雜技動作和弓與特殊箭矢。蹲踞在附近大樓的樓頂，神射手打算跳進打下激烈的戰局中──他想要好好教訓地面上的那群猛毒幫壞蛋。馬克說：「神射手射出一支末端綁著繩索的箭矢，然後把它當作滑索帥氣地滑降落地。這應該是個〈釋放你的力量〉對吧？」
 
-“Nah,” I say. “You’re not looking for pinpoint accuracy here, and no one’s focusing 
-on you right this second. It’s not too difficult for you to do, and you get down to the 
-ground without any issue. But as soon as you do, some VENOM goons notice you 
-and swarm over. What do you do?”
+「不用。」我說：「你沒有要精準落到某個地方，這個瞬間也沒有人在注意你。對你來說這並不是太困難的事，因此你可以毫無窒礙地順利落地。然而就在你這麼做之後，幾個猛毒幫的惡棍注意到了你並蜂擁而至。你打算怎麼辦？」
 {{< /hint >}}
 {{< /details >}}
 
@@ -179,134 +124,60 @@ and swarm over. What do you do?”
 <tag>若成功</tag>，你使對方的擲骰-2。<tag>擲出7-9時</tag>，你使你自己暴露在代價、報復、或批評之下。
 </div>
 {{< details title="〈保衛某人〉詳述" >}}
-Defending  someone  is  the  move  you  use  to  stop  something  bad  from 
-happening. It’s not about preemptively preparing a defense, or setting up a 
-shield—it’s about preventing the worst in the moment. The threat must be 
-immediate for this move to trigger. 
+〈保衛某人〉是個你用來阻止壞事發生的動作。這個動作並不是在預先備妥防禦或立起防盾──而是在危難當下防止最壞的情況發生。因此，只有立即性的威脅才能夠觸發這個動作。
 
-NPC threats include threats from the environment—anything the GM 
-describes or controls. Defending someone from a PC threat is for when a 
-fellow PC tries to do something bad and you try to stop them. The key isn’t that 
-you’re defending another PC—it’s that you’re defending against another PC.
+NPC威脅也包括了來自周遭環境的威脅：任何GM描述或控制扮演的人事物全都算在內。至於對PC造成的威脅使用〈保衛某人〉動作，則代表某個PC打算做出某種壞事而你嘗試阻止他；你並不是在保衛另一名PC──你是在對抗另一名PC。
 
-When you trigger this move, be sure that both you and the GM are clear on 
-what the immediate threat is. You can defend someone from physical dangers 
-and threats, but you can also defend someone from cruel words or insults—if 
-an older hero berates your teammate, you can defend them just as much as if 
-a fireball was hurtling towards their face. In this case, the immediate threat is 
-the harm and effects of the words.
+當你觸發這個動作時，確定你跟GM都清楚當下情境所指的威脅是什麼。你可以從物理性的危險和威脅下〈保衛某人〉，但你也可以從殘酷的言詞或侮辱下〈保衛某人〉──當一名年老的英雄嚴厲訓斥你的隊友時，你可以像面對飛馳而來的火球一樣的去保衛他們。在這種情況下，所謂的立即性威脅就會是言語造成的傷害和影響。
 
-You don’t trigger defend someone when you’re trying to keep yourself safe 
-from an NPC or environmental threat—that’s much more likely to be another 
-move, like unleashing your powers, or rejecting their Influence. You can defend 
-yourself from a PC threat when another PC tries to hurt you.
+嘗試讓自己免受NPC或環境的威脅並不會觸發〈保衛某人〉動作──這更可能是其他像〈釋放你的力量〉或〈拒絕他人的影響〉之類的動作。然而，當其他PC嘗試傷害你時，你仍然針對PC造成的威脅來對自己使用〈保衛某人〉動作。
 
-Keeping them safe means that you prevent the danger you acted against. If 
-you’re putting up an energy shield to stop someone from getting roasted, then 
-on a hit, you do that—they’re protected from the flame blast. 
+**保衛了他的安全** 意味著你成功避免了你所對抗的危險。如果你張開能量盾以保護某人不被烤熟，那麼若你擲出成功，你就能成功做到這件事──他們從爆炎中被安然的保護了下來。
 
-On a 7-9, you must expose yourself to danger or escalate the situation—
-your choice. Exposing yourself to danger leaves the danger up to the GM. 
-It  could  mean  anything  from  you  taking  the  hit  instead  of  whomever 
-you’re defending, to your actions leaving you in a more vulnerable position. 
-Escalating the situation means you make things more tense, more dangerous, 
-more complicated in general. This is you breaking out your powers to defend 
-someone when a moment before it was just a verbal fight. 
+擲出7-9時，你必須使你自己暴露在危險之中、或使局勢升級──由你決定。若你選擇把自己暴露在危險之中，則由GM決定這個危險會是什麼。這可能意味著你代替你保護的對象承受了傷害、或是你的行動使自己陷入了一個更脆弱的位置。另一方面，使局勢升級則代表你把情況變得更緊張、更危險、或更複雜。也許你為了捍衛某人而釋放了你的超能力，但在片刻之前，這不過就是一場口頭爭吵而已。
 
-When you defend against a PC threat, it should always be when the PC is 
-making a move and they’re really being an overt threat towards you. On a hit, 
-you give them -2 to their roll, which might shift them down to a 7-9 result or 
-even a miss. If their move becomes a miss, they still mark potential and the GM 
-makes a hard move, as usual. They can also still get boosts by other teammates 
-spending Team out of the pool (page 48). 
+當你針對PC造成的威脅進行〈保衛某人〉時，情境永遠必須是該PC正在進行某個動作，且他們對你而言確實能構成威脅。若你擲出成功，則你使對方的擲骰結果-2，這可能會讓他們的擲骰結果因此跌到7-9、或甚至轉為失敗。若對方的動作因此失敗，則他仍然可以如原本一樣標記經驗值，GM也將隨之採取一個硬動作。其他隊友也仍然能夠透過消耗團隊默契來幫助他（參見「團隊默契」章節）。
 
-Getting a 10+ when defending against a PC threat means you just give 
-them -2 to their roll at no cost. Getting a 7-9 means you expose yourself to cost, 
-retribution, or judgment—GM’s choice, based on the situation. Cost means you 
-pay a price, usually marking a condition yourself, to defend against the other 
-PC. Retribution means the other PC gets a chance to act against you without 
-your  interference.  Judgment  means  other 
-people  watching  might  judge 
-you for your actions, leading 
-them  to  shift  your  Labels 
-(page 44) or otherwise act 
-against you. 
+在針對PC造成的威脅進行〈保衛某人〉時擲出10+意味著你可以直接讓他們的擲骰結果-2而不用付任何代價。擲出7-9則意味著你使自己暴露在代價、報復、或批評之下──由GM決定。「代價」意味著你在對抗其他PC的過程中付出了某種代價：通常會是標記一個自己的狀態。「報復」意味著其他PC得到了一個能在不被你干擾的情況下對付你的機會。「批評」則意味著其他圍觀的人們可能會因為你的行動而批判你，並會因此調動你的標籤屬性或用其他方式對付你。
+
 
 #### 關於〈保衛某人〉的選項
-On a hit when defending against 
-an  NPC  threat,  you  always  get  to 
-choose  one  option  from  the  list. 
-Adding a Team to the pool means your 
-actions now are building up a sense of 
-team cohesion and focus that you can 
-call on later. 
+當你從NPC造成的威脅下成功保衛某人，你永遠能夠從列表中選擇一個選項。
 
-Taking Influence  over someone 
-you protect means they care about 
-how you’ve helped them, and 
-they’re more inclined to listen to 
-you moving forward. If you already 
-had Influence over an NPC, there’s 
-little reason to take Influence over them 
-again—you’ll get +1 forward on your 
-next move aimed at them, but that’s it.
+**增加一點團隊默契** 意味著你當下採取的行動建立起一股團隊凝聚感和集中力，讓你們得以在日後利用。
 
-However, taking Influence over a PC 
-you already hold it over allows you to 
-immediately  shift  their  Labels. When 
-you protect a whole bunch of people, 
-you  can  either:  name  the  specific 
-person  in  the  crowd  that  you  want 
-Influence over; let the GM tell you someone important in the crowd over 
-whom you now have Influence; or take Influence over a whole group.
+**獲得對保衛對象的影響力** 意味著對方在乎你幫助他的事實，且他因此更願意聆聽你的心聲。如果你已經擁有對該名NPC的影響力，則選擇這個選項仍然能提供一些好處：下次你進行以他為目標的動作時將獲得+1加值，但也僅此而已。然而，再次獲得對其他PC的影響力將能讓你立即調動對方的標籤屬性。
 
-Clearing a condition means you can immediately clear a condition you have 
-marked, before you suffer any consequences for defending someone. 
+當你同時保衛了一大群人的時候，你可以選擇：指定群眾中的一個特定人物並獲得對他的影響力；讓GM告訴你你獲得了對群眾中某個重要人物的影響力；或者直接獲得對這一整個群體的影響力。
+
+**清除一個狀態** 意味著你可以在承受〈保衛某人〉的任何後果之前，立即清除自己身上一個已經標記的狀態。
 
 #### 〈保衛某人〉的範例
 {{< hint info >}}
-In the midst of an intense superhero brawl, Grasshopper the Janus, played by Jenn, 
-and Sureshot the Beacon, played by Mark, are facing down the obnoxious Troll. 
-Sureshot’s been hurt, so he’s trying to pick himself up while Grasshopper rushes in 
-to help. At the same moment, Troll flips a car straight at Sureshot. 
+在這場激烈的超級英雄大戰中，「雙面人」蚱蜢女俠（由珍妮扮演）和「明燈」神射手（由馬克扮演）正與一頭粗暴可怖的巨魔對峙。神射手已經負傷，在趕過來協助的蚱蜢女俠的攙扶下，他正試圖重新站立起來。但就在同時，巨魔怒吼著舉起一台汽車，將其狠狠朝著神射手的方向扔了過來。
 
-“Aaa! I flip in quickly and grab Sureshot so I can pull him out of the way!” Jenn says. 
+「啊啊！我要抓住神射手並快速翻滾一圈，把他拉出攻擊範圍！」珍妮說道。
 
-I tell Jenn to roll to defend Sureshot. She gets 9, then picks one from the list. 
-“Definitely adding one Team to the pool. I just saved Sureshot’s butt!”
+我請珍妮擲骰對神射手進行〈保衛某人〉。她骰出了 9，皆從列表中選擇了一項。<br/>
+「這肯定會增加一點團隊默契。畢竟我救下了神射手的小命！」
 
-I nod. “Yeah you did! But now you have to either escalate the situation or expose 
-yourself to danger, your choice.”
+我點點頭：「當然！但現在你得讓你自己暴露在危險中或者使局勢升級，由你決定。」
 
-Jenn thinks. “Well, I’m not really escalating right now. If I was super strong, I 
-could escalate by kicking the car back at Troll...but I’m not, so I can’t. Yeah, I guess I 
-just expose myself to danger.”
+珍妮想了想：「好吧，我想我並沒有讓局勢升級。如果我夠強壯的話，我就可以藉著把那輛汽車踢回巨魔臉上來使局勢升級……但我沒那麼大力氣，所以不行。嗯，我猜我只能選擇把自己暴露在危險下了。」
 
-“Yep, that sounds right to me, too,” I say. “I think you get Sureshot out of the way, 
-but you get clipped by the car. Roll to take a powerful blow.” 
+「是的，我也這麼認為。」我說：「我想你確實把神射手跩出了攻擊軌道外，但你也因此被飛過來的汽車給撞上。擲骰進行〈承受承重打擊〉吧。」
 {{< /hint >}}
 
 {{< hint info >}}
-Dominus, a terrifyingly powerful metahuman, floats over Halcyon City Square, 
-reshaping the buildings into statues to his glory. Dusk the Doomed uses her dark 
-portal to teleport into the area, just in time to see people getting flung from the 
-buildings as Dominus reshapes them. 
+多明努什，一名強大得可怕的超人類，正漂浮在神翠市的城市廣場上方，將周圍的建築物扭曲重塑著成宣揚自己榮耀的雕像。「命帶天劫者」黃昏利用她的暗黑傳送門立刻趕到了現場，剛好目擊多明努什重塑建築的過程，建築內的居民們被無助的甩到了空中，尖叫著墜落。
 
-“Aw, crud. All right, I’ll create a big scoop with my shadow powers: I want to catch 
-those people,” Grace, who’s playing Dusk, says.
+「噢，該死。好吧，我要用我的陰影之力創造出一個大杓子：我想要接住這些群眾。」格蕾絲（她是扮演黃昏的玩家）說道。
 
-“Excellent! Roll to defend. The threat is that the people aren’t caught in time.”
+「太棒了！擲骰進行〈保衛某人〉吧。這裡的威脅會是『群眾沒有被及時接住』。」
 
-Grace rolls a 10! She gets to choose one option from the list. She doesn’t have any 
-conditions, and she feels weird about adding a Team to the pool when no one else 
-is around, so she chooses to take Influence on someone she saves. “But I don’t know 
-who’s in this clump of people,” she says.
+格蕾絲骰出了 10！她可以從列表中選一個選項。她現在沒有被標記任何狀態，她也覺得在沒有其他夥伴在場的情況下選擇增加團隊默契有點怪，因此她選擇獲得對保衛對象的影響力。「但我不知道這群人們裡面有誰耶？」她說。
 
-“That’s okay, I’ve got a great idea! You create your shadow scoop and catch them 
-as they fall. You safely deposit the people on the ground again, and you think you 
-spy—is that Grasshopper’s mom? What’s she doing here? Well, regardless, she sees 
-you and the look of gratitude on her face speaks volumes—take Influence over her. 
-But Dominus has noticed you—he’s floating over in your direction. What do you do?”
+「沒關係，我有個好主意！」我說：「你成功造出了你的大陰影勺子，並及時接住了那些墜落的群眾。你將他們安全地放在了地上，然後瞥見了──那不是蚱蜢女俠的母親嗎？她在這裡做什麼？算了，無論如何，她看見了你，且她臉上的感激之情也說明了一切──你獲得對她的影響力。然而在此同時，多明努什也注意到了你，並朝著你的方向飄過來──你打算怎麼辦？」
 {{< /hint >}}
 
 {{< /details >}}
