@@ -53,11 +53,11 @@ weight: 3
 {{< /hint >}}
 
 {{< hint info >}}
-「異變者」雷克斯（由麥特扮演）闖入了征服者的侵攻機獸的操控艙──這頭跟摩天大樓一樣巨大的機器人正在神翠市街道上瘋狂肆虐。雷克斯的視線掃過整個控制艙，裏面滿滿都是征服者的手下，一群實力遠遠不及那位外星大帝的外星雜魚。
+「異變者」雷克斯（由麥特扮演）闖入了異星征服者的侵攻機獸的操控艙──這頭跟摩天大樓一樣巨大的機器人正在神翠市街道上瘋狂肆虐。雷克斯的視線掃過整個控制艙，裏面滿滿都是征服者的手下，一群實力遠遠不及那位外星大帝的外星雜魚。
 
 「我要衝進去，然後把他們一個個丟飛出去，我需要骰〈直面威脅〉嗎？」麥特問道。
 
-「不用。」我說：「他們不是你的對手，所以不算什麼威脅。你輕而易舉地把他們全都丟飛了出去，並完全癱瘓了侵攻機獸的控制。然而，你也在此時聽見征服者的聲音從控制艙的入口傳來……」
+「不用。」我說：「他們不是你的對手，所以不算什麼威脅。你輕而易舉地把他們全都丟飛了出去，並完全癱瘓了侵攻機獸的控制。然而，你也在此時聽見異星征服者的聲音從控制艙的入口傳來……」
 {{< /hint >}}
 {{< /details >}}
 
@@ -197,95 +197,52 @@ NPC威脅也包括了來自周遭環境的威脅：任何GM描述或控制扮演
 * 這裡有什麼可以讓我用來_____？
 * 這裡最大的威脅是什麼？
 * 這裡什麼正處於最大的危險之中？
-* 這裡有誰對我來說是最脆弱的？
+* 這裡的誰是我最容易影響的？
 * 我們怎樣才能最快的結束這一切？
+
 </div>
 {{< details title="〈評估局勢〉詳述" >}}
-Assess  the  situation  is  the  move  for  when  you  want  to  get  specific  and 
-useful information about your situation and surroundings. In the fiction, this 
-is you taking a moment to survey what’s going on around you, looking for 
-important details. You can always ask the GM clarifying questions about your 
-environment and what your character would know—assessing the situation is 
-for highly specific and pointed information.
+〈評估局勢〉是當你在想要得知關於你所處情境和周遭情況的特定和有用情報時可以使用的動作。在敘事上，這代表著你花了點時間仔細觀察你周圍發生的事情，尋找重要的細節。記住，你永遠可以向GM詢問確認你周遭的環境狀況以及你角色應該會知道的情報──〈評估局勢〉則是用來獲得那些更具體且針對性的情報。
 
-As long as you’re using the information you learned from your assessment 
-to guide your actions, take +1 to your moves and rolls. But if the situation 
-changes too much, you might not get that bonus anymore. If you can take a 
-course of action that uses multiple answers, the bonuses stack, but remember 
-you can never roll with more than +4 total, including your Label.
+只要你利用你透過〈評估局勢〉所得的情報來指引你的行動，你就可以在你進行動作時的擲骰獲得+1加值。但如果情況有了太大的變化，那麼你可能就無法再受益於這個加值。如果你在採取行動的過程中利用了好幾個問題的回答，那麼這些加值可以疊加，但記住你擲骰時的加值永遠不能超過+4（包含你的標籤屬性）。
+
 
 #### 關於〈評估局勢〉的選項
-“What here can I use to _____?” lets you fill in the blank when you ask the 
-question. This is a great question for finding useful tools and pieces of your 
-surroundings  that  will  help  you  accomplish  some  purpose. Want  to  trap 
-Vanquish? Ask “What here can I use to trap Vanquish?” and the GM will tell 
-you. The answer might be “nothing.” 
+**「這裡有什麼可以讓我用來 \_\_\_\_？」** 留了一些空白讓你可以在詢問這個問題時自行填上。當你想要從周遭環境找到能派得上用場的工具或物件來協助你達成某個目的時，這個問題就會是你最好的選擇。想要困住異星征服者？那就詢問「這裡有什麼可以讓我用來困住異星征服者？」然後讓GM告訴你答案。然而，答案仍可能會是「沒有東西能派上用場」。
 
-“What here is the biggest threat?” helps you to prioritize dangers and threats 
-in the area. You can clarify to the GM how you prioritize things yourself—so 
-the GM knows whether you’d think that the biggest threat is an enemy or 
-something that endangers civilians, for instance. It’s also useful even when 
-you’re not in an immediately dangerous situation to find out who’s the most 
-menacing in the room. 
+**「這裡最大的威脅是什麼？」** 能協助你區分這個區域中危險和威脅的優先順序。你可以跟GM說明你自己區別事物優先順序的標準，這樣GM才知道對你而言最大的威脅會是什麼，比如說強大的敵人、或者威脅到平民的危險事物。即使你沒有身陷立即性的危險情境，這個動作仍然能派上用場：像是找出誰是這個房間裡最具威脅性的人物。
 
-“What here is in the greatest danger?” is the inverse of the prior question. 
-This tells you what needs protection the most, and potentially alerts you to the 
-target or focus of a villain’s attention—if they’re after someone or something, 
-chances are it’ll be in the greatest danger. 
+**「這裡什麼正處於最大的危險之中？」** 與前面的問題正好相反。這個問題會告訴你什麼這裡有什麼最需要你的保護，並可能提醒你反派的目標或關注對象是什麼──如果反派正在追捕某人或某物，那麼他或它就很有可能處於最大的危險之中。
 
-“Who here is most vulnerable to me?” is about your own abilities and whom 
-they can best affect. The obvious answers focus on who’s most vulnerable to 
-your particular skills and abilities, but it can also take into account who’s most 
-vulnerable to your words, if someone‘s susceptible to the things you could say. 
+**「這裡的誰是我最容易影響的？」** 這個問題是關於你的能力、以及其最能夠發揮作用的對象上。最直接的回答會著眼於你掌握的特技或超能力對誰最有效；但如果在場有人相當容易被你所說的話給影響，那麼這個回答也可以包含你話語的影響力。
 
-“How could we best end this quickly?” outlines a course of action to stop a 
-dangerous or bad situation as quickly as possible. This could be how best to take 
-down an enemy quickly, but it might tell you that the best way to end things 
-quickly is to flee. It might also tell you that all you have to do is apologize to 
-bring a bad situation to a close. 
+
+**「我們怎樣才能最快的結束這一切？」** 會提供你一個能夠最快結束眼前危險或糟糕情境的行動方案。這可能會是一個能快速擊倒敵人的最佳戰術，但它也可能告訴你結束這一切的最好方式就是逃之夭夭。它也可能告訴你，你只需要老實地道歉就能結束眼前這險惡的情境。
+
 
 #### 〈評估局勢〉的範例
 {{< hint info >}}
-Hornet’s been captured by dark cultists working for Lady Faust. She’s being held in 
-some hidden basement. One of the first things she does upon waking is assess the 
-situation to look for an escape. Joe gets a 7, meaning he gets to ask one question.
+胡蜂女被侍奉浮士德女士的黑暗教團給俘虜。她現在正被關在一座秘密地窖之中。在她終於醒轉時，她做的第一件事情就是〈評估局勢〉以尋找逃脫的方法。喬為此擲骰，並骰出了 7，代表他可以詢問一個問題。
 
-“What here can I use to escape?” Joe asks.
+「這裡有什麼可以讓我用來逃跑？」喬問道。
 
-“Looking more closely at the room, you realize you’re locked into some kind of 
-old cell. The bars are wrought iron, but one looks a bit loose. If you can kick that bar 
-out, you can use it as a pry bar to bend out the others. But doing that’s gonna be hard, 
-especially if you want to avoid making noise. What do you do?”
+「更仔細地檢查了這個房間一遍，你注意到你被鎖在某個相當老舊的牢房內。欄杆由鍛鐵打造，相當堅硬，但其中一根鐵條看起來有些鬆脫了。如果妳能夠拆下這根鐵條，妳就能把它當作翹棍來把其他鐵條給撬開出一個洞。但可這不是件容易的事，尤其是如果妳想要避免發出噪音的話。妳打算怎麼辦？」
 
-“I’m gonna go for it. Kick out the bar and use it to pry open the others,” Joe says. 
+「我還是要試試。我要把那根鐵條弄下來然後利用它撬開柵欄。」喬說道。
 
-“Cool! unleash your powers for your strength and stealth, and take your +1 for 
-acting on the question!”
+「酷！那麼為你的超力量和隱匿能力進行〈釋放你的力量〉吧，別忘了，因為你依據問題的答案採取行動，你會有一個+1加值！」
 {{< /hint >}}
 
 {{< hint info >}}
-After hearing about it on the news, Skysong flew to Halcyon’s Pristine Park and hid 
-herself among some trees where she could watch an alien spaceship that landed 
-in the park, with alien cyborgs marching down its landing ramp. She assesses the 
-situation from the safety of her tree and gets a 10. She can ask two questions.
+在得知新聞報導的消息之後，天樂 立刻飛到了神翠市的森林公園，並把自己藏在樹叢中，一邊悄悄觀察著那艘停在公園的外星飛船：飛船的艙門敞開，一群外星生化人軍隊沿著其登陸坡道依序走下。蹲踞在樹頂的藏身處，天樂試著〈評估局勢〉，並得到了 10 的結果：她因此可以問兩個問題。
 
-“Hm. I think I know what the biggest threat is...how about, what here is in the 
-greatest danger?” Andrea, Skysong’s player, asks.
+「嗯，我想我已經知道這裡最大的威脅是什麼了……這樣好了，『這裡什麼正處於最大的危險之中？』」安茱莉亞，扮演天樂的玩家，這麼問道。
 
-“You watch them pull big weapons on anti-gravity platforms out of their ship. 
-You’re an alien, so you recognize these cannons—they’re called Archon Rays, and 
-they’re most famous for neutralizing mutational or extranormal powers. So it’s other 
-supers of Earth who are in the greatest danger,” I reply. 
+「妳看見他們將大型武器和反重力平台從他們的飛船搬下。妳也是個外星人，所以妳認出了這些大砲──它們被稱之為『執政官光砲』，它們最著名的功能是消除突變異能和超自然力量。因此，現在其他地球上的超人類可以說正處於最大的危險之中。」我這麼回答。
 
-She asks, “Okay, how can I best end this quickly?”
+她接著問：「好，那『我要怎樣才能最快的結束這一切？』」
 
-“Observing them more closely, you recognize the technology and the aliens 
-themselves. You’ve heard of them, if you haven’t seen them up close—Menagerists, 
-they’re called. They’re probably here looking for metahumans for their zoo. If you can 
-convince them that the metahumans here are too tough to be worth the trouble of 
-capturing, or if you can convince them that there really aren’t any valuable specimens 
-here, they’ll take off. But as you’re putting all this together, they start moving towards 
-the treeline and into the city. What do you do?”
+「更仔細地觀察他們，妳辨識出他們的種族和所用的科技。妳曾聽說過他們，如果妳沒有近距離看過他們的話──他們被稱作『圈養家』，一群以收集奇珍異獸為興趣的外星種族。他們來這裡的目的十之八九是要把超人類給抓到他們的『動物園』收藏裡。如果妳能夠說服他們這裡的超人類太難纏而不值得大費周章、或若妳能讓他們相信這裡並沒有什麼值得一提的物種的話，那麼他們就會乾脆放棄並離開。但就在妳搞清楚來龍去脈的同時，他們也開始向林木線移動，準備踏入城市。妳打算怎麼做？」
 {{< /hint >}}
 
 {{< /details >}}
