@@ -158,7 +158,7 @@ NPC威脅也包括了來自周遭環境的威脅：任何GM描述或控制扮演
 
 「啊啊！我要抓住神射手並快速翻滾一圈，把他拉出攻擊範圍！」珍妮說道。
 
-我請珍妮擲骰對神射手進行〈保衛某人〉。她骰出了 9，皆從列表中選擇了一項。<br/>
+我請珍妮擲骰對神射手進行〈保衛某人〉。她骰出了 9，接著從列表中選擇了一項。<br/>
 「這肯定會增加一點團隊默契。畢竟我救下了神射手的小命！」
 
 我點點頭：「當然！但現在你得讓你自己暴露在危險中或者使局勢升級，由你決定。」
@@ -234,9 +234,9 @@ NPC威脅也包括了來自周遭環境的威脅：任何GM描述或控制扮演
 {{< /hint >}}
 
 {{< hint info >}}
-在得知新聞報導的消息之後，天樂 立刻飛到了神翠市的森林公園，並把自己藏在樹叢中，一邊悄悄觀察著那艘停在公園的外星飛船：飛船的艙門敞開，一群外星生化人軍隊沿著其登陸坡道依序走下。蹲踞在樹頂的藏身處，天樂試著〈評估局勢〉，並得到了 10 的結果：她因此可以問兩個問題。
+在得知新聞報導的消息之後，天樂女 立刻飛到了神翠市的森林公園，並把自己藏在樹叢中，一邊悄悄觀察著那艘停在公園的外星飛船：飛船的艙門敞開，一群外星生化人軍隊沿著其登陸坡道依序走下。蹲踞在樹頂的藏身處，天樂女試著〈評估局勢〉，並得到了 10 的結果：她因此可以問兩個問題。
 
-「嗯，我想我已經知道這裡最大的威脅是什麼了……這樣好了，『這裡什麼正處於最大的危險之中？』」安茱莉亞，扮演天樂的玩家，這麼問道。
+「嗯，我想我已經知道這裡最大的威脅是什麼了……這樣好了，『這裡什麼正處於最大的危險之中？』」安茱莉亞，扮演天樂女的玩家，這麼問道。
 
 「妳看見他們將大型武器和反重力平台從他們的飛船搬下。妳也是個外星人，所以妳認出了這些大砲──它們被稱之為『執政官光砲』，它們最著名的功能是消除突變異能和超自然力量。因此，現在其他地球上的超人類可以說正處於最大的危險之中。」我這麼回答。
 
@@ -270,122 +270,54 @@ NPC威脅也包括了來自周遭環境的威脅：任何GM描述或控制扮演
 * 如果他們不照做，他們標記一個狀態
 </div>
 {{< details title="〈煽動某人〉詳述" >}}
-Provoking someone is one of the main ways to make other characters do what 
-you want. This isn’t just straight up manipulation, though—provoking someone 
-isn’t about trying to convince them to do it, or offering them something they 
-want. It’s about pushing the right buttons to get them to do what you want. 
-Your words don’t have to match your intent, so long as you’re pressing the 
-right buttons. 
+〈煽動某人〉是你讓其他角色按照你期望行事的其中一個最主要的手段。然而，這並不只是單純地操縱他們──〈激怒某人〉的重點並不是在嘗試說服某人去做某事、也不是提供他們想要的好處。它看重的是按下正確的按鈕，讓他們做出你所想要他們做出的行動。你的話語不一定要跟你的意圖相符，重要的是你有沒有扣對板機。
 
-You can only provoke someone susceptible to your words. If you have 
-Influence over someone, they are, by default, susceptible to your words, but 
-otherwise it’s down to what makes sense. Sometimes you’re able to say the right 
-thing to get to someone, especially if you’ve already pierced their mask (page 
-73). But other times, they can shrug off your words—for example, Rampage, 
-a dangerous and powerful monster, might not be susceptible to your threats of 
-violence. But if you prod and taunt her about her transformed, inhuman form, 
-she might be susceptible to those words. 
+你只能對會被你話語影響的人使用〈煽動某人〉。如果你擁有對某人的影響力，那麼他們就默認會被你的話語給影響；但在除此之外的情況，就要看情境是否合理了。有些時候，你確實能夠說出適當的言詞來使你的目標上鉤，尤其是在你〈揭穿某人的面具〉之後。但有些時候，他們可能對你的話語完全不屑一顧──舉例來說，蠻暴（一頭危險且強大的變種人怪物）可能不太會被你的暴力威脅給影響，但如果你轉而譏諷嘲笑她那突變、非人的身軀，那她可能就會被這些言詞給煽動。
 
-When you provoke someone, tell the GM what you’re trying to get them to 
-do. This is crucial! What you say in character to provoke them is about pushing 
-their buttons—but what you actually want them to do might be totally different 
-from what you say out loud. You might provoke an adult hero, pushing them, 
-getting in their face, as if you were provoking them to a violent confrontation. 
-Except you really want them to back down and leave, and you’re counting on 
-them being an adult and a hero to get them to do what you actually want. Every 
-time you provoke someone, you must say exactly what you want them to do 
-out of character, no matter what you’re saying in character.
+當你〈煽動某人〉時，告訴GM你想要嘗試讓他們做什麼﹐這很重要！你讓自己角色所說出的話語緊緊是為了按下目標內心的按鈕，但你實際想要目標去做的事可能會與你大喊出聲的言詞截然不同。比如說，你可能會想要激怒一名成年英雄、逼迫他、衝著他的面前挑釁她，就彷彿你想要煽動他跟你挑起一場暴力衝突一樣，但你真正的意圖其實是希望他能退讓並離開，你指望他會因為他成年人和英雄的身分而按照你所想要的方向行事。每當你〈煽動某人〉，無論你的角色在故事中說了什麼，你都必須另外說明你實際上到底希望你煽動的目標去做什麼。
 
-When an NPC “rises to the bait and does what you want,” it means they do 
-whatever you said you wanted them to do out of character. If you wanted them 
-to back down, they do. If you wanted them to come after you and ignore your 
-teammates, they do. On a 7-9 result for NPCs, they can still choose to rise to 
-the bait and do what you want, or they can instead choose one of 
-the options from the list.
+當某個NPC「上鉤並做出你想要他們做的事」，代表他按照你所想的採取了你希望他做的行動。如果你希望他讓步，那他就會讓步。如果你希望他衝著你來並忽略你的隊友，那他也會這麼做。當以NPC為目標並骰出 7-9 的結果時，對方仍然可以選擇上鉤並做出你想要他們做的事，或者，他也可以改為從列表中選擇一項。
+
 
 #### 關於〈煽動某人〉的選項
-If the NPC stumbles, it means they were tripped up, caught on something, 
-knocked off balance by your words. They’re ill-prepared to deal with your next 
-move; hence, you get +1 forward against them. Stumbling is essentially non-
-action, allowing you to follow-up with a more straightforward move against 
-them, at an advantage.
+**若NPC支吾停頓** ，代表他因你的話語而挫敗、困窘、或失去平衡。他沒有準備好應付你的下一步；因此，你將獲得對他的下次+1。支吾停頓實質上等同於毫無作為，讓你得以在取得優勢的同時接著採取更直接的行動來對抗他。
 
-If the NPC errs, it means they take action without planning or thinking 
-and it leaves them vulnerable or creates an opportunity that you wouldn’t 
-have otherwise had. They might take a swing at you, leaving them open for 
-you to simply knock them out with one punch. They might accidentally let 
-information slip in an attempt to tell you off. 
+**若NPC犯下錯誤** ，代表他不加思考或預備就採取了行動，並因此露出破綻、或創造出一個你原本沒有的絕佳機會。也許他朝你重重揮出一拳，並因此創造出了一個讓你得以一招擊倒他的大空檔。或可能他為了訓斥你而不小心洩漏出了某個重要情報。
 
-If the NPC overreacts, it means you take Influence over them, and they take 
-an exaggerated or extreme reaction in response to what you say, something 
-that shows you’ve really gotten to them. This isn’t the same as erring—their 
-overreaction might not give you any kind of opportunity or even a chance to 
-react. Instead, it shows how much your words actually affected them. They 
-might start firing their eyebeams at you in response to your taunting. They 
-might lose their composure and start insulting you directly. 
+**若NPC過度反應** 代表你獲得了對他的影響力，且他將因此做出誇張或極端的反應來回應你的話語。這與犯下錯誤不同──他們的過度反應不一定會為你帶來任何可趁之機、甚至根本不會給你機會回應。相反的，這僅僅是表現出你的話語確實對他造成了影響。他可能會因為你的嘲弄憤而對你發出眼睛雷射光，也可能會失去冷靜而開始直接對你進行人身攻擊。
 
-If you’re trying to provoke a PC, on a 7-9, you pick that either they must 
-mark a condition if they don’t do what you said you wanted them to do out 
-of character, or you can add a Team to the pool if they do what you want. On 
-a 10+, both are true. If they must mark a condition, they get to choose which 
-condition they mark. 
+如果你嘗試煽動PC，則當你擲出7-9時，你可以選擇讓對方在不照做的時候標記一個狀態、或是選擇讓對方在照做的時候增加一點團隊默契。當你擲出10+時，則兩者兼具。若對方因此需要標記狀態，則他可以自行選擇要標記哪一個狀態。
+
 
 #### 〈煽動某人〉的範例
 {{< hint info >}}
-The Dread Queen is flying in her quantum skyship, chasing Skysong over the skies of 
-Halcyon City. Huma sees the fight and flies up into the skies to join them.
+在神翠市的空中，恐怖女王乘在她的量子飛船上追擊著天樂女。神雀目擊到這場高空中的死鬥，並立刻飛上去加入他們。
 
-“I want to fly after the Dread Queen. I fire a few force blasts at her ship, not really 
-to hit her, just to get her attention. I want her to focus on me,” says Rich. 
+「我想要飛在恐怖女王後面，朝著她的飛船發射數發力場衝擊波，我沒有要真的打中她，只是想吸引她的注意力，讓她專注對付我。」瑞奇說道。
 
-“It’s not quite enough. Her ship’s one tough cookie, and she knows she has 
-Skysong on the ropes. She’s not changing course.” I’m signaling to Rich that this isn’t 
-a provoke yet—the Dread Queen isn’t susceptible to Huma’s provocation attempts 
-right now.
+「這還不太夠。她的飛船相當頑強，而且她知道她已經把天樂女逼到了絕境。她仍然死死追著天樂女，沒有調頭。」我示意瑞奇這還不算是煽動──此時此刻，恐怖女王並不受神雀的挑釁影響。
 
-“Hmm. Okay, I’ll fly directly in front of her cockpit, sit on the glass, and smile 
-down at her. As smugly as I can.” 
+「嗯……好，那我要直接飛到她的駕駛艙前，坐在玻璃窗上，低下頭對著她微笑──盡我所能做出嘲諷的表情。」
 
-I smile at Rich. “Yeah, okay, sounds like that’ll get her goat. You want her to chase 
-you and try to kill you, right? Ignore Skysong?” Rich nods. “Great! Then roll for it.”
+我對瑞奇回以一笑：「好的，聽起來這確實能惹毛她。你想要讓她忽略天樂女，改為追擊並殺死你，對吧？」瑞奇點點頭，於是我接著說：「很好，那麼擲骰吧。」
 
-Rich rolls to provoke the Dread Queen, and gets a 7. In this case, I choose to 
-have her overreact.
+瑞奇對恐怖女王擲骰進行〈煽動某人〉，並得到了 7 的結果。在這個情境，我選擇讓她過度反應。
 
-“Okay! She rapidly brakes her ship, so you go flying off thanks to inertia, and 
-then with a snarl you can see through her cockpit, she opens fire with a steady stream 
-of bolts. She was holding her fire before so as not to damage Halcyon City—the 
-weirdness of her legal status as a foreign official would’ve protected her if she didn’t 
-actually hurt the city, so long as she only went after non-citizens, like Skysong. But 
-now she’s firing at you full bore, and she doesn’t care what she hits. Take Influence 
-over her, and tell me what you do now!”
+「好的！她迅速踩下剎車，你因為慣性而飛了出去。伴隨著一聲咆哮，你能透過駕駛艙看見她憤怒地敲打儀表板，讓飛船開火交織出一連串電光。本來她為了不損害神翠市而沒有開火──只要她沒有危害到這座城市，且只對市民以外的對象出手（例如天樂女），那麼她身為國外大使的合法地位就能保護她不被問責。但她現在怒火攻心，朝著你火力全開，完全不在乎她會不小心打中什麼。你獲得對她的影響力，然後告訴我你現在打算怎麼辦吧！」
 {{< /hint >}}
 
 {{< hint info >}}
-The Silver Savior is lecturing Vertex about how the young hero needs to live up to 
-being a real hero. Vertex blows him off and opens up with a bit of a tirade.
+白銀救星正在教訓頂尖叛客，告誡他年輕英雄該怎麼樣才能成為一個真正的英雄。然而頂尖叛客對此嗤之以鼻，並開始了他的長篇大論。
 
-“‘Hey, you know what? I’m not sure why I should listen to you at all. You’re all 
-covered in metallic goo, sure, but do you even have the Silver Spark anymore? Is 
-that just metallic paint on your skin? Best I can tell, you haven’t done anything real 
-important for a while.” Jack smiles slyly.
+「嘿，你知道嗎？我完全不知道我為什麼該聽你的。對啦，你身上是披著一團金屬黏糊，但白銀閃星現在還在你身上嗎？你身上這團該不會只是個毫無用處的人體彩繪吧？哈！就我所知，你已經很久沒幹過什麼大事了，對吧？」傑克（扮演頂尖叛客的玩家）狡猾笑道。
 
-“Yeah, that does it. You’re provoking him, right?”
+「好，就是這樣……你是在煽動他，對吧？」
 
-“Yep! I want him to take me on a real mission and 
-show off.”
+「沒錯！我想讓他帶我去執行一趟真正的任務，讓我能好好炫耀一番。」
 
-I ask Jack to roll, and he gets a 12—Silver Savior 
-rises to the bait.
+我要傑克為此擲骰，而他骰出了 12──白銀救星上鉤了。
 
-“‘Very well,” I say, speaking for the Silver 
-Savior. “The Sable Saboteur has 
-been sighted on her way 
-back  to  Earth,  and 
-I was going to the 
-Astra One space station 
-to prepare for her. You’re 
-coming.”
+「非常好。」我說道，並接著讓白銀救星回應：「……你敢質疑我的能力？好，最近有目擊情報指出『昏暗破壞者』正在計畫重返地球，我正準備去阿斯特拉一號太空站為迎戰她做準備。你也跟我過來。」
 {{< /hint >}}
 
 {{< /details >}}
@@ -398,126 +330,72 @@ coming.”
 
 當你安慰或支持某人時，擲<b>+平凡</b>。
 
-<tag>若成功</tag>，他們聽見了你的話：他們選擇獲得一點經驗值、清除一個狀態、或調動標籤屬性。<br/>
+<tag>若成功</tag>，他聽見了你的話：若他對你敞開心胸，則他可以選擇獲得一點經驗值、清除一個狀態、或調動標籤屬性。<br/>
 <tag>擲出10+時</tag>，你可以同時增加一點團隊默契、或清除你自己身上的一個狀態。
 
 </div>
 {{< details title="〈安慰或支持某人〉詳述" >}}
-Comforting or supporting someone is the move for helping others get over 
-their conditions and take control of their own destinies. It might appear to be 
-a nonessential move at first glance—which is more important, comforting or 
-supporting someone, or being able to punch superhuman monsters in the face? 
-But comforting or supporting is just as crucial as any other move in the game. 
+〈安慰或支持某人〉是個用來協助他人克服狀態並幫助他們掌控自己命運的動作。乍一看這似乎是個無關緊要的動作──想想看，安慰或支持某人跟痛揍超人類怪物的臉，哪個比較重要？然而事實是，〈安慰或支持某人〉就跟遊戲中的所有其他動作一樣重要。
 
-Comforting  or  supporting  needs  to  break  a  certain  threshold  for  the 
-move to be triggered. This isn’t for pats on the back or simple “Good job!” 
-compliments. This is for genuine, open-hearted, even extended emotional 
-support of another person. This is for heart-to-hearts, for meaningful gestures 
-and actions. 
+安慰或支持的行為需要突破某個門檻才能夠觸發這個動作。這個動作不是用在拍拍某人的後背、或簡單一句「做的好！」的讚美，而是用於那些更真摯、敞開心胸的、甚至更長遠的感情支持，或是用於那些心靈相通、具有意義的動作或行為。
 
-That said, you shouldn’t feel that there are more limits on situations when 
-you can trigger comforting or supporting. You absolutely can trigger it in 
-the middle of a terrible fight, just as much as you can trigger it when you’re 
-hanging out at your base. As long as you’re genuinely trying to comfort or 
-support someone in a meaningful fashion, you can trigger the move.
+換句話說，觸發〈安慰或支持某人〉的時機並不該受到任何情境的限制。你當然可以在一場惡鬥中觸發這個動作，就如同你可以在你與同伴在秘密基地打混時觸發它一樣。只要你是真心誠意地透過某種有意義的方式來安慰或支持某人，你就可以觸發這個動作。
 
-You can also comfort or support PCs and NPCs. If you comfort or 
-support an NPC, their reactions largely depend on whether they have 
-conditions marked. If they do, they act to clear those conditions. If they 
-don’t, then it’s up to the GM whether the NPC chooses to open up in that 
-moment. PCs always get to make their own decisions about opening 
-up to you.
+你安慰或支持的對象可以是PC也可以是NPC。如果你安慰或支持的對象是NPC，則他們的反應將很大幅度的取決於他們是否有任何被標記的狀態。如果他們身上有被標記的狀態，則他們會為了清除狀態而採取行動。如果他們身上沒有狀態，則由GM決定NPC是否會敞開心胸。若你慰或支持的對象是PC，則目標永遠可以自行決定是否要對你敞開心胸。
 
 #### 關於〈安慰或支持某人〉的選項
-On a hit, the person you are comforting or supporting has to 
-decide if they want to open up to you. What that means varies 
-heavily depending on the specific situation—it could cover 
-anything from confessing a secret to returning a kiss. The 
-key is that it supports a meaningful emotional, dramatic 
-exchange. If you don’t feel like you’ve received any kind 
-of  open-hearted  response,  then  it’s  not  enough—the 
-character you supported or comforted hasn’t opened up. 
+若成功，則你安慰或支持的對象必須決定他是否要對你敞開心胸。敞開心胸代表的含意在很大程度上將取決於具體的情況──它可以包括幾乎所有一竊切，包括坦白一個秘密、或甚至回以一吻。重點在於，這必須要能支撐起一段有意義的感情、或戲劇交流。倘若你覺得自己沒有收到任何敞開心胸的回應，那麼就代表這還不夠──你所安慰或支持的角色還沒有對你敞開心胸。
 
-If they do open up, they get to choose to either mark 
-potential, clear a condition immediately, or shift one of 
-their Labels up and one of their Labels down (both their 
-choice). Making the emotional connection helps them 
-strengthen their self.
+若他確實對你敞開心胸，那麼他將可以選擇要標記一點經驗值、立即清除一個狀態、或者調動他自己的標籤屬性（由他決定要如何調動）。建立感情聯繫將有助於他們對自我的認知。
 
-On a 10+, you also get to choose to either add a Team to the pool or clear 
-a condition immediately yourself. You only get to do this if they open up to 
-you—if they don’t open up, then no one gets anything.
+擲出10+時，你也可以同時選擇要增加一點團隊默契、或立即清除你自己身上的一個狀態。你只能在對方對你敞開心胸的時候這麼做──如果他沒有對你敞開心胸，那麼就沒有人可以獲得任何好處。
 
-Sometimes, opening up in response to comfort or support triggers another 
-move, a Team move—sharing a vulnerability or weakness. If that’s the case, it’s 
-fine! Finish resolving the comfort or support, then resolve the vulnerability 
-or weakness.
+有時候，為了回應安慰與支持而做出敞開心胸的回應將會觸發另一個動作：傾訴弱點的團隊動作。若是如此也沒有關係！在處理完〈安慰或支持某人〉的結果之後，再接著處理〈傾訴弱點〉動作的結果。
+
 
 #### 〈安慰或支持某人〉的範例
 {{< hint info >}}
-La Espada is coming for Sureshot, ready for a fight—but Sureshot has different ideas. 
+魔劍少女衝著神射手而來，準備好跟他決一死戰──但神射手並不這麼想。
 
-“I put away my bow, clipping it to my back,” says Mark, Sureshot’s player. “I look 
-at her straight on. ‘You don’t have to do this. You could be so much better than this. 
-You’re so good with that sword! You don’t have to be a criminal!’”
+「我放下我的弓，把它扣回背上。」馬克，扮演神射手的玩家這麼說道：「我直視她，說：『你不需要這麼做，你能做到的遠比這好的多。你用那把劍的表現是那麼傑出！你沒有必要去當一個罪犯！』」
 
-I’m not sure this is quite enough for her to be comforted or supported, especially 
-since Sureshot doesn’t have Influence over La Espada, so I don’t say anything about 
-that. “She comes closer, and now she’s within range. She pulls back the sword to 
-strike at you.”
+我不確定這些話語是否足夠算的上是安慰或支持，尤其神射手並沒有對魔劍少女的影響力，因此我並沒有對此說些什麼，而是繼續描述：「她接近到你面前，現在你已經在她的攻擊範圍之內。她舉起魔劍，並朝著你揮下。」
 
-“I don’t move,” says Mark. “‘I’m not going to fight you. You can hit me again, or 
-you can prove that you’re what I think you are. That you’re better than this. I really 
-hope you prove me right.’”
+「我一動也不動。」馬克說道：「『我不打算跟妳戰鬥。妳大可以再砍我一刀，或者，妳可以證明自己是個如我所想的人物：妳能成為一個更好的人！我真的很希望妳能證明我是對的！』」
 
-“That’ll  do  it,”  I  say. “You’re  comforting  or  supporting  her—in  this  case, 
-supporting. Roll it.”
+「這樣就行了。」我說：「你確實在〈安慰或支持她〉──這個情境應該比較偏向支持。擲骰吧。」
 
-Mark gets an 8. That means that if she opens up to him, she can clear a condition, 
-mark potential, or shift Labels—but since she’s an NPC, only clearing a condition 
-matters. If she had no conditions marked, it would be up to me what she does, based 
-on her moves and her drive. In this case, she has Angry marked, so she’s definitely 
-going to try to clear it—NPCs always do. 
+馬克骰出了 8。這代表如果魔劍少女選擇對他敞開心胸，那麼她將可以清除一個狀態、標記經驗值、或是調動標籤屬性──但因為她是名NPC，因此只有清除狀態的選項有意義。如果她沒有任何已經標記的狀態，那麼她的回應將由我根據她的動作和動機來決定。但在這個情況下，由於她已經標記了憤怒狀態，因此她必然會嘗試去清除這個狀態──NPC永遠會這麼做。
 
-“She pauses for a second, with a look of anger on her face, and there’s a moment 
-where she tightens her grip...and then she puts down the sword. ‘Get out of here,’ she 
-says. ‘I’ll do the same. I don’t think I’m as good as you say...but you’re right. I’m better 
-than this.’” I clear her Angry condition.
+「臉上帶著憤怒的神情，她停頓了片刻，有那麼一瞬間，她握緊了拳頭……然後放下了手中的魔劍。『滾出這裡。』她說：『我還是會做同樣的事，我沒有你說的那麼好……但你是對的，我能做的遠比這更好。』」接著，我清除了她的憤怒狀態。
 {{< /hint >}}
 
 {{< hint info >}}
-Dusk and Grasshopper go to a party after a hard day’s fight. Dusk doesn’t normally 
-do this, though, and she’s pretty reluctant to be here. Grasshopper is trying to talk 
-her out of her solitude.
+經歷了白天的惡鬥後，黃昏和蚱蜢女俠一起參加了慶功宴。黃昏通常不太會這麼做，且不太情願繼續待在這裡。蚱蜢女俠正試著說服她不要那麼孤僻。
 
-“‘Don’t separate yourself from us, Dusk. You’re one of us. We like you. Stay here, 
-hang out with me, relax. Please,’” says Jenn as Grasshopper.
+「『拜託，不要把我們隔絕在外，黃昏。你也是我們團隊的一份子，大家都喜歡你。拜託留下來，跟我一起，好嗎？』」珍妮，扮演著蚱蜢女俠，這麼說道。
 
-“Are you trying to comfort or support Dusk?” I ask Jenn.
+「你是在嘗試安慰或支持黃昏嗎？」我問珍妮。
 
-“Definitely,” replies Jenn. 
+「那當然。」珍妮回答。
 
-I ask Grace, “Is that enough? Do you think what she said would mean anything 
-to Dusk?” 
+我轉頭詢問格蕾絲：「這樣夠嗎？你覺得她說的話對黃昏有任何意義嗎？」
 
-“Oh yeah,” says Grace. “Grasshopper has Influence over Dusk, so definitely.”
+「噢，當然。」格蕾絲說道：「蚱蜢女俠擁有對黃昏的影響力，所以，肯定的。」
 
-“Cool,” I say, and I ask Jenn to roll to comfort or support. She gets a 10! That 
-means if Dusk opens up, Grace can choose to mark potential, clear a condition, or 
-shift her Labels, and Jenn can either clear a condition or add a Team to the pool. 
+「酷。」我說，並接著要求珍妮擲骰進行〈安慰或支持某人〉。她骰出了 10！這代表如果黃昏選擇敞開心胸，那麼格蕾絲將可以選擇標記經驗值、清除狀態、或是調動自己的標籤屬性，且珍妮也可以選擇要清除一個狀態或增加一點團隊默契。
 
-“So, are you going to open up? What’s that look like?” I ask Grace.
+「所以，你要對她敞開心胸嗎？那會是什麼樣子？」我問格蕾絲。
 
-“Yep, I think I do. I smile back at Grasshopper, and say, ‘Thank you.’” 
+「嗯，我想我是會對她敞開心胸。我對蚱蜢女俠回以微笑，並說：『謝謝妳。』」
 
-To Jenn, I say: “Is that enough for you? Do you feel she’s really opened up?”
+轉頭看向珍妮，我問：「這對妳來說足夠嗎？妳覺得她是否有對妳敞開心胸？」
 
-“No, not quite yet,” says Jenn.
+「沒，我覺得還好而已。」珍妮說道。
 
-“Okay. ‘I...I haven’t really had any close friends before. And I don’t know how to 
-act around them. But it means a lot for you to say that to me,’” says Grace.
+「好吧，那，『我……我從來沒擁有過任何親密的朋友，所以我不太清楚該怎麼跟妳們相處。但……妳願意這麼說，對我來說意義重大。』」格蕾絲補充。
 
-“Perfect!” says Jenn, and both Grace and Jenn choose their options.
+「太棒了！」珍妮說，接著格蕾絲和珍妮都可以挑選她們各自的選項。
 {{< /hint >}}
 
 {{< /details >}}

@@ -63,6 +63,9 @@ h2.book-brand {
 .book-section-flat > span {
 	color: #ca0000;
 }
+.book-section-flat li > span {
+	font-weight: bold;
+}
 .book-menu a.active {
     background: #ffe7e7;
     color: #000;
