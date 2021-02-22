@@ -27,7 +27,7 @@ bookToC: false
 *  少年正義聯盟 Young Justice (卡通電視影集 by  Brandon  Vietti  &  Greg Weisman)
 *  少年復仇者 Young Avengers  (第一冊 by  Allan  Heinberg & Jim  Cheung, 以及 第二冊 by Kieron Gillen & James McKelvie)
 *  復仇者學院 Avengers Academy (by Christos Gage & Mike McKone)
-*  離家童蒙 Runaways (by Brian K. Vaughn & Adrian Alphona)
+*  離家童盟 Runaways (by Brian K. Vaughn & Adrian Alphona)
 *  少年悍將 Teen Titans (原創卡通網路影集, 以及 漫畫 by Marv Wolfman 和Geoff Johns 發行的版本)
 *  驚奇女士 Ms. Marvel (by G. Willow Wilson & Adrian Alphona)
 *  金鋼狼與X戰警 Wolverine and the X-Men (by Jason Aaron & Chris Bachalo)
