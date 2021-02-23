@@ -13,39 +13,17 @@ weight: 2
 
 
 ### 我該怎麼創建我最喜歡的角色？
-If you approach the playbooks saying, “I want to play my favorite character 
-from comics. How do I do that?” they might seem too restrictive. But each 
-playbook is more open than it might look at a glance. They give you boundaries 
-for your sandbox, or a skeleton to build your character on top of. The specifics 
-are largely left up to your own interpretation and choices in the fiction. 
+如果你是想著「我想要扮演我最喜歡的漫畫角色，我該怎麼做？」來檢視這些扮演書的話，那麼它們看起來確實可能有些受限。然而，每一本扮演書實際上要比它看上去的還要更加開放。它們為你腦中的沙盒提供了一個框架、描繪出大致的骨架讓你建構出屬於你自己的角色，其他敘事上的具體細節則大部分都留給你自己去詮釋和決定。
 
-The playbooks are flexible: the Nova playbook is about power and how 
-you manage it—but that doesn’t mean the Nova must be a particular kind 
-of character with a particular kind of powers. They might be a mutant with 
-extraordinary psychic powers; a cosmic entity embodied in human form with 
-powers over the fundamental forces of the universe; or a young witch on track 
-to become the most powerful sorceress in the entire multiverse. 
+扮演書保留了很多彈性：「新星」扮演書的主題著重在無比強大的力量以及你如何駕馭它──但這並不代表新星一定得是擁有某種特定超能力的某種特定角色。他可以是有著超強精神念力的變種人；可以是以人類型態呈現，擁有超越宇宙基本法則力量的浩瀚存在；或也可以是一名將成為整個多元宇宙中最強大巫師的年輕女巫。
 
-The  playbooks  are  primarily  about  the  kind  of  story  the  character  is 
-involved with, the dramatic issues they’re likely to face. If you have an idea 
-for a particular kind of character, talk with your GM and your group to see if 
-it makes sense for the playbook—chances are, there’s a way to make it work. 
+扮演書主要關係著角色們涉及的故事類型，以及他們很有可能面對的戲劇性問題。如果你對於扮演某個特定類型的角色有某些想法，告訴你的GM跟玩家夥伴們，看看它是否能適用於某個扮演書──事實是，你們有很大機率能找到恰當的處理方式。
+
 
 ### 拼湊出神翠市的樣貌
-The openness of the playbooks means you have to fill in some blanks as you 
-make characters. If your Nova is a sorceress, then you need to speak to the role 
-of sorcery in Halcyon City; if they’re a mutant, then you have to answer some 
-questions about how mutants fit in. 
+扮演書的開放性同時意味著你在創建角色時必須填上一些留白的設定。舉例來說，如果你的「新星」是一名術士，那麼你將會需要補充巫術魔法在神翠市中的定位；如果你的角色是一名變種人，那麼你就會需要回答一些關於變種人是如何融入這座城市的相關問題。
 
-That’s all good! The rules ensure that your characters work, that you can 
-tell dramatic stories about them. And the basics on Halcyon City (page 9) 
-should give you enough of a framework to start answering these questions. But 
-after that, it’s down to you. You make your own particular version of Halcyon 
-City by filling in the specifics and details as you go. And because  MASKS and 
-Halcyon City are about the kind of kaleidoscopic comic book craziness that 
-includes nearly anything you can think of, there’s pretty much no way you can 
-go wrong, provided everyone in the group thinks the direction you’re taking 
-the city is fun.
+這樣很好！這些規則確保你的角色能夠發揮作用，讓你能夠順利講述他們充滿戲劇性的故事。「<a href='{{< relref path="docs/rules/the-city" >}}'>關於神翠市</a>」章節的內容應該能提供你足夠的背景框架來回答這些問題。但這之後就全看你的了！你們可以透過填補各種具體的細節和事實來構築出屬於你們自己的，獨一無二的神翠市。而由於《蒙面少俠》和神翠市的主題正是那五花八門，幾乎囊括了所有你能想到的一切的超級英雄漫畫，因此只要團隊裡的每個人都認為你們構築城市的方向是有趣的，那就不會錯了！
 
 {{< hint info >}}
 瑞奇正準備創建他的角色，因此他首先需要挑選他的扮演書。他想扮演比較經典的角色：那些強大、但不會太古怪的英雄角色。他想像的是一名超級強壯、超級堅韌的傢伙，因此他把範圍縮小到了「蠻牛」、「傳承者」、以及「異變者」。再確認一遍後，他發現「異變者」比他預期的還要更怪異一些，而「蠻牛」聽起來又有點太粗魯或不體面，所以他最後決定選擇了「傳承者」。他特別中意做為「經典英雄傳承中的最新成員」的這個概念，而這也正是「傳承者」扮演書的核心議題。

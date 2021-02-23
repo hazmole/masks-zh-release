@@ -410,11 +410,11 @@ NPC威脅也包括了來自周遭環境的威脅：任何GM描述或控制扮演
 
 <tag>擲出10+時</tag>，詢問三項。<tag>擲出7-9時</tag>，詢問一項。
 
-* 你打算要做什麼？
-* 我要怎麼樣才能讓你的角色去_____？
-* 我要怎麼樣才能獲得對你的影響力？
 * 你真正的計畫是什麼？
 * 你想讓我做什麼？
+* 你打算做什麼？
+* 我要怎麼樣才能讓你的角色去_____？
+* 我要怎麼樣才能獲得對你的影響力？
 
 </div>
 {{< details title="〈揭穿面具〉詳述" >}}
@@ -432,20 +432,24 @@ honestly. You should ask all your questions at once, but if you must, you can
 hold questions for as long as you’re watching them.
 
 #### 關於〈揭穿面具〉的選項
+**「你真正的計畫是什麼？」** 
 “What are you really planning?” is about long term plans. It’s about overarching 
 goals and intent, not immediate intent. The answer could be “Nothing,” but 
 most characters have some kind of overarching goal and plan that they can 
 use to answer the question.
 
+**「你想讓我做什麼？」** 
 “What do you want me to do?” puts a focus on the other person’s vision and 
 ideas for you and how they want you to act. You can usually offer to act how 
 they want in exchange for getting something from them. 
 
+**「你打算做什麼？」** 
 “What do you intend to do?” is about immediate plans, right here in the 
 moment. It’s a very action-focused question, giving you information on what 
 you can expect to happen very soon.
 
-“How could I get your character to ___?” is one of your best ways to 
+**「我要怎麼樣才能讓你的角色去\_\_\_\_？」** 
+“How could I get your character to _ _ _?” is one of your best ways to 
 get other characters to do what you want in the game. You fill in the blank 
 with whatever action you want them to take. They have to answer honestly, 
 so whatever action or events they describe will genuinely get them to take 
@@ -453,6 +457,7 @@ the actions they’ve promised. The answer might be “You can’t,” because t
 question and what it’s asking of them is so not in character, they just wouldn’t 
 do what you want them to.
 
+**「我要怎麼樣才能獲得對你的影響力？」** 
 “How could I gain Influence over you?” is one of the most straightforward 
 ways of getting Influence on someone. If you already have Influence over 
 them, the question won’t tell you anything; if you don’t, this tells you what you 
@@ -461,44 +466,33 @@ whatever they tell you to do, they should grant you Influence immediately after.
 
 #### 〈揭穿面具〉的範例
 {{< hint info >}}
-Skysong is talking to Agent Coriolis of A.E.G.I.S. Coriolis wants Skysong to hand 
-over her crystalline ship, but Skysong doesn’t trust the agent.
+天樂女正在跟A.E.G.I.S的特工科里奧莉交談。科里奧莉希望天樂女交出她的那艘結晶飛船，但天樂女並不怎麼信任眼前這名特工。
 
-“I want to pierce her mask,” says Andrea.
+「我想要〈揭穿她的面具〉。」安茱莉亞說道。
 
-“Sure! So you’re watching her carefully, trying to read her through her carefully 
-calm mask?” Andrea nods. “Roll for it,” I say.
+「當然！所以妳會仔細的觀察她，嘗試讀出她那謹慎冷靜面具下的意圖？」看到安茱莉亞點頭，我接著說：「那好，擲骰吧。」
 
-Andrea rolls an 8. She chooses to ask, “What are you really planning?” 
+安茱莉亞骰出了 8。她選擇問：「你真正的計畫是什麼？」
 
-“You’re right to be suspicious. She’s A.E.G.I.S., and they aren’t altruistic. You can 
-see it in her eyes, the veiled excitement and greed—she wants to get her hands on 
-your ship so she can take it apart and learn its technologies,” I say. “What do you do?”
+「妳的懷疑是對的。她是A.E.G.I.S的特工，而他們可不是什麼利他主義者。從她的雙眼，妳能夠看見她隱藏起來的興奮與貪婪──她想要得到妳的飛船，這樣她就可以把它拆解開來，學習裡面的技術。」我說，接著反問：「那麼，妳打算怎麼辦？」
 {{< /hint >}}
 
 {{< hint info >}}
-The Scarlet Songbird is trying to waltz out of a bank with a few bags of cash, and Rex 
-thuds to the ground in front of him, folding his arms. Songbird doesn’t even try to 
-run, though—he just keeps walking.
+猩紅鳴鳥帶著幾袋現金，一邊踩著舞步從銀行大搖大擺地走出來，雷克斯砰地一聲落在他面前，雙臂盤胸，瞪視著他。然而猩紅鳴鳥並沒有因此逃跑，仍就踩著他輕快的步伐前進。
 
-“This is weird, even for this joker,” says Matt. “I want to pierce his mask, figure 
-out what’s going on, before I decide to punch him.”
+「這反應可真怪，即使對這個小丑來說也是。」麥特說道：「在我決定往他臉上揍下去之前，我想要〈揭穿他的面具〉，搞清楚到底是怎麼回事。」
 
-Matt rolls an 11. His first question: “What do you intend to do?”
+麥特骰出了 11。他的第一個問題是：「你打算做什麼？」
 
-“He’s way cockier than he should be. He intends to get out of here with the cash, 
-sure, but more importantly he intends to show off by taking you down. He must think 
-he has some way to do that, nice and easy.” 
+「相比平常，他表現得太過自大了。他打算帶著這些現金離開，當然，但更重要的是，他打算透過把你打倒來向大眾展現自己的能耐。他肯定認為自己有辦法做到這點，輕鬆又容易。」
 
-“Yeah, that’s not going to happen. How could I gain Influence over him? It’d be 
-useful for stopping him,” asks Matt.
+「呵，我可不會讓他如意。那我要怎麼樣才能獲得對他的影響力？這在阻止他的時候肯定能派上用場。」麥特接著問。
 
-“Compliment him! Play into his arrogance and ego, and he’ll start listening. 
-Praise this clever plan of his,” I say.
+「讚美他！利用他的傲慢和自負，這樣他就會開始聆聽。讚揚他這聰明的計畫吧。」我說。
 
-“Ugh. I really, really don’t want to do that.”
+「呃，我真的，真的很不想這麼做……」
 
-“Well, he’s walking past you now, so what do you do?”
+「但他現在從你身旁走過去囉，你打算怎麼做？」
 {{< /hint >}}
 
 {{< /details >}}
