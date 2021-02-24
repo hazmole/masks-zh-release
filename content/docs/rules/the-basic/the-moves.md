@@ -222,7 +222,7 @@ NPC威脅也包括了來自周遭環境的威脅：任何GM描述或控制扮演
 
 #### 〈評估局勢〉的範例
 {{< hint info >}}
-胡蜂女被侍奉浮士德女士的黑暗教團給俘虜。她現在正被關在一座秘密地窖之中。在她終於醒轉時，她做的第一件事情就是〈評估局勢〉以尋找逃脫的方法。喬為此擲骰，並骰出了 7，代表他可以詢問一個問題。
+胡蜂女被侍奉浮士德夫人的黑暗教團給俘虜。她現在正被關在一座秘密地窖之中。在她終於醒轉時，她做的第一件事情就是〈評估局勢〉以尋找逃脫的方法。喬為此擲骰，並骰出了 7，代表他可以詢問一個問題。
 
 「這裡有什麼可以讓我用來逃跑？」喬問道。
 
@@ -418,51 +418,21 @@ NPC威脅也包括了來自周遭環境的威脅：任何GM描述或控制扮演
 
 </div>
 {{< details title="〈揭穿面具〉詳述" >}}
-Pierce the mask is for seeing who someone really is, beneath whatever facade 
-they present. It’s not just about literally seeing beneath someone’s mask; it’s 
-about  understanding  another  person.  It  requires  you  to  watch  someone, 
-observe them, pick up on their body language and their emotions, to get a 
-read on who they really are. You don’t have to be talking with them to trigger 
-this move, but it’s easy to say you’re trying to pierce someone’s mask when 
-you’re talking to them.
+〈揭穿面具〉這個動作是用來看穿一個人的真面目，揭開他們表面的偽裝。這並不是字面意義上的揭開面具；而是關於理解另一個人的想法。這個動作需要你看著某個人、觀察他、注意他的肢體語言和情緒，從而理解他到底是什麼樣的人。你並不一定要跟他交談才能觸發這個動作，但當你與對方交談互動時，你會更容易表示你在嘗試揭穿他們的面具。
 
-When you pierce someone’s mask, you get to ask questions of them, and 
-their player must answer honestly. For NPCs, that means the GM answers 
-honestly. You should ask all your questions at once, but if you must, you can 
-hold questions for as long as you’re watching them.
+當你揭穿某人的面具時，你可以詢問對方一些問題，且扮演該角色的玩家必須誠實回答。若你的目標是NPC，則代表GM必須誠實回答這些問題。你應該要一口氣問完你的所有問題，但如果有必要的話，你還是可以保留提問的額度，直到你不再觀察對方為止。
+
 
 #### 關於〈揭穿面具〉的選項
-**「你真正的計畫是什麼？」** 
-“What are you really planning?” is about long term plans. It’s about overarching 
-goals and intent, not immediate intent. The answer could be “Nothing,” but 
-most characters have some kind of overarching goal and plan that they can 
-use to answer the question.
+**「你真正的計畫是什麼？」** 是關於長期計劃。它著眼於總體性的目標和意圖，而非立即性的企圖。這個答案可以是「沒有」，但絕大多數的角色都會抱有某個總體性的目標和計畫可以用來回答這個問題。
 
-**「你想讓我做什麼？」** 
-“What do you want me to do?” puts a focus on the other person’s vision and 
-ideas for you and how they want you to act. You can usually offer to act how 
-they want in exchange for getting something from them. 
+**「你想讓我做什麼？」** 看重他人對你的看法和想法，以及他們希望你做些什麼。你通常可以透過滿足他們的期待來從他們身上換取某些好處。
 
-**「你打算做什麼？」** 
-“What do you intend to do?” is about immediate plans, right here in the 
-moment. It’s a very action-focused question, giving you information on what 
-you can expect to happen very soon.
+**「你打算做什麼？」** 是關於此時此刻，立即性的企圖。這是個相當以行動為中心的問題，讓你能預期接下來將會發生什麼事。，
 
-**「我要怎麼樣才能讓你的角色去\_\_\_\_？」** 
-“How could I get your character to _ _ _?” is one of your best ways to 
-get other characters to do what you want in the game. You fill in the blank 
-with whatever action you want them to take. They have to answer honestly, 
-so whatever action or events they describe will genuinely get them to take 
-the actions they’ve promised. The answer might be “You can’t,” because the 
-question and what it’s asking of them is so not in character, they just wouldn’t 
-do what you want them to.
+**「我要怎麼樣才能讓你的角色去\_\_\_\_？」** 是你在遊戲中讓其他角色按你所想行事的最佳手段之一。你可以在空白中填入任何你想要他採取的行動。他必須誠實回答，因此無論他回答的是什麼樣的行動或事件，都能確實讓他採取他所承諾的行動。然而，這個問題的回答也可能是「你做不到。」，因為你想讓他去做的事情太不符合他的性格，他就是不會做出你希望他做的事情。
 
-**「我要怎麼樣才能獲得對你的影響力？」** 
-“How could I gain Influence over you?” is one of the most straightforward 
-ways of getting Influence on someone. If you already have Influence over 
-them, the question won’t tell you anything; if you don’t, this tells you what you 
-need to do to ensure that your words and opinions matter to them. If you do 
-whatever they tell you to do, they should grant you Influence immediately after. 
+**「我要怎麼樣才能獲得對你的影響力？」** 是讓你獲得對其他人影響力的其中一個最直接的手段。如果你已經擁有對他的影響力，那麼這個問題不會告訴你任何新情報；但如果你沒有的話，則你將會知道你需要做些什麼才能讓對方看重你的話語和建議。如果你依照這個問題的回答行動，那麼對方在這之後將會立刻讓你獲得對他的影響力。
 
 #### 〈揭穿面具〉的範例
 {{< hint info >}}
@@ -478,7 +448,7 @@ whatever they tell you to do, they should grant you Influence immediately after.
 {{< /hint >}}
 
 {{< hint info >}}
-猩紅鳴鳥帶著幾袋現金，一邊踩著舞步從銀行大搖大擺地走出來，雷克斯砰地一聲落在他面前，雙臂盤胸，瞪視著他。然而猩紅鳴鳥並沒有因此逃跑，仍就踩著他輕快的步伐前進。
+猩紅鳴鳥帶著幾袋現金，一邊踩著舞步從銀行大搖大擺地走出來，雷克斯砰地一聲落在他面前，雙臂盤胸，瞪視著他。然而猩紅鳴鳥並沒有因此逃跑，仍舊踩著他輕快的步伐前進。
 
 「這反應可真怪，即使對這個小丑來說也是。」麥特說道：「在我決定往他臉上揍下去之前，我想要〈揭穿他的面具〉，搞清楚到底是怎麼回事。」
 
@@ -505,8 +475,8 @@ whatever they tell you to do, they should grant you Influence immediately after.
 當你承受沉重打擊時，擲<b>+已標記的狀態數量</b>。
 
 <tag>擲出10+時</tag>，選擇下列其中一項：
-* 你必須讓自己從這個情境中退出：逃跑、昏厥等等
-* 你失去對自我或超能力的控制，並以糟糕透頂的方式呈現
+* 你必須從這個情境中退出：逃跑、昏厥等等
+* 你以糟糕透頂的方式失去對自我或超能力的控制
 * 從7-9結果的選項中選擇二項
 
 <tag>擲出7-9時</tag>，選擇下列其中一項：
@@ -518,98 +488,50 @@ whatever they tell you to do, they should grant you Influence immediately after.
 
 </div>
 {{< details title="〈承受沉重打擊〉詳述" >}}
-Taking a powerful blow is a move for when you get hit—hard. You’ll never 
-trigger this one intentionally. The GM always tells you when you need to 
-roll it. Most likely, you’ll get smacked during a fight—often as a result of a 
-directly engage—and the GM will tell you to take a powerful blow to see what 
-happens. You can take a powerful blow on an emotional level, too—getting 
-punched with a deep and terrible truth, maybe, or hearing someone you care 
-about utterly rip your heart to shreds.
+〈承受沉重打擊〉是在你被狠狠打擊的時候會使用的動作。你永遠不會主動觸發這個動作，而是由GM在需要的時候要求你擲骰。最有可能的情況是，當你在惡鬥中遭到重擊──通常這會是〈直面威脅〉的結果──GM將會告訴你擲骰進行〈承受沉重打擊〉來看看接下來會發生什麼事。除了物理性的打擊之外，你也可以承受情緒上的沉重打擊──也許是受到深刻而可怕的真相給衝擊、也可能是聽到你在意對象的話語將你的心徹底撕成碎片。
 
-Rolling + conditions marked means that you count up however many 
-conditions you have marked, and add that number to your roll. Remember, 
-you can’t roll with higher than +4. If you have zero conditions marked, then 
-you roll +0. 
+擲+已標記的狀態數量　意味著你得計算任何你身上已經標記的狀態，並將它加到你的擲骰結果上。記住，你擲骰時的加值永遠不會超過+4。如果你沒有任何狀態被標記，那麼你只需要擲骰+0 就好。
 
 
 #### 關於〈承受沉重打擊〉的選項
-You must remove yourself from the situation means you’re out. You’re knocked 
-from the scene somehow. You get ultimate say in how exactly you’re removed, 
-but you should follow the fiction. If you just got punched in the face, you 
-probably got knocked out. You’ll come back next scene, but all your conditions 
-will still be marked. 
+**你必須從這個情境中退出** 意味著你出局了。你因為某些原因從當前的情境中退場了。你對於自己的退場方式將握有最終決定權，但你仍必須遵循敘事脈絡。如果你剛才被狠狠揍了一臉，那麼你可能是因此被打暈。你將會在下一個場景回歸故事中，但你的所有狀態仍然會維持被標記。
 
-You lose control of yourself or your powers in a terrible way means the GM 
-gets to tell you how your powers go haywire, cause collateral damage, make 
-the world around you unstable, and all kinds of other bad stuff. Losing control 
-of yourself means that you might say or do something awful. The GM chooses 
-which you do, and what exactly that looks like. 
+**你以糟糕透頂的方式失去對自我或超能力的控制** 意味著GM將告訴你你的能力是如何失控、如何造成附帶傷害、讓你周遭的世界變得混亂不穩、或導致各種其他的慘狀。失去對自我的控制則意味著你可能會說出或做出某些可怕的行為。GM將決定你會做些什麼，以及這個行為究竟會以什麼樣的方式呈現。
 
-Lashing out verbally means you’re thrown off your game, and you release 
-the tension by snapping at someone you care about, usually another teammate. 
-You have to immediately provoke them to take a foolhardy action, or you 
-have to take advantage of your Influence over them to inflict a condition—any 
-condition. Those are the only actions that satisfy “lashing out verbally.”
+**出言咒罵** 意味著你心態崩了，且你透過向你在乎的某人（通常會是另一名隊友）發飆來宣洩你的情緒。你必須立刻煽動激怒他們做出魯莽的行動、或者你必須利用你的影響力讓他們標記一個狀態──任何狀態都可以。這些是你選擇「出言咒罵」後唯一能夠採取的行動。
 
-Giving ground means you retreat, or hold back, or otherwise leave an 
-opening for your opposition. The GM decides what it is, but usually it means 
-your opposition can make some move they otherwise would’ve been blocked 
-from, without you being able to stop them.
+**退縮讓步** 意味著你讓步、退縮、或以其他方式留下一個大好機會給你的對手。GM會決定這個機會是什麼，但通常這代表你的對手能夠採取某個原本被無法採取的行動，而你現在沒有辦法在阻止他們。
 
-Struggling past the pain means you mark two conditions of your choice. 
-You hurt, but you keep going.
+**掙扎擺脫痛苦** 意味著你標記兩個你自己選擇的狀態。儘管痛苦受傷，但你仍繼續堅持了下去。
 
-When you stand strong, you mark potential (just like on any miss), and you 
-get to say exactly how you manage to weather or avoid the blow.
+當你**撐過打擊**，你標記一點經驗值（就如同你擲骰失敗一樣），且你得以描述你是如何撐住或避免受到打擊的。
 
 
 #### 〈承受沉重打擊〉的範例
 {{< hint info >}}
-Toro’s tussling with the robotic-bodied Shell, the two powerhouses punching it out 
-head-on. Marissa rolls to directly engage a threat and gets an 8, ultimately choosing 
-to take something from Shell—in this case, her weapons. But that means they trade 
-blows, so Shell gets a hit in on Toro before Toro rips off Shell’s gun arms.
+酷牛姊正與那有著機器身軀的惡棍：鋼殼，扭打在一起，兩個力大無窮的怪物正面衝突。瑪莉莎擲骰進行〈直面威脅〉動作，骰出了　8，並最後選擇從鋼殼身上奪走某物──在這個情境下，就是她的武器。但這也代表了他們對彼此造成交互打擊，因此在酷牛姊扯下鋼殼的槍腕之前，鋼殼得以先一步命中酷牛姊。
 
-“Toro, you’re in close with Shell, so she’s having a hard time bringing her cannon-
-arms to bear, which is good for you—you may be tough, but those things hurt. You 
-see an opening, but it leaves you open too. You manage to sweep past one of her 
-punches to get in close and latch your hands onto her elbows, but she gets a good 
-shot at your sides with her guns, before you rip off either end of her arms, wires and 
-sparks spewing out of the broken limbs. Take a powerful blow for her shots,” I say 
-to Marissa.
+「酷牛姊，你和鋼殼在極近的距離下纏鬥著，因此她很難用她腕上搭載的炮火招呼妳，這對妳來說確實是個好消息──妳或許很耐打，但槍砲還是很痛的。妳抓住了她露出的破綻，但這也同樣讓妳的身形露出破綻。妳從她揮出的拳頭下鑽過，欺近她，手抓住了她的手腕，但她另一隻手上的槍也同時命中了妳的側身，妳硬是扯下了她的手臂，纜線和火花從她斷肢濺出。為這一槍擲骰進行〈承受沉重打擊〉吧。」
 
-“I’ve got Angry marked, so I’m rolling +1,” says Marissa. She rolls, and gets 
-a miss—a good thing on this move! She gets to mark potential and say how she 
-weathers the blow.
+「我已經標記了憤怒狀態，所以我擲骰有+1。」瑪麗莎道。她擲骰，並骰出了失敗──這對這個動作來說反而是好事！她得以標記一點經驗值，並描述自己是如何撐過這一擊。
 
-“Oh, it hurts, a ton,” says Marissa. “But I just stand there and take it, relying on my 
-invulnerability and focusing on my goals. She’s not going to stop me.”
+「噢，這一下確實痛的要死。」瑪莉莎說道：「但靠著我堅韌不摧的身軀和集中力，我咬牙站著硬是撐了過去，她可別想能阻止我！」
 {{< /hint >}}
 
 {{< hint info >}}
-Dusk and Vertex are facing Lady Faust, Dusk’s nemesis and ancestor, in a standoff, 
-circling each other. 
+黃昏和頂尖叛客正與浮士德夫人，黃昏的死敵與祖先，對峙著，雙方僵持著，彼此繞行。
 
-“I want to provoke her into revealing a secret—telling me why she’s here,” says 
-Grace. “‘If you’re so powerful, why all the subtlety? Are you worried I’ll stop you?’”
+「我想要煽動她說出她的秘密──告訴我為什麼她會在這裡。」格蕾絲說道：「『如果妳真的那麼強大，為什麼還需要在暗處行動！妳是不是害怕我會阻止妳啊？』」
 
-“Cool!” I say. “Go ahead and roll.” Grace gets snake eyes! 
+「酷！」我說：「接著擲骰吧。」　然而格蕾絲不幸的骰出了兩個一。
 
-“Oh yeah, she looks at you with a feral grin. ‘Oh, you poor child,’ she says. ‘I 
-wouldn’t want to burden you further. After all that you’ve been through, all that 
-you’ve done to those around you...all the suffering you caused to your parents.’ Her 
-grin grows wider. ‘You did know, didn’t you? That your status as the portal to another 
-realm caused your mother to go mad?’”
+「噢好，浮士德夫人對著妳露出了殘酷的微笑。『噢，可憐的孩子。』她說：『我並不是有意要增加妳的負擔。畢竟，在妳經歷了這麼多之後，妳對妳周遭人們所做的一切……妳給妳父母所帶來的痛苦。』她的笑容越來越深：『妳其實很清楚，不是嗎？妳的身分，妳做為通往異位面的傳送門的身分，這可把妳的母親給逼瘋了不是嗎？』」
 
-“Oh, man,” says Grace. “I did not know that. Oh, man.”
+「喔老天。」格蕾絲驚呼：「我不知道這件事，天啊。」
 
-“Yep,” I say. “I think that means you take a powerful blow. The revelation hits 
-you hard.” Grace rolls to take a powerful blow. Fortunately, she didn’t have any 
-conditions marked, so she rolls +0 and gets an 8. 
+「沒錯。」我說：「我想這代表著妳得〈承受沉重打擊〉。這個被揭露的事實確實重重衝擊了妳。」格蕾絲擲骰進行〈承受沉重打擊〉。幸運的，她並沒有任何被標記的狀態，因此她擲骰+0，並得到了 8 的結果。
 
-“I choose to lash out at a teammate. Vertex maybe makes a movement, to come 
-closer to me, and I turn and snap at him—’Get away from me! Get back! Get out of 
-here!’ I’m provoking him to leave me alone with Lady Faust.” 
+「我選擇出言咒罵我的隊友。也許頂尖叛客移動過來要靠近我，但我轉過身，對他大吼──『離我遠點！滾！給我從這裡離開！』 我要煽動他離開，讓我獨自一人面對浮士德夫人。」
 {{< /hint >}}
 
 {{< /details >}}
