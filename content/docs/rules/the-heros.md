@@ -47,7 +47,7 @@ GM參考紙提供了一些關於真實姓名和英雄風格名稱的範例，但
 
 
 ## 超能力
-現在來決定你的超能力。超能力是一個相當廣泛的詞彙，泛指所有讓你的角色能擠身超級英雄世界的特殊技能。有些超能力是普通人類標準的特技──比如說奧林匹克等級的體能技巧。其他則可能是荒誕的超常能力，項是控制火焰或是讀心等等。依照你扮演書上的指示選擇相應數量的超能力。有些扮演書對於超能力會有特別的指示，像是「蠻牛」和「門徒」扮演書。按照這些指示決定超能力即可。
+現在來決定你的超能力。超能力是一個相當廣泛的詞彙，泛指所有讓你的角色能擠身超級英雄世界的特殊技能。有些超能力是普通人類標準的特技──比如說奧林匹克等級的體能技巧。其他則可能是荒誕的超常能力，像是控制火焰或是讀心等等。依照你扮演書上的指示選擇相應數量的超能力。有些扮演書對於超能力會有特別的指示，像是「蠻牛」和「門徒」扮演書。按照這些指示決定超能力即可。
 
 你扮演書上的超能力留有不少可以讓你詮釋的空間。舉例來說，「新星」的超能力上寫著「巫術魔法」，但它並不會告訴你這魔法究竟是什麼樣子、如何運作、或能力極限在哪裡。「外來者」的「完全變形」能力，也不會告訴你它會如何變形、又能夠變身成什麼樣子──它只說明了它是個完全徹底的變形，因此你或許可以將自己的身體整個變成另一個截然不同的形狀，但無法只變化你的面容。在兩場不同的遊戲中，玩家也許分別創建了兩個擁有相同超能力的「傳承者」角色──超級力量、刀槍不入、和飛行──但他們超能力的表現方式卻大不相同：其中一個也許就單純是個堅不可摧、彷彿神一般的人型種族、而另一個則可能會是穿著一套飛行動力裝甲服的科技英雄。
 
@@ -104,36 +104,31 @@ best bet to make MASKS work for you.
 
 這五個標籤屬性分別是：
 
-**危險**: 視你為強大、有威脅性、血氣方剛、大膽。
+**危險**: 視你為強大、有威脅性、血氣方剛、大膽。<br/>
 當其他人覺得他們應該對你敬而遠之，因為你可能會傷害到他們時，他們對你的認知便會傾向危險。當你相信自己能夠擊倒其他危險的威脅、或當你覺得你自己對他人就是一個威脅時，你對自己的認知便會傾向危險。
 
-**古怪**: 視你為怪異、不平凡、獨特、充滿力量。
+**古怪**: 視你為怪異、不平凡、獨特、充滿力量。<br/>
 當其他人覺得你很奇怪、跟他們不像、不自然或超乎他們的理解時，他們對你的認知便會傾向古怪。當你接受並擁有能做到他人所不能之事的能力、或當你認為自己不屬於群體和你周遭的世界時，你對自己的認知便會傾向古怪。
 
-**救助**: 視你為保護者、防禦者、守護者、堅定不搖。
+**救助**: 視你為保護者、防禦者、守護者、堅定不搖。<br/>
 當其他人覺得你高尚、胸懷自我犧牲精神、或有些專橫和愛道德說教時，他們對你的認知便會傾向救助。當你把自己看做是一名殉道者、一名樂意犧牲自我以保護或捍衛他人的人，那麼你對自己的認知便會傾向救助。
 
-**優越**: 視你為聰穎、有才幹、狡詐、伶俐。
+**優越**: 視你為聰穎、有才幹、狡詐、伶俐。<br/>
 當其他人覺得你是在座最聰明的人、或一個傲慢自我的混蛋時，他們對你的認知便會傾向優越。當你認為自己比其他人還要聰明、或當你清楚知道該說什麼才能讓周圍的人採取你想要他們做的行動時，你對自己的認知便會傾向優越。
 
-**平凡**: 視你為尋常、普通人、有同情心、善解人意。
+**平凡**: 視你為尋常、普通人、有同情心、善解人意。<br/>
 當其他人覺得你太普通或無趣、但容易理解且具有同情心時，他們對你的認知便會傾向平凡。當你覺得自己平凡、只是個普通人、毫不特別，並專注在感情和情緒這類凡人瑣事上時，你對自己的認知便會傾向平凡。
 
 ### 標籤屬性的規則
-Every playbook comes with a predetermined set of values for your Labels. You 
-can add +1 to any one Label of your choice, making sure it doesn’t go over 
-+3. You might want to look at the basic moves and your playbook moves to 
-determine what Label you want to add +1 to, but you can also do it just based 
-on your character’s self-image.
+每個扮演書都有一組預設的標籤屬性數值。你可以自己選擇讓其中一個標籤屬性再+1，但確保這不會讓標籤屬性的數值超過+3。你可能會想要先看過基本動作和你扮演書動作的內容，再決定你想要讓哪一個標籤屬性+1，或者你也可以單純根據你角色的自我認知印象來決定。
 
-On your playbook, record your starting Labels by circling the appropriate 
-numbers on each line. Do this in pencil; your Labels will change a lot!
+在你的扮演書上把每個標籤屬性的數值圈起來。記得使用鉛筆；因為你之後會常常改變它！
 
-A couple important rules for your Labels: 
+關於標籤屬性有幾個重要的規則，如下所示：
 
-* The vast majority of the time, when one Label shifts up, another shifts down, and vice versa. There might be a few cases when this isn’t true, but if rules reference shifting Labels without further explanation, this is what they mean: one goes up, and another goes down.
+* 絕大部分的情況，當某一個標籤屬性上升一點，就會有另一個標籤屬性下降一點，反之亦然。儘管有少數例外，但如果規則要求你調動標籤屬性而沒有多做說明，那麼這就是它代表的意思：一個標籤屬性上升一點，另一個標籤屬性下降一點。
 
-* If a Label would shift up past +3, or down past -2, then no shift at all occurs—neither of the two Labels that would change goes up or down. Instead, you mark a condition—a negative emotional state that starts affecting your actions. If you see yourself as too much of an extreme, hen it starts messing you up.
+* 若某個標籤屬性會因為調動而超過+3、或低於-2，那麼這個調動將不會發生──沒有任何標籤屬性會因此增減。取而代之的是，你必須標記一個狀態──一股負面的情緒狀態將開始影響你的行動。如果你對自己的看法變得太過極端，它就會開始把你搞的一團亂。
 
 {{< hint info >}}
 按照傳承者的扮演書，神雀的起始標籤數性為 古怪+0, 危險-1, 救助+2, 優越+0, 和 平凡+1。因此在遊戲開始時，神雀對自我的最主要認知會是一名善於救助他人的人，有些自認平凡，且並不是個會危害他人的威脅。瑞奇決定將他的自由配點加到優越上；他認為神雀相當聰明，並也許會因此有些驕傲自大。
