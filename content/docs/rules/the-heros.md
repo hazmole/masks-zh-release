@@ -31,13 +31,13 @@ weight: 2
 
 
 ## 名稱和外貌
-You’ve got your playbook! Next you pick your name and your look. These give you a starting point for thinking about your character.
+現在你選好了你的扮演書！接著該來決定你的名稱和外貌了。這給了你構思角色的一個起點。
 
-You need to pick your hero name, and you might have to or want to pick your real name, if it’s different from your hero name. For some characters, the two might be the same—if you’re a modern incarnation of the Greek god Athena, and you’re never really an ordinary person, there’s no need to choose a different “real name.” Other characters, though, have a clear dividing line between their costumed heroic identity and their real identity—you might play a regular kid named Maria Moreno, who puts on a costume to become Darkwolf. 
+你需要決定你的英雄名，然後你可能也需要或想要決定你的真實姓名──如果它和你的英雄名不同的話。對某些角色來說，這兩個可能會是同一個名字──如果你是希臘神祉雅典那在現代的化身，那麼鑒於你完全不是什麼普通人，你自然也就不需要選擇另一個不同的「真實姓名」。然而，其他角色可能就會在他們的英雄身分和他們日常生活之間劃出一條明確的界線──你可能會扮演一位名叫瑪麗亞．莫雷諾的平凡學生，但當她穿上英雄服後，她就成為了超級英雄「夜黑狼」。
 
-There are examples of real names and possible superhero-style names on the GM sheets, but ultimately it’s your choice—in superhero stories, the best names are the ones you find the most compelling. 
+GM參考紙提供了一些關於真實姓名和英雄風格名稱的範例，但最終要取什麼名字仍由你做主──在超級英雄故事，那些你覺得最吸引人的名稱才是真正最好的名字。
 
-Think about your look, how you physically appear to others—how you present yourself, what you regularly wear, and so on. Choose as many from each list as apply. You might also choose some options differentiating how you look in your heroic persona and how you look the rest of the time.
+想一想你的外貌，你在他人眼中是什麼樣子──你會如何表現你自己，你平常的穿著如何，諸如此類。從每一列中選擇所有合適的選項。你也可能會選擇一些不同風格的選項來區分你英雄身分和你在其他時候的外貌。
 
 {{< hint info >}}
 瑞奇接下來要決定他「傳承者」角色的名稱和外貌。他決定他的角色是個男性，中東人（伊朗裔）。他想像的是一個英俊的年輕人，生於美國，但有著伊朗血統。接下來他挑選了「潮流的服裝」；他認為他的角色在以市民身分行動時會打扮得相當得體。接著，「前任的英雄服」──他角色穿著與前輩英雄相同的基本英雄服，因此這件英雄服會是某種標誌性，相對經典，使用大膽配色和線條的服裝，大概會是彈性纖維織品。在瑞奇的腦海中，這件衣服是以紅色與白色為基底。
@@ -47,37 +47,13 @@ Think about your look, how you physically appear to others—how you present you
 
 
 ## 超能力
-Now pick your abilities. Abilities is a broad term, meant to indicate the special 
-things your character can do that puts them into the superheroic world. Some 
-abilities are the height of standard human capabilities—Olympic-level athletics, 
-for  instance.  Others  are  straight  up  incredible  superhuman  abilities,  like 
-controlling fire or reading minds. Choose as many abilities as your playbooks 
-says  from  the  available  list.  Some  playbooks  have  special  instructions  for 
-abilities, such as the Bull or the Protégé. Simply follow those instructions.
+現在來決定你的超能力。超能力是一個相當廣泛的詞彙，泛指所有讓你的角色能擠身超級英雄世界的特殊技能。有些超能力是普通人類標準的特技──比如說奧林匹克等級的體能技巧。其他則可能是荒誕的超常能力，項是控制火焰或是讀心等等。依照你扮演書上的指示選擇相應數量的超能力。有些扮演書對於超能力會有特別的指示，像是「蠻牛」和「門徒」扮演書。按照這些指示決定超能力即可。
 
-Your abilities leave some information up to interpretation. A Nova might 
-have sorcery, but that doesn’t tell you exactly what sorcery looks like, how it 
-works, or what you can do with it. An Outsider might have radical shapeshifting, 
-but that doesn’t say exactly how they change shape, or what they can change 
-shape into—just that it’s radical, probably changing their whole body into totally 
-different shapes, not just changing their face. In two different games, a player 
-could create a Legacy with the same exact abilities as in the other game—super 
-strength, invincibility, and flight—but they can look completely different, with 
-one of them being simply an invulnerable and god-like humanoid, and the 
-other wearing a powerful suit of protective mechanized armor. 
+你扮演書上的超能力留有不少可以讓你詮釋的空間。舉例來說，「新星」的超能力上寫著「巫術魔法」，但它並不會告訴你這魔法究竟是什麼樣子、如何運作、或能力極限在哪裡。「外來者」的「完全變形」能力，也不會告訴你它會如何變形、又能夠變身成什麼樣子──它只說明了它是個完全徹底的變形，因此你或許可以將自己的身體整個變成另一個截然不同的形狀，但無法只變化你的面容。在兩場不同的遊戲中，玩家也許分別創建了兩個擁有相同超能力的「傳承者」角色──超級力量、刀槍不入、和飛行──但他們超能力的表現方式卻大不相同：其中一個也許就單純是個堅不可摧、彷彿神一般的人型種族、而另一個則可能會是穿著一套飛行動力裝甲服的科技英雄。
 
-Abilities don’t clearly state exactly what you can or can’t do: after all, if your 
-ability is super speed, that doesn’t tell you at all whether you can travel at 600 
-miles per hour, or break the sound barrier, or vibrate your molecules through 
-a wall. Abilities give you a clearer picture of your character at the start of play 
-and a jumping off point for figuring out what makes sense for your character’s 
-specific capabilities. For example, someone whose abilities are martial arts and 
-swords probably can’t run at 600 miles per hour, break the sound barrier, or 
-vibrate their molecules through a wall. Yet.
+扮演書上的超能力並不會明確規定你究竟能做或不能做什麼：如果你的超能力是超級速度，那它並不會告訴你你究竟能否以每小時600英哩的高速奔馳、能否突破音障、或能否藉著振動你的身體分子來穿牆。它僅僅是讓你能在遊戲開始時對你的角色有一個更清晰的認識，它同時也是一個跳板，協助你釐清你的超能力究竟能合理做到什麼。舉例來說，如果某人的超能力是武術和刀劍技術，那麼他大概就沒辦法以時速600英哩的速度奔馳、突破音障、或藉著振動身體分子來穿牆。
 
-You’ll discover the specifics of your abilities through play at your table, 
-through discussions with the GM, and through your own decisions. After all, 
-you’re playing to find out!
+你將會隨著遊玩發展、透過與GM的討論、以及藉著你自己的決定來逐漸發掘你超能力的具體細節。畢竟，最重要的就是「用玩的來看看發生什麼事」！
 
 {{< hint info >}}
 神雀 是「傳承者」，所以他決定超能力的方式跟其他扮演書會稍微有些不同。在決定神雀的超能力時，瑞奇得先從扮演書的超能力列表中挑選其中一組，再從中劃掉兩個他尚未掌握的能力。他首先挑選了最經典的那組超能力：超級力量、刀槍不入、眼睛雷射、飛行、超級感官。接著他從中劃掉了眼睛雷射跟超級感官。這代表神雀現在擁有超級力量、刀槍不入、和飛行的能力。
@@ -85,7 +61,8 @@ you’re playing to find out!
 瑞奇在考慮是否要讓這些超能力透過某種驚人的型態展現──也許他會在飛行時長出真正的翅膀、或也許當他發揮超級力量時會冒出烈焰──但最終他還是採用了相當經典的表現方式：他無比驚人的強壯，他的身體堅不可摧，而且他能夠在空中翱翔，在身後留下一道黃金色的軌跡。經典！
 {{< /hint >}}
 
-### BUT WHAT ABOUT THAT ONE POWER?
+### 怎麼沒有那個超能力？
+
 You may notice that not every possible power is represented, especially not for 
 every playbook. You may wish that a particular power was listed, or that it was 
 left open-ended so you could fill in whatever power you want.
@@ -123,46 +100,26 @@ best bet to make MASKS work for you.
 
 
 ## 標籤屬性
-In MASKS, you have five main stats called Labels. Each Label tells you how your 
-character understands their self-image. These Labels shift and change over the 
-course of play as your character’s own self-image changes, and those changes 
-are often in direct reaction to how others see you. When you’re a young hero, 
-how you see yourself is determined just as much by others as it is by your own 
-choices, for better or worse.
+在《蒙面少俠》中，你會有五個被稱為「標籤數性」的主要數值。每個標籤屬性都代表著你的角色是如何認知他們的自我形象。這些標籤屬性將在遊戲中隨著角色自我認知的變化而改變，這些變化往往直接反映了他人看待你的方式。身為一名年輕英雄，無論好壞，你對自我形象的認知都不只是源自你自己的決定，更會深深受到他人的影響。
 
-The five Labels are:
+這五個標籤屬性分別是：
 
-Danger:  seeing yourself as threatening, strong, bloody-knuckled, and risky. 
-Other people see you as a danger when they think they should steer clear of 
-you because you might bring them harm. You see yourself as a danger when 
-you believe you can take down other dangerous threats, and when you think 
-you yourself are a threat to other people.
+**危險**: 視你為強大、有威脅性、血氣方剛、大膽。
+當其他人覺得他們應該對你敬而遠之，因為你可能會傷害到他們時，他們對你的認知便會傾向危險。當你相信自己能夠擊倒其他危險的威脅、或當你覺得你自己對他人就是一個威脅時，你對自己的認知便會傾向危險。
 
-Freak:  seeing yourself as strange, unusual, unique, and powerful. Other 
-people see you as a freak when they think you’re odd, unlike them, something 
-unnatural or outside of their understanding. You see yourself as a freak when 
-you accept and own the things you can do that no one else can, and when you 
-think you don’t belong with the people and the world around you.
+**古怪**: 視你為怪異、不平凡、獨特、充滿力量。
+當其他人覺得你很奇怪、跟他們不像、不自然或超乎他們的理解時，他們對你的認知便會傾向古怪。當你接受並擁有能做到他人所不能之事的能力、或當你認為自己不屬於群體和你周遭的世界時，你對自己的認知便會傾向古怪。
 
-Savior:  seeing yourself as defending, guarding, protecting, and stalwart. 
-Other people see you as a savior when they think of you as noble or self-
-sacrificing, or a bit overbearing and moralizing. You see yourself as a savior 
-when you think of yourself as a martyr, someone who gladly sacrifices to 
-protect and defend others.
+**救助**: 視你為保護者、防禦者、守護者、堅定不搖。
+當其他人覺得你高尚、胸懷自我犧牲精神、或有些專橫和愛道德說教時，他們對你的認知便會傾向救助。當你把自己看做是一名殉道者、一名樂意犧牲自我以保護或捍衛他人的人，那麼你對自己的認知便會傾向救助。
 
-Superior:  seeing yourself as smart, capable, crafty, and quick. Other people 
-see you as superior when they think you’re the smartest person in the room, 
-an arrogant and egotistical jerk. You see yourself as superior when you think 
-you’re cleverer than everyone else, and when you know exactly what to say to 
-make the people around you do what you want.
+**優越**: 視你為聰穎、有才幹、狡詐、伶俐。
+當其他人覺得你是在座最聰明的人、或一個傲慢自我的混蛋時，他們對你的認知便會傾向優越。當你認為自己比其他人還要聰明、或當你清楚知道該說什麼才能讓周圍的人採取你想要他們做的行動時，你對自己的認知便會傾向優越。
 
-Mundane:   seeing  yourself  as  normal,  human,  empathetic,  and 
-understanding. Other people see you as mundane when they think of you as 
-all too normal and uninteresting, but also comprehending and sympathetic. 
-You see yourself as mundane when you think you’re regular, just a person, 
-not special, and focused on normal human things like feelings and emotions.
+**平凡**: 視你為尋常、普通人、有同情心、善解人意。
+當其他人覺得你太普通或無趣、但容易理解且具有同情心時，他們對你的認知便會傾向平凡。當你覺得自己平凡、只是個普通人、毫不特別，並專注在感情和情緒這類凡人瑣事上時，你對自己的認知便會傾向平凡。
 
-### RULES FOR LABELS
+### 標籤屬性的規則
 Every playbook comes with a predetermined set of values for your Labels. You 
 can add +1 to any one Label of your choice, making sure it doesn’t go over 
 +3. You might want to look at the basic moves and your playbook moves to 
@@ -196,14 +153,9 @@ can find out more about them on page 88.
 
 
 ## 背景故事
-Each set of backstory questions is a series of prompts to get you thinking 
-about  your  character’s  identity,  how  they  relate  to  Halcyon  City  and  its 
-superhuman side, and how they relate to other people. Try to jot down a 
-few answers to these questions so you can bring them up during character 
-introductions. When other characters are brought up in these questions, focus 
-on NPCs and avoid using other PCs to answer the questions.
+每組背景故事提問都是一系列的提詞，幫助你思考你角色的身分、與神翠市和超人類社會的關聯、以及他們與其他人之間的關係。試著先寫下其中一些問題的答案，這樣你就可以在自我介紹的環節中把它們帶出來。如果有其他角色需要出現在這些問題中，盡量使用NPC，並避免使用其他玩家角色來回答這些問題。
 
-For  the  moment,  skip  the  “When  Our  Team  First  Came  Together,” “Relationships” and “Influence” sections.
+在這時，先跳過「當團隊初次集結時」、「人際關係」、和「影響力」的區塊。
 
 {{< hint info >}}
 瑞奇寫下了幾個關於神雀背景故事的答案：
