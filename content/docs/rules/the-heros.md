@@ -61,7 +61,7 @@ GM參考紙提供了一些關於真實姓名和英雄風格名稱的範例，但
 瑞奇在考慮是否要讓這些超能力透過某種驚人的型態展現──也許他會在飛行時長出真正的翅膀、或也許當他發揮超級力量時會冒出烈焰──但最終他還是採用了相當經典的表現方式：他無比驚人的強壯，他的身體堅不可摧，而且他能夠在空中翱翔，在身後留下一道黃金色的軌跡。經典！
 {{< /hint >}}
 
-### 怎麼沒有那個超能力？
+### 為什麼沒有那個超能力？
 
 You may notice that not every possible power is represented, especially not for 
 every playbook. You may wish that a particular power was listed, or that it was 
@@ -137,14 +137,7 @@ best bet to make MASKS work for you.
 
 
 ## 狀態
-You don’t have any decisions to make here, but understanding conditions 
-might affect your choices on some of your moves. All PCs have the same five 
-conditions to mark: Afraid, Angry, Guilty, Hopeless, and Insecure. Sometimes 
-you have to mark conditions during the game as a result of moves and misses. 
-While you have a condition marked, you take -2 ongoing to particular basic 
-moves, depending on which condition it is. If you have multiple conditions 
-marked, all are applicable. There are a few ways to clear conditions, and you 
-can find out more about them on page 88.
+你在這裡並不需要做任何決定，但了解狀態的運作方式可能會影響你對扮演書動作的選擇。所有 PC 都有五個可供標記的狀態：恐懼、憤怒、愧疚、絕望、和不安。有時候，你在遊戲中會因為動作的結果或擲骰失敗而需要標記狀態。當你標記了某個狀態，你在進行對應的基本動作時將會承受持續 -2 的減值。如果你同時被標記了多個狀態，那麼所有狀態的減值都會發揮作用。在遊戲中有好幾個清除狀態的手段，你可以在「<a href='{{< relref path="docs/rules/the-basic/the-conditions" >}}'>狀態</a>」章節找到更詳細的說明。
 
 
 ## 背景故事
@@ -172,35 +165,15 @@ can find out more about them on page 88.
 
 
 ## 挑選扮演書動作
-At  the  start  of  play, any character can trigger  the  basic  moves,  including 
-directly engage a threat,  unleash your powers,  defend someone,  assess 
-the situation, provoke someone, comfort or support someone, and pierce 
-someone’s mask. Each of these moves triggers when the characters take action 
-in the fiction that match the move.
+在遊戲中，任何角色都可以觸發所有的基本動作，包括：〈直面威脅〉、〈釋放你的力量〉、〈保衛某人〉、〈評估局勢〉、〈煽動某人〉、和〈安慰或支持某人〉。每當角色在故事中採取了符合這些動作所描述的行動時，該動作就會被觸發。
 
-In  addition  to  the  basic  moves,  every  character  gets  some  playbook 
-moves that may grant them wholly new abilities or may build on the basic 
-moves. Some of them require their own rolls, while others change the way the 
-basic moves work or add new abilities that work without a roll.
+除了基本動作之外，每個角色還會獲得一些能賦予他們全新的能力、或從基本動作加以延伸的扮演書動作。有些扮演書動作會需要你擲骰、有些則會改變基本動作的運作方式、或者讓你不用擲骰就得到全新的能力。
 
-Each playbook has its own rules for how many and which playbook moves 
-you can take at the start of play. Follow those rules. If you want to change 
-where you put the +1 in your Labels to match up with playbook moves you 
-like, go right ahead—you haven’t started playing yet. But keep in mind your 
-Labels will change, so any such connection is liable to be temporary. 
+每個扮演書對於你在遊戲開始時可以選擇多少扮演書動作都有自己的規定。遵循這些規定。如果你想為了貼合你中意的扮演書動作而變更你前面選擇 +1 的標籤屬性，儘管改吧──畢竟遊戲還沒有開始嘛。但謹記在心，你的標籤屬性會在遊戲中不斷改變，所以任何這類關聯都只是暫時的。
 
-Many of the playbooks also have extras. These aren’t moves; while they 
-may follow the move structure, they’re special additional pieces that define the 
-different playbooks and make them more distinct and interesting. For example, 
-the Doomed playbook has their doom track and doomsigns, and the Janus 
-playbook has their mundane life. Make any necessary decisions about your 
-extras as you go through your playbook.
+許多扮演書也會有一些額外事物。這些並不是動作；儘管它們可能會遵循動作的架構，但它們實際上是更特別的額外規則，它們定義了不同扮演書之間的差異，並讓它們變得更獨特且有趣。舉例來說，「命帶天劫者」扮演書有末日軌和末日徵兆，而「雙面人」扮演書則有祕密身分來強調他們平凡生活的種種。按照扮演書的指示為你的額外事物做任何必要的決定（若有）。
 
-Over  the  course  of  play,  you  may  be  able  to  take  moves  from  other 
-playbooks. There’s space for you to write those in. Keep in mind that taking 
-another playbook move doesn’t mean you can take another playbook’s extra. 
-You have to switch playbooks to get access to a Legacy’s lineage or the Nova’s 
-flares (with a few exceptions built into the advancement lists).
+隨著遊戲進行，你可能會有機會獲得來自其他扮演書的動作。你可以在角色紙的空白處寫上它們。然而要記住，獲得其他扮演書的動作並不代表你可以獲得其他扮演書的額外事物。你必須更換扮演書才能獲得「傳承者」的家族傳承、或是「新星」的耀焰（但也有少數例外，像是透過某些成長發展列表裡的選項）。
 
 {{< hint info >}}
 瑞奇看著他的扮演書動作區塊，並發現自己可以從中選擇兩個扮演書動作。他選擇了〈過往的建言〉和〈打一場好架〉。他還需要在「家族傳承」區塊的空白欄位中填上至少兩個他家族傳承的成員。他選擇了他的父親：沙辛．阿塔爾 做為已經退休且會出言批評的角色、並選擇了 惡魔魂怪 做為他們家族傳承遭遇過最強大的對手。身為GM，我馬上開始思考要如何把這些NPC帶到故事中！
@@ -208,32 +181,13 @@ flares (with a few exceptions built into the advancement lists).
 
 
 ## 關鍵時刻
-You don’t have any decisions to make about your playbook’s Moment of Truth, 
-but it’s good to familiarize yourself with it early. Your Moment of Truth 
-is a script for a special instant when you get to seize control of the game’s 
-conversation. Each playbook’s is a bit different, and gives you an idea for the 
-kinds of thing you’re allowed to say when you trigger your Moment of Truth. 
+You don’t have any decisions to make about your playbook’s Moment of Truth, but it’s good to familiarize yourself with it early. Your Moment of Truth is a script for a special instant when you get to seize control of the game’s conversation. Each playbook’s is a bit different, and gives you an idea for the kinds of thing you’re allowed to say when you trigger your Moment of Truth. 
 
-You’re not mind-controlling anybody, so you probably can’t say what the other 
-PCs or NPCs choose to do—but you can say largely everything else, including 
-how you defeat them or how you change the world around you. It’s a moment 
-when the spotlight’s on your character, and we’re all interested in seeing them 
-be awesome—which means you get to say what happens in a much more direct 
-fashion than at any other time in the game.
+You’re not mind-controlling anybody, so you probably can’t say what the other PCs or NPCs choose to do—but you can say largely everything else, including how you defeat them or how you change the world around you. It’s a moment when the spotlight’s on your character, and we’re all interested in seeing them be awesome—which means you get to say what happens in a much more direct fashion than at any other time in the game.
 
-You can’t trigger your Moment of Truth until you’ve unlocked it 
-through advancement (page 115). Then, you can trigger it whenever you 
-want, and during that scene you have full control of describing 
-what your character does, for as long as you remain within 
-your playbook’s script. After your Moment of Truth is over, 
-you permanently lock one of your Labels—it will never 
-change again (page 118). 
+You can’t trigger your Moment of Truth until you’ve unlocked it through advancement (page 115). Then, you can trigger it whenever you want, and during that scene you have full control of describing what your character does, for as long as you remain within your playbook’s script. After your Moment of Truth is over, you permanently lock one of your Labels—it will never change again (page 118). 
 
-Your Moment of Truth tells you a lot about the key, 
-critical moment for your playbook—what it looks 
-like when everything comes to a head, and your 
-character shows off the fullest extent of what 
-they can do. 
+Your Moment of Truth tells you a lot about the key, critical moment for your playbook—what it looks like when everything comes to a head, and your character shows off the fullest extent of what they can do. 
 
 {{< hint info >}}
 瑞奇概略地瀏覽了一下他的「關鍵時刻」：它的內容是關於他完全發揮了他的力量，並需要維護並支撐起他家族傳承的完整重擔。瑞奇因此得到了一個明確的概念．神雀的故事將會著重在這個名號帶來的壓力和負擔上。
@@ -241,12 +195,7 @@ they can do.
 
 
 ## 團隊動作
-Every character gets two team moves, one that triggers when they share a 
-triumphant celebration with someone, and one that triggers when they share 
-a vulnerability or weakness with someone. You don’t have any decisions to 
-make here, but read through the team moves for your playbook to get an idea 
-of your playbook’s issues and how they relate to other characters at critical, 
-dramatic moments. 
+每個角色都有兩個團隊動作，其中一個會在角色與他人一起慶祝勝利時觸發，而另一個則會在角色對某人傾訴弱點時觸發。你在這裡並不需要做任何決定，但仔細閱讀你扮演書的團隊動作能幫助你理解你扮演書的主題，以及他們在關鍵且戲劇性的時刻與其他角色會產生什麼樣的關係。
 
 {{< hint info >}}
 瑞奇看了看他的兩個團隊動作。「慶祝勝利」動作主要涉及了傳承者如何面對自己的優越感，而「傾訴弱點」動作則涉及了他家族傳承的秘密。瑞奇對此有了些想法，神雀的戲劇弧線將會著重處理他在團隊中的位置──且為了符合他的傾訴弱點動作，他的家族傳承必須要有一個秘密才行。
@@ -395,5 +344,4 @@ worry too much about this initial set-up.
 「無論好壞，你都是這個團隊的一份子，且你在乎他們的想法。讓你的所有隊友獲得對你的影響力。」瑞奇大聲朗誦，接著他把他的影響力代幣發給每一個其他玩家：神雀在乎他們的所有想法。
 {{< /hint >}}
 
-Once all the PCs have handed each other Influence according to their 
-playbooks, then you’re ready to play!
+一旦所有PC都按照各自扮演書的指示給出他們的影響力後，你們就可以準備開始遊戲了！
