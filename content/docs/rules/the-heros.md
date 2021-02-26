@@ -186,42 +186,17 @@ GM參考紙提供了一些關於真實姓名和英雄風格名稱的範例，但
 {{< /hint >}}
 
 ### 「當團隊初次集結時……」
-After introductions, determine the inciting incident that made this team of 
-young superheroes come together in the first place. It was something big, 
-something  that  none  of  them  could  tackle  on  their  own,  something  that 
-required them to work together against far greater odds, something that forged 
-them into a group greater than the sum of its parts. When you actually start 
-playing, you’ll tell a story set some time after this inciting incident—the team’s 
-been together for a while at this point. This process just makes sure everybody’s 
-on the same page for how it all started.
+在自我介紹之後，接下來就是決定是什麼事件讓這群年輕的超級英雄結成了一個團隊。這會是一件大事，一件他們之中任何一個人都無法獨自處理的事件，一件需要他們齊心協力以克服更大阻礙，並將他們凝聚成團隊的事件。在你們實際開始遊戲時，你們故事的時間點將會發生在這個初次集結的事件之後──你們這個團隊已經集結在一起好一段時間了。這個過程只不過是確保所有人對於事情開始的情況能有一個共識。
 
-Each playbook has its own statement and question. One by one, each 
-player reads their “When our team first came together…” question out loud, 
-so everyone knows what questions are on the table. Then, the GM leads the 
-group in a discussion about those questions and their answers, filling in the 
-details of what happened when the team first came together.
+每個扮演書都有各自的敘述和提問。一次一個人，每個玩家都將大聲念出他們扮演書上「當團隊初次集結時……」區塊的內容，好讓所有人都知道你們需要回答哪些問題。。接著，GM將帶領團隊討論這些問題的答案，填補細節，還原出當團隊初次集結在一起時究竟發生了什麼事。
 
-Each player has total control over the answers to their playbook’s question. 
-They can ask for input and ideas from the other playbooks, but they have final 
-say. Each succeeding question should build on and take into account what 
-came before.
+每名玩家都能完全控制他們自己扮演書提問的答案。他們可以向他人尋求建議或從其他扮演書上汲取靈感，但無論如何他們都擁有最終裁定權。此外，後續的每一個問題都應該建基於前面問題的答案，在不牴觸已建立事實的情況下回答。
 
-The questions should be answered in a particular order to ensure that the 
-answers build on each other and you aren’t trying to figure out the details 
-before you’ve covered the fundamentals. The discussion can cover whatever 
-ground comes up, but it’s the GM’s job to pointedly ask the players to answer 
-their questions in the order provided on the GM sheet.
+這些問題應該要以一個特定的順序回答，確保這些答案是建基於彼此之上，且你們能在確立基礎之後才去釐清進一步的細節。你們的討論過程可以涵蓋任何出現過的問題，但主要還是會由 GM 帶領玩家們按照 GM 指南上的順序來回答他們各自的問題。
 
-If a particular playbook isn’t in play, then its question doesn’t need to be 
-answered. The GM can still choose to ask the question of the group, in which 
-case the answer comes from group consensus or from whatever player the GM 
-chooses to ask. 
+若某個特定的扮演書並沒有被加入遊戲中，那麼它的初次集結問題就不需要被回答。但 GM 仍然可以選擇向玩家們提出這個問題，在這種情況下，這個問題的最終回答將會由全體玩家的共識決定、或由GM指定詢問的玩家決定。
 
-The group as a whole and the GM in particular should ask additional 
-questions as necessary to fill in the details on this incident, until everybody 
-has a pretty clear picture of what happened and who was involved. At the end 
-of this process, you should have a good idea of the incident that drew the group 
-together, their very first adventure, and the roles that the PCs played in it.
+所有參與遊戲的成員，尤其是GM，都需要在必要的時候進一步提問來填補初次集結事件的細節，直到每個人對於整起事件的來龍去脈、還有涉及這起事件的相關人士都有了清晰的理解。當這個過程告一段落，你們都應該已經清楚了這起將團隊們集結在一起的事件是什麼、團隊們一起經歷了什麼樣的冒險、以及每個PC在這起事件中都扮演了什麼樣的角色。
 
 
 {{< hint info >}}
@@ -240,11 +215,7 @@ together, their very first adventure, and the roles that the PCs played in it.
 
 
 ## 人際關係
-Once you know the details of the incident that brought the team together, 
-fill out each character’s relationships with the others. Each playbook has 
-two relationships on it, sentences with blanks in them. One at a time, each 
-player reads one sentence from their playbook, and fills in the name of a fellow 
-teammate. This sets an initial relationship between those two characters. 
+當你們都清楚了將團隊集結起來的事件的來龍去脈之後，接著就要填寫每個角色彼此之間的人際關係。每個扮演書都寫有兩條人際關係：兩句留有空白欄位的句子。美個玩家將輪流唸出他們扮演書上的句子，一次一句，接著將其中一名隊友的名字填到空欄中。這個過程將會設定這兩名角色彼此間的初始關係。
 
 {{< hint info >}}
 當輪到瑞奇時，他選擇先填寫他的第一個人際關係。
@@ -276,34 +247,17 @@ teammate. This sets an initial relationship between those two characters.
 「那是當然的。」喬說道：「我想我知道其中一片羽毛的下落，假如我到時候真的需要它的話：就在博物館。」
 {{< /hint >}}
 
-Feel free to discuss these relationships as you go. Ultimately, each player has 
-final say over whose name they put into each blank, but they should feel free 
-to ask for suggestions or ideas. 
+你們可以自由討論這些關係的細節。對於要將誰的名字填入自己人際關係的空欄，每個玩家都擁有其各自的最終決定權，但你們仍可以詢問他人的建議或想法。
 
 
 ## 影響力
-Finally, each character gives out some Influence  to their teammates. Influence 
-in MASKS is a binary resource—someone either has it over you, or they don’t. If 
-someone has Influence over you, it means you care about what they think, say, 
-or do about you. It means their words carry weight with you, and can change 
-how you see yourself. By default, in MASKS, all adults hold Influence over the PCs. 
-This section of character creation is about sharing Influence among teammates.
+最後，每個角色需要給出自己影響力，讓隊友們獲得對他的影響力。「影響力」在《蒙面少俠》裡是一種二元性資源──某人要嘛擁有對你的影響力，要嘛就沒有。如果某人擁有對你的影響力，就代表你在乎他的想法、他的話語、或做的事情。這代表他的話語對你來說是有重量的，並能夠改變你看待自己的方式。在《蒙面少俠》中，我們預設所有成年人都擁有對PC們的影響力。在角色創建的這個階段中，我們將決定隊友們彼此之間的影響力關係。
 
-Each playbook has a section that describes how much Influence they give 
-out to their teammates. Sometimes you have to make a choice about your 
-initial demeanor, how you come off to the others first thing—other times it just 
-tells you how many characters you give Influence to. Choose which teammates 
-you give Influence to, and hand them one of your Influence tokens to mark it. 
+每個扮演書都有一個區塊在說明你應該讓多少隊友獲得對你的影響力。有時候你必須決定你一開始的態度，你最初是如何對待他人的──至於其他情況，扮演書只會告訴你要讓多少人獲得對你的影響力。選擇你要讓哪些隊友獲得對你的影響力，接著把代表你的影響力代幣交給他們。
 
-You can always choose to give out more Influence—if you think your 
-character cares about somebody’s words, then you should give them Influence 
-over you if they don’t already have it. But you have to at least give out as much 
-as your playbook tells you to. 
+你永遠可以選擇給出更多的影響力──如果你覺得你的角色在乎他們的話語，那麼你就可以讓他們獲得對你的影響力（如果他們還沒有的話）。然而，你必須至少給出你扮演書要求數量的影響力。
 
-When handing out Influence, think about whose words your character 
-most cares about at the moment, who’s most likely to be able to change how 
-they see their self. Influence comes and goes over the course of play, so don’t 
-worry too much about this initial set-up.
+當你要給出影響力時，想想看你的角色最在乎誰的話語、誰最有可能改變他們看待自己的方式。影響力會在遊戲的過程中來來去去，因此不用對這初始設定感到太緊張。
 
 
 {{< hint info >}}
