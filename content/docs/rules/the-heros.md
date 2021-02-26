@@ -62,41 +62,15 @@ GM參考紙提供了一些關於真實姓名和英雄風格名稱的範例，但
 {{< /hint >}}
 
 ### 為什麼沒有那個超能力？
+你可能會注意到，並不是所有可能的超能力都有被列在扮演書上，尤其每個扮演書各自列出的超能力更是寥寥無幾。你也許會想，為什麼某個超能力沒有被列上去、或者為什麼我們不把超能力的欄位留白，好讓玩家可以自由填寫他們想要的超能力呢？
 
-You may notice that not every possible power is represented, especially not for 
-every playbook. You may wish that a particular power was listed, or that it was 
-left open-ended so you could fill in whatever power you want.
+事情是這樣的。我可以保證每個扮演書列出的超能力在遊戲中都能適當地運作。它們能確實成為你創造有趣角色的跳板，讓你能大概了解你的角色能做到什麼，且最終能恰當地融入每個扮演書所要呈現的主題和風格中。
 
-Here’s the thing. I guarantee that the abilities listed for each playbook will 
-work well in play. They’ll give you exactly the kind of springboard you need 
-to make interesting characters, while still giving you an idea of what your 
-character can do, and ultimately playing into the particular issues and themes 
-of each playbook. 
+同時，這些超能力仍然保留了不少模糊解釋的空間，讓你能按你的想法去定義它們。舉例來說，「蠻牛」有著超人般的堅韌、難以置信的強壯、以及獨特的戰鬥技巧。這可能代表著蠻牛有辦法憑意念將自己的肉身化為鋼鐵、也許代表蠻牛有著誇張的自我再生能力、或可能意味著蠻牛能夠讓身軀巨大化──什麼都有可能，只要這些描述符合「堅韌、強壯、且善於戰鬥」的大致描述即可。試著盡可能利用這些模糊空間來打造你心目中的超能力。
 
-Within those abilities, there’s still plenty of wiggle room to define them how 
-you want. The Bull, for example, is superhumanly tough, incredibly strong, and 
-uniquely skilled at fighting. That could mean that the Bull can turn to metal at 
-will, or it could mean that the Bull has a ridiculous healing factor, or it could 
-mean that the Bull can grow to enormous size—any of those descriptions fits 
-the general categories of “tough, strong, and skilled at fighting.” Take advantage 
-of that wiggle room to make your abilities what you want them to be.
+然而，如果你還是不想要從既有的超能力選項中挑選、或者你寧可選擇你自己想到的其他能力──你還是可以這麼做！畢竟，我不會跑到你們的遊戲桌旁，在你們不遵照扮演書上的說明時拿直尺抽你們的頭。不過……我沒有辦法保證其他的超能力是否能那麼適合──有些超能力甚至可能會完全違背扮演書所要呈現的重點。舉例來說，讓「蠻牛」擁有像念動力和心靈感應這類萬能且無比實用的能力，可能就會改變蠻牛這個角色定位的性質，讓他變得更像是「新星」扮演書，而非「蠻牛」。讓「明燈」獲得真正強大而有用的超能力，則會完全顛覆這個扮演書的重點；而若你扮演「外來者」卻沒使用那些奇怪或特別的外星能力，也會大幅奪走這個扮演書所要呈現的戲劇魅力。
 
-After that, if you still don’t want to pick one of the listed abilities, or you’d 
-rather pick something else you’ve come up with—you can do that! I won’t be 
-at your table ready to swat you with a ruler if you don’t play exactly according 
-to the playbook as written. But…I can’t guarantee other abilities will work as 
-well—some abilities might even outright contradict the point of some of the 
-playbooks. For example, playing a Bull with an open-ended and incredibly 
-useful power like telekinesis could change what the Bull is about, making 
-them more like a Nova than a Bull. Playing a Beacon with real, useful, genuine 
-superpowers totally undermines the point of that playbook, and playing an 
-Outsider without strange or particularly alien powers takes away some of the 
-dramatic oomph of that playbook. 
-
-So  if  you  want  to  use  other  abilities  than  those  listed,  go  ahead—it’s 
-ultimately your game and your table. It still might work just fine, and you still 
-might have a great time. But using the abilities listed in the playbooks is your 
-best bet to make MASKS work for you.
+總而言之，如果你想使用其他不在列表上的超能力，就用吧──最終，這畢竟是屬於你們的遊戲。這個超能力或許仍能很好的運作，而你也仍然能有一場良好的遊戲體驗。只不過使用扮演書上列出的超能力仍然會是你遊玩《蒙面少俠》的最佳選擇。
 
 
 ## 標籤屬性
@@ -181,13 +155,13 @@ best bet to make MASKS work for you.
 
 
 ## 關鍵時刻
-You don’t have any decisions to make about your playbook’s Moment of Truth, but it’s good to familiarize yourself with it early. Your Moment of Truth is a script for a special instant when you get to seize control of the game’s conversation. Each playbook’s is a bit different, and gives you an idea for the kinds of thing you’re allowed to say when you trigger your Moment of Truth. 
+扮演書上的「關鍵時刻」區塊並不需要你做什麼決定，但盡早熟悉它總是好的。「關鍵時刻」是個為特定時刻編寫的腳本，讓你能夠掌握遊戲對話的控制權。每個扮演書的關鍵時刻都有些許不同，並會提供給你一個概念，讓你知道在觸發關鍵時刻的時候到底可以說些什麼。
 
-You’re not mind-controlling anybody, so you probably can’t say what the other PCs or NPCs choose to do—but you can say largely everything else, including how you defeat them or how you change the world around you. It’s a moment when the spotlight’s on your character, and we’re all interested in seeing them be awesome—which means you get to say what happens in a much more direct fashion than at any other time in the game.
+你並不是在心靈控制大家，所以你不能描述其他的PC或NPC會選擇去做什麼──但你可以描述其他大部分的內容，包括你是如何擊敗他們、或如何改變你周遭的世界。在這個時刻，聚光燈集中在你身上，且我們全都引頸期盼著你驚人出色的表現──這意味著跟遊戲中的其他時候相比，你能夠以更加直接的方式描述這個時刻究竟發生了什麼事。
 
-You can’t trigger your Moment of Truth until you’ve unlocked it through advancement (page 115). Then, you can trigger it whenever you want, and during that scene you have full control of describing what your character does, for as long as you remain within your playbook’s script. After your Moment of Truth is over, you permanently lock one of your Labels—it will never change again (page 118). 
+你一開始沒有辦法觸發你的關鍵時刻──直到你透過成長解鎖了它（參見「<a href='{{< relref path="docs/rules/the-future" >}}'>成長發展</a>」章節）。在這之後，你就可以在任何你想要的時候觸發它，且在該場景期間，你就擁有完全的敘事權來描述你的角色做了什麼──只要它不超過你關鍵時刻描述的範圍。在你的關鍵時刻告一段落後，你將永久性的固定你其中一個標籤屬性的數值──它從此再也不會被改變。
 
-Your Moment of Truth tells you a lot about the key, critical moment for your playbook—what it looks like when everything comes to a head, and your character shows off the fullest extent of what they can do. 
+關鍵時刻說明了對你的扮演書而言，真正重要、關鍵的時刻究竟是什麼──當臨到緊要關頭，當你的角色展現出了超乎他們極限的程度時，究竟會是什麼樣的情況？
 
 {{< hint info >}}
 瑞奇概略地瀏覽了一下他的「關鍵時刻」：它的內容是關於他完全發揮了他的力量，並需要維護並支撐起他家族傳承的完整重擔。瑞奇因此得到了一個明確的概念．神雀的故事將會著重在這個名號帶來的壓力和負擔上。
@@ -203,15 +177,9 @@ Your Moment of Truth tells you a lot about the key, critical moment for your pla
 
 
 ## 自我介紹
-Once everyone finishes filling out most of their playbooks (everything except 
-for their “When Our Team First Came Together” section, their Relationships, 
-and their Influence section), then it’s time for character introductions.
+當所有人都寫好了他們扮演書大部分的內容（所有除了「當團隊初次集結時」、「人際關係」、和「影響力」區塊的內容），那麼就是時候讓每個人介紹自己的角色了。
 
-One at a time, each player takes a few minutes to share their name, their 
-look, their abilities, the answer to their backstory questions, and anything else 
-important that the other characters might know about them. During this time, 
-the other players and the GM especially can and should ask them questions to 
-get a better grasp on who the character is.  
+一次一個人，每個玩家將花幾分鐘的時間分享他們角色的名稱、外貌、他們的超能力、他們背景問題的回答、以及所有其他他們覺得大家應該會知道的重要情報。在他們自我介紹的期間，GM 和其他玩家（特別是GM）都可以，也應該多向他們提問，以便更好地認識這名角色是什麼樣的人。
 
 {{< hint info >}}
 瑞奇向大家介紹神雀這個角色，說明他的外觀長相、他的超能力、以及一些設定，比如說神雀是傳承了超級英雄「神雀」名號的最新成員，他的父親已經退休，而且他的真實身分並沒有公諸於眾。我，身為GM，接著問了他一些問題以得到更多資訊，像是「英雄『神雀』這個名號已經在神翠市存在活躍了多久的時間？」
