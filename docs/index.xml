@@ -186,9 +186,20 @@ Anyone on the team can spend a Team out of the pool to give a teammate +1 on a m
 MAKING A NEW CHARACTER
 #
 ADULT MOVES
-#</description></item><item><title>狀態</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-basic/the-conditions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-basic/the-conditions/</guid><description>CONDITIONS
+#</description></item><item><title>狀態</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-basic/the-conditions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-basic/the-conditions/</guid><description>狀態
 #
-Conditions are negative emotional states that beset the characters in your story. Having a condition marked means that your character is experiencing that emotion—anger, or fear, or insecurity, or whatever. You’re always in charge of how your character is played; you can choose to play your character as calm and dispassionate, even with Angry marked. But that means you’re holding your anger inside, and it still impacts your actions as the story progresses.</description></item><item><title>聚會動作</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-basic/the-session-moves/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-basic/the-session-moves/</guid><description>SESSION MOVES
+「狀態」是指那些困擾著故事中角色們的負面心理情緒。標記了某個狀態意味著你的角色正經歷著該情緒──或憤怒、或恐懼、或不安，諸如此類。你永遠能夠掌控你自己角色的扮演方式；舉例來說，即使你的角色標記了憤怒狀態，你仍然可以選擇做出冷靜和沉著的扮演，但這僅僅是代表你把憤怒藏在心中，且它仍然會隨著故事進行而影響你的行動。
+標記狀態及其效果
+#
+狀態會干擾衝擊你採取行動的能力。每個狀態都會讓你在相應動作中承受 持續-2 的減值。不過要記住，你擲骰時的減值最低不能低於 -3。
+當某個動作要求你標記一個狀態，則除非另有說明，你都可以自行決定要標記哪個狀態。有些時候，尤其是當GM進行硬動作之後，則會由 GM 要求你標記指定的狀態。如果你需要標記狀態但所有的狀態都已經被標記了的話，你將因此退場。你也許失去意識、或逃離了場景──無論如何，你都不能再繼續待在這了。
+各個狀態以及其相應的減值如下：
+若你處於 憤怒 狀態，你在〈安慰或支持某人〉和〈揭穿面具〉動作上承受 -2 減值。 若你處於 恐懼 狀態，你在〈直面威脅〉動作上承受 -2 減值。 若你處於 愧疚 狀態，你在〈煽動某人〉和〈評估局勢〉動作上承受 -2 減值。 若你處於 絕望 狀態，你在〈釋放你的力量〉動作上承受 -2 減值。 若你處於 不安 狀態，你在〈保衛某人〉和〈拒絕他人的影響〉動作上承受 -2 減值。 清除狀態
+#
+有些基本動作能幫助你清除你的狀態──比如說〈安慰或支持某人〉和〈保衛某人〉。然而，清除狀態最直接了當的方式其實是採取特定的行動以舒緩這些心理情緒。清除狀態所要採取的行動將根據狀態不同而有不同。
+在你採取相應行動的場景結束時，清除對應的狀態。
+要清除 憤怒 狀態，你必須傷害某人或毀掉某個重要的東西。 要清除 恐懼 狀態，你必須逃離某個困難。 要清除 愧疚 狀態，你必須做出犧牲以除去你的罪惡感。 要清除 絕望 狀態，你必須讓自己放鬆。 要清除 不安 狀態，你必須採取魯莽的行動而不告知你的團隊。 清除憤怒狀態 需要你宣洩你的憤怒，無論是對人或是對物。僅僅毆打沙包是不夠的──你必須要把你的憤怒發洩在某個人、或是某個重要的東西上。每個角色對於「重要」的標準並不相同，因此 GM 需要在憤怒的角色破壞掉某個東西時詢問該物是否重要，以及為什麼重要。傷害某人並不一定要是物理性的傷害他們──對著他們咆哮怒吼，傷害他們的感情也同樣能算。
+清除恐懼狀態 需要你躲避或逃離某個複雜、危險、或有問題的情境。這可能代表你從反派面前倉皇逃走、或當某人想要和你談談你最近的行為舉止時從房間奪門而出。關鍵在於「逃避」──與其面對它，你寧可選擇逃之夭夭。</description></item><item><title>聚會動作</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-basic/the-session-moves/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-basic/the-session-moves/</guid><description>SESSION MOVES
 #</description></item><item><title>GM章節</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-gm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-gm/</guid><description>目標事項
 #
 ALWAYS SAY…

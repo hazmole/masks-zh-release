@@ -3,120 +3,59 @@ title: 狀態
 weight: 5
 ---
 
-# CONDITIONS
-Conditions are negative emotional states that beset the characters in your 
-story. Having a condition marked means that your character is experiencing 
-that emotion—anger, or fear, or insecurity, or whatever. You’re always in charge 
-of how your character is played; you can choose to play your character as calm 
-and dispassionate, even with Angry marked. But that means you’re holding 
-your anger inside, and it still impacts your actions as the story progresses.
+# 狀態
+「狀態」是指那些困擾著故事中角色們的負面心理情緒。標記了某個狀態意味著你的角色正經歷著該情緒──或憤怒、或恐懼、或不安，諸如此類。你永遠能夠掌控你自己角色的扮演方式；舉例來說，即使你的角色標記了憤怒狀態，你仍然可以選擇做出冷靜和沉著的扮演，但這僅僅是代表你把憤怒藏在心中，且它仍然會隨著故事進行而影響你的行動。
 
 
-## EFFECTS AND MARKING CONDITIONS
+## 標記狀態及其效果
 
-Conditions impact and interfere with your ability to take action. Each 
-condition gives you an ongoing -2 to certain moves. Remember that the lowest 
-modifier you can roll a move with is -3. 
+狀態會干擾衝擊你採取行動的能力。每個狀態都會讓你在相應動作中承受 持續-2 的減值。不過要記住，你擲骰時的減值最低不能低於 -3。
 
-When a move tells you to mark a condition, unless it says otherwise, mark 
-any condition you choose. Sometimes the GM tells you a specific condition 
-to mark, especially after a hard move. If you need to mark a condition and all 
-conditions are already marked, you’re taken out. You lose consciousness or flee 
-the scene—one way or another, you cannot continue there. 
+當某個動作要求你標記一個狀態，則除非另有說明，你都可以自行決定要標記哪個狀態。有些時候，尤其是當GM進行硬動作之後，則會由 GM 要求你標記指定的狀態。如果你需要標記狀態但所有的狀態都已經被標記了的話，你將因此退場。你也許失去意識、或逃離了場景──無論如何，你都不能再繼續待在這了。
 
-The conditions and their associated penalties are:
+各個狀態以及其相應的減值如下：
 
-* If you’re Angry, take -2 to comfort or support someone or pierce the mask. 
-* If you’re Afraid, take -2 to directly engage. 
-* If you’re Guilty, take -2 to provoke someone or assess the situation. 
-* If you’re Hopeless, take -2 to unleash your powers. 
-* If you’re Insecure, take -2 to defend or reject others’ Influence.
+* 若你處於 憤怒 狀態，你在〈安慰或支持某人〉和〈揭穿面具〉動作上承受 -2 減值。
+* 若你處於 恐懼 狀態，你在〈直面威脅〉動作上承受 -2 減值。
+* 若你處於 愧疚 狀態，你在〈煽動某人〉和〈評估局勢〉動作上承受 -2 減值。
+* 若你處於 絕望 狀態，你在〈釋放你的力量〉動作上承受 -2 減值。
+* 若你處於 不安 狀態，你在〈保衛某人〉和〈拒絕他人的影響〉動作上承受 -2 減值。
 
 
-## CLEARING CONDITIONS
+## 清除狀態
 
-Some of the basic moves help you clear conditions—comfort or support and 
-defend, in particular. But the most straightforward way to clear conditions is 
-to take a particular action to relieve that emotional state. The action varies 
-depending on the specific condition.
+有些基本動作能幫助你清除你的狀態──比如說〈安慰或支持某人〉和〈保衛某人〉。然而，清除狀態最直接了當的方式其實是採取特定的行動以舒緩這些心理情緒。清除狀態所要採取的行動將根據狀態不同而有不同。
 
-At the end of any scene in which you take the corresponding action, clear 
-that condition.
+在你採取相應行動的場景結束時，清除對應的狀態。
 
-* To clear Angry, hurt someone or break something important.
-* To clear Afraid, run from something difficult.
-* To clear Guilty, make a sacrifice to absolve your guilt.
-* To clear Hopeless, fling yourself into easy relief.
-* To clear Insecure, take foolhardy action without talking to your team. 
+* 要清除 憤怒 狀態，你必須傷害某人或毀掉某個重要的東西。
+* 要清除 恐懼 狀態，你必須逃離某個困難。
+* 要清除 愧疚 狀態，你必須做出犧牲以除去你的罪惡感。
+* 要清除 絕望 狀態，你必須讓自己放鬆。
+* 要清除 不安 狀態，你必須採取魯莽的行動而不告知你的團隊。
 
-Clearing Angry requires you to vent your anger, either on someone or on 
-something. It’s not enough to just punch a bag—you have to take your anger 
-out on someone, or something important. What’s important is different for 
-every character, but the GM should ask if and why an object is important 
-when the Angry character breaks it. Hurting someone doesn’t necessarily mean 
-hurting them physically—yelling at them and hurting their feelings would do 
-the trick, too.
+清除憤怒狀態 需要你宣洩你的憤怒，無論是對人或是對物。僅僅毆打沙包是不夠的──你必須要把你的憤怒發洩在某個人、或是某個重要的東西上。每個角色對於「重要」的標準並不相同，因此 GM 需要在憤怒的角色破壞掉某個東西時詢問該物是否重要，以及為什麼重要。傷害某人並不一定要是物理性的傷害他們──對著他們咆哮怒吼，傷害他們的感情也同樣能算。
 
-Clearing Afraid requires you to avoid or flee from a complicated, dangerous, 
-or problematic situation. That could mean anything from running away from a 
-villain to fleeing the room when someone wants to have a conversation about 
-your recent actions. The key is avoidance—instead of confronting something, 
-you’re running from it.
+清除恐懼狀態 需要你躲避或逃離某個複雜、危險、或有問題的情境。這可能代表你從反派面前倉皇逃走、或當某人想要和你談談你最近的行為舉止時從房間奪門而出。關鍵在於「逃避」──與其面對它，你寧可選擇逃之夭夭。
 
-Clearing Guilty requires you to pay some cost on behalf of others, those 
-you feel you’ve wronged or let down. It doesn’t require them to actually absolve 
-you of your guilt—just so long as you pay a price in an attempt to redeem 
-yourself. This might be anything from standing alone against a dangerous 
-villain so your teammates can escape to agreeing to follow the older heroes’ 
-rules even when it’s easier not to.
+清除愧疚狀態 需要你為了他人付出某些代價，為了那些你覺得你辜負或冤枉了的人們。這並不需要讓對方真的寬恕你的行動──只要你付出代價嘗試贖罪就行。這可能代表你獨自一人對抗危險的反派好讓隊友有機會逃跑、或者同意遵循年老英雄設下的那些難以遵循的規矩。
 
-Clearing Hopeless requires you to seek the easiest and quickest way to 
-relieve your feelings. Most likely, that means making stupid decisions in pursuit 
-of stupid fun. It could be anything from finding some cheap booze and getting 
-drunk to making out with the wrong person.
+清除絕望狀態 要求你尋找能最簡單快速釋放你情緒的方式。通常來說，這代表為了愚蠢的快樂而做出愚蠢決定，像是找到便宜的酒並喝個爛醉如泥、或是跟錯誤的人上床。
 
-Clearing Insecure means following your worst, most impulsive instincts 
-without consulting anybody first. You feel doubtful of your own abilities, so 
-you’re proving yourself by following your own plan without talking to anyone 
-first. That could be anything from deciding to attack the bad guy while the 
-rest of your team waits in stealth to agreeing to give up the crucial component for the death ray in exchange for escaping right now, all without anyone else’s 
-input. 
+清除不安狀態 意味著在不先跟任何人商量的情況下跟隨你最壞、最衝動的直覺。你開始懷疑起自己的能力，並因此決定不先跟他人商量，藉著按照你自己的計畫行動來證明自己。這可能會是趁團隊成員潛藏等待時機的時候，自己先一步衝出去襲擊壞蛋，或者在未徵求其他人同意的情況下逕自同意放棄死亡射線的重要零件以換取立即逃跑的機會。
 
-Remember that even if you take the action, you only clear the condition at 
-the end of the scene. You can clear multiple conditions in one scene, but you 
-continue to be affected by the penalty for the entirety of the scene
+
+記住，即使你採取了這些行動，你也得等到該場景結束時才能清除對應的狀態。你可以在在同一個場景中清除複數個狀態，但直到該場景結束之前，你都仍會持續受到這些狀態減值的影響。
 
 
 
-## LABEL SHIFTING AND CONDITIONS
+## 調動標籤屬性與狀態
 
-Shifting a Label means 
-that your view of yourself is 
-changing. You see yourself 
-more as the Label you shift 
-up, less as the Label you shift 
-down.
+調動標籤屬性意味著你看待自己的觀點發生了變化。隨著標籤屬性上升，你的自我認知會更偏向該標籤屬性的方向；反之標籤屬性下降則意味著你更遠離那個傾向。
 
-If you ever need to 
-shift a Label and can’t 
-(because the Label is at 
-+3 and would shift up, 
-or is at -2 and would 
-shift down), you must 
-mark a condition, GM’s 
-choice. The entire Label 
-shift doesn’t occur—you 
-shift no Label either up or 
-down.
+如果你遇到需要調動標籤屬性，但卻無法調動的場合（因為需要上升的標籤屬性已經是+3，或要降低的標籤屬性已經是-2），則你必須標記一個狀態，由 GM 決定要標記哪一個。這整個標籤屬性的調動將會被無效──你的任何標籤屬性都不會因此上升或下降。
 
 {{< hint info >}}
-Huma’s dad is actually praising him, 
-telling him that he’s a great hero, the 
-savior the city needs—but Huma’s Savior 
-is already at +3. If Huma accepts his dad’s 
-words, then his Savior would shift up, but it 
-can’t. Instead, Huma marks a condition—I 
-tell Rich to mark Insecure, because of all 
-the pressure his dad is putting on him.
+神雀的父親正在稱讚他，跟他說他是一名多麼傑出的英雄，是這座城市引頸期盼的救星──但神雀的救助標籤屬性已經是 +3 了。如果神雀接受了他父親的話語，那麼他的救助將會因此上升，但他的救助已經無法再提升了。取而代之的是，神雀將需要標記一個狀態──我要求瑞奇標記「不安」狀態，因為他父親的期待全都落在了他的肩上。
 {{< /hint >}}
 
