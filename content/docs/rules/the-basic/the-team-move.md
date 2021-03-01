@@ -3,13 +3,10 @@ title: 團隊默契
 weight: 5
 ---
 
-# TEAM
-Team is a resource that the team of young superheroes can use to help each 
-other out. It represents their unity, their connection, and their coordination, 
-but it’s pretty intangible—a squad of superheroes with a lot of Team doesn’t 
-look different, but they’re much more prepared to work together!
+# 團隊默契
+團隊默契是一種遊戲中的資源，讓年經的超級英雄團隊可以用其來幫助彼此。它代表著他們之間的團結、聯繫、以及協調性，它同時也沒有明確形體，難以一眼分辨：一個有著大量團隊默契的的超級英雄團隊也許看上去沒什麼不同，但他們比其他團隊更能準備好要團結合作！
 
-## USING TEAM
+## 使用團隊默契
 
 Anyone on the team can spend a Team out of the pool to give a teammate 
 +1 on a move, after the roll. To do this, the spender has to be able to actually 
@@ -24,33 +21,23 @@ Team out of the pool for any single roll, and they still have to be able to actu
 help in the fiction
 
 {{< hint info >}}
-Toro charges at Blood Opal, and the two start fighting hand to hand, Blood Opal 
-striking with her sword and Toro punching with her fists. Marissa rolls for Toro to 
-directly engage a threat, and gets 5 total—a miss.
+酷牛姊衝向血紅歐泊，兩個人開始了一場肉搏惡戰，血紅歐泊用她的赤劍揮砍，而酷牛姊則用她的鐵拳猛揍。瑪莉莎為酷牛姊的〈直面威脅〉動作直骰，並骰出了5 ── 失敗。
 
-“I want to help,” says Grace. “I summon up a brief shadow construct, just 
-something to grab her ankle and throw her off balance.” 
+「我想要幫忙。」格蕾絲說道：「我召喚出一個簡單的陰影結構，抓住她的腳踝並讓她失去平衡。」
 
-“I’m not sure you can help,” I say. “You’re stuck on the other end of the street 
-fighting against Aquaria, aren’t you? You’ve got your hands full.”
+「我其實不確定你有沒有辦法幫上忙。」我說：「你現在正在街道的另一頭跟水魄女纏鬥，對吧？你應該已經分身乏術。」
 
-“What about me?” says Mark. “Sureshot can fire an arrow into the conflict so 
-Blood Opal has to deflect it at just the right moment.”
+「那不然我來？」馬克插畫：「神射手可以往他們衝突的方向射出一箭，這樣血紅歐泊就必須在那個瞬間分神偏轉它。」
 
-“Yeah, that’s great! You were just firing arrows from on top of the nearby building, 
-you can definitely help like that. Spend a Team out of the pool.” 
-That raises Marissa’s roll to a 6. But it’s still a miss.
+「嗯，這不錯！你從附近的樓頂上射出一箭，你當然可以幫助她。消耗一點團隊默契。」這讓瑪莉莎的擲骰結果被提升到了 6，但這仍然是個失敗。
 
-“Am I there yet? Have I arrived?” asks Sarah. “I’ve been flying there as fast as I 
-can.”
+「我在那嗎？我有趕到那了嗎？」莎拉問：「我剛剛試著盡可能快的飛往那裡。」
 
-“Oh yeah, you’re there now.”
+「喔對，你現在到現場了。」
 
-“Awesome! I fly straight at Blood Opal from the opposite direction of Sureshot’s 
-arrow. This’ll help keep her off balance so Toro can get that perfect hit.”
+「讚啦！從神射手箭矢射出方向的另一側，我直直飛向血紅歐泊。這應該能繼續讓她措手不及，這樣酷牛姊就能完美的命中她。」
 
-“Excellent! Spend another Team out of the pool, Sarah.” Now Marissa’s roll is 
-7—a hit!
+「完美！消耗另一點團隊默契吧，莎拉。」現在瑪莉莎的擲骰結果變成了 7──成功的結果！
 {{< /hint >}}
 
 NPCs who are part of the team, whether temporarily or permanently, can 
@@ -60,15 +47,12 @@ have to be fictionally capable of helping. If the GM thinks the NPC wouldn’t
 help, then they won’t.
 
 
-## SPENDING TEAM SELFISHLY
+## 自私地使用團隊默契
 
-PC team members can also spend Team to act selfishly.
+PC團隊成員也可以消耗團隊默契來自私地行動。
 
 <div class='Move'>
-
-When you act selfishly, say how your actions ignore or insult your teammates, remove 
-one Team from the pool, and shift one Label up and one Label down, your choice. You can 
-use this option after rolling to alter the Label you’re rolling with.
+當你自私地採取行動時，說明你的行動是如何忽略或侮辱你的隊友，消耗一點團隊默契，使你的一個標籤屬性上升和一個標籤屬性下降（由你選擇）。你可以在擲骰後這麼做來改變你的擲骰結果。
 </div>
 
 Because you can act selfishly after you roll, this can boost a miss up to a hit, 
@@ -82,46 +66,36 @@ Acting selfishly may save you when you can’t be helped by anybody else, but
 it has a cost you can’t avoid.
 
 {{< hint info >}}
-Vertex is unleashing his powers to create illusions, to try to distract Arcknife from 
-attacking him. He’s on his own, too; no teammates around to help. He rolls, and he 
-gets a 6...not enough for a hit.
+頂尖叛客正在〈釋放他的力量〉以創造出幻象，嘗試轉移電弧刀手的注意力來讓他不受攻擊。他現在只獨自一人；身邊沒有任何能協助他的隊友。他擲骰，並得到了 6……還不夠讓他成功。
 
-“Crud! And no one can help?” Jack asks.
+「該死！而且沒人能幫忙？」傑克問道。
 
-“Nope. What do you do?”
+「沒，你打算怎麼做？」
 
-“Y’know what? I’m going to make the illusions look exactly like my teammates. 
-I’m going to have them taunt him, so he’ll chase after them, and then once he sees 
-the real ones, he’ll leave me alone,” says Jack. “I’m acting selfishly, spending a Team 
-out of the pool to shift my Freak up and my Savior down, so I get that extra +1 I 
-need for a hit.”
+「好，你知道嗎？我打算製造一個跟我的隊友們長得一模一樣的幻象。我要讓這些幻象挑釁他，這樣他就會去追它們，之後當他遇到真人時，他就會放過我。」傑克說：「我要自私地採取行動，消耗一點團隊默契並讓我的古怪上升，救助下降，這樣我就能拿到額外的 +1 來讓我成功。」
 
-“What do you think? Is that selfish enough? Do you feel insulted or ignored?” I 
-ask the other teammates.
+「你們覺得呢？這樣夠自私嗎？你們有覺得被侮辱或忽略嗎？」我向其他隊友們問道。
 
-“Definitely,” says Marissa. “You jerk.”
+「那當然。」瑪莉莎說：「你這個渾蛋！」
 
-I have Jack spend the Team and shift his Labels.
+於是我讓傑克消耗了一點團隊默契並調動他的標籤屬性。
 {{< /hint >}}
 
 
 
-## ADDING TEAM TO THE POOL
+## 增加團隊默契
 
-The primary way to generate Team in the pool is by entering battle against a 
-dangerous foe as a team.
+增加團隊默契最主要的方式就是以一整個團隊共同進入戰鬥以對抗危險敵人。
 
 <div class='Move'>
+當你們以一整個團隊共同開始戰鬥以對抗危險敵人時，增加二點團隊默契。
 
-When you enter battle against a dangerous foe as a team, add two to the 
-Team pool.
+* 如果團隊領袖擁有對所有隊友的影響力，額外增加一點團隊默契。
+* 如果所有人在這場戰鬥中都有相同的目的，額外增加一點團隊默契。
+* 如果有任何隊友不信任團隊領袖的話，減少一點團隊默契。
+* 如果你的團隊沒有做好準備或亂了套，減少一點團隊默契。
 
-* If the leader has Influence over every teammate, add another Team.
-* If everyone has the same purpose in the fight, add another Team.
-* If any team member mistrusts the leader or the team, remove a Team.
-* If your team is ill-prepared or off-balance, remove a Team.
-
-The leader of the team can mark a condition to avoid removing a Team from the pool.
+團隊領袖可以選擇藉由標記一個狀態來避免減少一點團隊默契。
 </div>
 
 Entering battle against a dangerous foe as 
@@ -172,47 +146,41 @@ understanding of their foes’ intent or abilities, then they might be ill-prepa
 or off-balance, even if they know the fight is coming.
 
 {{< hint info >}}
-The team of Grasshopper, Hornet, Huma, and Skysong is flying on Skysong’s 
-crystalline ship—they’re going to try to free Sureshot from Brass Brilliant’s clutches. 
-But Brass is holding Sureshot in an underground base with plenty of goons there. 
-When they leave the ship, they have a moment where they share a look, and consult 
-one last time on what the plan is. Huma tells everyone the plan is to go in quietly. 
+蚱蜢女俠、胡蜂女、神雀、和天樂女組成的團隊正乘坐著天樂女的水晶飛船──他們正要試圖去拯救被輝煌布萊斯抓住的神射手。但神射手被關進的地下基地裡還有著許多猛毒幫的打手。當他們走下飛船，他們還有一點時間交換意見，最後一次商量討論他們的計劃。神雀告訴大家，這次的計畫就是悄悄地進去。
 
-“Okay, great! It sounds to me like you’re entering battle against a dangerous foe 
-as a team. So. Who’s your leader?” I ask.
+「OK，很好！我覺得你們這是要以一整個團隊共同開始戰鬥以對抗危險敵人時。所以，誰是你們的團隊領袖？」我問。
 
-“Well, Hornet, normally,” says Joe. “But I think it’s Huma in this case.” 
+「嗯，胡蜂女吧，正常來說。」喬說：「但我覺得現在這個情境下應該是神雀。」
 
-“Agreed. Okay, so first you add two Team to the pool. Then, if the leader has 
-Influence over everyone on the Team, you add another.” 
+「同意。好的，所以你們先增加二點團隊默契。接著，如果團隊領袖擁有對所有人的影響力，你們可以再增加一點。」
 
-“I don’t. This is why I shouldn’t be the leader!” says Rich.
+「我沒有。這就是為什麼我沒能當上領袖！」瑞奇說。
 
-“Heh. Next criterion—does everybody have the same purpose? Huma, what’s 
-your purpose in the fight?”
+「嗯，下一條──所有人的目的都一樣嗎？神雀，你在這場戰鬥的目的是什麼？」
 
-“I’m here to free Sureshot, first and foremost,” says Rich.
+「我來這是為了解救神射手，這是最優先也最重要的。」瑞奇說道。
 
-“Is that everybody’s purpose?” I ask. 
-Joe shakes his head. “Nope, my purpose is to take down Brass Brilliant.”
+「大家的目的也都是這個嗎？」我問。
 
-“Okay then, no extra Team for that criterion. Does anybody mistrust the leader 
-or the team? Skysong? Hornet?”
+喬搖了搖頭：「不，我的目的是打倒輝煌布萊斯。」
 
-“Nah,” says Andrea. “I don’t mistrust Huma, I just don’t particularly listen to him.”
+「好吧，那這項就沒有。有任何人不信任團隊領袖或團隊嗎？天樂女？胡蜂女？」
 
-“Cool. And finally, I don’t think you’re off-balance or ill-prepared—you know 
-what you’re getting into. So that’s it! You stand outside the doors to the underground 
-base. What do you do?”
+「不。」安茱莉亞說：「我不信任神雀，我就是特別不想聽他的話。」
+
+「酷，那麼最後，我不認為你們沒做好準備或措手不及──你們知道你們打算攪進什麼事件中。那就這樣！你們站在了地下基地的大門前。你們打算怎麼做？」
 {{< /hint >}}
 
 
-The Team pool can reset when you shift the fiction forward some significant 
-period of time.
+
+## 重置團隊默契
+
+當你把故事推進了一段時間，那麼團隊默契將會被重置。
 
 <div class='Move'>
-Whenever time passes, the GM empties the Team pool and restores it to one Team.
+每當一段時間經過，ＧＭ將把團隊默契的數量重置回１點。
 </div>
+
 
 “Time passing” isn’t about some specific amount of time going by. It’s 
 about a fictional reset, like when there’s a time jump to leap ahead in the story, 
@@ -229,7 +197,7 @@ resets the Team pool to one.
 
 
 
-# PLAYBOOK TEAM MOVES
+# 扮演書的團隊動作
 Each playbook has two moves listed under the section “Team Moves.” These 
 are always based on the same two triggers: When you share a triumphant 
 celebration with someone and When you share a weakness or vulnerability 
