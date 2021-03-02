@@ -4,21 +4,14 @@ weight: 5
 ---
 
 # 團隊默契
-團隊默契是一種遊戲中的資源，讓年經的超級英雄團隊可以用其來幫助彼此。它代表著他們之間的團結、聯繫、以及協調性，它同時也沒有明確形體，難以一眼分辨：一個有著大量團隊默契的的超級英雄團隊也許看上去沒什麼不同，但他們比其他團隊更能準備好要團結合作！
+團隊默契是一種遊戲中的共用資源，讓年經的超級英雄團隊可以用其來幫助彼此。它代表著他們之間的團結、聯繫、以及協調性，它同時也沒有明確形體，難以一眼分辨：一個有著大量團隊默契的的超級英雄團隊也許看上去沒什麼不同，但他們比其他團隊更能準備好要團結合作！
 
 ## 使用團隊默契
 
-Anyone on the team can spend a Team out of the pool to give a teammate 
-+1 on a move, after the roll. To do this, the spender has to be able to actually 
-help—if you’re in a completely different place from your teammate, then you 
-can’t spend Team to help, unless it makes sense in the fiction (a telepathic 
-connection, maybe). 
+團隊中的任何人都可以消耗團隊默契來讓其他隊友進行動作的擲骰結果獲得 +1 加值。然而消耗團隊默契的角色必須要能實際在故事中幫上忙才能這麼做──如果你跟你的隊友處在完全不同的地方，那麼這在除非敘事上顯得合理（比如說透過心靈感應），否則你將無法消耗團隊默契來幫助他。
 
-Multiple teammates can spend Team from the pool to help on the same 
-roll—even low rolls can be turned into hits when the whole group pitches in 
-and there’s enough Team in the pool. But each teammate can only spend one 
-Team out of the pool for any single roll, and they still have to be able to actually 
-help in the fiction
+複數隊友可以各自消耗一點團隊默契來協助同一次動作擲骰──只要整個團隊齊心協力且你們有足夠的團隊默契，再爛的擲骰結果都能夠被扭轉成功。然而，每個隊友對同一次動作擲骰都只能各自消耗一點團隊默契，且他們仍必須要能夠實際在故事中提供協助。
+
 
 {{< hint info >}}
 酷牛姊衝向血紅歐泊，兩個人開始了一場肉搏惡戰，血紅歐泊用她的赤劍揮砍，而酷牛姊則用她的鐵拳猛揍。瑪莉莎為酷牛姊的〈直面威脅〉動作直骰，並骰出了5 ── 失敗。
@@ -40,11 +33,7 @@ help in the fiction
 「完美！消耗另一點團隊默契吧，莎拉。」現在瑪莉莎的擲骰結果變成了 7──成功的結果！
 {{< /hint >}}
 
-NPCs who are part of the team, whether temporarily or permanently, can 
-also help. Players can spend Team from the pool on behalf of those NPCs. The 
-players still have to spend one Team per NPC who helps, and the NPCs still 
-have to be fictionally capable of helping. If the GM thinks the NPC wouldn’t 
-help, then they won’t.
+同是團隊一份子（無論是暫時或永久）的NPC也同樣能夠提供協助。玩家可以為這些NPC的行為消耗團隊默契。玩家仍然必須為每個提供協助的NPC各自消耗一點團隊默契，且NPC們也仍必須在敘事上提供實際的幫助。如果GM認為NPC不會提供幫助，那麼他們就不會這麼做。
 
 
 ## 自私地使用團隊默契
@@ -55,15 +44,9 @@ PC團隊成員也可以消耗團隊默契來自私地行動。
 當你自私地採取行動時，說明你的行動是如何忽略或侮辱你的隊友，消耗一點團隊默契，使你的一個標籤屬性上升和一個標籤屬性下降（由你選擇）。你可以在擲骰後這麼做來改變你的擲骰結果。
 </div>
 
-Because you can act selfishly after you roll, this can boost a miss up to a hit, 
-or a partial hit up to a full hit, by changing the Label you rolled with. All you 
-have to do is spend the Team from the pool and describe your character doing 
-something that ignores or insults your teammates.
+由於你可以在擲骰之後自私地行動，這將能透過改變你擲骰時使用的標籤屬性數值來使失敗的結果變為成功、或讓部份成功變成完全成功。你所需要做的只有消耗一點團隊默契，並描述你的角色做出某件忽略或侮辱你隊友的行動。
 
-Generally, your teammates can determine whether they feel ignored or 
-insulted by the selfish action, but the GM can push on it if it seems appropriate. 
-Acting selfishly may save you when you can’t be helped by anybody else, but 
-it has a cost you can’t avoid.
+通常來說，會由你的隊友們負責決定他們是否因你自私的行動而感到被忽略或侮辱，但倘若行動合適，那麼GM也可以直接推進。自私地採取行動也許能在你孤軍奮戰的時候拯救你，但它同時也會帶來你無法避免的代價。
 
 {{< hint info >}}
 頂尖叛客正在〈釋放他的力量〉以創造出幻象，嘗試轉移電弧刀手的注意力來讓他不受攻擊。他現在只獨自一人；身邊沒有任何能協助他的隊友。他擲骰，並得到了 6……還不夠讓他成功。
@@ -98,52 +81,20 @@ it has a cost you can’t avoid.
 團隊領袖可以選擇藉由標記一個狀態來避免減少一點團隊默契。
 </div>
 
-Entering battle against a dangerous foe as 
-a team is the moment when the team’s about to 
-start fighting. You can think of it as the pose right 
-before the fight; the moment when the team 
-comes up with a plan, right before they start 
-the punching; or the very split second foes 
-burst in, and the team starts to react. 
+**以一整個團隊共同開始戰鬥以對抗危險敵人** 代表著團隊們即將開始戰鬥的時刻。 它可以是戰鬥開始前英雄們擺出登場姿勢的時機；在他們開始施展拳腳前，團隊們想出絕妙計畫的那一刻；或是在敵人突然闖入，團隊們開始做出反應的瞬間。
 
-If someone’s alone, they can’t trigger 
-this move—they’re not entering battle 
-as a team. If the team isn’t actually 
-going up against a dangerous foe, they 
-can’t trigger this move. “Dangerous foe” 
-should be interpreted liberally; going 
-up against a horrible monster or a giant 
-meteor can both trigger this move.
+如果有人落單，那他就不能觸發這個動作──他不是以一個團隊的形式進入戰鬥。如果團隊並沒有真的要對付危險的敵人，那他們也不會觸發這個動作。「危險敵人」在這裡可以被自由解釋：對付一頭可怕的怪物或巨大的隕石同樣都能觸發這個動作。
 
-When you trigger this move, the GM 
-asks the team who the leader is. If there’s 
-dissent, the GM makes the final call, but that’s 
-a good sign that team members might 
-mistrust the leader or the team.
+當你們觸發這個動作時，GM將會向大家詢問團隊領袖是誰。如果有歧異，則GM擁有最終決定權。就算大家沒有統一的共識也沒關係，有成員不信任領袖或團隊其實是個好跡象。
 
-Then run through each criterion on 
-the move. “Teammates” are anyone on 
-the team who might be able to spend 
-Team out of the pool to help—so if the 
-leader doesn’t have Influence over all 
-those characters, then they don’t get the 
-extra Team in the pool for that criterion.
+接著，依序進行這個動作中的每一個項目。「隊友」代表著任何在團隊中，有辦法消耗團隊默契以提供協助的人物──所以如果團隊領袖沒有對他們所有人的影響力，那麼他們就不能從這一項獲得額外的團隊默契。
 
-To determine if everyone has the same purpose in the fight, the GM asks 
-the leader what their purpose in the fight is, and then every other teammate 
-gets to say if they share the same purpose. Mild variation is fine—the difference 
-between “Beat the bad guys” and “Beat Vortex” is negligible. But the difference 
-between “Beat Vortex” and “Save my mom” is significant and means that the 
-team doesn’t get the extra Team in the pool for that criterion.
+當要確定所有人在這場戰鬥中都有相同的目的，GM會先詢問團隊領袖在這場戰鬥的目的，接著跟所有其他隊友確定他們的目的是否一致。稍微有些差異也沒關係──「擊敗壞蛋」跟「打倒黑渦怪客」之間基本上相差無幾。但「打倒黑渦怪客」跟「拯救我媽媽」之間的差異就相當顯著，並意味著團隊無法從這一項獲得額外的團隊默契。
 
-Every team member gets to say whether they mistrust the leader or the 
-team—that’s their decision, but the GM can ask clarifying questions.
+所有團隊成員都能夠表示他們是否不信任團隊領袖或團隊本身──這是他們的選擇，但GM可以要求他們詳細說明原因。
 
-The GM is the final arbiter of whether the team is ill-prepared or offbalance, and it’s based entirely on the fiction. If the team is at all expecting this 
-fight, there’s a good chance they aren’t ill-prepared or off-balance; then again, if 
-the team is in the midst of plenty of internal conflicts, or they’re missing a clear 
-understanding of their foes’ intent or abilities, then they might be ill-prepared 
-or off-balance, even if they know the fight is coming.
+GM將根據整個敘事情境決定團隊是否沒有做好準備或亂了套。如果團隊都期待著這場戰鬥的發生，那麼通常來說他們就不會是沒有準備或措手不及；相反的，如果團隊們正陷入內部爭執、或他們不清楚他們敵人的目標或能力，那即使他們知道戰鬥將要發生，他們仍有可能會被視作沒做好準備或亂了套。
+
 
 {{< hint info >}}
 蚱蜢女俠、胡蜂女、神雀、和天樂女組成的團隊正乘坐著天樂女的水晶飛船──他們正要試圖去拯救被輝煌布萊斯抓住的神射手。但神射手被關進的地下基地裡還有著許多猛毒幫的打手。當他們走下飛船，他們還有一點時間交換意見，最後一次商量討論他們的計劃。神雀告訴大家，這次的計畫就是悄悄地進去。
@@ -182,43 +133,17 @@ or off-balance, even if they know the fight is coming.
 </div>
 
 
-“Time passing” isn’t about some specific amount of time going by. It’s 
-about a fictional reset, like when there’s a time jump to leap ahead in the story, 
-creating a clear divide in the story. It’s when a TV show episode ends and the 
-next one picks up weeks later, or when a comic book has the little narrative 
-bubble saying “One month later…” Time passing naturally over the course of 
-play won’t trigger this move—the GM doesn’t simply empty the Team pool 
-because things move forward. 
+「一段時間經過」並不是指一段特定時長的時間流逝。它代表的是敘事上的重置，代表著劇情往後跳到了一段時間之後，為故事創造出了一個清楚的分隔。它就像是電視影集的一集結束，然後下一集從幾周後的時間點開始、或者漫畫書中會出現的寫著「一個月後……」的旁白。遊戲過程中自然的時間流逝並不會觸發這個動作──GM並不能因為劇情進展就將團隊默契重置。
 
-Essentially, if you ever come to the close of events and shift them forward 
-(most likely by a week or more) to get to the next exciting thing, then the GM 
-resets the Team pool to one.
+實質上來說，如果你們迎來了事件的尾聲，並接著讓故事向前推進到下一個令人雀躍的事件時（通常會在一個禮拜或更久之後），那麼GM就會把團隊默契重置回 1 點。
 
-
-
+---
 
 # 扮演書的團隊動作
-Each playbook has two moves listed under the section “Team Moves.” These 
-are always based on the same two triggers: When you share a triumphant 
-celebration with someone and When you share a weakness or vulnerability 
-with someone. The specifics of what happens after the trigger vary with each 
-playbook. 
+每個扮演書在各自「團隊動作」區塊底下都列有兩個動作。這些動作都有著相同的兩個觸發條件：「當你與某人共同慶祝勝利時」以及「當你向某人傾訴你的弱點時」。在觸發這些動作後會發生什麼事，則根據每個扮演書而各有不同。
 
-These moves demonstrate how your playbook leads you to connect to and 
-engage with other people in moments of high drama. You’ll probably use them 
-most often with teammates, although they trigger regardless of whom you 
-share the moment with. When you trigger either one, even though multiple 
-people might technically be in the room, you have to choose who in particular 
-you’re most sharing with. 
+這些動作展現了你的扮演書是如何引導你在重要的戲劇時刻與他人聯繫和互動。你可能會最常將其用在你的隊友上，儘管無論你和誰分享這個時刻都會觸發這個動作。當你觸發這其中一個動作時，即使技術上可能有很多人都與你處在同一個場景中，你仍必須選擇誰是你特別想要與之分享這段時光的。
 
-Sharing a triumphant celebration should be more than just high-fives 
-after the fight. The idea is that you’re excited, you’re happy, and you’re inviting 
-someone to share in your happiness and joy in the moment. It could be a 
-meaningful hug or kiss, a congratulatory set of compliments, or a shared party 
-or drink. 
+「共同慶祝勝利」不應該只是在戰鬥中互相擊掌。它的概念是你很興奮，很快樂，且你邀請了某人跟你共享你在這一刻的喜樂與雀躍。這可能是一個有意義擁抱或親吻、一串慶祝的賀詞、或是一同聚會暢飲。
 
-Sharing a weakness or vulnerability is letting someone else see the most 
-secret and vulnerable parts of yourself. You’re telling someone your worst fears 
-or memories, your deepest desires, your greatest insecurities. You could show 
-it to them, or you could tell them—either way, so long as you’re sharing it, the 
-move triggers.
+「傾訴你的弱點」將讓某人看見你最隱密且脆弱的部分。你將告訴他你最糟糕的恐懼或記憶、你最深的渴望、你最大的不安全感。你可以將其展現出來、或你僅僅是口頭述說──無論如何，只要你將其分享出來，這個動作就會被觸發。
