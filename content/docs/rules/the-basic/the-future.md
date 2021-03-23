@@ -1,6 +1,6 @@
 ---
 title: 成長發展
-weight: 5
+weight: 10
 ---
 # ADVANCEMENT
 
