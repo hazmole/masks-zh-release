@@ -62,64 +62,31 @@ weight: 1
 
 
 <h3>對英雄們說話，而非玩家</h3>
-The story’s about the heroes, right? They’re the ones dealing with teachers 
-who’d love to hold them in detention, even though they absolutely have to go 
-deal with that black hole in the sky, right? So don’t talk to the players—talk to 
-the people really dealing with those problems. Instead of “Hey, Joe, what does 
-Hornet do?”, say “Hornet, what do you do?” It keeps everybody focused on the 
-fiction, on these characters, on their triumphs and travails.
+這是個關於英雄們的故事，對吧？必須去處理在空中肆虐的黑洞，並與想讓他們留校察看的老師周旋也是他們，對吧？所以不要對玩家們說話──而是對那些真正去處理這些問題的人說話。不要說：「嘿，喬，胡蜂女打算做什麼？」，而是說：「胡蜂女，你打算怎麼做？」讓所有專注在敘事上，專注在角色，以及他們的成功和艱辛上。
 
-You’re acting as those characters’ lens into the world. Tell them what they 
-see, what they hear, what they know, fully and truly. “Source Code is way closer 
-to the computer terminal than you are; it’s obvious she’ll get there before you 
-do, unless you do something. What do you do, Hornet?” Don’t ever let them 
-flounder for lack of information.
+你將充當這些角色們在遊戲世界中的鏡頭。讓他們了解這個世界。把他們看到的、聽到的、知道的，都完整真實地告訴他們。「『源碼』遠比你更接近電腦終端，很顯然，她會比你更早一步到達那裏，除非你做點什麼。你打算怎麼辦，胡蜂女？」千萬不要讓他們因為缺乏情報而無所適從。
+
 
 <h3>使用你的動作，但不要直接說出它們的名字</h3>
-When you make a move—a specific thing you say happens—don’t say its name. 
-Say what happens, say how it feels, say what the characters see or hear or 
-experience—but don’t say exactly what move you just made. Say, “Oh man, 
-you chuck that car at Rampage, but she just knocks it away. The car hits the fire 
-truck dealing with the conflagration in the back and knocks it over. Without 
-any more water on it, it’s like the fire comes alive—and you know there are still 
-people inside!” Don’t say, “I just put innocents in danger!”
+當你進行一個動作（讓一件你所描述的事件發生）時，不要說出那個動作的名字。
+描述發生了什麼，描述感覺如何，描述角色們看見、聽見、或經歷了什麼──但不要說出你剛剛做了什麼動作。說：「噢老兄，你把那輛汽車扔向蠻暴，但她輕鬆地將它打到一邊。汽車撞上了正在後頭處理大火的消防車，把它撞倒在地。沒有了水柱的抑制，火焰就像是活了過來一樣──而你知道有其他受害者還在大樓裡面！」而不是說：「我要〈讓無辜者陷入危險〉！」
 
-Sometimes you still need to bring up the mechanical effect of a move 
-you made, like pointing out that you just took or gave Influence or inflicted 
-a condition—but couch those changes in the fiction. Say, “Nano taunts you, 
-running through an almost itemized list of all your failures, and you can feel 
-your blood boil—mark Angry.” Don’t say, “Nano inflicts a condition on you.”
+有時候，你仍會需要提到你進行動作時引發的機制性效果，像是說明你剛剛奪走或獲得了對某人的影響力、或對某人造成了一個狀態──但記得把這些變化在敘事中表達出來。說：「奈米頑童在奚落你，幾乎是逐條列舉了你所犯下的所有失敗，你能感覺到你的血液在沸騰──標記憤怒狀態。」而不要只說：「奈米頑童對你造成了一個狀態。」
+
 
 <h3>讓威脅真實</h3>
-Superhero stories are often about stopping terrible things from happening. But 
-that all becomes rote if the threats aren’t truly threatening. Make the scope and 
-focus of threats real and meaningful—and the best way to do that is often to 
-make them small and personal. If a villain threatens to turn your best friend 
-into their apprentice? That’s a real threat.
+超級英雄的故事經常是關於阻止某個可怕的壞事發生。但如果這個威脅並不真正具有威脅性，那麼一切都會變得死板無趣。讓威脅的規模和焦點真實而有意義──而要做到這一點，最好的方式就是讓它們的規模縮小並直指個人。比如說，某個反派威脅要把你最好的朋友變成他們的跟班？這個威脅可就是來真的了。
 
-The second part of making threats real is to sometimes deliver on them, 
-hard. If the PCs take action to stop a threat, and the rolls go their way, then 
-fine—you’re playing to find out, and they overcame the threat. But if they get 
-a miss, or if they give you a golden opportunity through their actions—then 
-deliver on the threat. Follow through. Make it real.
+讓威脅真實的第二個重點在於，有時候也要讓它們被僥倖實現。如果PC們採取行動去阻止這個威脅，且擲骰結果也確實如他們的意，那當然沒問題──你是在用玩得來看看發生什麼事，而他們也確實克服了這個威脅。但如果他們骰出了失敗、或透過行動給了你一個絕妙的黃金時機──那麼讓威脅成真。貫徹執行，讓它變成真實。
 
 
 <h3>放棄並擇日再戰</h3>
-In MASKS, a lot of the characters and elements you portray are straight-up 
-opposition to the PCs. They’re villains with dastardly plans; they’re monsters 
-on a rampage. You may feel a compulsion to have those forces drive, endlessly, 
-toward their goals until they’re either victorious or destroyed. 
+在《蒙面少俠》中，許多你所描繪的角色和元素都會直接與PC們槓上。他們可能會是籌謀卑鄙計畫的惡棍；也可能會是發狂暴走的怪物。你心裡可能會興起一股衝動，想讓他們不斷地朝自己的目標前進，直到取得勝利、或是被摧毀消亡。
 
-Resist that urge. Those villains don’t always drive towards their goals to 
-the point of near-suicidal determination—they give up. They run away. If 
-it’s obvious they’re going to lose, they flee and look for new opportunities. 
-Not every fight has to go to the bitter end—any fight that ends earlier leaves 
-elements open to resolve down the line.
+忍住這股衝動。這些反派並不總是都帶著近乎自殺的決心追求自己的目標──他們會放棄，他們也會逃跑。如果情勢變得明顯對他們不利，他們會逃走並尋找下一個新的機會。並不是所有戰鬥都非得拚到最後──任何提前結束的戰鬥也都會留下一些伏筆要素以供日後解決。
 
-This goes for social scenes, too. A domineering hero who’s trying to get a 
-PC to see the world their way shouldn’t necessarily press the issue to extremes 
-every single time—they give up to fight another day. To bring up the problem 
-down the line.
+這個道理也同樣適用於社交場景。一個試圖說服PC們用他的觀點看待世界的霸道英雄不應該每次都把情況推向極端──他們會放棄，擇日再戰，到將來再把這個問題提出來。
+
 
 <h3>把人命視為有意義的</h3>
 People matter. Their lives have value. That means your stories shouldn’t involve 
