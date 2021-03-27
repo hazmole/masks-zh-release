@@ -38,7 +38,7 @@ weight: 7
 
 ### 超新星的靈感來源
 * Wiccan, YOUNG AVENGERS
-* Miss Martian, YOUNG JUSTICE: INVASION 
+* Miss Martian, YOUNG JUSTICE: INVASION
 * Jean Grey, X-MEN
 * Nico Minoru, RUNAWAYS
 * Zero, GENERATION HOPE
@@ -132,7 +132,7 @@ weight: 7
 * **【元素感知】**<br/>
 消耗１個燃燒並標記一個狀態以使用你的超能力將你的心靈向周遭的世界敞開。你可以詢問任意一個關於你周遭世界的問題，且GM必須誠實回答。
 
-* **抓攫奪取】**<br/>
+* **【抓攫奪取】**<br/>
 消耗１個燃燒，使用你的超能力從他人那裡奪取一個位於視線內，大小不超過人類的物體。
 </div>
 
