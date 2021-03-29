@@ -89,45 +89,23 @@ weight: 1
 
 
 <h3>把人命視為有意義的</h3>
-People matter. Their lives have value. That means your stories shouldn’t involve 
-wanton mass murder or death. Never kill a bunch of people just to show the 
-situation is dangerous. It should be momentous when an anti-hero finds it 
-expedient to take human lives—it shouldn’t be the norm. It also means every 
-time a building or a piece of the city is threatened, you should immediately flag 
-the people endangered, so a hero can save them.
+人們很重要。他們的性命是有價值的。這意味著你的故事不應該涉及大規模的屠殺或死亡。永遠不要只為了展現情況的危險程度就隨意殺死一大群人。
+當一個反英雄發現他在緊急情況下的權宜之計不得不奪走人命時，這個場景應該要是意義重大的──這不應該成為一種常態。這也同時意味著每當建築大樓或城市的某地受到威脅，你應該要立即標記出那些陷入危機的人們，好讓英雄能夠拯救他們。
 
-Regular, mundane lives are important, too. You don’t have to be a demi-god 
-to get consideration in the story. Parents, teachers, siblings, police, librarians, 
-lawyers—they’re all people, not just caricatures. You should portray them as 
-people, with their own lives and goals and drives and desires. They can lend 
-a hand to the PCs, and they can stand in the PCs’ way. And that way, when a 
-situation puts them in danger, it’s a person who is endangered.  
+規律，平凡的生活也很重要。你不一定要是個半神才能得到人們的尊敬和關心。父母、教師、兄弟姊妹、警察、圖書館員、律師──他們全都是人類，而不只是誇張的漫畫布景。你應該把他們描繪的像是真人，有著他們各自的生活、目標、動力、以及慾望。他們可以向PC們伸出援手，他們也可以成為PC們路上的阻礙。這麼一來，當某個情境使他們陷入危險時，被危及的就是一個活生生的人。
+
 
 <h3>讓超能力看起來驚人奇異、創意非凡、且酷炫十足</h3>
-Superhuman pieces of the world should be just that—superhuman. Beyond the 
-mundane, beyond normal. Strange, exciting, bizarre, magical. The superhuman 
-side of Halcyon City is meant to be extraordinary. Who cares about what feels 
-realistic in terms of superpowers or plots? Go nuts! A lady who can send 
-her mind into pieces of the city and possess them, bringing them to life—
-absolutely! A guy made of pure imagination, capable of reshaping his body to 
-his whim, but barely existing and ethereal—sure! An alien robot, powered by 
-a miniature sun, and looking for love—yes!
+這個世界上關於超人類的一切，就應該要像是他們字面上的樣子──超越人類。他們超脫凡俗、遠非尋常。奇特不凡、令人興奮、古怪異常、神奇宛如魔法，神翠市屬於超人類的那一側注定就要是驚異超凡。誰會在乎什麼超能力跟情節的現實感？儘管瘋狂馳走吧！一名女士能夠把精神分散植入城市各個角落，控制它，並讓整座城市活過來──當然沒問題！一個由純粹的想像力構成的男人，隨心所欲重塑自己的身體，幾乎不存在且空靈無實體──肯定有！一個外星機器人，以微型太陽為動力來到地球尋找真愛──太棒了！
 
-Make your superhumans truly super. There’s nothing more boring than 
-“just another guy who’s invulnerable and super strong” in a superhero story.
+讓你的超人類們成為真正的超人。沒有什麼比超級故事裡出現了「又一個刀槍不入且超級強壯的傢伙」來得更無趣了。
+
 
 <h3>給反派們動機以表現他們的人性</h3>
-All villains are in some way people. If they aren’t people, they aren’t really 
-villains—a robo T-Rex is an awesome threat to fight once, but not as a recurring 
-villain, unless it’s intelligent, with desires, insecurities, fears, and more. Villains 
-may be extreme, over the top, terrible, awful, and criminal, but they’re still 
-human—even the ones that are robots or aliens or whatever. 
+所有反派在某種程度都算是人。如果他們不是人、那他們就不算是真正的反派──一頭兇猛的機器暴龍可以成為一場戰鬥中的可怕威脅，但他不會是一個能反覆出現的反派，除非他擁有智能，有慾望、不安全感、恐懼、或其他情緒。反派也許極端、行為過火、可怕、糟糕透頂、或罪大惡極，但他們仍然是人──就算他們實際上是個機器人或外星人之類的也一樣。
 
-Give every single villain, then, a drive that features their core humanity. 
-Drives are statements of intent: “To _____.” “To save the life of my sister by any 
-means necessary.” “To discredit the fake and unworthy heroes.” “To make the 
-people who once tortured me pay.” No villain should ever want to take over the 
-world just ’cause. They want to take over the world for a reason.
+因此，給每個反派一個動機，體現出他們的核心人性。動機是一個描述他們意圖的句子：「為了______。」，像是「為了不計一切代價拯救我妹妹的性命」、「為了敗壞那些虛偽卑劣的英雄的名聲」或「為了讓那些曾經折磨過我的傢伙付出代價」。沒有任何反派會僅僅因為一個念頭就想要征服世界，他們之所以想要征服世界必然有他們的理由。
+
 
 <h3>讓成人們看起來幼稚且短視</h3>
 It’s easy to play adults as superior, wiser, and better than the younger PCs. But 
