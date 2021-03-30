@@ -108,6 +108,7 @@ weight: 1
 
 
 <h3>讓成人們看起來幼稚且短視</h3>
+要讓成年人表現得比年輕PC們更優秀、更有智慧、更傑出是一件很容易的事。
 It’s easy to play adults as superior, wiser, and better than the younger PCs. But 
 that gets frustrating really quickly for the PCs, if the adults are consistently 
 smarter than their younger counterparts. Instead, draw out the adults’ own 
@@ -274,7 +275,7 @@ they’re all looking at you expectantly; or when you just think that you should
 make a move as a follow-up to something that happens. 
 
 
-## SOFTER MOVES VS. HARDER MOVES
+<h2>SOFTER MOVES VS. HARDER MOVES</h2>
 Throughout the book, I’ve made reference to hard moves, which implies that 
 there are soft moves. Whether a move is harder or softer is about how much, 
 and how directly, it changes the fiction. Softer moves set the stage for harder 
@@ -314,7 +315,7 @@ you do?
 {{< /hint >}}
 
 
-## MAKE A MOVE WHEN…
+<h2>MAKE A MOVE WHEN…</h2>
 You make a move—as hard or as soft as you like—when: 
 * ...there’s a lull in the conversation. 
 * ...a player misses a roll. 
@@ -338,8 +339,8 @@ god-being, and not expect to get smacked. You’re in charge of making sure that
 when the fiction demands a move, you make one. 
 
 
-## GM的基本動作
-以下是你的基本動作，u以及每一個動作各自的細節：
+<h2>GM的基本動作</h2>
+以下是你的基本動作，以及每一個動作各自的細節：
 
 * 造成一個狀態
 * 獲得對某人的影響力
@@ -362,20 +363,353 @@ when the fiction demands a move, you make one.
 
 
 ### 造成一個狀態
-### 獲得對某人的影響力
-### 讓他們聚集在一起
-### 抓困某人
-### 讓無辜者陷入危險
-### 展現出附帶傷害的代價
-### 揭露未來，隱晦或直接地
-### 宣告畫框外的威脅
-### 讓他們為勝利付出代價
-### 把他們的動作反過來對付他們
-### 告知他們可能的後果並確認
-### 告訴他們他們是什麼樣的人、或他們應該成為什麼樣的人
-### 讓NPC做出草率決定或嚴厲的結論
-### 觸發他們能力和人際關係的缺點
-### 進行一個扮演書動作
-### 進行一個反派動作
+Young heroes lead stressful lives! Inflict a condition  to clarify how intense 
+the pressure’s getting, how they’re negatively affected by all that’s coming at 
+them. Inflicting a condition always leads to more fiction, which is exactly what 
+you want. When you inflict a condition , you should only tell the PC which 
+condition if you have a very clear idea for it.
 
+{{< hint info >}}
+Toro, you unleash a barrage of punches at Vanquish, but he’s not affected by any of 
+them. When you’re done, you’re panting, and your fists hurt, and he just laughs at 
+you. Mark Afraid. What do you do? 
+{{< /hint >}}
+{{< hint info >}}
+Huma, your words of comfort fall flat—Iconoclast looks at you with utter contempt. 
+“You don’t know what you’re talking about. You’re just a kid,” she says. Mark a 
+condition, your choice. What do you do?
+{{< /hint >}}
+
+
+### 獲得對某人的影響力
+Young heroes often leave themselves vulnerable. They open themselves up 
+and find themselves affected by the words of people they thought they could 
+ignore. That’s you taking Influence over someone . You’re flagging that the PCs 
+don’t have as much control over their own emotions as they might want...that 
+they don’t always get to pick and choose whose words matter to them. 
+
+{{< hint info >}}
+Sureshot, you try to pierce Champion’s mask, but you’re kinda distracted—this is 
+Champion! ! “It’s okay to be a little starstruck,” he says, noticing the look on your 
+face. “I always like meeting a fan.” He thinks you’re just a fan! He takes Influence 
+over you, but he already had it—shift your Mundane up, and your Savior down. 
+What do you do?
+{{< /hint >}}
+{{< hint info >}}
+Vertex, you try to turn away from White Cobra, to pretend she doesn’t know what 
+she’s saying, but it doesn’t work. Her words got to you. “I can help you, kid,” she says. 
+“I can make you better than you ever thought you could be.” She takes Influence 
+over you. She’d lost it previously, but now it’s back, and you’re frozen in her presence. 
+What do you do?
+{{< /hint >}}
+
+
+### 讓他們聚集在一起
+The young heroes will do a bang-up job of separating themselves. They’ve all 
+got their own stuff to worry about, their own interests and ideas to pursue. 
+It’s your job to bring ’em back together and connect the disparate elements of 
+their lives so they wind up encountering each other again in surprising places 
+and ways. You don’t have to make them love each other—but you do need to 
+point them at each other.
+
+{{< hint info >}}
+Grasshopper, your sister runs right up to Huma and holds out her little pocket 
+notebook. “Could you...could you sign it?” she says, her eyes glistening with hope 
+and wonder and worship. “You’re my favorite hero!” What do you do?
+{{< /hint >}}
+{{< hint info >}}
+Toro, you read the file that Ursa sent you, and realize it lays the blame for your 
+creation at the feat of Crystal Corp., the same company that Mantis, Hornet’s mentor, 
+once owned and ran. Did Mantis know about this? Did Hornet? What do you do?
+{{< /hint >}}
+
+
+### 抓困某人
+Lock people down. Put them into dangerous situations, with no clear way out. 
+Do it to the PCs, or to people the PCs care about. Sometimes you can even just 
+straight up capture characters, having the villain take them to a secret lair or 
+something similar. When you capture someone, you amp up the stakes, giving 
+the heroes a chance to be heroes and save their friend.
+
+{{< hint info >}}
+Sureshot, the doorway’s blocked by fire, and you’re on the eighth floor—any jump 
+will be pretty nasty for you. Meanwhile, Satin is still advancing toward you, seemingly 
+impervious to the flames. What do you do?
+{{< /hint >}}
+{{< hint info >}}
+Fission, you wake up after your powers knocked you out, and you’re bound, held 
+inside some kind of laboratory. Weird cords are plugged into your arms, pulling 
+energy through your skin—you feel weak, certainly not strong enough to do anything 
+about the restraints. Above you, Rosa Rook looks down through thick glass. What 
+do you do?
+{{< /hint >}}
+
+
+### 讓無辜者陷入危險
+Halcyon City is full of people, and they may be used to the superhuman 
+conflict that riddles the city, but they aren’t immune to it or safe from it. That’s 
+why heroes are needed in the first place—to keep people safe. When Rampage 
+throws a car, it has to go somewhere, and that means people are often put 
+in danger. Putting innocents in danger ups the ante, and gives the heroes a 
+chance to be heroes.
+
+{{< hint info >}}
+Hornet, you hear Fanboy giggling through the speaker on his robot, as the machine’s 
+chest opens to reveal a timer counting down. The thing has a bomb inside of it, and 
+this building is still full of people! What do you do?
+{{< /hint >}}
+{{< hint info >}}
+Rex, you see Troll start picking up people off the street and tossing them over his 
+shoulder. He’s probably hoping to just slow you down, although he clearly doesn’t 
+care if anyone gets hurt. What do you do?
+{{< /hint >}}
+
+
+### 展現出附帶傷害的代價
+It’s easy to just pass over and ignore the damage when buildings get destroyed, 
+cars trashed, streets torn up. Halcyon City’s gotten pretty darn good at cleaning 
+up that kind of destruction, after all. But that doesn’t mean someone doesn’t 
+come calling, demanding that the PCs take responsibility for the damage 
+they’ve caused. Especially when it’s important structures, or people, who’ve 
+been hurt. Show them the costs and the penalties for letting that damage ensue.
+
+{{< hint info >}}
+Skysong, when you come back to your crystalline ship, you see A.E.G.I.S. agents 
+surrounding it, looping weird straps over it. The lead agent explains that after your 
+last ride through the city, where you clipped all those skyscrapers, they’re impounding 
+your ship. What do you do?
+{{< /hint >}}
+{{< hint info >}}
+Dusk, you brought down the Magus, but the crowd looks at you in shock and horror. 
+They’re quiet, and you can hear some of the whispers—they remember when you 
+destroyed Freedom Plaza, and they’re terrified of you. The looks in their eyes...you 
+can’t help but feel like a Danger. What do you do? Do you accept their view of you?
+{{< /hint >}}
+
+
+### 揭露未來，隱晦或直接地
+The characters in MASKS are the future of this city. They’ll determine what 
+Halcyon City becomes. So keep showing them the future and the possible 
+paths they’re on. Sometimes you can do this in a straightforwardly comic book 
+fashion—literally, showing them the future through time portals or future 
+versions of themselves or whatever. But other times, do it indirectly, through 
+current figures that might represent what they’re becoming. 
+
+{{< hint info >}}
+Hornet, after you yell at Mantis, you storm out to change into your civilian clothes. 
+Just before you leave the base entirely, you look back to see your mentor sitting at 
+her computer. She looks...more tired than you’ve ever seen her. Worn out. Sad. Then 
+she sees you looking at her, and her focus snaps back on, her face hardening. What 
+do you do?
+{{< /hint >}}
+{{< hint info >}}
+Fission, the time portal flares up and you see someone come through. It’s...you. This 
+version is bald, and scarred, and filled with deep power—you can feel it. The energy 
+flows through his entire body. He looks at you and smiles, with a terrifying look. 
+“Hello, kid,” he says. “I’m here to save you.” What do you do?
+{{< /hint >}}
+
+
+### 宣告畫框外的威脅
+Halcyon City marches on, even while the heroes deal with other problems 
+and issues. Between scenes, outside of the conversation, villains may take 
+action that threatens the heroes and their interests. When you need to make 
+a move, you can announce those threats. Draw attention to them. Show a 
+villain cackling ominously, or have them make veiled allusions to what they’ve 
+done—or just straight up announce it, publicly. Villains can be a pompous 
+bunch, after all.
+
+{{< hint info >}}
+Huma, you’ve vanquished Vanquish, and you’re standing there having your heroic 
+moment, your foot on his chest as he lies against the ground...when you feel a buzzing 
+in the pocket where you keep your cell phone. When you surreptitiously answer it, 
+you hear your dad’s voice: “Rustam. It’s your grandfather. We’re at the hospital. Come 
+quickly.” What do you do?
+{{< /hint >}}
+{{< hint info >}}
+Grasshopper, just as you’re leaving for a normal day, you see the Blue Hydra, massive 
+swarm of reptilian blue heads erupting from her back, picking up a car like it weighs 
+nothing. She calls out to the whole of your neighborhood, “Where are you, little 
+cricket? I know you’re here—I’ve been tracking you. Show yourself!” She looks ready 
+to throw the car at your house. What do you do?
+{{< /hint >}}
+
+
+### 讓他們為勝利付出代價
+You  can  open  paths  for  the  heroes  to  come  through  victoriously,  having 
+another hero or even a villain arrive with a way to succeed—but always at a 
+price. The villain will only help if you give them something you shouldn’t; the 
+hero offers help, but only in exchange for your team agreeing to follow her 
+lead in the future. 
+
+{{< hint info >}}
+Dusk, the Lady Faust holds out her hand. “I can help you,” she says. “I can give you 
+the power you need to close the rifts and push this monster back out of your world. 
+But you have to give me something in exchange—I want you to let me into the 
+Penumbral Realm behind your portal.” What do you do?
+{{< /hint >}}
+{{< hint info >}}
+Vertex, the Silver Savior hears your plea for help—reluctant as it is—and looks 
+skeptical. “I don’t know if I believe you, and honestly, I’m tempted to leave you on 
+your own,” he says. “But I’ll come with you if you promise me something: that you 
+come here to train with me, from now on, every day.” Probably means Silver Savior 
+would also take Influence over you. What do you do?
+{{< /hint >}}
+
+
+### 把他們的動作反過來對付他們
+Sometimes, all you have to do to make a move is flip around the move a PC 
+just made. They tried to pierce someone’s mask? Great! Pierce theirs, and ask 
+them some questions. They tried to provoke someone? Great! Provoke them, 
+telling them to do something nasty. When you turn their move back on them, 
+always do it as if it was a 10+ result.
+
+{{< hint info >}}
+Vertex, your efforts to provoke Grasshopper to come out partying with you wind up 
+making you look more insecure—and open you up. Grasshopper, you can provoke 
+Vertex to do whatever you want, as if you’d rolled a 10+. What do you do?
+{{< /hint >}}
+{{< hint info >}}
+Skysong, you’re piercing Kalka the Bloodhewn’s mask, but she’s just stone-faced and 
+angry. You wind up showing much more on your face than she does on hers, so she 
+gets to ask you some questions from the pierce the mask move. How could she get 
+you to help her defeat Sablestar?
+{{< /hint >}}
+
+
+### 告知他們可能的後果並確認
+Sometimes, the path to victory is clear—but it won’t come without taking a few 
+hits along the way. You can always tell a PC exactly what will happen if they 
+follow a particular course of action, giving them a difficult choice to make or a 
+messy option they hadn’t considered. It raises the tension around their choice 
+and decisions, while still keeping things moving forward. 
+
+{{< hint info >}}
+Toro, Arcknife is getting away, dashing down the street. You could throw something 
+at him, but he moves so quickly, you’ve got no chance of hitting him. Your only shot 
+is to smash the ground—send a tremor running through the street—and knock him 
+off his feet. Of course, that’s going to break everything around you. What do you do?
+{{< /hint >}}
+{{< hint info >}}
+Sureshot, from your perch atop the nearby building, you’ve got a shot at the Vorpal 
+Integrator—you can probably take it out. But it’s nearing full power, and you can 
+clearly see Dusk getting crushed by Tectonic Prime. You can send your arrow to 
+either situation—but you only have time for one or the other. What do you do?
+{{< /hint >}}
+
+
+### 告訴他們他們是什麼樣的人、或他們應該成為什麼樣的人
+Adults and other NPCs who hold Influence over the PCs are always telling the 
+PCs exactly who to be. How to act. What to think. Do it, and do it often. Telling 
+the PCs who to be almost always means they have to shift their Labels or reject 
+the NPC’s Influence, and that’s exactly what you want, to keep the PCs’ senses 
+of identity fluid and changing.
+
+{{< hint info >}}
+Rex, Cygnus looks at you with disgust. “Ew, you’re the one 
+who’s going to take me down? Why couldn’t it be 
+someone  more  photogenic,  you  ugly  freak?” 
+She’s shifting your Freak up, your Mundane 
+down. Do you accept it?
+{{< /hint >}}
+{{< hint info >}}
+Skysong,  your  uncle  Warpstar  says to you in your native tongue, “I don’t  know  why  you’re  staying 
+here with these people. They’re simple, stupid, and violent. You’re so  much  better  than  they  are.” 
+He’s shifting your Superior up, and your Mundane down. Do you accept it?
+{{< /hint >}}
+
+
+### 讓NPC做出草率決定或嚴厲的結論
+NPCs don’t always know what’s best. They judge situations quickly and harshly 
+and, especially when they have power of their own, they act just as quickly. 
+Those decisions can set in motion all kinds of mayhem and future moves. 
+Don’t hesitate to take advantage of an opportunity in which an NPC would 
+jump to a wrong conclusion.
+
+{{< hint info >}}
+Toro, you’re moving down the hallway alongside Arcknife, your uneasy alliance 
+settling into a kind of mutual silence, when Wayfinder, the youngest hero on the 
+Exemplars, appears. He takes one look at the two of you together and shakes his head. 
+“Yeah. I’ve read your file, Toro. Of course the two of you would team up. Just a matter 
+of time before you became a villain.” Now he’s charging down the hallway towards 
+you at super speed. What do you do?
+{{< /hint >}}
+{{< hint info >}}
+Grasshopper, you take off your costume and rejoin the evacuated students now that 
+Power Sink has been captured. You find your sister, but she looks at you with sadness 
+and disgust. “You ran,” she says. “You ran and left me there. If it wasn’t for that green 
+hero lady, I’d be dead, because you ran. I hate you!” What do you do?
+{{< /hint >}}
+
+
+### 觸發他們能力和人際關係的缺點
+Every ability has a downside; every relationship comes with responsibility. 
+Bring those into play to increase the pressure on the PCs. If your powers 
+require you to have equipment, then having that equipment break can mess 
+with your ability to act. If your dad is the leader of the biggest superhero team 
+in the city, people will judge you by his standards. Make the problems and 
+difficulties of each PC’s abilities and relationships come up to counterbalance 
+the benefits.
+
+{{< hint info >}}
+Hornet,  when  you  and  the  team  enter  the  Exemplars’  base,  you’re  met  almost 
+immediately by one of their security people. “You’re on file as working with Mantis,” 
+she says. “She’s considered a possible threat in our systems. You’ll have to wait 
+outside.” What do you do?
+{{< /hint >}}
+{{< hint info >}}
+Sureshot, you manage to land a few good shots against Carlo the Assassin while 
+you’re punching each other, but he goes straight for a kick at your bow, breaking it in 
+half. You pull away from each other, but your bow dangles uselessly from your hand. 
+He grins as he pulls out his own bow and nocks an arrow. What do you do?
+{{< /hint >}}
+
+
+### 進行一個扮演書動作
+Every playbook has its own unique issues and themes to deal with. In BEHIND 
+THE MASKS on page 160, you’ll find individual moves you can make for each 
+playbook, to really push on and bring attention to that playbook’s issues. You 
+can make these moves any time you could make any other GM move.
+
+**Example:** Nova—Introduce threats only they can take on
+{{< hint info >}}
+Fission, as Doctor Chaotix’s device fires, a portal opens up in the sky. An enormous 
+figure descends, radiating power, with strange translucent wings emerging from his 
+back. He waves his hands, and the very matter from the tops of nearby skyscrapers 
+begins to rearrange into statues. What do you do?
+{{< /hint >}}
+
+**Example:** Outside—Make a request from home
+{{< hint info >}}
+Skysong, your uncle Warpstar runs into the room and grabs your shoulders. He 
+speaks to you in the melodic, unending tones of your home language. “Child, you 
+must come with me, right now—one of the Keynomes has been unearthed on this 
+planet, and we need to secure it for our homeworld before the Farlander does.” What 
+do you do?
+{{< /hint >}}
+
+
+### 進行一個反派動作
+Like the playbook moves, every villain you make has a few moves of their own. 
+You’ll find out how to do that later in this chapter ( page 156). You can make 
+these moves when you would make any other move, so long as the villain’s 
+involved in the situation. They always amp up the situation, and highlight that 
+villain’s own particular idiom.
+
+**Example:** Blood Opal—Instantly heal a deadly wound
+{{< hint info >}}
+Rex, you smash through the final pillar and the building collapses behind you, 
+smashing all around Blood Opal. But you’re astonished as you see her push her way 
+free of the rubble, the wounds and cuts on her body healing almost immediately. “Is 
+that the best you can do?” she says. What do you do?
+{{< /hint >}}
+
+**Example:** Ilijah Intrepid—Offer a valuable piece of information or gadget for help
+{{< hint info >}}
+Dusk, Ilijah Intrepid holds up his hands. “Wait, I came here to talk,” he says. He pulls 
+out a strange device, diamond shaped, faintly glowing purple. “You can use this to 
+draw off the excess energies from the Penumbral door in your soul. It will delay your 
+end. All you have to do to get it is help me to steal the Quantum Gateway.” What do 
+you do?
+{{< /hint >}}
 
