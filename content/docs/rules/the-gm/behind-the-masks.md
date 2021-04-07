@@ -15,6 +15,7 @@ Each playbook comes with a few GM moves, catered to that playbook’s specific
 issues and elements. Use these moves when you could make any other move to 
 drive attention to those thematic pieces of each character. 
 
+---
 
 ### 明燈 THE BEACON
 * 關注他們的不足之處
@@ -123,35 +124,23 @@ of dangerous foes, or the situation warrants...unmask them.
 
 傳承者深陷於一個英雄主義的家族傳承之中，而讓傳承者出現在你的遊戲桌將使家庭變得相當重要。在某種程度上，每個PC都會被跟過往的世代做比較，但傳承者有著關係更為直接的前輩，伴隨著他們誓言需要維護的規則和傳統。透過經常性的談論前任英雄、讓他們在最糟糕的時機登場，讓這些人物變得更為重要。
 
-持續推動他們去思考關於他們傳承的意義，但不要猶豫於讓這個意義多樣化──它對於家族傳承成員的意義以及它對社會大眾的意義可能不會相同，他們可能會期望你維護不同的傳統。經常性地把傳承者和他們的前任做比較，並利用比較來調動傳承者的標籤屬性。從他們的家族傳承直接給予他們更進一步的責任、義務、和任務；如果他們的家族傳承擁有著名的死敵，那麼逮捕或擊敗這些敵人也會在他們背上加諸很大的負擔。
+持續推動他們去思考關於他們傳承的意義，但不要猶豫於讓這個意義多樣化──它對於家族傳承成員的意義以及它對社會大眾的意義可能不會相同，他們可能會期望你維護不同的傳統。經常性地把傳承者和他們的前任做比較，並利用比較來調動傳承者的標籤屬性。從他們的家族傳承直接給予他們更進一步的責任、義務、和任務；如果他們的家族傳承擁有著名的死敵，那麼逮捕或擊敗這些敵人也會在他們背上加諸很大的負擔。.
 
 有時候，讓他們坐下來，與他們家族傳承的成員談論關於他們最近的表現──不要放過他們。記住，觸發傳承者的〈家族傳承〉動作就是你的最終責任；看看家族成員們會如何回應PC最近的行動；不要讓這件事拖延太久。
 
 
 ### 超新星 THE NOVA
-* 提醒他們過去造成的附帶傷害
+* 提醒他們過去造成的傷害
 * 揭露關於他們超能力的可怕真相
 * 讓他們的力量失控
 * 煽動他們的狀態
 * 導入只有他們能夠處理的威脅
 
-The Nova is pure power, and they’re likely to think they can handle nearly 
-any threat—what’s more, they’re probably right. But they can’t do it without 
-paying a high price, and that price drives the playbook. Having a Nova at your 
-table should amp up the power level of the threats and dangers the heroes 
-deal with—the Nova plays for high stakes, and they’ve made the mistakes to 
-prove it. 
+超新星就是純粹的力量，他們可能會認為自己有辦法處理幾乎任何威脅──而事實是，他們可能是對的。然而，他們無法不付出高昂的代價就做到這一點，而這個代價正是推動這個扮演書發展的核心。如果你讓超新星出現在你的遊戲桌上，那麼你應該使英雄們對付的威脅和危險大幅升級──超新星面對的風險很高，而他們也已經犯下過錯誤來證明這一點。
 
-Never let the Nova forget the past damage they’ve caused. Have people 
-hold grudges or explain why they’re worried about the Nova’s self control. 
-Sometimes, cause the Nova’s powers to flare out of control, to lash out and 
-cause further damage.
+永遠不要讓超新星忘記他們在過去造成過的傷害。讓人們懷恨在心、或說明他們為什麼擔憂超新星的自我控制能力。偶爾，讓超新星的力量失去控制，暴走，並造成更進一步的傷害。
 
-The Nova’s heavily tied up in their own head—play with that. Show them 
-that their powers are truly dangerous, or come from an insidious source, or 
-have an inherent cost, and let them deal with that terrible truth. Play to their 
-conditions, their anger or their fear or their insecurity, and harp on them, while 
-giving them opportunities to take action to clear those conditions.
+超新星被他們自己的大腦深深束縛──利用這一點。向他們展現出他們的力量是個真正的危險、或來自某個有隱患的源頭、或帶有某種固定的代價，並讓他們去面對這些可怕的真相。利用他們的情緒狀態，他們的憤怒、他們的恐懼、他們的不安全感，讓其重複縈繞困擾他們，但也給予他們機會採取行動以清除這些狀態。
 
 
 ### 外來者 THE OUTSIDER
@@ -219,3 +208,20 @@ Sometimes, though, give them a reprieve. Don’t do it too often, but have
 NPCs see through their visage to the real person beneath. Sympathize with 
 their pain and support them. It will make the next rejection all the more 
 painful. 
+
+
+---
+## 擴充〈無拘無束〉
+
+### 新芽 THE SCION
+* 因為他們父母的行為而怪罪他們
+* 讓他們獲得尊重
+* 對他們提出要求
+* 質問他們的理由或行為
+* 導入跟他們父母有關聯的角色
+
+不像《蒙面少俠》其他大部分的扮演書，新芽不只是嘗試在對抗他人期許和影響下決定自己的命運；新芽也在嘗試透過獲得影響力來得到特定個體的尊重。對於大部分其他的《蒙面少俠》角色來說，獲得對成年人的影響力可以是一個不錯的甜頭；但對於新芽而言，這就是他們的整個遊戲重點。
+
+新芽擁有許多獲得影響力的手段，包括〈善意的謊言〉和〈我會證明給他們看〉，以及使用〈揭穿面具〉的「我要如何獲得對你的影響力？」選項。但身為ＧＭ，當他們在敘事中贏得對他人的影響時，你也應該放手讓他們獲得對他人的影響力──特別是以「尊重」的形式。當新芽在他們的〈尊重〉額外事項中指定了某個角色，他們就再也無法真正獲得對該角色的「影響力」；他們只能改為標記該角色「尊重軌」旁的格子。所以，好好想想該角色會尊重什麼樣的人物，並在新芽這麼做的時候讓他們獲得影響力，從而使他們得以標記下一個尊重軌的格子。你甚至可以明確地向他們提出要求，像是：「如果你按照我的要求行事，我就會把你當作一個獨立的個體。」
+
+當你需要決定如何運用他們的超級反派父母時，考慮一下新芽為〈反派血脈〉所選擇的選項。如果他們決定他們的父母是一個絕世大盜，那麼他們的父母肯定會比一個偉大的暴君或可恨的破壞者更為無害。如果他們決定他們與父母之間的關係是「宛如陌生人一般」，那麼他們幾乎不會認識他們的父母，且有可能會想改變這點、或對於這個現狀感到滿意。只有當新芽選擇了特定的選項時，你才需要考慮讓他們的父母經常登場，成為遊戲的「主要角色」。除此之外，讓他們的父母定期出現在人前，但主要透過聲譽或他們在別處做出的事蹟，這才是正確的方式。

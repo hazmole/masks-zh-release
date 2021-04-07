@@ -108,95 +108,40 @@ weight: 1
 
 
 <h3>讓成人們看起來幼稚且短視</h3>
-要讓成年人表現得比年輕PC們更優秀、更有智慧、更傑出是一件很容易的事。
-It’s easy to play adults as superior, wiser, and better than the younger PCs. But 
-that gets frustrating really quickly for the PCs, if the adults are consistently 
-smarter than their younger counterparts. Instead, draw out the adults’ own 
-childish and short-sighted behavior—make clear that even though they’re 
-older, that doesn’t mean they have all their ducks in a row. They think they’re 
-right—and often, they petulantly stick to their guns even when proved wrong. 
+要讓成年人表現得比年輕PC們更優秀、更有智慧、更傑出是一件很容易的事。但對於PC們來說，如果這些成年人始終都表現的比他們年輕的同行還要聰明的話，那麼情況很快就會變得讓人沮喪。相反的，表現出成年人幼稚且短視的那一面──明確指出即使他們年紀較長，也不代表著他們就能事事順心。他們認為自己是對的──而且即使被證明是錯的，他們也經常會任性地固執己見。
 
-The core of this principle is making adults flawed in the same ways that the 
-PCs themselves are flawed. The adults may have a better idea of who they are 
-than the PCs do, but that doesn’t mean they necessarily make smart decisions. 
-Even the PCs’ own mentors, or the greatest heroes in the city, are fallible. The 
-only way the PCs can mature is if they see that the adults are just as flawed as 
-they are. 
+這個原則的核心在於讓成年人有缺陷，就如同PC們自己也有著各自的缺陷一樣。成年人也許會比PC們更清楚自己是什麼樣的人，但這並不意味著他們一定會做出聰明的決定。即使是PC的導師、即使是這座城市最偉大的英雄，也都會犯錯。只有當PC們看見成年人就跟他們一樣有缺陷時，他們才能夠成熟起來。
+
 
 <h3>援助他們，但是帶有條件</h3>
-Some of the adults in MASKS may be kind, fostering, and supportive—but they 
-probably always think they know who the PCs should turn out to be, and 
-they’ll act to make their opinions clear. They might support the PCs, providing 
-encouragement and positive words, but always in an attempt to get the PCs to 
-trend in the direction they want—always conditionally. And if the PCs refuse 
-to fulfill those conditions, the NPCs will make their discontent known, in 
-anything from angry speeches to barely veiled disapproving looks. 
+《蒙面少俠》中登場的一些成年人可以是善良的、善於鼓勵扶持、能夠給予幫助的──但他們可能總是會認為他們知道PC們應該成為什麼樣的人，且他們會採取行動來表明他們的觀點。他們可能會支持PC，給予鼓勵和積極的話語，但永遠會試圖讓PC朝著他們想要的方向發展──永遠帶有條件。且如果PC們拒絕滿足他們的期待，NPC將會透過各種方式來表達他們的不滿，從憤怒的言論到毫不掩飾的失望表情。
 
-By default, the kind of support many of the PCs will inevitably seek should 
-be conditional, depending on the behavior of the PCs. Over time, it might 
-be possible to earn someone’s open approval unconditionally—but that’s a 
-long way away. Make the PCs either choose to go it on their own, or play by 
-someone else’s rules to receive approval.
+預設上，PC們不可避免去尋求的支持和鼓勵都應該要是有條件的，具體取決於PC們的行為。隨著時間推移，也許他們終於能夠贏得別人無條件的公開認可──但這條路還很漫長。讓PC們選擇，要嘛用他們自己的方式去闖蕩，要嘛乖乖照別人的規則做事以獲得認可。
+
 
 <h3>提出誘導性的問題，並基於答案構築</h3>
-Always ask questions of the PCs. When you’re curious about something and one 
-of them should know the answer, ask. Make the question pointed, provocative, 
-and leading. Not, “Is there anyone in your class you like?” But, “Someone here 
-is your best friend. Who is it?” Not, “Have you ever been defeated by a villain?” 
-But, “How did Vortex defeat you so badly last time you clashed?” 
+總是向PC提問。當你對某件事感到好奇，且他們之中的某個人應該知道答案時，開口詢問。讓你的問題深刻且針對、啟發性、且有引導性。不要問：「你在班上有任何喜歡的人嗎？」，而是說：「這裡有人是你最好的朋友，他是誰？」；不要問：「你曾經被反派打敗過嗎？」，而是：「在你們上次衝突時，黑渦怪客是如何把你狠狠打敗的？」
 
-Only ask provocative questions that the PCs would know the answers 
-to. You shouldn’t ask them, “What’s that villain’s dastardly plan?” unless it’s 
-somehow believable that they would know. 
+永遠只詢問PC們會知道答案的誘導性問題。你不應該問他們：「那個反派的卑鄙計畫是什麼？」，除非他們因為某些原因確信自己知道這件事。
 
-Remember those answers, keep in mind they add to the fiction, and target 
-them for further development. Those answers are now true, and what’s more, 
-the PC who gave you that answer is inherently interested in it—it was their 
-answer! Don’t let it lie. Build on it.
+記住你得到的答案，把它們添加到敘事中，然後將其做為進一步發展故事的目標。這些答案現在就是遊戲中的事實，更重要的是，提供你答案的PC肯定會對它們感興趣──畢竟這是他們給出的答案！不要擱置它們，而是以它們為基礎去構築你們的故事吧。
+
 
 <h3>做玩家角色們的粉絲</h3>
-The main characters of a game of MASKS are always the PCs. No NPC is ever as 
-important as the PCs. And you, as an audience member of this story, are always 
-more interested in the PCs’ stories than anybody else’s stories. 
+《蒙面少俠》遊戲中的主角永遠會是PC們。沒有哪個NPC能比PC們更重要。而你，做為這個故事的觀眾，對PC們的故事永遠應該比對其他人的故事更有興趣。
 
-When you’re saying what happens next, think about it from the perspective 
-of a fan. What would you want to see next? Would you really want to see 
-the Protégé, an incredibly adept fighter, look 
-like a clumsy fool? Would you really like 
-to see the Transformed just be accepted 
-instantly  and  loved,  without  any 
-trials or tribulations?
+當你要說出接下來發生什麼事情時，試著從粉絲的角度想想看。你接下來想要看到什麼？你真的希望看到門徒，做為一名無比熟練的戰士，卻表現得像個笨拙的傻瓜嗎？你真的想要看到異變者一下子就被接納，被喜愛，而沒有經歷任何考驗或磨難嗎？
 
-Being  a  fan  means  both 
-that  you  want  the  PCs  to  be 
-awesome,  and  that  you  want 
-to see them pressed. They go 
-together! Putting pressure on 
-the PCs means they have the 
-chance to be awesome. But it 
-means you won’t want to see 
-them  made  chumps,  or  look 
-incompetent,  or  anything 
-similar.  Ruining  the  core 
-conceits  of  a  character,  or 
-taking away what makes them 
-cool—that’s the epitome of not 
-being a fan.
+做一個粉絲意味著，你同時想要看到PC們的精采表現，也想要看到他們被壓迫。這兩件事是相輔相成的！對PC們施加壓力代表他們將有機會做出精彩表現。但這也意味著你不希望看到他們變成蠢蛋、看起來無能、或其他類似的情況。毀掉角色的核心概念、或奪走他們的酷炫之處──這全都是沒有成為他們粉絲的表現。
+
 
 <h3>把你的ＮＰＣ當成槌子：方榫，圓孔</h3>
-NPCs all have ideas for who the PCs should be. They don’t just withhold 
-approval until the PCs act the way they want—they take active steps to change 
-and reshape the PCs. It doesn’t matter if the PCs want to go into those shapes. 
-They’re going to hammer away at the PCs anyway.
+NPC對於PC們該成為什麼樣子都有著各自的想法。他們不會只在PC們按照他們想法行事時被動的給予認可──他們會主動介入，積極地採取行動來改變和重塑PC們的自我。至於PC們是否想要成為這樣的人？那不重要，無論如何，他們都會捶打PC，將其塑造成他們想要的形狀。
 
-Villains are great for this. They often want the PCs to either think less of 
-themselves or adopt ideologies that match the villain’s own. The PCs won’t 
-necessarily seek approval from those villains...but that doesn’t mean the villains 
-won’t try to impose their own views on the PCs, to hammer them into shape.
+反派尤其適合做這件事。他們往往會希望PC們看輕自己、或接受與反派相符的意識形態。PC們不一定會去尋求這些反派們的認可……但這不代表反派們不會試著把自己的觀點強加在PC身上，將他們捶煉成形。
 
-Mechanically, this looks like telling the PCs who they are or how the world 
-works, and thereby shifting their Labels, among other things. But so long as the 
-NPCs are trying to reshape the PCs, for good or for ill, they’re doing their job.
+從機制上來說，這個過程看起來會像是告訴PC他們是什麼樣的人、或這個世界是如何運作的，並藉此改變他們的標籤屬性或其他認知。但只要NPC嘗試重塑PC，無論好壞，他們就是在履行這個原則要求的職責。
+
 
 <h3>提醒他們關於在這之前過往世代的種種</h3>
 Halcyon City has had several generations of heroes. The city is built on the 
@@ -370,14 +315,10 @@ you want. When you inflict a condition , you should only tell the PC which
 condition if you have a very clear idea for it.
 
 {{< hint info >}}
-Toro, you unleash a barrage of punches at Vanquish, but he’s not affected by any of 
-them. When you’re done, you’re panting, and your fists hurt, and he just laughs at 
-you. Mark Afraid. What do you do? 
+酷牛姊，你對著征服者如雨般揮出無數重拳，但他卻完全沒有受到任何影響。當你停下攻勢，你氣喘吁吁，你的拳頭疼痛不已，而他只是狂妄的嘲笑你。標記恐懼狀態。你打算怎麼做？
 {{< /hint >}}
 {{< hint info >}}
-Huma, your words of comfort fall flat—Iconoclast looks at you with utter contempt. 
-“You don’t know what you’re talking about. You’re just a kid,” she says. Mark a 
-condition, your choice. What do you do?
+神雀，你安慰的話語沒有起效──反逆惡女用徹底輕視的眼神看著你，說道：「你根本不知道你在說些什麼，你只是個孩子。」標記一個狀態，由你決定。你打算怎麼做？
 {{< /hint >}}
 
 
