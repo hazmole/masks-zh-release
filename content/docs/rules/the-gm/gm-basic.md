@@ -144,54 +144,29 @@ NPC對於PC們該成為什麼樣子都有著各自的想法。他們不會只在
 
 
 <h3>提醒他們關於在這之前過往世代的種種</h3>
-Halcyon City has had several generations of heroes. The city is built on the 
-shoulders of those who came before—their triumphs, their mistakes, their 
-successes, their failures. Many of those characters are still around in Halcyon 
-City to this day. Current problems have their origins in the past, too, in the 
-prior generations and their flaws. 
+神翠市已經歷經了好幾個英雄世代。這座城市建立在這些過往前人的肩膀上──他們的榮耀、他們的過錯、他們的成功、他們的失敗。許多這些人物現在仍然會在神翠市中出沒。而現在存在的許多問題也源自過去，源自前幾個世代以及他們所犯下的缺失。
 
-Never let the PCs forget that there were several other generations before 
-them, that those characters shaped the world the PCs live in today, and that in 
-many ways, those older generations are still in power. The PCs aren’t pioneers—
-they’re denizens of realms already explored and colonized.
+永遠不要讓PC們忘記在他們之前還有好幾個世代的存在，這些人物塑造了PC們現今所生活的這個世界，而且在許多方面，這些老一輩的人物仍然掌握著權力。PC們並不是開路先鋒──他們僅僅是這早已被探索和殖民過的世界的住民。
+
 
 <h3>記得考慮畫框外的事物</h3>
-In  comics  terminology,  a “gutter”  is  that  space  between  any  two  panels. 
-Thinking in the gutters between panels means thinking about what happens 
-between the things you talk about during the game’s conversation. Halcyon 
-City lives and breathes; the villains make plans, the heroes keep thwarting the 
-villains, and life continues. The key to making your Halcyon City feel alive is 
-to make sure things keep happening, whether or not you see them firsthand 
-in your game. 
+在漫畫術語中，「畫框」可以指任意畫格外面的空隙。「考慮畫框外的事物」意味著去思考那些發生在遊戲對話之外的事物。神翠市是有生命的；反派們籌謀著計劃、英雄們不斷打擊罪犯、然後生活兀自持續。而讓你的神翠市活起來的關鍵，在於確保不斷有事情在發生，無論你們是否親眼在遊戲過程中看到它們。
 
-Don’t just make moves and say what happens based only on what’s narrated 
-directly in the course of play. Make moves and say what happens based on what 
-would’ve happened between the panels. If it makes sense that the Protégé’s 
-mentor would’ve made their own attempt to take down the Magus, then make 
-your moves and say what happens. If it makes sense that the Dread Queen 
-would’ve worked on a way to neutralize the Legacy’s dangerous powers, then 
-make moves and say what happens then too.
+不要只是根據遊戲中發生的敘事來進行動作並描述發生的事情。也試著根據畫框外發生的事件來進行動作並描述。如果門徒的導師決定自行去打倒大魔導這件事是會合理發生的，那麼就進行你的動作並描述發生了什麼事。如果恐怖女王很有可能會嘗試消除傳承者的危險力量，那麼你也據此進行你的動作，並描述發生了什麼事。
+
 
 <h3>有時候，放棄做決定</h3>
-Sometimes, you need to make a decision about what to say or what happens 
-next, and you don’t want to make the decision yourself. Would the August agree 
-to Hornet’s plan to take down Satin? Would Cuckoo possess Grasshopper’s sister 
-before Grasshopper gets home? In those cases, it can help to disclaim decision-
-making, and pass the choice off to some other source of authority. Your choices 
-are: the moves, the players, the characters, and the arcs. 
+有時候，你會需要決定接下來要說什麼或該發生什麼事，但你卻不想要自己做決定：奧古斯都會同意胡蜂女打倒薩汀的計畫嗎？杜鵑能夠在蚱蜢女俠趕回家之前附身到她姊姊的身體上嗎？在這些情況中，你可以自行放棄做決定的權力，並將決定權交給其他的來源：你下放決定權的選項有：動作、玩家、角色、以及故事弧。
 
-To disclaim authority to the moves, interpret the action either in terms of 
-the basic moves or your GM moves. If you can find a move that fits, it should 
-help resolve the uncertainty for you—just do what that move says. “Would the 
-August agree to Hornet’s plan to take down Satin?” “Yes, so long as Hornet agrees 
-to stop training with Mantis and come train with him instead. He’s supporting 
-Hornet conditionally.” 
+要將決定權交給**動作**，試著用基本動作或你的GM動作來解釋該行動。如果你能找到適合的動作，那麼它將能夠幫助你解決這些行動的不確定性──你只需要照著動作的指示就行了。「奧古斯都會同意胡蜂女打倒薩汀的計畫嗎？」「會的，只要胡蜂女願意脫離螳螂女的門下，並改為在奧古斯都門下受訓。他是在有條件地援助胡蜂女。」
 
+要將決定權交給**玩家**，
 To disclaim authority to the players, make it a question about what they do, 
 specifically. Push them until they do something that resolves the uncertainty 
 for  you.  “Would  the  August  agree  to  Hornet’s  plan  to  take  down  Satin?” 
 “Somebody should provoke him or pierce his mask to find out!”
 
+要將決定權交給**NPC**，
 To disclaim authority to the NPCs, look at the drives and moves of the 
 NPCs involved, and follow them through to their conclusion. If the drives and 
 moves support one course over all the others, go with that. “Would the August 
@@ -199,6 +174,7 @@ agree to Hornet’s plan to take down Satin?” “The August has the drive ‘T
 and protect the whole of Halcyon City at any cost.’ So, yes—he’d go with the plan 
 to save Halcyon from Satin.”
 
+要將決定權交給**故事弧**，
 To disclaim authority to the arcs, look at your arcs and hooks (page 181), 
 and see if you can use them to answer the question for you. “Would the August 
 agree to Hornet’s plan to take down Satin?” “The August is a hook for Hornet, 
@@ -220,7 +196,7 @@ they’re all looking at you expectantly; or when you just think that you should
 make a move as a follow-up to something that happens. 
 
 
-<h2>SOFTER MOVES VS. HARDER MOVES</h2>
+<h2>軟動作 VS. 硬動作</h2>
 Throughout the book, I’ve made reference to hard moves, which implies that 
 there are soft moves. Whether a move is harder or softer is about how much, 
 and how directly, it changes the fiction. Softer moves set the stage for harder 
@@ -234,7 +210,7 @@ time, chances are you’re not being a fan of the PCs. If you’re using soft mo
 all the time, then you’re not making your threats real.
 
 
-##### SOFTER MOVE EXAMPLES
+##### 軟動作範例
 {{< hint info >}}
 You show up back at your base, but something’s off. The door isn’t locked, and the lights 
 inside are flickering. You look around, but you don’t see anyone. What do you do? 
@@ -245,7 +221,7 @@ TV’s on, showing your recent exploits. She’s not watching though—her eyes 
 on you. She says, “Well? Any words to explain your behavior?” 
 {{< /hint >}}
 
-##### HARDER MOVE EXAMPLES
+##### 硬動作範例
 {{< hint info >}}
 You show up back at your base, but something’s off. The door isn’t locked, and the 
 lights inside are flickering. Suddenly, in a blur of motion, Shell comes hurtling out of 
