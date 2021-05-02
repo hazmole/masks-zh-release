@@ -5,15 +5,11 @@ weight: 3
 # 面具之下
 你的玩家所選擇的扮演書能告訴你的不僅僅只有超級英雄的超能力和動作──它們還會告訴你你的玩家在遊戲過程中期待看見的問題和主題。這可能會在遊戲過程中產生改變；也許命帶天劫者會意外地對他們的浪漫感情戲勾起了注意、或也許外來者其實對他們的雙重身分感興趣。但無論如何，這些扮演書揭示了玩家們希望在遊戲中看到什麼樣的衝突。
 
-As much as possible, keep in mind what moves and options they select—
-those options give you further clues about what they want to see during play. 
-But don’t worry about this too much. Ultimately, the players are in charge of 
-their own characters and making their moves come into play. 
+盡可能地記住他們選擇了哪些動作和選項──這些選項提供了進一步的線索，讓你能知道他們想要在遊戲過程中看到什麼。
+但不用為這件事太過操心。畢竟最終是由玩家們負責扮演自己的角色，並讓他們所選的動作發揮作用。
 
-Pay close attention to the contents of this section: the playbook moves. 
-Each playbook comes with a few GM moves, catered to that playbook’s specific 
-issues and elements. Use these moves when you could make any other move to 
-drive attention to those thematic pieces of each character. 
+密切注意這個章節的內容：扮演書動作。
+每個扮演書都會有幾個相對應的GM動作，用以迎合該扮演書的特定議題和要素。當你有機會進行任何其他GM動作時，你可以使用這些動作來帶動大家對每個角色對應主題片段的關注。
 
 ---
 
@@ -26,6 +22,7 @@ drive attention to those thematic pieces of each character.
 
 明燈的主題在於做一個其他瘋狂、頂尖超級英雄身旁的「陪襯配角」。他們是正常人，徹頭徹尾的普通人，對於這樣的角色一直存在著一個強烈的爭辯：他們不應該待在這個團隊──而身為GM，這正是你的職責，去帶出這個爭辯。質疑他們，讓他們感到不安，然後給他們閃耀的機會，展現出他們最為擅長的技藝。留意明燈的〈驅動力〉──它們會告訴你明燈希望去做什麼，而你也應該盡你所能的去協助明燈完成它們，至少一場聚會一個。
 
+<hr class="minor"/>
 
 ### 蠻牛 THE BULL
 * 使他們的摯愛陷入危險
@@ -34,18 +31,12 @@ drive attention to those thematic pieces of each character.
 * 讓跟他們相像的某人發動攻擊
 * 以俗世力量包圍他們
 
-The Bull is hyperfocused on their love and rival, by default. Go with that. 
-Play  up  those  relationships.  Make  their  love  endangered,  and  their  rival 
-bolstered, to give them chances to react. Sometimes, flip it to keep things 
-interesting—endanger  their  rival  and  bolster  their  love  (maybe  with  a 
-competing love interest). 
+預設來說，蠻牛會超級關注自己的摯愛和勁敵。順其而行。烘托這些關係，讓他們的摯愛受到威脅，並讓他們的勁敵得到強化，並留給他們做出反應的機會。
+有時候，將其反轉來保持故事的趣味性──危及他們的勁敵，並他們的摯愛（也許透過一個同樣對你的摯愛感興趣的競爭對手）。
 
-The Bull comes from some dark past, some weapons program, something 
-that made them so destructive. Bring that up, and don’t ever let them totally 
-forget what they are, especially by using villains and other enemies just like 
-them, or by swarming them with mundane forces to watch them prove what a 
-weapon they are when they overcome.
+蠻牛來自於某個黑暗的過去，某種武器計畫、某個讓他們之所以具有如此破壞性的原因。把這一點帶出來，千萬不要讓他們完全忘記自己是什麼。尤其利用反派以及與他們相似的敵人來突顯這點，或者讓俗世的暴力蜂擁而上，讓他們在克服險境後證明自己有多麼像是危險的武器。
 
+<hr class="minor"/>
 
 ### 不良少年 THE DELINQUENT
 * 將他們銬起來
@@ -58,6 +49,7 @@ weapon they are when they overcome.
 
 有時候，把他們放到一群喜歡他們嘩眾取寵行為的觀眾面前；其他時候，把觀眾帶走，讓他們感到孤獨和冷漠。給他們愛，但給這份愛附加條件。永遠不要讓他們忘記，在他們之上還有其他力量制定了規則和界線。
 
+<hr class="minor"/>
 
 ### 命帶天劫者 THE DOOMED
 * 標記他們的末日軌
@@ -66,29 +58,18 @@ weapon they are when they overcome.
 * 把他們推往懸崖邊緣
 * 提供有代價的暫時慰藉
 
-The  Doomed  is  fatalistic  and  grim. Adding  a  Doomed  to  your  game 
-inherently puts death on the table, and makes your entire game a bit darker. 
-Don’t ever let them forget that they’re doomed. Have other characters reference 
-it, add bits of description about it to the fiction, and make them mark their 
-doom track. 
+命帶天劫者是宿命論的，渲染著殘酷可怖的氛圍。
+讓命帶天劫者加入你的遊戲，本身就等同於把死亡擺在了你的遊戲桌上，並讓你的整個遊戲分為都變得更為黑暗陰鬱。
+千萬不要讓他們忘記自己是注定亡滅的。讓其他角色提及這點，添加一些關於末日的描述到故事中，並讓他們標記他們的末日軌。
 
-Show them the best of the people around them, people who care about 
-them—make them want to stay here in this world. All the while, edge the 
-Doomed closer and closer to the brink, hitting them hard, so they have to 
-resort to their doomsigns and other resources for victory. Try to remember 
-their conditions for advancing their doom track, so you can make moves 
-toward those.
+讓他們看見周圍人們那最好的那一面，那些關心他們的人們──讓命帶天劫者渴望待在這個世界上。但在此同時，把命帶天劫者越來越推近邊緣，狠狠打擊他們，讓他們不得不借助他們的〈末日徵兆〉和其他資源來獲得勝利。盡量記住他們推進末日軌的條件，好讓你能夠以此為目標來使用你的ＧＭ動作。
 
-For the doomsign Infinite Powers , make sure they know they can take 
-an ability from another playbook for a one-time action—not a move from 
-another playbook. 
+關於〈末日徵兆〉中的〈無窮力量〉，確保他們知道他們可以從其他扮演書中選擇一個超能力來進行一次性的行動──而不是從其他扮演書中選擇一個動作。
 
-Talk to them to make sure you have a joint understanding of what the 
-triggers that advance their doom track look like. And don’t worry about giving 
-them a final confrontation with their doom. If it makes sense in the fiction, 
-give them the opportunity to overcome it, but they’ll have to contend with their 
-doom, one way or another, thanks to their advances.
+和他們的玩家討論，確保你們對於推進末日軌的觸發條件是什麼都有共同的理解。
+不用擔心讓他們在最後與他們的末日對峙。如果這在敘事上合理，就給予他們克服末日的機會。但無論是以什麼樣的方式，由於他們成長發展的項目，他們在最後都不得不直接與他們的末日展開抗爭。
 
+<hr class="minor"/>
 
 ### 雙面人 THE JANUS
 * 讓他們承擔他們的義務
@@ -97,23 +78,17 @@ doom, one way or another, thanks to their advances.
 * 把更多的義務加諸在他們身上
 * 摘下他們的面具
 
-The Janus is about the double life, the nature of having two identities. Push 
-them on it. You’re in charge of saying when time passes, so you’re in charge 
-of saying when the Janus has to roll for their social obligations—don’t skimp 
-on it. Continually ask them which life they’re in. If someone doesn’t know the 
-identity they’re currently in, ask the Janus if the Influence they hold over that 
-person would really apply. 
+雙面人的主題是關於雙重生活、也就是同時擁有兩種不同身份的本質。
+推動他們。你負責決定時間在何時流逝，因此你也將負責決定雙面人該在什麼時候為他們的社會義務擲骰──不要吝嗇於此。不斷地詢問他們現在正處於哪一個身分的生活。
+如果某個角色並不認識處於當前身份的他們，對雙面人詢問，確定他們擁有的對於該角色的影響力是否真的能適用。
 
-Make both lives tough. Their superheroic life is obviously difficult, because 
-the team as a whole will be mixed up in crazy drama. But they need specific 
-pushing from their mundane life and the obligations therein. Have those in 
-their mundane life lay obligations upon them. Put the people in their mundane 
-life in danger as much as those in their superheroic life. 
+讓他們兩個身分的生活都過得艱難。
+他們的超級英雄人生很明顯已經充滿困難，畢竟整個團隊都會被捲進各種瘋狂的鬧劇之中。但他們會需要從他們的平凡人生和其中的義務裡獲得具體的推動力。
+讓他們平凡生活周遭的人們在他們身上加諸義務。讓他們平凡生活中的人們身陷危險，就如同他們超級英雄生活中的群眾一樣。
 
-Give the people in their mundane life opinions on the people in their 
-superheroic life, then make them all interact. And when they’re at the mercy 
-of dangerous foes, or the situation warrants...unmask them.
+讓他們平凡生活中的人們對他們超級英雄生活中的人們指指點點，發表意見，然後讓他們彼此互動。並且當這些人們身陷危險，只能任憑受危險敵人的擺佈時，或者當情況緊急時……揭開雙面人臉上的面具。
 
+<hr class="minor"/>
 
 ### 傳承者 THE LEGACY
 * 提醒他們關於他們的家族傳承
@@ -128,6 +103,7 @@ of dangerous foes, or the situation warrants...unmask them.
 
 有時候，讓他們坐下來，與他們家族傳承的成員談論關於他們最近的表現──不要放過他們。記住，觸發傳承者的〈家族傳承〉動作就是你的最終責任；看看家族成員們會如何回應PC最近的行動；不要讓這件事拖延太久。
 
+<hr class="minor"/>
 
 ### 超新星 THE NOVA
 * 提醒他們過去造成的傷害
@@ -142,6 +118,7 @@ of dangerous foes, or the situation warrants...unmask them.
 
 超新星被他們自己的大腦深深束縛──利用這一點。向他們展現出他們的力量是個真正的危險、或來自某個有隱患的源頭、或帶有某種固定的代價，並讓他們去面對這些可怕的真相。利用他們的情緒狀態，他們的憤怒、他們的恐懼、他們的不安全感，讓其重複縈繞困擾他們，但也給予他們機會採取行動以清除這些狀態。
 
+<hr class="minor"/>
 
 ### 外來者 THE OUTSIDER
 * 關注他們與周遭的不同之處
@@ -150,23 +127,13 @@ of dangerous foes, or the situation warrants...unmask them.
 * 在他們軟弱的時候接受並支持他們
 * 在緊張情境下激起他們的信念和行動
 
-The Outsider is a stranger who’s interested in fitting in. Don’t ever let them 
-forget the struggle. Call out how they look, act, and think differently, especially 
-using NPCs with Influence over the Outsider to shift their Labels. Give them 
-a reason to stay—show them the best parts of Earth, and accept them when 
-they’re low. 
+外來者是一個有興趣融入當地的陌生人。千萬不要讓他們忘記這個過程的掙扎。點出他們的外觀、行為、和思維方式是多麼的不同，尤其使用對外來者具有影響力的NPC來調動他們的標籤屬性。給他們一個留下來的理由──向他們展示地球上最美好的一面，並在他們情緒低落時接納他們。
 
-But provoke and prod at their beliefs, make them decide if they really want 
-to commit to this strange place. And never let them totally forget their home. 
-Even if they don’t think they have direct contact to their home, send them 
-missives from where they come from, making myriad requests, everything 
-from “Collect this” to “Come home!” Introduce characters from their home 
-who come to Earth for at least some time, who watch the PC and judge them. 
+但不要忘記刺激和煽動他們的信念，逼迫他們決定他們是否真的想要投身到這個陌生的地方。此外，永遠不要讓他們完全忘記自己的家鄉。就算他們覺得自己跟家鄉之間不存在直接的聯繫，你仍然可以給他們寄送來自家鄉的書信，讓家鄉提出各種要求：從 「收集這個」到 「回家吧！」都可以。導入來自外來者家鄉的角色，他們來到地球至少好一段時間，他們會觀察PC，並評斷他們。
 
-Having an Outsider at your table means you should introduce other aliens 
-and cultures. Play up other outsider groups. Make Halcyon City, and the 
-universe, full of strange, wonderful, and terrible people.
+讓外來者出現在你的遊戲桌上，意味著你將需要導入其他的外星人和文化到你的遊戲中。強調其他外來者的群體，讓神翠市、以及這整個宇宙充滿了古怪、奇妙、且可怕的人們﹒
 
+<hr class="minor"/>
 
 ### 門徒 THE PROTÉGÉ
 * 傳達出他們的錯誤
@@ -183,6 +150,7 @@ universe, full of strange, wonderful, and terrible people.
 
 有時候，也讓他們的導師陷入危險，並讓唯一的救贖來自於門徒自己。給門徒一個機會向導師展現他們所學到的一切。
 
+<hr class="minor"/>
 
 ### 異變者 THE TRANSFORMED
 * 拒絕他們
@@ -191,23 +159,15 @@ universe, full of strange, wonderful, and terrible people.
 * 提醒他們關於他們失去的事物
 * 看見他們真實的自我
 
-The Transformed looks different, can’t hide it, and feels insecure about it. 
-They bring into play issues of being different and wanting to fit in, but from a 
-different perspective to the Outsider. The Outsider might be able to teach Earth 
-something—there might be a compromise. The Transformed, though, used to 
-be normal…and never will be again. The Transformed won’t find compromise 
-with those around them. The best they can hope for is acceptance. 
 
-Reject  the  Transformed  and  show  the  negative  reactions  their  form 
-provokes. People fear and hate them for how they look, and their struggle is 
-about overcoming those perspectives; so provide plenty of rejection. Attack 
-them with unthinking hordes, especially from a “villagers with pitchforks” 
-perspective. Show them the things they’ve lost and can’t do anymore. 
+異變者看起來與眾不同，他們無法掩飾這點，並會為此感到不安。
+他們將「與周圍格格不入」以及「想要融入其中」的議題帶到了遊戲之中，但切入角度卻又跟外來者不太一樣。外來者或許能反過來教給地球一些東西──他們之間的不同可以存在某種妥協與折衷。然而，異變者曾經是正常的……但卻再也回不去了。異變者無法與周圍的人們妥協。他們最渴望得到的就是接納。
 
-Sometimes, though, give them a reprieve. Don’t do it too often, but have 
-NPCs see through their visage to the real person beneath. Sympathize with 
-their pain and support them. It will make the next rejection all the more 
-painful. 
+拒絕異變者，並展現出他們可怕外貌所引發的負面反應。
+人們會因為他們的外表而恐懼和憎恨他們，而他們掙扎的重點就在於克服這些觀點；因此，你必須提供大量的拒絕與否定。用不假思索的群眾攻擊他們，尤其使用「舉著草叉和火炬的暴民」的那種感覺。向他們展示那些他們失去的、再也不能進行或擁有的事物。
+
+然而，偶爾給他們一點緩衝。
+不要太常這麼做，但讓NPC看透他們的假面，看見面具底下的真我。同情他們的痛苦，並支持他們。這一切都將讓下一次的拒絕變得更加痛苦。
 
 
 ---
