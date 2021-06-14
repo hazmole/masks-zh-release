@@ -197,27 +197,20 @@ all the time, then you’re not making your threats real.
 
 ##### 軟動作範例
 {{< hint info >}}
-You show up back at your base, but something’s off. The door isn’t locked, and the lights 
-inside are flickering. You look around, but you don’t see anyone. What do you do? 
+你回到了你們的基地，但情況有些不太對勁。門沒有上鎖，裡面的燈光閃爍……你看了看四周，但沒有看到任何人。你打算做什麼？
 {{< /hint >}}
 {{< hint info >}}
-When you arrive at home, your mom is sitting in her armchair, waiting for you. The 
-TV’s on, showing your recent exploits. She’s not watching though—her eyes are locked 
-on you. She says, “Well? Any words to explain your behavior?” 
+當你回到家，你的母親正坐在她的扶手椅上等著你。電視開著，螢幕上播映著你最近的事蹟。她沒有看向電視──她的雙眼緊盯著你。
+「嗯？關於你的表現，你有什麼想要解釋的嗎？」
 {{< /hint >}}
 
 ##### 硬動作範例
 {{< hint info >}}
-You show up back at your base, but something’s off. The door isn’t locked, and the 
-lights inside are flickering. Suddenly, in a blur of motion, Shell comes hurtling out of 
-the base punches you in the chest. Take a powerful blow, and then…what do you do? 
+你回到了你們的基地，但情況有些不太對勁。門沒有上鎖，裡面的燈光閃爍。突然，在電光石火之間，鋼殼從基地衝了出來，一拳打在你的胸口上。請〈承受沉重打擊〉，然後……你打算做什麼？
 {{< /hint >}}
 {{< hint info >}}
-When you arrive at home, your mom is sitting in her armchair, waiting for you. The 
-TV’s on, showing your recent exploits. She’s not watching though—her eyes are locked 
-on you. She says, “I’m ashamed of your behavior tonight. You didn’t act like a hero—
-you acted like a thug.” She’s shifting your Savior down and your Danger up. What do 
-you do?
+當你回到家，你的母親正坐在她的扶手椅上等著你。電視開著，螢幕上播映著你最近的事蹟。她沒有看向電視──她的雙眼緊盯著你。
+她說：「我為你今晚的表現感到羞恥。你的所作所為不像是英雄──你像是個暴徒。」她降低你的救助並提升你的危險標籤屬性。你打算做什麼？
 {{< /hint >}}
 
 
@@ -248,7 +241,7 @@ when the fiction demands a move, you make one.
 <h2>GM的基本動作</h2>
 以下是你的基本動作，以及每一個動作各自的細節：
 
-* 造成一個狀態
+* 施加一個狀態
 * 獲得對某人的影響力
 * 讓他們聚集在一起
 * 抓困某人
@@ -268,12 +261,8 @@ when the fiction demands a move, you make one.
 
 
 
-### 造成一個狀態
-Young heroes lead stressful lives! Inflict a condition  to clarify how intense 
-the pressure’s getting, how they’re negatively affected by all that’s coming at 
-them. Inflicting a condition always leads to more fiction, which is exactly what 
-you want. When you inflict a condition , you should only tell the PC which 
-condition if you have a very clear idea for it.
+### 施加一個狀態
+年輕英雄過著充滿壓力的緊張生活！你可以透過 施加一個狀態 來闡明這股壓力有多麼強烈，以及他們是如何被壓迫而來的一切給負面地影響。造成一個狀態 總是會導致更多的敘事，這也正是你想要的結果。當你施加一個狀態時，只有在你對其有相當明確的想法時，你才需要直接告訴PC該標記哪個狀態。
 
 {{< hint info >}}
 酷牛姊，你對著征服者如雨般揮出無數重拳，但他卻完全沒有受到任何影響。當你停下攻勢，你氣喘吁吁，你的拳頭疼痛不已，而他只是狂妄的嘲笑你。標記恐懼狀態。你打算怎麼做？
@@ -284,25 +273,13 @@ condition if you have a very clear idea for it.
 
 
 ### 獲得對某人的影響力
-Young heroes often leave themselves vulnerable. They open themselves up 
-and find themselves affected by the words of people they thought they could 
-ignore. That’s you taking Influence over someone . You’re flagging that the PCs 
-don’t have as much control over their own emotions as they might want...that 
-they don’t always get to pick and choose whose words matter to them. 
+年輕英雄經常會不自覺讓自己處於弱勢。他們敞開自己，並發現自己被那些他們認為可以忽略的傢伙的話語給影響。這就是你讓某人獲得對他們的影響力的時候。你在表明一件事：PC們對自己情緒的控制並不如他們所想的那樣……他們並不總是能夠自己決定誰的話對他們重要。
 
 {{< hint info >}}
-Sureshot, you try to pierce Champion’s mask, but you’re kinda distracted—this is 
-Champion! ! “It’s okay to be a little starstruck,” he says, noticing the look on your 
-face. “I always like meeting a fan.” He thinks you’re just a fan! He takes Influence 
-over you, but he already had it—shift your Mundane up, and your Savior down. 
-What do you do?
+神射手，你試著對英勇俠使用〈揭穿面具〉，但你有些分心──畢竟那可是英雄俠耶！「當個小追星族也沒什麼關係，」注意到你臉上的表情，他說：「我總是喜歡跟粉絲見面。」他以為你只是個粉絲！他獲得了對你的影響力，但他原本就已經有了，所以──你的平凡屬性提升，救助屬性下降。你打算做什麼？
 {{< /hint >}}
 {{< hint info >}}
-Vertex, you try to turn away from White Cobra, to pretend she doesn’t know what 
-she’s saying, but it doesn’t work. Her words got to you. “I can help you, kid,” she says. 
-“I can make you better than you ever thought you could be.” She takes Influence 
-over you. She’d lost it previously, but now it’s back, and you’re frozen in her presence. 
-What do you do?
+頂尖叛客，你試著轉身離開白色眼鏡蛇，假裝她不知道自己在說什麼，但這沒有用。她的話語打在你心中。「我可以幫助你，孩子。」她說：「我可以讓你變得比你想像得還要好。」她獲得了對你的影響力。她之前曾經失去它，但現在她又重新拿回了它。你因為她的話語在她的面前僵住不動。你打算做什麼？
 {{< /hint >}}
 
 
@@ -315,14 +292,10 @@ and ways. You don’t have to make them love each other—but you do need to
 point them at each other.
 
 {{< hint info >}}
-Grasshopper, your sister runs right up to Huma and holds out her little pocket 
-notebook. “Could you...could you sign it?” she says, her eyes glistening with hope 
-and wonder and worship. “You’re my favorite hero!” What do you do?
+蚱蜢女俠，你的姊姊跑到了神雀面前，拿出她那小巧的筆記本。「請問您……您可以幫我簽名嗎？」她說，她的眼神中閃爍著希望、驚奇、以及崇拜：「您是我最喜歡的英雄！」你打算做什麼？
 {{< /hint >}}
 {{< hint info >}}
-Toro, you read the file that Ursa sent you, and realize it lays the blame for your 
-creation at the feat of Crystal Corp., the same company that Mantis, Hornet’s mentor, 
-once owned and ran. Did Mantis know about this? Did Hornet? What do you do?
+酷牛姊，你讀了烏爾莎傳給你的文件，並理解了這份文件把創造出你們的改造手術歸咎於水晶公司：那也正是胡蜂女的導師：螳螂女，曾經一度接手並營運的公司。螳螂女知道這件事嗎？胡蜂女呢？你打算怎麼辦？
 {{< /hint >}}
 
 
@@ -334,16 +307,10 @@ something similar. When you capture someone, you amp up the stakes, giving
 the heroes a chance to be heroes and save their friend.
 
 {{< hint info >}}
-Sureshot, the doorway’s blocked by fire, and you’re on the eighth floor—any jump 
-will be pretty nasty for you. Meanwhile, Satin is still advancing toward you, seemingly 
-impervious to the flames. What do you do?
+神射手，門口被熊熊烈火給阻隔，且你正位於八樓──任何從這裡跳下去的嘗試對你來說都會相當嚴重。同時，薩汀仍在向你步步逼近，像是火焰對它毫無影響一樣。你打算做什麼？
 {{< /hint >}}
 {{< hint info >}}
-Fission, you wake up after your powers knocked you out, and you’re bound, held 
-inside some kind of laboratory. Weird cords are plugged into your arms, pulling 
-energy through your skin—you feel weak, certainly not strong enough to do anything 
-about the restraints. Above you, Rosa Rook looks down through thick glass. What 
-do you do?
+裂變俠，在你的超能力讓你失去意識後，你重新醒了過來，並意識到自己被五花大綁，關在某個實驗室裡。古怪的管線插進了你的手臂，透過你的皮膚將能量吸出──你感到虛弱，相當確定自己沒有足夠的力量來對付任何這些拘束。在你之上，羅莎．盧克正透過厚厚的強化玻璃俯視著你。你打算做什麼？
 {{< /hint >}}
 
 
@@ -356,14 +323,10 @@ in danger. Putting innocents in danger ups the ante, and gives the heroes a
 chance to be heroes.
 
 {{< hint info >}}
-Hornet, you hear Fanboy giggling through the speaker on his robot, as the machine’s 
-chest opens to reveal a timer counting down. The thing has a bomb inside of it, and 
-this building is still full of people! What do you do?
+胡蜂女，你聽見狂粉男孩透過他機器人的揚聲器發出格格嘻笑聲，機器人的胸口開啟，露出裡面一個正在倒數的計時器。這玩意兒裏頭有一個炸彈，而且這棟建築物裡頭還有很多群眾！你打算做什麼？
 {{< /hint >}}
 {{< hint info >}}
-Rex, you see Troll start picking up people off the street and tossing them over his 
-shoulder. He’s probably hoping to just slow you down, although he clearly doesn’t 
-care if anyone gets hurt. What do you do?
+雷克斯，你看見巨魔開始抓起街道上的行人，高舉過肩，然後把他們一個個丟出去。他或許只是想要讓你慢下來，但他明顯一點也不在乎那些無辜行人的死活。你打算做什麼？
 {{< /hint >}}
 
 
@@ -376,16 +339,10 @@ they’ve caused. Especially when it’s important structures, or people, who’
 been hurt. Show them the costs and the penalties for letting that damage ensue.
 
 {{< hint info >}}
-Skysong, when you come back to your crystalline ship, you see A.E.G.I.S. agents 
-surrounding it, looping weird straps over it. The lead agent explains that after your 
-last ride through the city, where you clipped all those skyscrapers, they’re impounding 
-your ship. What do you do?
+天樂女，當妳返回妳的水晶飛船時，妳看見A.E.G.I.S.的特工們將飛船團團包圍，用奇怪的封條綁住它。首席特工解釋道，在妳上次駕駛它穿過城市，撞壞那些摩天大樓之後，他們決定要扣押妳的飛船。妳打算做什麼？
 {{< /hint >}}
 {{< hint info >}}
-Dusk, you brought down the Magus, but the crowd looks at you in shock and horror. 
-They’re quiet, and you can hear some of the whispers—they remember when you 
-destroyed Freedom Plaza, and they’re terrified of you. The looks in their eyes...you 
-can’t help but feel like a Danger. What do you do? Do you accept their view of you?
+黃昏，妳擊倒了魔導師，但群眾看著你的目光卻是充滿驚恐。他們很安靜，但妳仍能聽見竊竊私語──他們還記得妳摧毀了自由廣場的那個場面，且他們很害怕妳。他們的眼神……妳不禁覺得自己就是個危險人物。妳打算怎麼辦？妳要接受他們對妳的看法嗎？
 {{< /hint >}}
 
 
@@ -398,17 +355,10 @@ versions of themselves or whatever. But other times, do it indirectly, through
 current figures that might represent what they’re becoming. 
 
 {{< hint info >}}
-Hornet, after you yell at Mantis, you storm out to change into your civilian clothes. 
-Just before you leave the base entirely, you look back to see your mentor sitting at 
-her computer. She looks...more tired than you’ve ever seen her. Worn out. Sad. Then 
-she sees you looking at her, and her focus snaps back on, her face hardening. What 
-do you do?
+胡蜂女，在妳對著螳螂女怒吼之後，妳衝出去換上妳的便裝。但就在妳完全離開基地之前，妳回頭看見妳的導師坐在她的電腦前。她看起來……比妳過往見過的她還要更累，疲憊不堪，悲傷。注意到了妳的視線，她重新收斂起注意力，臉色變得不太好看。妳打算做什麼？
 {{< /hint >}}
 {{< hint info >}}
-Fission, the time portal flares up and you see someone come through. It’s...you. This 
-version is bald, and scarred, and filled with deep power—you can feel it. The energy 
-flows through his entire body. He looks at you and smiles, with a terrifying look. 
-“Hello, kid,” he says. “I’m here to save you.” What do you do?
+裂變俠，時空通道在燃焰中開啟，你看見某人走了出來。那是……你。這個版本的你是個光頭，渾身傷疤，且蘊藏著深厚的力量──你可以感覺到。能量流遍他的全身，他看著你，一副可怕的樣子露出微笑：「哈囉，孩子，」他說：「我是來這裡救你的。」你打算做什麼？
 {{< /hint >}}
 
 
@@ -422,18 +372,10 @@ done—or just straight up announce it, publicly. Villains can be a pompous
 bunch, after all.
 
 {{< hint info >}}
-Huma, you’ve vanquished Vanquish, and you’re standing there having your heroic 
-moment, your foot on his chest as he lies against the ground...when you feel a buzzing 
-in the pocket where you keep your cell phone. When you surreptitiously answer it, 
-you hear your dad’s voice: “Rustam. It’s your grandfather. We’re at the hospital. Come 
-quickly.” What do you do?
+神雀，你反過來征服了征服者，你正站在那裏享受著你的英雄時刻，征服者倒在地上，你的腳踩在他的胸口……在這時，你感覺到一陣嗡嗡聲從你放手機的口袋中傳來。當你偷偷地接起電話，你聽到了你父親的聲音：「魯斯塔姆，你爺爺出事了。我們在醫院，快點過來。」你打算做什麼？
 {{< /hint >}}
 {{< hint info >}}
-Grasshopper, just as you’re leaving for a normal day, you see the Blue Hydra, massive 
-swarm of reptilian blue heads erupting from her back, picking up a car like it weighs 
-nothing. She calls out to the whole of your neighborhood, “Where are you, little 
-cricket? I know you’re here—I’ve been tracking you. Show yourself!” She looks ready 
-to throw the car at your house. What do you do?
+蚱蜢女俠，就在妳準備離開，回去過妳那平凡日常的時候，妳看見了湛藍海德拉，一大群青藍色的爬蟲動物腦袋從她的背後湧出，輕若無物地咬起一輛轎車。她向著妳的整個街坊鄰居喊道：「妳在哪裡啊，小蟋蟀？我知道妳在這──我一直在追蹤妳，現身吧！」她看起來正準備把轎車扔向妳家去，妳打算怎麼辦？
 {{< /hint >}}
 
 
@@ -445,17 +387,10 @@ hero offers help, but only in exchange for your team agreeing to follow her
 lead in the future. 
 
 {{< hint info >}}
-Dusk, the Lady Faust holds out her hand. “I can help you,” she says. “I can give you 
-the power you need to close the rifts and push this monster back out of your world. 
-But you have to give me something in exchange—I want you to let me into the 
-Penumbral Realm behind your portal.” What do you do?
+黃昏，浮士德女士伸出了她的手。「我可以幫助妳。］她說：「我可以提供妳關閉裂隙所需要的力量，讓妳把這個怪物趕出妳們的世界。但妳需要給我一些東西作為交換──我希望妳讓我進入妳身後那座傳送門通往的半影國度。」妳打算怎麼辦？
 {{< /hint >}}
 {{< hint info >}}
-Vertex, the Silver Savior hears your plea for help—reluctant as it is—and looks 
-skeptical. “I don’t know if I believe you, and honestly, I’m tempted to leave you on 
-your own,” he says. “But I’ll come with you if you promise me something: that you 
-come here to train with me, from now on, every day.” Probably means Silver Savior 
-would also take Influence over you. What do you do?
+頂尖叛客，白銀救星聽見了你尋求協助的請求──儘管這請求相當不情願──且他看起來有些懷疑。「我不知道我該不該相信你，而且說實話，我寧願放你們自生自滅。」他說：「不過，我會跟你過去，只要你答應我一件事：從今以後，每一天，你都得來我這裡受訓。」這或許意味著白銀救星將獲得對你的影響力。你打算做什麼？
 {{< /hint >}}
 
 
