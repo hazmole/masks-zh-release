@@ -160,26 +160,11 @@ NPC對於PC們該成為什麼樣子都有著各自的想法。他們不會只在
 
 要將決定權交給**動作**，試著用基本動作或你的GM動作來解釋該行動。如果你能找到適合的動作，那麼它將能夠幫助你解決這些行動的不確定性──你只需要照著動作的指示就行了。「奧古斯都會同意胡蜂女打倒薩汀的計畫嗎？」「會的，只要胡蜂女願意脫離螳螂女的門下，並改為在奧古斯都門下受訓。他是在有條件地援助胡蜂女。」
 
-要將決定權交給**玩家**，
-To disclaim authority to the players, make it a question about what they do, 
-specifically. Push them until they do something that resolves the uncertainty 
-for  you.  “Would  the  August  agree  to  Hornet’s  plan  to  take  down  Satin?” 
-“Somebody should provoke him or pierce his mask to find out!”
+要將決定權交給**玩家**，將這變成一個問題，詢問關於他們的所作所為。推動他們，直到他們採取某些行動，為你解決不確定性。「奧古斯都會同意胡蜂女打倒薩汀的計畫嗎？」「那可得要有某個人去煽動他，或者揭穿他的面具看看！」
 
-要將決定權交給**NPC**，
-To disclaim authority to the NPCs, look at the drives and moves of the 
-NPCs involved, and follow them through to their conclusion. If the drives and 
-moves support one course over all the others, go with that. “Would the August 
-agree to Hornet’s plan to take down Satin?” “The August has the drive ‘To serve 
-and protect the whole of Halcyon City at any cost.’ So, yes—he’d go with the plan 
-to save Halcyon from Satin.”
+要將決定權交給**NPC**，看看關聯NPC的動機和動作，並依照它們來做出結論。如果這些動機和動作會指向某個特定發展而非其他，那就遵循這個發展！「奧古斯都會同意胡蜂女打倒薩汀的計畫嗎？」「奧古斯都的動機是『不惜一切代價服務和保護整個神翠市』。所以，是的──他會同意從薩汀手中拯救神翠市的計畫。」
 
-要將決定權交給**故事弧**，
-To disclaim authority to the arcs, look at your arcs and hooks (page 181), 
-and see if you can use them to answer the question for you. “Would the August 
-agree to Hornet’s plan to take down Satin?” “The August is a hook for Hornet, 
-pulling her to be a Savior. He’ll agree if Hornet puts the emphasis of the plan on 
-saving people, and not on beating Satin.”
+要將決定權交給**故事弧**，看看你的「故事弧與引鉤」（參見 p.181），並確認你是否能夠利用它們來為你回答問題。「奧古斯都會同意胡蜂女打倒薩汀的計畫嗎？」「奧古斯都作為胡蜂女的引鉤，要把她拉往『救助』的方向。因此如果胡蜂女計畫的重點擺在拯救居民，而不是擊敗薩汀上，那他就會同意這個計畫。」
 
 
 ---
