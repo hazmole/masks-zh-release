@@ -1,5 +1,5 @@
 ---
 weight: 1
 bookFlatSection: true
-title: "遊戲規則"
+title: "核心規則書"
 ---

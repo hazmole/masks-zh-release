@@ -6,8 +6,10 @@ bookToC: false
 
 <img src="https://www.magpiegames.com/wp-content/uploads/2020/06/MPG-Header-Masks2.jpg" width="100%">
 {{< hint warning >}}
-**注意！**  
-本站的翻譯僅供參照，請先購買規則書後再使用本站！<br/>
+本站與原始規則的所有文字內容均採用創用 CC BY 4.0 國際授權條款。<br/>
+其他獨特的設定或虛構元素的版權皆屬於 Magpie Games, 2016。<br/>
+
+儘管本站的翻譯為免費開源授權，但還是推薦各位購買規則書支持作者團隊！<br/>
 <a href="https://www.magpiegames.com/masks/" target="_blank">官方網站 magpiegame</a>
 {{< /hint >}}
 
