@@ -3,201 +3,80 @@ title: 第零章：前言
 weight: 1
 ---
 
-## What is Masks?
-Ever imagine what it’d be like to punch down walls? Throw lightning from 
-your fingertips? Run faster than the human eye can see? Fly? 
+## 《蒙面少俠》是什麼？
+你是否曾經想像過一拳打穿牆壁會是什麼感覺？從你的指間射出閃電？以肉眼不能捕捉的高速疾馳？或甚至在空中翱翔？
 
-Ever been told “No” by a parent, teacher, boss, someone above you, maybe 
-even someone you looked up to? Ever wanted to tell them, “I don’t care what 
-you say,” as you go do something completely awesome?
+你是否曾經被父母、老師、老闆、某個位高權重、或甚至是你尊敬的人給否定？當你打算去做某件酷斃了的事情時，你有沒有想過對他們大喊「我才不在乎你的話！」
 
-Ever  read  stories  about  interesting,  cool,  complicated  heroes,  people 
-uncertain of who they are, uncertain of what they should do, but ultimately 
-striving to do the right thing in the face of impossible odds? And triumphing?
+你是否曾經閱讀過那些有趣、酷炫、糾葛複雜的英雄故事？他們不確定自己是誰，也不確定自己應該做什麼，但最終仍在不可能的絕境下掙扎著去做對的事情，並凱旋而歸？
 
-MASKS is where all those experiences connect. A game where you get to 
-tell your own awesome superhero comic book stories about young people 
-standing up to the world around them and paving their own way—with plenty 
-of explosions and madness along the way. A game where you get to both guide 
-the story and be surprised to find out where it’s going. 
+《蒙面少俠》連結了這一切的體驗。在這個遊戲中，你能夠講述屬於你自己的超級英雄漫畫故事，描繪青少年們是如何勇敢地面對周圍的世界，開闢自己的道路──而這條道路上將總是伴隨著耀眼奪目的爆炸以及各種瘋狂。你將在這個遊戲中引導故事的走向，並同時為你在故事發展中所發現的事物感到驚喜萬分。
 
-When you play MASKS, you and your friends tell a story, almost as if you’re 
-writing a comic together, each of you taking on the roles of the main characters 
-in the story. Actual play is like a conversation, with you and your friends 
-talking about those characters, what they do, and what happens. You’re each 
-co-authors and readers; you get to guide where the story goes, and you get to 
-be excited when it goes somewhere you never expected. 
+當你們遊玩《蒙面少俠》時，你和你的朋友們將一起共同講述故事，就像是共同創作漫畫一樣，你們每個人都將負責扮演故事中的主要角色之一。實際的遊戲過程會像是對話一樣，你和你的朋友一起談論著這些角色的種種，他們會做些什麼，又有什麼事情會發生。你們每個人都是共同作者，也同時都是讀者；你們能夠或多或少引導故事的走向，而當故事發展出某個出乎你意料之外的情節時，你也勢必會感到雀躍期待。
 
-Unlike a regular comic book, MASKS has rules that take you places you didn’t 
-expect, keep things exciting and surprising, and guide you through what to 
-say and when. So when you fling a car at the T-rex, instead of just saying what 
-happens, the rules jump in and help fill in the next step. You have to contribute 
-some, too—these rules offer guidelines that you and your group use to tell a 
-story—but they’ll point you down certain paths, ones you might not’ve chosen. 
-But that’s the entire point! 
+與尋常漫畫書不同，《蒙面少俠》的規則將帶著你們前往意想不到的發展去，讓故事保有足夠的刺激和驚喜，同時，規則也會協助引導你們開口說話的時機與內容。因此，當你舉起汽車往霸王龍臉上扔過去時，你並不是直接描述接下來發生了什麼事，而是讓規則跳出來，幫助你們填補接下來的發展。當然，你也必須出一點力——這些規則提供了你和你的團隊用來講述故事的指南，但它們也會指引你前往一些你可能不會想選擇的路徑。然而，這才是整個重點！
 
-If you want to tell a story where you know exactly what will happen, you 
-can write it on your own. MASKS lets you play to find out what happens. When 
-you throw that car, you won’t know in advance whether the T-rex will snatch it 
-out of the air with terrifying jaws, or shoot it with secret cyber-dinosaur missile 
-launchers, or just get decked across the face. You roll them dice and see what 
-ensues, and get the enjoyment of being surprised.
+如果你想要講述一個你完全清楚接下來會發生什麼事件的故事，那麼你大可以自己寫你自己的。在《蒙面少俠》，你們會用玩的來看看接下來會發生什麼事。當你把汽車丟出去時，你不會知道霸王龍接著是會用牠的駭人巨顎在半空中將它咬碎、是用牠秘密的電子恐龍飛彈發射器回擊、還是直接被迎面痛擊。你擲出骰子，看看接下來會發生什麼事，並享受意外與驚喜帶來的樂趣。
 
 
-## Tales to Astonish!
-In addition to the story itself, the plot, the things that happen, MASKS is about 
-awesome, over-the-top superheroic shenanigans. And that kind of superhero 
-stuff is just damn fun. Ridiculous? Sure. A bit stupid from time to time? Yeah, 
-totally. But damn fun? Without a doubt. What other stories give you time 
-travelers, sorcerers, mutants, aliens, and some guy with a bow all on the same 
-team? What other stories give you world-ending stakes coupled with all-too- 
-personal drama, because it turns out the apocalyptic mutant demon from 
-another world didn’t just possess some random guy, it possessed your brother? 
-Sure, superhero stuff can get a little silly, but it’s damn fun if you go with it. 
-Yeah, teen drama can get a little overwrought, but it’ll get you right in your 
-feels if you let it. Embrace it!
+## 充滿驚奇的故事！
+除了故事本身、情節轉折、以及在故事中發生的精彩事件之外，《蒙面少俠》的主題是關於那些驚人、超乎尋常的超級英雄玩意兒。而這些超級英雄玩意兒實在是太他媽有趣了！異想天開？那是當然。時不時顯得有些愚蠢？沒錯，就是這樣。但你說這天殺的好玩？那可真是毋庸置疑！還有什麼故事能讓你看到時間旅行者、巫師、變種人、外星人、和某個拿著弓的傻小子在同個團隊裡廝混？又有哪個故事能同時帶給你世界末日的風險佐以太過個人化的戲劇發展──因為，嘿，那個來自另一個世界的末日變種惡魔附身的對象可不是隨便哪個路過的可憐蟲，而是在你的兄弟身上！？
 
-MASKS is first and foremost about a team of young superheroes. They’re 
-friends, rivals, love interests, allies…and always teammates, joint stars of their 
-comic, and superheroes. They’re young; they’ve got abilities that make them 
-special; they wear costumes; they use codenames; they save people; and they 
-do it together. They’re growing up in Halcyon City, a place with plenty of older 
-supers who provide an endless clamor of voices telling them who to be, and 
-these young heroes are all trying to figure out their own way.
+當然，超級英雄劇可能略有些傻氣，但如果你順著它走，那麼它可真是太他媽有趣了。
+對，青少年劇或許是有些矯揉造作，但如果你願意敞開，那麼它將會觸動你的情緒。儘管擁抱它吧！
 
-All of those pieces are key. You might have awesome story ideas about the 
-premiere team of superheroes, or a crazy group of misfits on a spaceship, or 
-genetic superhumans fighting to protect a world that hates or fears them—but 
-MASKS, as it’s presented in this book, isn’t written for those stories. You’ll find 
-pieces of those tales, but the core of this game is different. 
+首先，也是最重要的，《蒙面少俠》講述的是關於一群年輕超級英雄組成的團隊。他們既是朋友、勁敵、戀人、同盟……也是永遠的隊友，他們是自己漫畫書中的明星，也是真正的超級英雄。他們年輕氣盛；他們擁有讓他們之所以特別的超能力；他們穿著英雄服；他們以英雄名稱呼彼此；他們拯救無辜；且他們總是一起行動。他們生長於神翠市這個大城市中，在這裡，許多年紀更大的超級英雄們總是對他們傾倒沒完沒了的意見，告訴他們應該做什麼、又該成為什麼樣的人。此時此刻，這些年輕的英雄們都仍在努力找到屬於自己的路。
 
-If you’re here because you love stories about young 
-adults, where everything feels heightened, like 
-it matters more…If you’re here because you 
-love stories about growing up, the transition 
-from something smaller and self-focused 
-to  something  new  and  interesting  and 
-capable of changing the world…If you’re 
-here because you’re excited about a game 
-exploring identity and self-image in the 
-face  of  others’  influence…Or  if  you’re 
-here because you love superhero stories, 
-punching aliens, making dramatic speeches, 
-and saving the world...
+上面這些全都是這個遊戲的重點。也許你心中有些很棒的故事想法，比如說全世界第一個超級英雄團隊、一群窩在太空船上的瘋狂怪咖，或者是一群基因改造超人類，為了守護那憎恨或恐懼著他們的世界而奮戰的故事……但是《蒙面少俠》，就像本書中介紹的那樣，並不是為了這些故事而寫的。你也許會在其中窺見這類故事的一鱗半爪，但這個遊戲的核心並不在此。
 
-Then, good. You’re in the right place. 
+如果你來是因為你喜歡關於青少年的故事，一切感受都被加強，就好像一切都變得更加重要了起來……如果你來是因為你熱愛關於成長的描寫，從小打小鬧、自我關注演變成某個嶄新、有趣、有能力改變世界的發展……如果你來這裡是因為你期待著一個在面對他人影響的同時探索自我形象和身分的遊戲……又或者，如果你來這裡是因為熱衷於超級英雄的故事，跟外星人打架、發表動人的演講、拯救世界……
+
+那麼恭喜你，你來對地方了！
 
 
-## HALCYON CITY
-There’s no place like it, anywhere else on earth. And to those who call it home, 
-there’s no place better. 
+## 神翠市
+地球上沒有任何地方能像它一樣。而對那些以它為家的人們來說，也再也沒有什麼地方能比這裡更好的了。
 
-Halcyon  City  is  a  massive,  bustling  megalopolis.  Gleaming  silver 
-skyscrapers adorn its business districts, and assorted streets, bridges, and rails 
-crisscross its body. Countless people from countless cultures and walks of life 
-populate this great city. It’s a contradictory and wonderful combination of 
-darkness, crime, corruption, and flaws, built on the errors of the past alongside 
-light, hope, and the promise of change and growth. It’s always been the city of 
-tomorrow and yesterday, and that’s never been more true than today.
+神翠市是一座繁華龐大的超級都市。一幢幢閃耀銀光的摩天大樓點綴著這座城市的商業區，混雜的街道、橋樑、鐵軌在它的軀體縱橫交錯。無數來自不同文化、階層的人們居住在這座偉大的城市。它是個既矛盾又美妙的結合，藏納著黑暗、犯罪、腐敗、與缺陷，建立在過去積累的錯誤之上，卻又同時伴隨著光明、希望、以及改變與成長的前景。它一直是一座昨日與名日之城，而這一點在今日更是如此。
 
-Halcyon  is  the  focal  point  of  the  super-powered,  extra-normal  world. 
-Caped figures soar through its skies and break into fights against terrible 
-monsters and gigantic robots. Villains scheme in nefarious lairs hidden in the 
-clouds over the city, while heroes meet and contemplate their next course of 
-action in their golden halls of justice. Paranormal adventurers walk Halcyon 
-City’s streets, looking for distortions and portals to other realms, while time 
-travelers and aliens make this city their home, for better or worse. 
+神翠市是這個超能力與超常世界的焦點。身披斗篷的身影翱翔飛越城市的天空，與可怕的怪物和巨大機器人英勇奮戰。惡棍們在藏匿於城市上空雲層內的邪惡巢穴中策劃詭計，而英雄們則在金黃璀璨的正義大廳中集結，商議他們接下來的行動。超乎常理的冒險家們行走在神翠市的街道，尋找著通往其他異界國度的歪曲通道，而不論是好是壞，時間旅行者和外星人也都把這座城市當成了自己的家。
 
-The city’s always had more than its share of strange heroes and goings-on, 
-but since the late 1930s, it’s played home to more superhumans and their kin 
-than any other place on Earth, and the city has evolved to fit its population. 
-Construction crews work at ridiculous speeds to repair the damage done in 
-superhuman brawls. Law enforcement has adapted to the superhuman activity 
-with a unique set of responses and equipment. Halcyon hosts the headquarters 
-of A.E.G.I.S., the Advanced Expert Group for Intervention and Security, an 
-elite government agency that arose specifically to deal with superhumans, 
-among other weird, secret, and superhuman oriented organizations.
+這座城市總是有著許多奇怪的英雄和事件，但從1930年代後期以來，這裡就成為了地球上居住著最多超人類的地方，而這座城市也在不斷進化以適應它的人口結構。建設團隊以匪夷所思的高速開工修補超人類鬥毆所造成的大小損失。執法部門也發展出了一套獨特的設備和應對措施來適應超人類的活動。神翠市也是調停維安專門特派局──又稱為神盾局──總部的所在地，這個精英政府機構的成立正是為了專門應付超人類、以及其他古怪、隱藏起來、以超人類為導向的組織團體。
 
-Over  the  course  of  80  or  so  years  of  superheroes,  Halcyon  City  has 
-seen three relatively distinct generations of superheroes rise and fall. These 
-three generations are known colloquially as the Gold Generation, the Silver 
-Generation, and the Bronze Generation. And now...there’s a new generation 
-rising. The children of other superheroes, or trainees of prior generations, or 
-brand new superpowered individuals, all trying to figure out who they are in 
-the midst of Halcyon City’s own special brand of wonder and insanity.
+在超級英雄這80多年來的發展歷程中，神翠市已經見證了三個世代超級英雄的興衰。這三個世代被大眾俗稱為黃金世代、白銀世代、以及青銅世代。而時至今日……新的世代崛起。他們可能是超級英雄的子女、或許是過往世代英雄的徒弟、又或者是年輕氣盛的新興超能力者，無論出身背景，他們全都試圖在神翠市那獨特的驚奇與瘋狂中找出屬於自己的定位。
 
-That’s you. You’re the new generation, and soon enough, this city with its 
-amazing miracles and impossible wonders will be yours. Who will you be when 
-it’s time to inherit Halcyon’s reins? What will you make of the place? Whose 
-butts will you kick on the way?
+而這就是你！你就是這個嶄新世代的成員，而且很快地，這座城市中的驚人奇蹟和不可思議將會屬於你。
+當神翠市的世代交替之時來臨，你將會成為什麼樣的人物？你會把這個地方變成什麼樣子？又會在這過程中把誰給狠狠踹飛？
 
 
-## FINDING YOURSELF
-So there you are. You’ve got your cape. You’ve got your superpowers. You’ve 
-got a cool name you spent a while thinking about. You’ve even got a team of 
-friends. And you’re in the greatest city on earth. 
+## 尋找自我
+所以，你有了你專屬的披風，你的超能力。你頂著一個花了很長時間想出來的酷炫名號。你甚至有著一群好朋友，還身處在全世界最棒的城市。
 
-What now? Where do you go? Who will you become?
+現在呢？你該往哪裡去？又該成為什麼樣的人？
 
-In MASKS, you play characters who are approximately 16 to 20 years old 
-(with allowances made for stuff like the alien who’s actually 1,000 years old 
-and is still a teenager in mind and body). They’re trying to figure out who they 
-are, but they’re not so young as to have no idea at all. The trouble is all these 
-adults around them, telling them what to do and who to be. Everybody has a 
-vested interest in making these young heroes one thing or another—from their 
-parents, who might just want them to be normal and safe and human, to their 
-mentors who want them to be noble and heroic and upright, to their enemies 
-who want them to be dangerous or free or arrogant. 
+在《蒙面少俠》，你將扮演年紀大約在16\~20歲左右的角色（顧及外星人之類的情況，也可以是實際年齡1000歲，但仍擁有青少年般心智和身體的個體）。他們將試圖弄清楚自己究竟是誰，但又不至於年輕到完全沒有想法。問題在於，他們身邊的成年人總在他們耳邊嘮叨，告訴他們該做些什麼，又該成為什麼樣的人。所有人都對這些年輕英雄寄予厚望，期望他們成為這樣或那樣的人物──像是他們的父母，或許只不過希望他們過上平凡安全的生活；他們的導師，希望他們成為高貴、英勇、且正直的英雄；又比如說他們的敵人，渴望他們變成危險、自由放任、或傲慢的叛逆份子。
 
-It’s the story we all face as we grow up. We don’t just become exactly what 
-our parents, teachers, or mentors want us to be...and we don’t completely 
-abandon or ignore what they say, either, whether we want to or not. 
+這是個我們在成長過程中都需要面對的故事。我們並不會完全成為我們父母、師長、或導師希望我們成為的樣子……但無論我們是否願意，我們也無法完全拋棄或忽略他們所說的話語。
 
-MASKS is all about that story. It’s about seeing these young superheroes go 
-through the wringer, get thrown into crazy superhero fights, get pushed and 
-changed by the words and ideas of those around them, and then at the end, 
-seeing who they’ve become. Sometimes, they’ll be heroes. Sometimes, they’ll 
-be monsters. Either way? It’ll be an awesome ride.
+《蒙面少俠》就是個這樣的故事。我們見證這些年輕超級英雄經歷種種磨難、被投入瘋狂無比的超級英雄大戰中、被周圍人們的話語和想法給拉扯改變，然後在最後，看著他們將會成為什麼樣的人物。有時候，他們會成為英雄；但也有時候，他們會成為怪物。無論如何，這都將會是一場精彩的旅程。
 
 
-## PLAYING TO FIND OUT
-There may be times while playing MASKS when you say, “Oh! I know exactly 
-what happens next!” You feel like you have the best possible idea for a stream 
-of events to take your character to some interesting place, and you just want 
-to say what those are. 
+## 用玩的來看看會發生什麼事
+在遊玩《蒙面少俠》的時候，有時候你可能會想說：「哦！我知道接下來會發生什麼！」。你覺得自己想出了個最棒的點子，能藉由一連串環環相扣的精采事件來把你的角色帶到某個有趣的情境，而你是如此想要把這些想法給說出來。
 
-Don’t. 
+不要這麼做。
 
-The characters in MASKS don’t really know where they belong, where they’ll 
-end up, who they’ll become, and you don’t either. This is a story of uncertainty 
-and discovery. Don’t cheat yourself out of that excitement by planning the next 
-dramatic arc in detail. Don’t force a rivalry or romance or convince yourself 
-that your character needs to die in the next fight. Just let it happen.
+《蒙面少俠》中的角色並不會真的知道自己屬於何方，不知道他們將到哪去，又會成為什麼人，而你也不會知道。這是一個關於不確定與發現的故事。不要為下一個戲劇性的轉折做任何詳細規劃，以免自己失去了未知的興奮感。不要強迫你的角色去競爭、談情說愛、或說服自己你的角色該在下一場戰鬥中死去。就順其自然地讓它發生吧。
 
-The mechanics in MASKS will push you in new and different directions, taking 
-you places you wouldn’t have expected. It’ll take some discipline to really 
-adhere to those mechanics and go where they’re taking you, but it’s worth it. So 
-much of the fun of MASKS lies in the surprise of finding out what happens, who 
-the characters are becoming, without knowing in advance. Commit yourself 
-to that uncertainty—you’ll be glad you did.
+《蒙面少俠》的機制將會把你推往那些新穎而不同的方向，帶你來到你意想不到的地方。你會需要一些練習才有辦法真正遵守這些機制並抵達它們帶領你前去的地方，但這都會是值得的。遊玩《蒙面少俠》最主要的樂趣就在於發現未知所帶來的驚喜：接下來會發生事？角色們又會變成什麼樣子？儘管讓自己投入這種不確定性之中吧——你會樂見其結果的。
 
 
-## WHERE THIS CAME FROM
-MASKS  borrows  its  rules  framework,  and  many  ideas  about  stories  and 
-storytelling, from the game APOCALYPSE WORLD by D. Vincent Baker. APOCALYPSE WORLD 
-is a mature game (think R rating) about the post-apocalyptic wasteland. MASKS 
-is pretty different in terms of subject matter and style, but the basic spine of 
-both games is the same: both are about playing to discover, about dynamic 
-characters changing in reaction to each other and the world around them, 
-about stories that go to places you’d never expect.
+## 這個遊戲是怎麼來的？
+《蒙面少俠》借鑒了D.Vincent Baker撰寫的《啟示錄世界 (Apocalypse World)》的規則框架，以及許多關於故事和故事講述的想法。《啟示錄世界》是一款關於末日荒野廢墟的成熟遊戲（限制級！）。 《蒙面少俠》的題材和風格上與之有許多不同之處，但兩款遊戲的基本主軸仍是相同的：它們講述的都是關於用玩的去發現、關於角色們在與彼此和周遭世界互動反應中的變化、以及關於往你意想不到方向發展的故事。
 
-You don’t need APOCALYPSE WORLD to play MASKS; everything you need to play 
-this game is included in this book. But if you want to take a look at APOCALYPSE 
-WORLD (and you’re comfortable with its mature content level), then it’s well 
-worth your time.
+你不需要購買《啟示錄世界》的規則才能由玩《蒙面少俠》，你遊玩這款遊戲所需要的一切全都已經包含在本書中。但如果你想拜讀一下《啟示錄世界》的內容（且你對它呈現的成熟內容感到適應），那麼它非常值得你花時間好好看一看。
 
-MASKS also comes from a long tradition of young superhero stories. Here’re a 
-few worth checking out to get an idea of the style and themes of MASKS:
+《蒙面少俠》的許多要素也來自我們年輕超級英雄故事的悠久傳統。這裡列出了幾部值得一看的作品，能幫助你更了解《蒙面少俠》的風格和主題：
 
 *  少年正義聯盟 Young Justice (卡通電視影集 by  Brandon  Vietti  &  Greg Weisman)
 *  少年復仇者 Young Avengers  (第一冊 by  Allan  Heinberg & Jim  Cheung, 以及 第二冊 by Kieron Gillen & James McKelvie)
@@ -208,64 +87,38 @@ few worth checking out to get an idea of the style and themes of MASKS:
 *  金鋼狼與X戰警 Wolverine and the X-Men (by Jason Aaron & Chris Bachalo)
 
 
-## WHAT YOU’LL NEED
-To play MASKS, you need a few friends willing to commit to playing at least one 
-2 to 4 hour session. A single session of MASKS is fun, but the game really sings 
-when you play multiple linked sessions. 
+## 遊玩所需要的東西
+要遊玩《蒙面少俠》，你需要幾個朋友願意參與一場至少2\~4小時的聚會。單次聚會的《蒙面少俠》就很有趣了，但是當你們進行好幾次劇情連貫的聚會時，這個遊戲才會顯露出它真正的光彩。
 
-MASKS needs one player to be the Gamemaster or GM—that’s a special role 
-with responsibilities slightly different from the other players, see THE GM page 
-125 for more—and 3 to 5 players to play the main characters of the game, the 
-Player Characters or PCs.  
+《蒙面少俠》需要一名玩家擔任遊戲主持人，或稱GM──這是個特殊的職位，他的職責與其他玩家略有不同，更進一步的詳情請參閱第七章的「GM章節」──以及3\~5名玩家扮演遊戲中的主要角色，也就是玩家角色，或稱PC。
 
-You also need some additional supplies. Usually the GM brings a lot of 
-these resources, but just make sure someone is bringing them. Having this book 
-at the table in some form is pretty useful, too.
+你還會需要一些額外的道具配件。通常GM會準備大部分這些東西，但只要確保有人會帶上它們就好。把這本書以任意形式準備在一邊也能夠派上不少用場。
 
-### DICE
-You need at least two six-sided dice, like the kind you find in Monopoly or 
-Risk. One pair is enough to play, but it’s a lot better to have one pair of dice 
-for each player. 
+### 骰子
+你們需要至少兩顆六個面的骰子，就是你在「大富翁」或其他桌上遊戲能找到的那種。儘管只要有一對骰子就夠了，但最好讓每個玩家都有一對骰子。
 
-### PLAYBOOKS
-You need a printed copy of each of the ten core playbooks. Each one can be 
-printed, landscape, on regular letter paper. You can add in a few limited edition 
-playbooks or take out a few core playbooks to adjust the mix, but make sure 
-you’ve got a wide variety printed and ready. 
+### 扮演書
+你需要把十個核心扮演書的每一個都列印出來。每一個扮演書都可以使用普通的A4紙橫版列印出來。你可以加入一些擴充的扮演書、或抽掉幾個核心扮演書以進行調整，但務必確保你已經將這些扮演書都列印出來並準備就緒。
 
-### PENCILS AND PAPER
-You’ll want plenty of pencils, at least one for each player—throughout the game, 
-the players mark up and make changes to their character sheets, so they need 
-pencils for sure. You’ll also want plenty of scrap paper, either notebooks or index 
-cards or post-its, so you can write down names and notes throughout the game.
+### 鉛筆和紙
+你們會需要許多枝鉛筆，至少每個玩家一枝——在遊戲過程中，玩家們會需要在自己的角色卡進行標記和修改，因此他們肯定會需要用到鉛筆。你們還需要大量的廢紙，可以是筆記本，或是索引卡或便條紙等，這樣你就可以在遊戲過程中隨時寫下名字和筆記。
 
-### ADDITIONAL MATERIALS
-Some other materials you’ll need or want:
-* Tokens for Influence, at least one set of about 5 distinct tokens for each player (the Hero Deck has cards that act as tokens, if you have it)
-* Some  inspirational  art  and  pictures,  to  generate  ideas  (the  Deck  of Villainy has a pantheon of villains, for example)
-* Printed copies of the basic moves, one for each player
+### 其他玩意兒
+還有一些其他你們可能會需要或想要的東西： 
+* 影響力指示物，至少每個玩家一套大約 5 個不同的指示物。（官方出的「影響力牌組」就是能夠被當作指示物的卡片）
+* 一些能激發創意的創作和插圖，用來協助產生想法。（比如說，官方出的「反派牌組」中有著數量眾多的反派插圖與設定）
+* 基本動作表，每個玩家一份。
+* GM用的參考表
 
-A printed copy of the GM materials You can find the sheets for running a game of MASKS as downloads, and more 
-information on the Hero Deck and the Deck of Villainy, at www.magpiegames.
-com/masks.
+你可以在官方網站的下載頁面找到運行《蒙面少俠》所需的表格和參考紙，以及更多關於「影響力牌組」和「反派牌組」的情報。<br/>
+官方網站：<a href="www.magpiegames.com/masks">www.magpiegames.com/masks</a>
 
 {{< expand "邊欄：為什麼叫「蒙面」少俠？" "..." >}}
-The name of the game is MASKS. There’s a rules piece in the game called pierce 
-the mask. The chapter including the playbooks is called THE MASKS. Why such an 
-emphasis on masks? 
+這個遊戲的名稱叫做《蒙面少俠》；遊戲中有個規則叫做「揭穿面具」；包括了扮演書的章節甚至直接被命名為「面具」。為什麼要這麼強調面具呢？
 
-On one level, the game is about superheroes—and the association of masks with 
-those costumed superpeople is pretty well ingrained, thanks to nearly a century of 
-such stories. 
+從第一個層面上，這款遊戲是關於超級英雄的故事——而多虧接近一個世紀以來這類故事所描繪的模樣，「面具」與那些奇裝異服的超級英雄和反派之間的關聯性可說已經是根深蒂固。
 
-But on another level, the game is about appearances, image, and perception. It’s 
-about the conflict between what you seem to be, and what you actually are. 
-Everybody  wears  masks.  Everyone’s  fitting  into  some  kind  of  image  or  mold, 
-playing some kind of role. Everyone has a “mask” to pierce, even if they’re not 
-wearing anything on their face. The playbooks you choose, the appearances of your 
-characters, their secret identities and their superhero names—all masks, of one 
-form or another.
+而另一方面，這個遊戲也在講述關於外表、形象、和認知。它重視著你的表面與你實際上是什麼樣子之間的衝突。每一個人都戴著面具，每一個人都在融入某種形象或模具之中，試圖扮演某個角色。每個人都戴著一張可以被揭穿的「面具」，即使他們臉上並沒有真的戴上什麼也一樣。你所挑選的扮演書、你角色的外觀形象、他們的祕密身分和超級英雄代號──這些全都是各形各樣的面具。
 
-Embrace masks. Revel in putting them on, taking them off, trying on new ones, 
-abandoning old ones.
+戴上它們、卸下它們，嘗試新的、拋棄舊的……擁抱這些面具，在這面具的饗宴中狂歡吧！
 {{< /expand >}}
