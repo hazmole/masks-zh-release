@@ -3,24 +3,9 @@ title: 遊戲就是一場對話
 weight: 1
 ---
 
-## THE CONVERSATION
-Playing MASKS is having a conversation. That means it’s easy! You sit at the table 
-with dice and pencils and sheets of paper, and you talk with each other. For 
-the most part, the conversation revolves around your characters. You say what 
-they do and how they react. Since the other players don’t live in your head, you 
-convey your character’s thoughts, emotions, and feelings to the other players 
-and the GM. 
+## 遊戲就是一場對話
+遊玩《蒙面少俠》的過程就是在進行一場對話。這意味著它並不是什麼難事！你們只需要坐在桌前，拿著骰子、鉛筆、和紙，然後互相交談就好了。在大多數的情況下，這些對話的內容都將圍繞著你們的角色。你說出他們做了什麼事、以及他們會如何反應。因為其他玩家不是你肚子裡的蛔蟲，因此你必須負責把你角色的想法、情緒、和感覺傳達給其他玩家和GM知道。
 
-There  are  times  in  the  conversation  when  you  slip  directly  into  your 
-character’s shoes, no longer narrating but actually taking on your character’s 
-persona. You make the gestures your character makes; you say things your 
-character says. Most people do this without thinking much about it. It’s pretty 
-natural to become your character while you’re playing, to want what they want, 
-to fear the outcome of the dice at crucial moments.
+有的時候，你會在對話過程中直接沉浸於你角色的處境中，你不再是用第三人稱去描述角色的行動，而是真正成為了你的角色。你會比出你角色所做的手勢；說出你的角色所說的話。大部分人不需要多想就能做到這一點，因此當你在遊玩的時候，你也會很自然地就成為你所扮演的角色：你會想得到他們想要的東西，並在關鍵時刻畏懼骰子的結果。
 
-The conversation in a roleplaying game evolves naturally over the course 
-of the session. But it’s your job as a group to keep the conversation interesting. 
-The rules, the techniques, and everything you bring to the table is about driving 
-that  conversation  toward  interesting  places.  Explosive  fights!  Emotional 
-confessions! Heroic sacrifices! Wherever the fiction takes you.
-
+角色扮演遊戲中的對話會隨著遊戲的過程而自然發展成形。但你們團隊的職責就是讓對話內容保持趣味。無論是規則、敘事技巧、或是你們帶到遊戲桌上的一切，全都是為了將對話的內容引導到有趣的地方而存在的。爆炸性的戰鬥！情緒化的自白！英勇的犧牲！以及任何故事可能帶領你們到達的情境！

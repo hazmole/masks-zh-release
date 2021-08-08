@@ -18,7 +18,7 @@ threat.
 
 <div class='Move'>
 
-## WIELD YOUR POWERS
+## 行使你的力量 WIELD YOUR POWERS
 
 When you<b> wield your powers</b> with precision or grace, roll<b>+Freak</b>。
 roll + Freak. 
@@ -30,7 +30,7 @@ roll + Freak.
 * create something useful from your environment
 * neutralize an opponent or threat, at least for now
 </div>
-{{< details title="〈直面威脅〉詳述" >}}
+{{< details title="〈行使你的力量〉詳述" >}}
 Unleashing your powers is trying something you’re not sure you can really 
 pull off, whereas wielding your powers is doing something with mastery and 
 control, so you get exactly the effect you want. Just like unleashing your powers, 
@@ -64,7 +64,7 @@ you the opportunity you need to take them down, or to run.
 
 <div class='Move'>
 
-## OVERWHELM A VULNERABLE FOE
+## 制服脆弱的敵人 OVERWHELM A VULNERABLE FOE
 
 When you <b>overwhelm a vulnerable foe</b>, roll <b>+Danger</b>。
 
@@ -76,7 +76,7 @@ When you <b>overwhelm a vulnerable foe</b>, roll <b>+Danger</b>。
 * you hurt your foe more than you intended
 * you cause serious collateral damage
 </div>
-{{< details title="〈制服弱勢敵人〉詳述" >}}
+{{< details title="〈制服脆弱的敵人〉詳述" >}}
 This is a powerful move—it’s a way for a PC to instantly end a fight against a foe, 
 regardless of how many conditions they have marked. You open fire, pouring 
 attack after attack on an enemy and just battering them into submission. 
@@ -90,7 +90,7 @@ they can’t trigger the move.
 “The fight’s over” means exactly that. Against this enemy, at least, the fight 
 is over. They’re knocked down, knocked out, defeated, incapable of continuing.
 
-#### 關於〈制服弱勢敵人〉的選項
+#### 關於〈制服脆弱的敵人〉的選項
 Choosing to take a powerful blow in turn is exactly what it says—you have to 
 roll to take a powerful blow. Your enemy, though they’re vulnerable to you, 
 gets a shot at you before they go down.
@@ -115,7 +115,7 @@ your friends in the explosion. It’s up to the GM exactly who or what gets hurt
 
 <div class='Move'>
 
-## PERSUADE WITH BEST INTERESTS
+## 以最佳利益說服 PERSUADE WITH BEST INTERESTS
 
 When you <b>persuade someone with their best interests</b>, roll <b>+Superior</b>。
 
@@ -127,7 +127,7 @@ When you <b>persuade someone with their best interests</b>, roll <b>+Superior</b
 <tag>若成功</tag>，they can mark potential or shift their own Labels if they do what you want.<br/>
 <tag>擲出10+時</tag>，take Influence over them as well.
 </div>
-{{< details title="〈〉詳述" >}}
+{{< details title="〈以最佳利益說服〉詳述" >}}
 Provoking someone is about pushing their buttons; persuading them with 
 their best interests is about dangling a carrot in front of them and leading 
 them where you want. You’re not trying to trick or anger them—you’re offering 
@@ -145,7 +145,7 @@ goals.
 Like  provoke,  when  you  trigger  this  move  make  sure  you  say,  out  of 
 character, what you want them to do.
 
-#### 關於〈〉的選項
+#### 關於〈以最佳利益說服〉的選項
 When an NPC needs concrete assurance, they need clearer proof that the path 
 you’re offering to them really is in their best interests. You need to provide 
 some evidence or support, or make some kind of meaningful promise to back 
@@ -161,14 +161,14 @@ or shift their Labels.
 
 <div class='Move'>
 
-## EMPATHIZE
+## 展現同情 EMPATHIZE
 
 When you <b>openly empathize with someone</b>, roll <b>+Mundane</b>.
 
 <tag>若成功</tag>，they must reveal a vulnerability or mark a condition.<br>
 <tag>擲出10+時</tag>，take Influence over them as well.
 </div>
-{{< details title="〈〉詳述" >}}
+{{< details title="〈展現同情〉詳述" >}}
 Openly empathizing with someone is about creating a deeper connection with 
 another person, something more than just comforting them. You can comfort 
 someone by saying what they want to hear, without ever truly understanding 
@@ -181,7 +181,7 @@ to let them know. It’s not enough to empathize internally, to think about how
 you understand where the other person is coming from—you have to speak 
 to them about it. 
 
-#### 關於〈〉的選項
+#### 關於〈展現同情〉的選項
 When you get a hit on empathizing with someone, they choose whether they 
 reveal a vulnerability or mark a condition. If they choose to mark a condition, 
 they’re keeping themselves closed down, refusing to connect, and doing so 
@@ -195,7 +195,7 @@ triggers the appropriate team move on their playbook.
 
 <div class='Move'>
 
-## STAND UP FOR SOMETHING
+## 為某事挺身而出 STAND UP FOR SOMETHING
 
 When you <b>stand up for something</b>, roll <b>+Savior</b>.
 
@@ -206,7 +206,7 @@ When you <b>stand up for something</b>, roll <b>+Savior</b>.
 * listeners can’t flee without addressing you
 * listeners can’t attack you without losing status or position
 </div>
-{{< details title="〈〉詳述" >}}
+{{< details title="〈為某事挺身而出〉詳述" >}}
 Standing up for something is making heroic speeches in the face of terrible 
 opposition, and boldly stating your true beliefs. Standing up for something is 
 about defending an ideal in the face of someone who’d tear it down. It lets you 
@@ -217,7 +217,7 @@ Standing up for something is most often about your words, what you
 say, and who hears you. That means you don’t necessarily have to do anything 
 physical to trigger it—you could stand up for something while tied to a chair.
 
-#### 關於〈〉的選項
+#### 關於〈為某事挺身而出〉的選項
 Choosing that listeners can’t keep doing what they’re doing means you can 
 ensure someone who hears you has to stop what they’re doing to listen to your 
 words. If a villain is programming the city-destroying bomb, and you choose 

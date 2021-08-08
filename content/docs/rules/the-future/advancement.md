@@ -83,12 +83,12 @@ you mark potential.
 
 ---
 
-### ADVANCES
-Most of the advances are pretty straightforward, but here are a few notes on what they mean.
+### 成長發展選項
+大部分的成長發展選項都相當直接明瞭，但我們還是在這裡寫下一些關於它們各自代表意義的說明。
 <div class='Move'>
 <ul>
-    <li>Take another move from your playbook</li>
-    <li>Take a move from another playbook</li>
+    <li>從你的扮演書獲得另一個動作</li>
+    <li>從其他扮演書中獲得另一個動作</li>
 </ul>
 </div>
 You get another move, either from your own playbook or from a different one, 
@@ -100,7 +100,7 @@ taking a move from another playbook.
 
 <div class='Move'>
 <ul>
-    <li>Someone permanently loses Influence over you; add +1 to a Label</li>
+    <li>某個人將永遠失去對你的影響力；選擇一個標籤屬性＋１</li>
 </ul>
 </div>
 Pick one character; they lose Influence over you if they have it, and they 
@@ -116,7 +116,7 @@ overall total of your Labels is permanently increased by one.
 
 <div class='Move'>
 <ul>
-    <li>Rearrange your Labels as you choose, and add +1 to a Label </li>
+    <li>重新分配你的標籤屬性；並選擇一個標籤屬性＋１</li>
 </ul>
 </div>
 As soon as you pick this advance, you can reassign the points in your 
@@ -130,8 +130,8 @@ has to come down.
 
 <div class='Move'>
 <ul>
-    <li>Unlock your Moment of Truth</li>
-    <li>Unlock your Moment of Truth after it’s been used once</li>
+    <li>解鎖你的「關鍵時刻」</li>
+    <li>在使用過「關鍵時刻」之後，再次解鎖它</li>
 </ul>
 </div>
 When you take this advance, you unlock your Moment of Truth. When you 
@@ -148,9 +148,9 @@ playbook’s Moment of Truth.
 
 <div class='Move'>
 <ul>
-    <li>Choose another 2 roles for The Bull’s Heart</li>
-    <li>Unlock 3 new flares</li>
-    <li>Choose up to 4 more resources from your mentor</li>
+    <li>為你的〈蠻牛之心〉再選擇二個角色身分</li>
+    <li>解鎖三個新的耀焰</li>
+    <li>從你的導師那裏再選擇最多四個資源</li>
 </ul>
 </div>
 These  advances  get  you  more  options  for  the  base  elements  of  your 
@@ -161,9 +161,9 @@ selected from those already present.
 
 <div class='Move'>
 <ul>
-    <li>Add +1 to any two Labels</li>
-    <li>Add +2 to the Label your mentor embodies or denies</li>
-    <li>Change your Mask Label; add +1 to your new Mask Label</li>
+    <li>任意二個標籤屬性＋１</li>
+    <li>你導師體現或否定的標籤屬性＋２</li>
+    <li>改變你〈面具〉的標籤屬性；你〈面具〉新的標籤屬性＋１</li>
 </ul>
 </div>
 These advances increase your overall Label totals. Adding +1 to any two 
@@ -182,11 +182,11 @@ Remember that each individual Label can never be higher than +3.
 
 <div class='Move'>
 <ul>
-    <li> Take drives from the Beacon playbook</li>
-    <li> Take The Bull’s Heart from the Bull playbook</li>
-    <li> Take a sanctuary from the Doomed playbook</li>
-    <li> You adopt a human life; take secret identity and The Mask from the Janus</li>
-    <li> Take a doom, doom track, and doomsigns from the Doomed playbook</li>
+    <li>獲得明燈扮演書中的「驅動力」</li>
+    <li>獲得蠻牛扮演書中的「蠻牛之心」</li>
+    <li>獲得命帶天劫者扮演書中的「避難聖所」</li>
+    <li>你適應了人類的生活；獲得雙面人扮演書中的「祕密身分」和〈面具〉動作</li>
+    <li>獲得命帶天劫者扮演書中的「末日」、「末日軌」和「末日徵兆」</li>
 </ul>
 </div>
 These advances allow you to take a specific extra from a different playbook. 
@@ -204,9 +204,9 @@ these questions after you take the advance.
 
 <div class='Move'>
 <ul>
-    <li>Unlock the remaining two powers of your suite</li>
-    <li>Choose two new abilities from any playbook as you come into your own</li>
-    <li>Mutate further and reveal another two new abilities (chosen from any playbook)</li>
+    <li>解鎖你超能力套組中剩下兩個你尚未擁有的超能力</li>
+    <li>從任意扮演書中選擇並獲得二個新的超能力</li>
+    <li>進一步異變，並獲得二個新的超能力（從其他扮演書選擇）</li>
 </ul>
 </div>
 These  advances  give  you  more  abilities,  Remember  abilities  include 
@@ -227,7 +227,7 @@ then maybe it can still work out.
 
 ---
 
-### LATER ADVANCES
+### 進階成長發展選項
 Some advances are listed in the playbook 
 below a line. You can only choose these 
 advances  when  you’ve  already  taken 
@@ -238,7 +238,7 @@ small changes to these advances.
 
 <div class='Move'>
 <ul>
-    <li>Change playbooks</li>
+    <li>更換扮演書</li>
 </ul>
 </div>
 Pick a new playbook that no other player is currently using, and switch 
@@ -289,7 +289,7 @@ actually keep, and what would they lose?
 
 <div class='Move'>
 <ul>
-    <li>Take an adult move</li>
+    <li>獲得一個成年英雄動作</li>
 </ul>
 </div>
 When you take this advance, you immediately gain access to one of the 
@@ -300,7 +300,7 @@ twice—you can only ever gain access to two of the five adult moves.
 
 <div class='Move'>
 <ul>
-    <li>Lock a Label, and add +1 to a Label of your choice</li>
+    <li>固定一個標籤屬性的數值，並選擇一個標籤屬性＋１</li>
 </ul>
 </div>
 Pick one Label and lock it—it can’t move up nor down. If that Label would 
@@ -314,7 +314,7 @@ add +1 before you lock the Label—raising it to +3, for example, then locking i
 
 <div class='Move'>
 <ul>
-    <li> Retire from the life or become a paragon of the city</li>
+    <li>從生涯退役，或成為城市的典範</li>
 </ul>
 </div>
 When you take this advance, your character is no longer a PC. Regardless 
@@ -341,7 +341,7 @@ pick up a new playbook and make a new character.
 
 
 
-## MAKING A NEW CHARACTER
+## 創建新的角色
 When  you  make  a  new  character  during  an 
 ongoing campaign—most important when your old 
 character retires or becomes a paragon—the process 

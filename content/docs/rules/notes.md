@@ -39,10 +39,13 @@ weight: 100
 * La Espada : 魔劍少女
 * Lady Faust : 浮士德女士
 * Magus Everard : 魔導師艾弗瑞
+* Nano : 奈微操使
 * Rosa Rook : 羅莎．盧克
 * Satin : 薩汀
 * Scarlet Songbird : 猩紅鳴鳥
+* Source Code : 源碼駭客
 * Shell : 鋼殼
+* Technatrix : 
 * Troll : 巨魔
 * Ursa : 烏爾莎(大熊座)
 * Vanquish : 征服者
@@ -51,4 +54,5 @@ weight: 100
 #### 組織
 * A.E.G.I.S : 神盾局（調停維安專門特派局）
 * Crystal Corp : 水晶公司
+* Exemplar : 典範者
 * VENOM : 猛毒幫
