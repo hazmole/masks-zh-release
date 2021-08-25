@@ -3,52 +3,25 @@ title: 遊戲範例
 weight: 2
 ---
 
-## THE LONG EXAMPLE
-Here’s a longer example, building off all the rules and ideas already presented, 
-to show you what a game of MASKS looks like in action, where to go after that first 
-initial fight, and the kinds of situations that might arise. I call out my thoughts 
-throughout the example—what moves I’m making and what principles I’m 
-following—so you can get a sense for what it’s like to GM. (See the fight 
-example on page 147 for more information specifically on what running a 
-fight should look like—this example follows that one chronologically, and that 
-one gives you a taste for what the opening fight of your first session might be 
-like.)
+## 長篇遊戲範例
+在這裡的是一個篇幅較長的遊戲範例，使用了所有我們在前面呈現過的規則和想法，用來向你展示《蒙面少俠》的遊戲實際運行起來會是什麼樣子、在一開始的第一場戰鬥之後會如何發展、以及任何可能發生的情境。我會在這個範例中寫下我的思路和想法──我進行了哪些動作，又遵守了哪些原則──這樣你就能夠理解擔任GM會是什麼樣的感覺。（關於運行戰鬥的情形，請參閱p147的戰鬥範例──這個例子的時間順序緊接在那個範例之後，而該戰鬥範例能夠讓你體會一下你們第一次聚會時的開幕戰鬥場景大概會是什麼樣子。）
 
-In this example, I’m running the game for four players:
+在這個範例中，我所主持的遊戲中有四名玩家角色：
 
-* The Protégé:  Hornet—Chinese, female, body armor and utility belt—
-trained by the armor-wearing vigilante Mantis to be an incredible fighter, Lian 
-Song is far more interested in stopping bad people than any of the superhero 
-dressings. Played by Joe.
-* The Transformed:  Rex—Big, green, scaly, spikey, strong and tough, male—
-formerly a regular high school student, Michael Stafford is now dealing with 
-his strange visage and abilities, and the suspicion and disgust of everyone 
-around him. Played by Matt.
-* The Nova:  Fission—Black, male, buzzcut, normal skin, colorful costume—a 
-physics genius named Tyler Wallace, on track for an early PhD before that life 
-was stolen from him by an experiment that gave him the ability to manipulate 
-molecules on an atomic level. Played by Sarah.
-* The Outsider:  Skysong—Blue, female, white-haired and -eyed, human 
-body, humanizing costume—an alien from another world, Veriskanathensis 
-came to Earth to avoid being integrated into her people’s group-mind before 
-she was ready, and has come to love it here. Played by Andrea.
+* <b>門徒</b>： 胡蜂女──華裔，女性，身著戰鬥裝甲和功能腰帶──在同樣穿著戰裝的義警英雄螳螂女門下受訓成為優秀的戰士，比起超級英雄裝扮，宋蓮對於阻止壞蛋行惡更有興趣。由喬扮演。
 
-This  example  builds  off  their  fight  against  the  Teacher.  They’ve  just 
-managed to escape from her twisted trap-realm outside of reality, and have 
-arrived back in Halcyon City with an important tool—a piece of the Teacher’s 
-“chalk,” something they might be able to use to protect Halcyon City from 
-further threats. But no sooner have they dropped into Halcyon City than...
+* <b>異變者</b>： 雷克斯──身形龐大，綠膚，身披鱗片與棘刺，強壯且堅韌，男性──曾經身為一名普通的高中生，麥可．斯塔弗德如今必須面對他那古怪的外貌和能力，以及周圍人們投向他的懷疑與厭惡。由麥特扮演。
 
+* <b>超新星</b>： 裂變俠──黑人，男性，平頭短髮、尋常肌膚、色彩鮮艷的英雄服──他是一位名叫泰勒．華萊士的物理學天才，在他跳級獲得他的博士學位之前，一起實驗意外奪走了他的尋常人生，並賦予了他在原子層級上操作物質分子的超能力。由莎拉扮演。
+
+* <b>外來者</b>： 天樂女──藍膚，女性，白髮白眼，人類一般的身體，以及文明的英雄服──她是個來自另一個世界的外星人，薇里斯卡娜蒂妮絲之所以來到地球，是因為她想在自己準備好之前避免被統整融入她們族人的集群心智之中，且她已經愛上了這個地方。由安茱莉亞扮演。
+
+這個範例的場景構築於他們與「老師」的戰鬥之後。他們才剛成功逃離她那獨立於現實之外的扭曲陷阱次元，並帶著一個重要的道具返回了神翠市──「老師」的一枝「粉筆」，他們或許能夠使用這玩意而來保護神翠市免受進一步的威脅。但就在他們剛回到神翠市之際……
 
 {{< hint info >}}
-“So, we see the panel of you guys half stumbling, half falling out of the Teacher’s 
-realm, her distorted hand stretching out for you as the portal closes. Then we have 
-one panel of the four of you catching your breath, nothing behind you but a brick 
-wall...and then we have a panel of all four of you opening your eyes and snapping to 
-attention, as we see laser gun barrels lifted up and pointed at you from off-screen.” 
-I’m describing like a comic-book (page 128), showing a flow of action and shots.
+「所以，我們看見你們半摔半跌的從『老師』的扭曲國度中逃出的漫畫格，她歪斜扭曲的魔爪伸向你們，但在這同時傳送通道也隨之關閉。接著在下一個格子，是你們四人放鬆下來喘氣的畫面，身後除了磚牆之外再也沒有其他東西……然後接著，我們可以看到下一格是你們四個人睜大雙眼，突然意識到情況不妙，我們看見好幾把雷射槍管從畫框外被舉起，直直指著你們。」我正在**如同漫畫一般地描述**，描繪著故事中的行動與鏡頭畫面。
 
-“Oh, darn,” says Matt. “This isn’t good.”
+「噢，可惡。」麥特說：「這可不太妙。」
 
 “Nope! It’s a whole bunch of guys with Rook Industries symbols on their armor, 
 pointing energy rifles in your direction. They part, and Rosa Rook—CEO of Rook 

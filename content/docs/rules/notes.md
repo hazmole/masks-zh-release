@@ -45,7 +45,8 @@ weight: 100
 * Scarlet Songbird : 猩紅鳴鳥
 * Source Code : 源碼駭客
 * Shell : 鋼殼
-* Technatrix : 
+* Teacher : 「老師」
+* Technatrix : 科技游蛇
 * Troll : 巨魔
 * Ursa : 烏爾莎(大熊座)
 * Vanquish : 征服者

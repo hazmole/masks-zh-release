@@ -6,16 +6,17 @@ weight: 3
 在你遊玩《蒙面少俠》之前，你需要先準備好一些東西，也需要先考慮好一些議題。
 
 ## 準備遊玩
-You need a space to play. If you’re playing face-to-face, you want a table big enough for everybody to sit around it, spread out a bit, put their character sheets down, and roll dice. Make sure you’ve got printed copies of the basic moves and the playbooks ready to go, along with a pair of dice for each player, some tokens for tracking Influence, a batch of index cards or post-its, and a bunch of pencils. 
+你需要一個供你們遊戲的空間。如果你們打算面對面跑團，那麼你會需要一張夠大的桌子，讓每個人圍坐在桌邊，分散開來，保留一些擺放他們角色卡並擲骰的空間。確保你們已經準備好了所有你們需要的道具：基本動作和扮演書的影本、每個玩家各一對骰子、一些用來追蹤影響力的指示物、一疊索引卡或便利貼、以及一些鉛筆。
 
-During play, establish some boundaries so you aren’t disturbed by people around you. Don’t hesitate to take breaks when needed—while it’s better if nobody stops for a meal in the middle of play, bathroom breaks, snack breaks, stand-up-and-stretch breaks are just fine. No need to rush.
+設好界線，這樣你才不會被其他人給侵擾或冒犯。不要猶豫在需要的時候休息一下──儘管不要有人在遊戲中途停下來跑去吃飯會更好，但上個廁所、點心時間、站起來伸展一下之類的短暫休息都沒有關係。不需要趕進度。
+
 
 ## 神翠市
-If you’re playing MASKS, you’re playing in Halcyon City. THE CITY on page 15 has information about Halcyon City, and there’re a few other books in the MASKS line that offer even more information ( HALCYON CITY HERALD COLLECTION, SECRETS OF A.E.G.I.S.). But here’s the thing: ultimately, Halcyon City is yours to play with, change, modify, and adapt as you choose. 
+如果你們遊玩《蒙面少俠》，那你們的遊戲舞台將會發生在神翠市。「關於神翠市」的章節記載了關於神翠市的情報，蒙面少俠的其他擴充書也提供了更多進一步的資訊（《神翠市先驅報集錦》和《神盾局的秘密》）。但事情是這樣的：最終，這都是你們的神翠市，按你們所需要的去改變、調整、適應它吧。
 
-A few key things should be true about Halcyon City, no matter what:
+然而無論如何，關於神翠市有幾個關鍵要點是無論如何都會成立的：
 
-* There have been three full generations of superheroes, supervillains, and super-powered calamities before now, stretching back into the earlier parts of the 20th century. The PCs are members of a fourth generation. Members of the prior generations are still active and interested in the future of Halcyon City.
+* 自二十世紀初以來，這裡已經歷經了整整三個世代的超級英雄、超級反派、以及超自然災難。玩家角色是第四個世代的成員。過往世代的成員們如今仍然活躍，且都對神翠市的未來很感興趣。
 
 * The city’s pretty used to all kinds of insanity, from dinosaurs rampaging down the streets, to dark wizards transforming sections of the city into castles, to parallel dimensions appearing in the sky, to aliens invading. That doesn’t mean these things aren’t still amazing and surprising, but they happen, and they’re a fact of life in the city—Halcyon rolls on, even after something that seems like it should change everything.
 
