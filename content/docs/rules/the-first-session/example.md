@@ -23,84 +23,39 @@ weight: 2
 
 「噢，可惡。」麥特說：「這可不太妙。」
 
-“Nope! It’s a whole bunch of guys with Rook Industries symbols on their armor, 
-pointing energy rifles in your direction. They part, and Rosa Rook—CEO of Rook 
-Industries—walks through to stand before you in her red suit.” Throughout the whole 
-fight I was thinking between the panels (page 133), wondering what Rosa would be 
-doing, and setting this plan into motion seemed the perfect move. So 
-now I’m announcing a between-panel threat (page 140). 
+「確實不妙！那是一整群裝甲上印有盧克工業標誌的傢伙，手中的能量步槍指向你們的方向。他們讓開一條路，接著羅莎．盧克──盧克工業的CEO──穿著她一貫的紅色西裝走到了你們面前。」在他們先前的整場戰鬥期間，我一直在**考慮畫框外的事物**，想知道羅莎究竟會做些什麼，而讓這個計畫付諸實現在這裡似乎是個完美的動作時機。因此我現在就是在<b>〈宣告畫框外的威脅〉</b>。
 
-“‘We’ll  be  taking  that,’  Rosa  Rook  says,  moving  toward 
-Hornet with her hand outstretched. ‘We appreciate you bringing 
-this  back  to  us.’”  I’m  making  a  villain  move  (page  144), 
-one I’ve chosen before for Rosa Rook—seize power from 
-a vulnerable party—because it makes perfect sense that 
-Rosa would try to take advantage of the heroes’ relative 
-weakness and exhaustion.
+「『我們會接手這個，』羅莎說道，走到胡蜂女面前並往前伸出她的手：『我們很感謝你們把這東西帶回給我們。』」我正在進行一個反派動作：〈從脆弱的團隊中奪取力量〉，這是我在之前為了羅莎．盧克挑選的其中一個動作，因為羅莎理所當然會把握並在英雄們相對脆弱和力盡的時刻站他們便宜。
 
-“Oh, heck no,” says Joe. “‘I am not letting you get 
-your hands on this thing,’ I say. I shift into a fighting 
-stance. ‘If you want to take it, you’ll have to come at 
-us.’ Is that a provoke?” 
+「噢，才不要。」喬說：「『我不會讓妳的手碰到這東西的，』我說，一邊擺出了戰鬥架式：『如果妳想得到它，你就得先對付我們。』這樣算是煽動她嗎？」
 
-“Nah,”  I  say. “Rosa  was  already  here  with 
-security guys, she anticipated a fight. You’re not 
-really pushing her buttons with threats. Plus, to 
-her, you’re just a kid. She looks down her nose 
-at you. ‘You are a child, so I expected a certain 
-amount of juvenile bravado, and I am not one to 
-overreact. But please understand—I do not want 
-to hurt you. Please, hand over the chalk before I am 
-forced to show you what my people are prepared to do.’ 
-Hornet, she’s totally using her Influence over you to tell 
-you who you are. She’s shifting your Mundane up, and 
-your Danger down. What do you do?” I’m treating my NPC 
-like a hammer (page 133), and telling them who they are or who they should be 
-(page 142).
+「不，」我說：「羅莎已經帶著一大群保安人員來到這裡，她早就預料到可能會有一場戰鬥。所以你並沒有真的用威脅來按下她的開關。此外，對她來說，妳也只是個孩子。她居高臨下用她的鼻子看著妳。『妳是個孩子，所以我確實預期妳會有些孩子氣的表現，放心，我不會為此過度反應。但還請理解──我不想傷害你們。拜託，在我被迫向你們展示我的手下有什麼能耐之前，把粉筆交出來。』胡蜂女，她完全是在利用她對妳的影響力來告訴妳妳是什麼樣的人物。她要提升妳的平凡屬性，降低妳的危險屬性。妳打算做什麼？」我在**把我的NPC當成槌子**，並<b>〈告訴他們他們是什麼樣的人、或應該成為什麼樣的人〉</b>。
 
-“Blech. I don’t want to accept it, so I guess I’m rejecting (page 80),” says Joe.
+「呸。我才不接受，所以我想我要**〈拒絕她的影響力〉**？」喬說。
 
-“What’s that look like?” I ask. To do it, Hornet has to do it.
+「那會是什麼樣子？」我問。無論要做什麼，胡蜂女都必須實際去做。
 
-“I furrow my brows at her and step forward, like I’m getting ready to fight. Should 
-I roll?” I nod, and Joe rolls a 4—a miss! “Oh, no,” says Joe.
+「我對著她皺起眉頭，往前踏出腳步，就像在表示我隨時準備好開戰。我該擲骰嗎？」我點頭，接著喬骰出了4──失敗！「喔不。」喬說道。
 
-“Yeah, that’s the thing,” I say. “You take a step forward to fight, and the security 
-guys lift their guns at you, and you hear them hum to life. These are serious enemies, 
-Rosa’s probably got even more reinforcements you can’t see, and you’re all tired 
-after the fight with Teacher—you’re not sure you can win this one. Mark Afraid, 
-and make the shift, Mundane up, Danger down. Because it’s a miss, you get to mark 
-potential, too.” I have to resort to the mechanics to tell Joe exactly what to change on 
-his character sheet, but for the most part I’m trying to make my move but misdirect 
-(page 129)—I’m basing the changes to Hornet’s character sheet in the fiction, so the 
-mechanical move looks like it’s bound to the story.
+「好，那事情是這樣的。」我說：「妳踏步向前準備戰鬥，那些安保人員隨即舉起步槍對準妳，妳聽見能量步槍被啟動的嗡鳴聲。這些傢伙都是棘手的敵人，羅莎或許甚至還安排了更多妳們沒看見的增援，而妳們在經歷過與『老師』的激戰之後全都筋疲力盡──妳不確定你們是否能在這場戰鬥中取勝。標記『恐懼』狀態，然後調動你的標籤屬性，提升平凡，降低危險。然後因為這是個失敗，所以你還可以標記一點潛能。」我必須訴諸規則機制來告訴喬他的角色卡會有什麼改變，但大多時候，我要試著**使用動作，但不要直接說出它們的名字**──我把胡蜂女角色卡上的改變融入故事中，因此機制與動作看起來就像是與故事緊緊相連。
 
-“What are the rest of you doing while this goes on? Skysong, what are you 
-doing?” I haven’t heard from Andrea in a bit, so I want to shine the spotlight (page 
-146) on her.
+「在這同時，你們其他人打算做什麼？天樂女，你打算做什麼？」我有一段時間沒聽到安茱莉亞開口了，所以我想要讓聚光燈照在她身上。
 
-“I’m not sure what we should do here—I didn’t want to hand over the chalk, but 
-I don’t think we can win this fight. I was willing to follow Hornet’s lead...but Hornet 
-looks like she’s faltering, and that makes me uncertain. I come up beside her and 
-whisper, ‘Hornet, maybe...maybe you should just give her what she wants. We’re in 
-no shape to fight her guys right now.’”
+「我不太確定我們該做什麼──我不想要交出粉筆，但我也不認為我們能贏下這場戰鬥。我願意聽從胡蜂女的指示……但胡蜂女看起來也在支吾猶豫，而這也讓我拿不定主意。我走到她身邊，低聲說：『胡蜂女，也許……也許你該把她想要的交給她？我們現在沒辦法跟她的手下戰鬥。』」
 
-“Perfect. That sounds like it’s a provoke to me; she usually listens to you and 
-you’ve got Influence over her. What do you actually want Hornet to do?” I ask.
-“I want her to back down and hand over the chalk, so we can get out of here 
-safely,” says Andrea.
+「完美。我聽起來這是在〈煽動某人〉；她經常會聽妳的意見，而且妳也確實擁有對她的影響力。妳實際上希望她做什麼？」我問。
 
-“Yep. Roll it!” Andrea gets a 12, including the +1 bonus for Influence over Hornet. 
+「我希望她退讓，把粉筆交出去，好讓我們能平安離開這裡。」安茱莉亞說道。
 
-“All right, Hornet, that means you add a Team to the pool if you do it, and you 
-have to mark a condition if you don’t.” 
+「好，擲骰吧！」安茱莉亞骰出了11，加上她對胡蜂女的影響力帶來的+1加值，得到了12的結果。
 
-“Can I defend myself here?” asks Joe.
+「好的，胡蜂女，這代表如果妳這麼做的話，妳們可以增加一點團隊默契．而如果妳不這麼做的話，妳就必須標記一個狀態。」
 
-“Well, it’s not really an attack, right?” 
+「我可以在這裡對自己使用〈保衛某人〉嗎？」喬問道。
 
-“Ah, gotcha,” says Joe. “Okay, well...then I guess I’ll do it. I hesitate for a second, 
-then I hand over the chalk.” 
+「嗯……這畢竟不算是個攻擊，對吧？」
+
+「啊，懂了。」喬說：「OK，好吧……那我想我要照做。我猶豫了幾秒，接著把粉筆交出去。」
 
 “‘Wonderful,’ says Rosa. ‘I’m glad to see some humility. Bodes well for the future 
 of our city.’ She starts to walk away from you, with her security moving to cover her. 

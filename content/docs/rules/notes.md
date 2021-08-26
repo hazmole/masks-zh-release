@@ -56,4 +56,5 @@ weight: 100
 * A.E.G.I.S : 神盾局（調停維安專門特派局）
 * Crystal Corp : 水晶公司
 * Exemplar : 典範者
+* Rook Industries: 盧克工業
 * VENOM : 猛毒幫
