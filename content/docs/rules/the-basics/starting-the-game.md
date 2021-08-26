@@ -14,35 +14,37 @@ weight: 3
 ## 神翠市
 如果你們遊玩《蒙面少俠》，那你們的遊戲舞台將會發生在神翠市。「關於神翠市」的章節記載了關於神翠市的情報，蒙面少俠的其他擴充書也提供了更多進一步的資訊（《神翠市先驅報集錦》和《神盾局的秘密》）。但事情是這樣的：最終，這都是你們的神翠市，按你們所需要的去改變、調整、適應它吧。
 
+
 然而無論如何，關於神翠市有幾個關鍵要點是無論如何都會成立的：
 
 * 自二十世紀初以來，這裡已經歷經了整整三個世代的超級英雄、超級反派、以及超自然災難。玩家角色是第四個世代的成員。過往世代的成員們如今仍然活躍，且都對神翠市的未來很感興趣。
 
-* The city’s pretty used to all kinds of insanity, from dinosaurs rampaging down the streets, to dark wizards transforming sections of the city into castles, to parallel dimensions appearing in the sky, to aliens invading. That doesn’t mean these things aren’t still amazing and surprising, but they happen, and they’re a fact of life in the city—Halcyon rolls on, even after something that seems like it should change everything.
+* 這座城市已經相當習慣於各種各樣的瘋狂怪事，從在街上橫行肆虐的恐龍、將街區轉變成雄偉堡壘的黑巫師、到空中出現的平行次元、或甚至外星人入侵。這並不代表這些事情變得不再驚奇與意外，但它們確實會發生，且它們是這座城市日常生活的一部份──即使在某些似乎應該要改變了一切的事件發生之後，神翠市依然會繼續前進。
 
-* The city is the greatest city in the world, huge and full of nearly anything you could expect to find in any city anywhere. Monuments, museums, massive corporations, slums, dark alleys, subways, whatever. Huge districts encompass many different populations and neighborhoods throughout the city, and the people living here represent diverse populations.
+* 這座城市是全世界最偉大的城市，規模龐大，且充滿了幾乎所有你在任何其他城市所能找到的任何事物：紀念碑、博物館、大型企業、貧民窟、黑暗街巷、地下鐵、如此這般。這個巨大的區域包含了整座城市中許多不同的人口和社區，而生活在這裡的人們也呈現了豐富多樣性的人口組成。
 
-Other than that, if you need or want to change the details, go for it. If you don’t think your version of Halcyon City has A.E.G.I.S. (the secretive governmental law enforcement organization targeted towards metahumans), but instead has a metahuman SWAT team force, that’s great. If you think your version of Halcyon City has a mayor who’s a former superhero, that’s awesome. So is having a mayor who hates superheroes. 
+除此之外，如果你需要或想要修改任何細節，就盡管放手去做吧！如果你認為你們版本的神翠市並沒有神盾局（針對超人類的秘密政府執法組織）的存在，而是有一支超人類特警部隊的話，那也很好。如果你認為你們版本有一個曾當過超級英雄的市長，那也很棒！當然，有一個厭惡超級英雄的市長也很不錯！
 
-Adapt the city to your own choices. Ask questions and fill it in as you go. Ultimately, Halcyon is your sandbox. 
+根據你們自己的決定去調整這座城市的樣貌。拋出問題，並在你們討論的過程中將其完整。歸根究柢，這座神翠市就是一個屬於你們的沙盒。
+
 
 
 ## 建立共識
-Superhero stories span a huge medley of styles and genres, from goofy to just plain fun to dark and gritty. It’s important that everybody’s on the same page about what to expect from the tone and style of your MASKS game. There’s room for you to nudge the tone according to your table’s choices, and the playbooks you select inherently change the game’s style. But here are some basic elements you always need to think about.
+超級英雄故事橫跨了相當廣泛的風格與類型，從耍寶搞怪、輕鬆有趣、到黑暗堅忍的類型都有。因此確保每個人對你們《蒙面少俠》的遊戲風格調性都保持一致的認識是相當重要的。你們可以根據你們遊戲桌的選擇去調整遊戲的調性，你們選擇的扮演書也多少會影響遊戲的風格。但以下這些是你們永遠需要納入考慮的基本共識。
 
 ### 生長於一個充滿超級英雄的世界
-In MASKS, all the characters are residents of Halcyon City. They may not have lived there for their whole lives, but they’ve been there long enough to get a gist of the place. That means they know about the long tradition of superheroes and villains, they know about the craziness that happens on the city streets, and they know they’re part of that world. Everyone can name at least a few heroes and villains. Everyone can remember at least one incident of seeing a superhero or supernatural event. This isn’t happening for the first time; super stuff isn’t brand new—it’s a fact of life.
+在《蒙面少俠》，所有角色都居住在神翠市中。他們也許並不是一輩子都生活在這裡，但他們確實在這裡生活了夠久的時間，並對這個地方有大致的理解。這意味著他們知道關於超級英雄和反派的悠久傳統、他們知道發生在城市街區的各種瘋狂事件、他們也知道自己是這個世界的一份子。每個人都可以說出至少幾個英雄或反派的名字，每個人都記得至少一次自己親眼目擊超級英雄或超級反派的意外事件。這一切都不是第一次發生；這些超級玩意兒並不是全新的事物──它們僅僅是發生在生活中的一個事實。
 
-What’s more, because the characters are part of that world, they’re all of interest to someone. The older generations are guaranteed to be invested in you and who you become, whether it’s because they want to stop you from becoming a great hero, or because they want to foster you, or whatever. There’s no way you’ll slip by unnoticed, or receive support from those older heroes without any conflict at all; be prepared. 
+更重要的是，因為角色們是這個世界中的一份子，因此他們都會是其他某人所在意的對象。老一輩的人們肯定會出力投資你以及你將要成為的人物，無論這是因為他們想要阻止你成為偉大的英雄、或是因為他們想要培育你成為他們想要的樣子。你不可能悄悄溜走而不受到任何人的注意，你也不可能單方面接受老一輩英雄的支持而不發生任何衝突；做好準備。
 
 ### 你的團隊
-In MASKS, you always play a team of young superheroes. The specifics of your team are filled in by many of the choices you make during character creation, from the playbooks you choose to the questions you answer from the GM. But a few pieces of your team are always true:
+在《蒙面少俠》，你們總是扮演著一群年輕超級英雄組成的團隊。你們團隊的具體細節將隨著你們在角色創建過程中做的每一個決定而被填補，從你所選擇的扮演書、到你面對GM提問時給出的答案。然而，關於你們團隊的幾個性質將永遠會是如此：
 
-<b>You all choose to be here.</b> You might be pressured to be on the team, you might feel guilt and be part of the team to absolve it, you might audibly wish you weren’t on the team at all while secretly loving it. But ultimately, it’s always your choice to be part of the team. That’s why the team won’t fracture in a heartbeat—one way or another, you want to be here, for whatever reason fits your character.
+<b>你們全都是自己選擇要待在這裡的。</b> 你也許是被迫加入團隊、也可能是因為內疚而加入成為團隊的一員、或者你可能會大聲表示自己根本不想待在團隊中，同時卻又暗自喜愛著它。但最終，成為團隊的一份子始終是你們自己的選擇。這也是為什麼這個團隊不會在一轉眼就分崩離析──出於任何符合你角色性格的理由，你想要待在這裡，無論那個理由是什麼。
 
-<b>You aren’t killers.</b> You’re a fairly young team, and you may have made some mistakes and blown some stuff up. Your actions might have led to deaths. But you aren’t killers; you don’t solve problems by killing those on the other side as if it were of no consequence. If your team is interested in pursuing more drastic measures, you might grapple with the complexities of killing as a solution to difficult problems. But so far, your team hasn’t gone down that dark path.
+<b>你們不是殺手。</b> 你們是個相當年輕的團隊，你們或許犯過一些錯誤、炸毀過某些東西，你們魯莽的行動也許導致了傷亡。但你們不是殺手；你們不會為了解決問題就輕易殺死站在對立面的人們，就好像那沒什麼大不了的那樣。如果你的團隊有興趣採取更激烈的手段，那麼你們可能會把殺戮納入解決難題的選項，並與殺戮的沉重與複雜性爭鬥。但起碼目前為止，你們的團隊還沒有踏上那條黑暗的道路。
 
-<b>You aren’t illegal or openly hunted yet.</b> Your team might technically be illegal, depending on the specifics of how superhuman teams are treated in your version of Halcyon City. But even if you are, you aren’t yet hunted by the authorities. Adults are more than likely making overtures to your team, offering to sanction you or guide you and thereby provide you with whatever legal support you need. The actions you take over the course of play may lead you to a place where you’re actively pursued or captured, but that’s not the case at the start of play.
+<b>你們並沒有被懸賞通緝或違法。</b> 也許技術上來說，你們團隊的存在是違法的──這取決於你們版本的神翠市是如何看待超人類團體。但即使你們是違法的，你們也還沒有落到被當局追捕的下場。成年人們會更傾向對你們釋出善意，提供支持或引導，從而提供任何你所需要的法律協助。你在遊戲過程中採取的行動可能會使你們陷入被追捕或囚禁的窘境，但起碼在遊戲開始時，情況並非如此。
 
-<b>You aren’t beloved.</b> Just as you aren’t yet hunted by other superheroes or by law enforcement, you also aren’t beloved by the city yet. You might be more or less well-liked, more or less doubted, but either way your team hasn’t been around long enough for the public to truly develop any kind of abiding interest in and fondness for your team yet. If you’re loved, it’s the love of celebrity, temporary and easily turned to hate.
+<b>你們尚未受到寵愛。</b> 就跟你們尚未被其他超級英雄或執法機關追捕一樣，你們也還沒有得到這座城市的寵愛。你們也許或多或少被人們喜歡、或多或少被人們懷疑，但無論如何，你們團隊存在的時間還不夠長，大眾也還沒有真正對你們團隊發展出任何長久性的支持與喜愛。就算你被民眾愛戴，那也只是對名人的愛，短暫，且非常容易由粉轉黑。
 
