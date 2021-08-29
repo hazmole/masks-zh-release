@@ -2,243 +2,172 @@
 title: 運用NPC和反派
 weight: 6
 ---
-# USING NPCs IN PLAY
-Halcyon City is packed with people for you to put in your game. To create an 
-NPC, give them a name, think about how they look—maybe one distinctive 
-mannerism or physical trait—and a one-word synopsis of how they act. That’s 
-all you need to start! Later, you can add more to flesh ’em out—abilities if 
-they’re superhuman, or a drive to tell you what they want.
+# 在遊戲中運用NPC
+神翠市充滿了大量你可以放入你遊戲中的人們。
+當你需要創建NPC時，給他們取個名字，想想他們的模樣會是什麼樣子──也許某個獨特的行為舉止或身體特徵──並用一個詞語來概述他們會如何行動。這就是你開始前所需要的一切！你可以在這之後為他們添加更多細節來充實他們──如果他們是超人類的話，你可以寫下他們的超能力、或者決定他們的動機，來提醒你他們究竟想要什麼。
 
-## DRIVES
-An easy way to give an NPC more detail is to give them a drive: a simple 
-statement of what they want. Always phrase a drive as a “To ______” sentence: 
-“To make tons of money”; “To become the new mayor”; “To avenge my sister.” 
-When you need to say what an NPC does, look at their drive—they’ll always 
-angle for an action that in some way brings them closer to accomplishing their 
-drive, though more manipulative NPCs may be subtler about it.
+## 動機
+其中一個為NPC提供更多細節的簡單方法，就是賦予他們一個動機：一個用來說明他們想要什麼的簡單陳述句。永遠把動機寫成「為了______」的句子，比如說：「為了發大財」；「為了成為新市長」；「為了替妹妹報仇」。當你需要描述NPC做了些什麼的時候，看看他們的動機──他們總是會採取那些能在某種程度上讓他們更接近自己動機目標的行動，儘管那些更老謀深算的NPC可能會以更細微巧妙的手段去做到這一點。
 
-## PC-NPC-PC TRIANGLES
-As often as possible, create PC-NPC-PC triangles—webs of relationships in 
-which two PCs have fundamentally different connections to the same NPC. 
+## PC-NPC-PC 三角關係
+盡可能頻繁的營造出 PC-NPC-PC 之間的三角關係──在這段人際網路中，兩個PC將與同一個NPC建構出本質截然不同的關係。
 
-The Janus’s sister? Yeah, she’s totally got a crush on the Nova. And the 
-Legacy’s mom adores her daughter, but hates that problematic Delinquent—
-and had herself made the Delinquent’s parole officer, just to keep an eye on the 
-guy. That former reformed supervillain is helping the Doomed to potentially 
-overcome her doom, but the Protégé knows that the supervillain was the most 
-dangerous foe her mentor ever fought. And so on, and so forth. 
+雙面人的妹妹？沒錯，她完全迷戀上了超新星。傳承者的母親很寵愛她的女兒，但她相當討厭那個不良少年──這讓她決定擔任那位少年的假釋官，就只為了好好看著這個小壞蛋。那個改邪歸正的前超級反派正在協助命帶天劫者戰勝她的末日，但門徒很清楚那個超級反派是她導師面對過最危險的敵人之一……諸如此類，不一而足。
 
-When possible, reuse an NPC instead of creating a new one, so you can 
-create these triangles for your PCs.
+如果可能的話，重複運用同一個NPC而不是再造新的，這麼一來你就可以為你的PC們營造出這樣的三角關係。
 
-## NPC CONDITIONS
-For the most part, NPCs don’t have that many conditions to mark. The only 
-real way they mark conditions is if a PC directly engaged them, and only 
-NPCs with real abilities ever count as threats for that move to trigger—and 
-they’re probably villains. (More on villains in a moment.) So don’t worry about 
-tracking conditions for anyone except the villains—everybody else simply 
-reacts according to the fiction.
+## NPC 的狀態
+大多數情況下，NPC並沒有那麼多狀態可以被標記。標記他們狀態的唯一手段就只有PC對他們進行〈直面威脅〉的動作，而且只有真正強大的NPC會被當作是觸發該動作所需要的威脅──而他們很可能會以反派的身分登場（稍後我們會說明更多關於反派的內容）。因此，除了反派之外，你不需要煩惱於追蹤紀錄其他NPC的狀態──你只需要根據故事情境來讓他們簡單做出反應就好。
 
-## NPC INFLUENCE
-All adult NPCs have Influence over PCs by default, so you don’t have to track 
-much when it comes to Influence. They can still lose and gain Influence, so if 
-they ever do, mark that in your notes.
+## NPC 的影響力
+預設上，所有的成年NPC都擁有對PC們的影響力，因此關於影響力的部分，你不需要紀錄太多東西。
+他們仍然會失去和獲得影響力，所以如果這些事發生了，請記得把它紀錄在你的筆記中。
 
-Young  NPCs,  the  same  age  as  the  PCs,  don’t  automatically  start  with 
-Influence over the PCs. But you can ask the PCs if their peers have Influence 
-over them, and record it appropriately.
+至於那些與PC們年齡相仿的年輕NPC，並不會一開始就預設擁有對PC們的影響力。但你可以向PC詢問他們的同儕是否永遠對他們的影響力，並將其適當地記錄下來。
 
-You can and should use Influence all the time for your NPCs. They can tell 
-the PCs who they are and how the world works left and right, shifting the PCs’ 
-Labels and giving cause to reject Influence. If it ever feels like a good moment 
-for an NPC to say something that could shift a PC’s Labels, go for it.
+你可以，也應該持續讓你的NPC使用影響力。他們可以告訴PC他們是誰、這個世界是如何左右運轉、調動PC的標籤屬性、給提供玩家們使用〈拒絕影響力〉的機會。如果你覺得到某個好時機能讓NPC說一些可以調動PC標籤屬性的話語時，就盡管去做吧。
 
-## ADULTS
-Most of your NPCs will probably be adults, older than the PCs. Remember 
-to make adults seem childish and short-sighted—there’s a good chance your 
-natural tendency will pull you in the opposite direction. 
+## 成年人
+你大部分的NPC可能都會是成年人，比PC要年長許多。
+記得要讓成年人看起來幼稚和短視近利──儘管你的直覺很有可能會自然而然地把你拉往相反的方向。
 
-In  general,  adults  are  older,  probably  more  experienced,  maybe  even 
-wiser—but they’re all still flawed and sometimes vulnerable individuals. They 
-just have a tendency to hide their emotions more, to let them simmer inside 
-instead of letting them burst out all at once. Play up the dichotomy. Don’t have 
-your adults be explicitly jerks or wonderful people—have them be both. 
+一般來說，成年人的年紀較大，並可能會更有經驗或甚至可能更加聰明──但他們仍然是有缺陷，且時而脆弱不堪的個體。他們只是會更傾向於隱藏自己的情緒，將其暗自醞釀，而非一下子爆發出來。強調這個對立性，不要讓你的成年人變成明確的混蛋或好人──讓他們兼而有之。
 
 
 ---
-# VILLAINS
-Villain is a catch-all term for the main antagonists in your story. Sometimes 
-villains  are  straight-up  monsters;  other  times,  they  have  all  too  human 
-motivations. You might even have a “villain” who’s actually one of the city’s 
-biggest heroes! A villain is simply an NPC important enough—and threatening 
-enough—to get an in-depth workup as an antagonist in your game. 
+# 反派
+「反派」是一個用來稱呼你故事中主要敵人的總稱。有時候，反派會是單純直接的怪物；而其他時候，他們會懷抱著太過人性化的動機。你甚至可以有一個實際上是這座城市最偉大英雄之一的「反派」角色！所謂的反派，其實就是一個具有足夠重要性──以及威脅性──的NPC，能在你的遊戲中做為敵人來被深入探究。
 
-Villains follow the basic rules for NPCs. Build triangles around them, and 
-give them drives in exactly the same way. But there some additional steps for 
-setting up a villain. 
+反派同樣遵循NPC的基本規則：在他們周圍建立三角關係網，並用同樣的方式賦予他們動機。但除此之外，反派的創建還有一些額外的步驟要進行。
 
-## HOW TO MAKE A VILLAIN
-Follow these steps to set up a villain, whether making one from scratch or 
-writing up an existing character as a villain:
 
-* Choose a name and generation
-* Choose a drive
-* Choose one to five villain moves
-* Choose one to five conditions
+## 如何創建反派
+遵循下列步驟來創建反派角色，無論你是從頭開始創建一個新的反派，還是將某個現有角色寫成反派：
 
-#### VILLAIN NAMES
-Choose a name that’s fun and exciting to you, and that signals the generation of the villain.
+* 決定反派名稱和世代
+* 決定一個動機
+* 決定 1\~5 個反派動作
+* 選擇 1\~5 個狀態
 
-* Gold: Goofy, fun, light-hearted names
-* Silver: Grandiose, cosmic, epic names
-* Bronze: Down-to-earth, simple, catchy names
-* Modern: Meme-worthy, “unique,” clever names
 
-When it’s appropriate, pick a real name for the villain, too.
+#### 反派的名稱
+取一個你覺得有趣、刺激，且能夠表現出該反派所屬世代的名稱。
 
-#### VILLAIN DRIVES
-Give your villain a drive, a purpose or goal that leads them to action, in the form of a statement: 
+* 黃金世代： 傻氣、有趣、輕鬆的名稱
+* 白銀世代： 宏偉、壯闊、史詩的名稱
+* 青銅世代： 實際、簡單、好念的名稱
+* 摩登世代： 易迷因化、「獨特」、巧妙的名稱
 
-“To __________________.” This is the same as giving any NPC a drive, 
-but for villains especially, make your drives point at the villain’s underlying 
-humanity.  Instead  of “To  travel  through  time,”  go  with “To  correct  past 
-mistakes.” Make the drives comprehensible and empathetic whenever possible.
+如果合適的話，也會你的反派取一個真實姓名。
 
-#### VILLAIN MOVES
-Create three or so villain moves, things the villain does, both 
-in and out of fights. Make them descriptive and interesting. Not 
-punch hard, but fire a cosmic punch at the most dangerous 
-target.  The  villain  moves  remind  you  of  some  of  the 
-villain’s  signature  actions  while  you  use  them  in  a 
-conflict—more descriptive moves give you more to 
-work with.
 
-Generally try to make them active and direct, 
-focused  on  the  change  to  the  fiction  that  they 
-create. Not, create a gravitational rift, but pull an 
-enemy into a gravitational rift. The former is neat, 
-but also unclear—exactly what happens next? But 
-the latter makes clear exactly what happens. 
+#### 反派的動機
+給你的反派一個動機：一個引導他們採取行動的目標或願景，並把它寫成一個陳述句的形式：「為了______」。
+這就跟決定任何其他NPC的動機一樣，但反派尤其特別，要讓你的動機指向反派那隱藏起來的人性。不要寫「為了穿梭時間」，而是寫「為了糾正過去的錯誤」。盡可能地讓動機能夠被其他人理解和同理。
 
-#### CONDITIONS
-Choose  one  to  five  conditions  for  the villain. You choose from the PC’s regular conditions  list:  Afraid,  Angry,  Guilty, 
-Hopeless,  and  Insecure.  The  more conditions  you  give  a  villain,  the greater  their  capacity  to  stay in  the  fight,  and  the  more dangerous they’ll be. 
 
-* 1 condition: barely a threat
-* 2 conditions: bit of a fight
-* 3 conditions:  threatening villain
-* 4 conditions:  dangerous villain
-* 5 conditions:  true arch-villain
+#### 反派動作
+創造出三個左右的反派動作，也就是這個反派會做的事情，無論在戰鬥中和戰鬥外都可以。讓這些動作富有敘事性和趣味性。不要只是〈重拳〉，而要寫成〈向最危險的目標發射宇宙飛拳〉。當你在衝突中使用它們時，反派動作會提醒你一些關於這個反派的招牌行動──而敘事性越強的動作能讓你更容易發揮。
 
-You  can  always adjust a villain’s danger and longevity by giving them more conditions or taking away conditions.
+盡可能讓這些動作主動而直接，專注於它們製造出的故事變化。不要寫〈創造出一個引力裂縫〉，而是寫成〈把敵人吸扯進引力裂縫〉。前者確實簡潔，卻同時也不清不楚──所以之後會發生什麼事？不知道。但相反的，後者就清楚明確地說明了會發生什麼事。
 
-#### EXAMPLE VILLAIN
-{{< details title="EXAMPLE VILLAIN" >}}
+
+#### 狀態
+為反派選擇一到五個狀態。從玩家角色的常規狀態列表中挑選：恐懼、憤怒、愧疚、絕望、不安。
+你給挑選反派的狀態越多，他們就能在戰鬥中的待得越久，並讓他們成為更危險的敵人。
+
+* 1 個狀態： 幾乎算不上是威脅
+* 2 個狀態： 小打小鬧
+* 3 個狀態： 有威脅性的反派
+* 4 個狀態： 危險的反派
+* 5 個狀態： 真正的超級大反派
+
+你永遠可以藉著增加或減少狀態來調整反派的危險性和持久度。
+
+
+#### 反派的範例
+{{< details title="範例反派" >}}
 {{< hint info >}}
-First, I choose the villain’s name and generation. I want a powerful villain who’s 
-been around for a while, so I pick the Silver generation. I want a name that sounds 
-menacing and over-the-top: I settle on the Dread Queen. I can give her a real name 
-later, if I need one. 
+首先，我必須決定反派的名稱和世代。我想要創造出一個已經存在了一段時間的強大反派，所以我選擇了白銀世代。我想要一個聽起來充滿威脅性且誇張的稱呼：最後我選定了「恐怖女王」這個名稱。我可以在這之後再給她取個真名，如果我有需要的話。
 
-Then I give the villain a drive. The Dread Queen is forming in my head as a regal 
-villain, arrogant and in charge of some nation. I think she enacts grandiose plans, 
-but ultimately, she’s driven by a relatable urge: “To protect and grow her sovereign 
-nation.” Next, I give the Dread Queen some villain moves. I stick with three for 
-now—if I really feel the need for more later, I can add them on.
+接著我要給這個反派一個動機。恐怖女王的形象在我的腦中成形，她是一個高貴的反派、傲慢，且統治著某個國家。我想她確實籌畫著某些宏偉誇張的計劃，但最終，驅使著她的是一個可以被同理的渴望：「為了保護和發展她的主權國家」。接下來，我為恐怖女王寫下了一些反派動作。我目前決定給她三個動作──如果我之後真的覺得她需要更多，那我可以之後再加上去。
 
-* Reveal a dangerous high-tech weapon or doomsday device 
-* Unveil the perfect countermeasure or counter strategy
-* Twist probabilities in her favor with her Quantum Circlet
+* 〈揭示一個危險的高科技武器或末日裝置的存在〉
+* 〈展露完美的反制措施或反制策略〉
+* 〈用她的量子頭飾將機率扭轉為對她有利的情況〉
 
-Next, I give the Dread Queen four conditions to show how dangerous she is: 
-Angry, Guilty, Hopeless, and Insecure. The Dread Queen is never Afraid.
+接下來，我給了恐怖女王總共四個狀態來表現她有多麼危險：憤怒、愧疚、絕望、和不安。恐怖女王從不會感到懼怕。
 
-I jot down some notes about who exactly she is—a monarch from another 
-dimension who came to Halcyon City during a multidimensional shift. Her country 
-came with her and floats in the ocean near the city. Halcyon is her first target for 
-conquest.
+最後我寫下了一些筆記來說明她究竟是什麼人物──她是一位來自另一個次元的君王，在經歷多重次元轉移後來到了神翠市。她的國家和她一起來到了這裡，漂浮鄰近這座城市的海洋上。神翠市將是她征服大業的第一個目標。
 
-And she’s all set and ready to go!
+現在她已經準備就緒，隨時可以上場！
 {{< /hint >}}
 {{< /details >}}
 
 
-## VILLAINS IN A FIGHT
-Here are the core guidelines that villains follow in fights: 
+## 在戰鬥中運用反派
+以下是一些反派在戰鬥中時必須遵守的核心準則：
 
-* When a villain gets hit hard, by trading blows or in other situations, they mark a condition as appropriate.
-* When a villain marks a condition, they make a move from the condition moves list immediately, before the PCs act again.
-* When  you  need  to  say  what  the  villain  does  next,  look  to  your  GM moves, their villain moves, and the condition moves.
-* When a villain needs to mark a condition but can’t, they are defeated. 
-* Villains can flee or give up long before all their conditions are filled—don’t think they have to fight to the bitter end.
+* 當反派被狠狠重創時，無論是經由交互打擊或其他情境，他將根據情境標記一個適合的狀態。
+* 當反派的狀態被標記時，在PC們再次行動之前，他將立即從狀態動作列表中挑選並進行一個動作。
+* 當你需要描述反派接下來要採取什麼行動時，看看你的GM的動作、他的反派動作、以及狀態動作。
+* 當反派需要被標記狀態但無法再標記時，他就被打敗了。
+* 反派可以在他的狀態標滿之前逃跑或放棄──不用覺得他們非得奮戰到最後一刻。
 
-Villains, and NPCs in general, always try to clear conditions—they always choose to open up after a PC’s successful comfort or support move.
+反派，以及其他NPC，總是會嘗試去清除自己身上的狀態──他們永遠會在PC成功對他們進行〈安慰或支持某人〉之後選擇敞開心胸。
 
-Beyond always seeking to clear conditions as the result of a PC’s successful 
-comfort  or  support  move,  villains  clear  conditions  when  you  think  it 
-fictionally  appropriate,  most  likely  after  time  has  passed ( page  86)  and 
-they’ve had the chance to get over their feelings.
+除了總是會在PC成功進行〈安慰或支持某人〉動作時嘗試清除狀態，反派也會在你認為故事上合適的時機把自己身上狀態清除，其中最有可能的情況時在一段時間經過之後（參見「<a href='{{< relref path="docs/rules/the-moves/team-move" >}}'>團隊默契</a>」段落中關於一段時間經過的說明），他們總有機會去克服自己的情緒。
 
 
-## CONDITION MOVES
-These are GM moves for villains to make immediately after they’ve marked a 
-condition, and any time you’d make a GM move after that. 
+## 狀態動作
+這些是反派們在狀態被標記之後必須立即進行的GM動作，或在這之後，當你需要使用GM動作時，你也可以使用它們。
 
-#### AFRAID
-* Hide out of harm’s way
-* Flee from danger or difficulty
-* Lash out without thought at a threat
-* Plead for mercy
-* Throw up blocks and walls
+#### 恐懼
+* 躲在安全地帶
+* 逃離危險或困難
+* 不假思索地對威脅發起攻擊
+* 懇求憐憫饒恕
+* 築起障礙和壁壘
 
-The Afraid condition moves are about blocking and fleeing, about escaping 
-from danger, with the exception of lash out without thought at a threat. Mark 
-Afraid for a villain if you want them to try to escape or protect their interests. 
+「恐懼」的狀態動作主要是關於阻擋和逃離，讓自己遠離危險，但〈不假思索地對威脅發起攻擊〉是例外。
+如果你想要讓反派試著逃跑或保護自身利益，那麼就標記他的「恐懼」狀態。
 
-#### ANGRY
-* Vent through unthinking violence
-* Break the environment
-* Shut down conversation
-* Lash out at any vulnerability
-* Escalate the situation dangerously
+#### 憤怒
+* 透過盲目地暴力發洩
+* 破壞周遭環境
+* 中斷對話
+* 對任何弱點進行痛擊
+* 使局勢向更危險的情境惡化
 
-The Angry condition moves are about intense overreaction and amplifying 
-the situation. Mark Angry for a villain if you want them to fight and struggle 
-dangerously.
+「憤怒」的狀態動作主要是關於激烈的過度反應和使局勢升級。
+如果你想要讓反派用危險的方式戰鬥或掙扎，那麼就標記他的「憤怒」狀態。
 
-#### GUILTY
-* Seek forgiveness
-* Sacrifice anything or everything for redemption
-* Turn to the unthinkable
-* Implicate others in guilt
-* Reveal the nature of their drive
+#### 愧疚
+* 尋求原諒
+* 犧牲一切以換取贖罪
+* 求助於荒誕
+* 牽連他人的罪行
+* 揭示他們動機的本質
 
-The Guilty condition moves are about making the villain more relatable 
-and human. They let you try to redeem a villain or to show an inner pain that 
-pushes them to drastic action. Mark Guilty for a villain if they understand 
-the terrible nature of the things they do, but aren’t sure what else they can do.
+「愧疚」的狀態動作在於讓反派變得更能被同理、更有人性。這些動作能讓你試著使反派獲得救贖、或者表現出那促使他們採取激烈行動的內在痛苦。
+如果反派理解了他所做所為的惡劣本質，但不確定自己還能夠做些什麼時，就標記他的「愧疚」狀態。
 
-#### HOPELESS
-* Give up without a fight
-* Burn down the world around them
-* Seek any light in the dark
-* Undermine others’ beliefs
-* Veer toward drastic and terrible action
+#### 絕望
+* 不戰鬥而放棄
+* 讓他們周遭的世界熊熊燃燒
+* 尋求黑暗中的曙光
+* 摧毀他人的信念
+* 轉而採取激烈而可怕的行為
 
-The Hopeless condition moves are about escalation or de-escalation. They 
-let you make the villain give up, or take an outstretched hero’s hand...or they 
-let you make the villain escalate in terrible ways. Mark Hopeless for a villain if 
-they’re losing badly, and you want to either ratchet the overall tension or bring 
-things to a close.
+「絕望」的狀態動作主要是關於局勢的惡化或緩和。這些動作能讓你使反派放棄、接受英雄們伸出的援手……或讓你使反派以糟糕的形式加劇惡化局勢。
+如果反派損失慘重，且你想要提升整體的緊張氣氛或讓事情告一段落，那麼就標記他的「絕望」狀態。
 
-#### INSECURE
-* Double down on broken plans or ideas
-* Follow the lead of someone else
-* Doubt and question their own allies and plans
-* Admit wrongful action
-* Recede into the background
+#### 不安
+* 對破碎的計畫或想法加注
+* 聽從他人的領導
+* 質疑他們自己的盟友和計畫
+* 承認錯誤的行動
+* 退居幕後
 
-The Insecure condition moves are about social interaction. They let you 
-make a villain talk, explain, or interact on a level other than conflict and 
-violence. Mark Insecure for a villain if they doubt themselves and those around 
-them, and you’re interested in having a different kind of interaction. 
+「不安」的狀態動作主要是關於社交互動。這些動作能讓你使反派以衝突和暴力以外的方式去開口談話、解釋、或互動。
+如果反派懷疑自己或他周遭的人事物，且你有興趣展開另一種不同的互動方式，那麼就標記他的「不安」狀態。

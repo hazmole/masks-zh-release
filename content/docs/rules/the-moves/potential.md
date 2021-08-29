@@ -3,13 +3,10 @@ title: 潛能
 weight: 7
 ---
 
-# POTENTIAL
+# 潛能
 
-Every time you roll a miss on any move, you mark potential—your character 
-is growing fully into their self and what they can do. Once you’ve marked five 
-potential, you can take one of your advances, checking that option off the list.
+每當你在進行任何動作時骰出失敗的結果，你標記一個潛能──你的角色正在成長，無論是他們的自我認識，還是他們能夠做到的事。一旦你標記了五個潛能，你就可以取得你的一個成長發展，並從清單中劃掉該成長發展。
 
-The  advancement  list  is  divided  into  two  sections. You  can  only  take 
-advances from the lower section once you’ve taken five from the top section. 
-For more on advancement, see THE FUTURE page 113.
+成長發展清單被分成了兩個部分。只有在你從上半部分取得五個成長發展之後，你才能夠從下半部分挑選成長發展。
+更多關於成長發展的說明，請參見第六章「未來發展」的章節。
 

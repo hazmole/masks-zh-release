@@ -2,37 +2,25 @@
 title: 主持技巧
 weight: 5
 ---
-# CHAIN REACTIONS
-The  moves  in  MASKS  are  designed  to  link  together.  One  move  ends  and 
-immediately sets up a new move. Partial hits (7-9 results) in particular push 
-the  situation  towards  unresolved  tension—you  don’t  flat  out  take  down 
-Tentacular Doom, you hurt the monster instead, then it hurts you, and you 
-push the creature to a place where you might have a chance to knock it out 
-of the city, and so on. Even misses often require reaction, and that reaction 
-pushes towards new moves. That’s how you get tense, effective, interesting 
-scenes across the board—but it’s also how you get awesome fight scenes. Each 
-punch leads to another change in the scene, which leads to another punch.
+# 連鎖反應
+《蒙面少俠》中的動作被設計成能輕易串聯在一塊：一個動作的結束會立刻導致下一個動作的產生。部份成功（7-9的結果）更是會把情況推向尚未被解決的緊張局勢──你並沒有直接打倒觸手末日怪，而僅僅是傷害了牠，接著牠也擊中了你，然後你將這頭怪物打到了另一個位置，讓你有機會將牠狠狠從城市踢飛出去，如此這般。即使擲骰失敗也經常會導致需要反應的情境，而這些反應也將接著帶出新的動作。這就是你在遊戲中營造出緊張、有效、有趣場景的方式──這同時也是你如何描繪出精彩萬分的戰鬥場景的手段。每一拳都會造成場景中的另一個變化，從而導致下一次攻擊的發生。
 
-As the GM, you control how much the moves snowball. Some things you 
-can say will lead to a chain reaction of moves more than others—if you capture 
-a PC for instance, that ends the chain reaction, whereas opening a portal that 
-releases alien warriors onto the streets will only push the PCs to further action. 
+做為GM，你可以控制這些動作滾雪球的程度。你所描繪的某些情境能夠衍生的連鎖反應會比其他更多一些——打個比方，如果你囚禁了其中一名PC，那麼連鎖反應就會結束在這；但反過來說，打開一個傳送通道並將一大群外星戰士釋放到街道上，將只會把PC們推向需要採取更多行動的情境。
 
-This section details a few other things you need to know about how some 
-of the moves of the game connect, interrelate, and flow.
+這個章節詳細介紹了一些你需要知道的主持技巧，告訴你遊戲中的動作是如何串聯、相互關聯、以及流動的。
 
 
 <!--## SESSION MOVES (Ignored)-->
 
 
-## FIGHT SCENES
+## 戰鬥場景
 Fights come up often in MASKS, so you need to be prepared for them. An 
 awesome fight can be one of the most fun pieces of a game, but it can also 
 test your GMing skills. You have to manage the spotlight and the flow of the 
 action, the tension, the reactions of the villains...all the moving parts that make 
 a fight scene fun.
 
-### MANAGING THE SPOTLIGHT
+### 管理聚光燈
 If you have a fight scene involving every member of the team and at least one 
 villain, that’s a lot of characters for you to bounce between. You’re in charge 
 of the spotlight, i.e., which character is featured in any given panel of your 
@@ -59,7 +47,7 @@ character with each successive panel. You’d want to see the comic stick with a
 character for a few beats before moving to the next part of the fight. 
 
 
-### CRAFTING TENSION
+### 營造緊張感
 How  do  you  make  fights  matter?  How  do  you  make  them  feel  tense? 
 Dangerous? Potentially disastrous? 
 
@@ -83,7 +71,7 @@ successfully capture the rampaging villain before they destroy too much of
 the city. Make GM moves that point the fight in directions other than straight 
 out brawling.
 
-### PORTRAYING VILLAINS
+### 描繪反派
 You should still portray your villains as people, with their own character traits 
 and contradictions. But during fights, you need to take some steps to make 
 them fit the role of primary opposition. 
@@ -109,7 +97,7 @@ to some kind of threat or attack from the PCs, let them know—the villain just
 shrugs it off. 
 
 
-## PC VS PC
+## 玩家 VS 玩家
 In MASKS, there may be some conflict between PCs, situations where two young 
 heroes try to provoke each other or punch each other. Most of the time, PCs 
 try to comfort or support each other, and they have relatively little reason to 
@@ -118,7 +106,7 @@ up. But even though MASKS is mostly concerned with conflict against antagonists
 and villains, sometimes the PCs will want to hit each other. That’s okay! You 
 and MASKS can handle it. 
 
-### SHARING SPOTLIGHT
+### 共享聚光燈
 These situations ultimately follow many of the guidelines for fights. Share 
 the spotlight between the characters and be a fan of everyone involved. You 
 may flip to one PC first, as the instigator, to  directly engage a threat, but you 
@@ -134,7 +122,7 @@ gets taken out too quickly, too easily—the PCs may be faced with some hard cho
 down without warning.
 
 
-### DEFENDING AND BOOSTING
+### 抵禦和幫助
 The  only  means  PCs  have  to  directly  intervene  when  another  PC  comes 
 after them is to defend against a PC threat. On a 7+, the defender gives the 
 opposition a -2 to their roll. Defend needs to be against an immediate threat, 
@@ -148,7 +136,7 @@ PC might scream that they don’t want help, but if another PC wants to spend
 Team to help out, they get +1 to a roll. Players are encouraged to talk out of 
 character about whether or not they want to spend Team.
 
-### PLAYER VS PLAYER EXAMPLE
+### 玩家 VS 玩家　的範例
 {{< hint info >}}
 Huma’s pretty frustrated with Vertex’s nonsense, especially choosing to let La Espada 
 go during their last conflict, instead of bringing her down. 
@@ -221,7 +209,7 @@ or take up too much of your attention in the game as a whole.
 
 ---
 
-# WHEN YOU’RE NOT BUSY
+# 當你沒那麼忙的時候……
 These tips and tricks aren’t crucial to running MASKS successfully—you’ll be fine 
 if you stick to the agendas, principles, and moves earlier in this chapter. But 
 these may give you some tools to take your game to the next level!

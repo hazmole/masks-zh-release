@@ -47,6 +47,7 @@ weight: 100
 * Shell : 鋼殼
 * Teacher : 「老師」
 * Technatrix : 科技游蛇
+* Tentacular Doom : 觸手末日怪
 * Troll : 巨魔
 * Ursa : 烏爾莎(大熊座)
 * Vanquish : 征服者
