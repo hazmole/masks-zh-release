@@ -1,7 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>第四章：動作與機制 on 蒙面少俠 中文站</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-moves/</link><description>Recent content in 第四章：動作與機制 on 蒙面少俠 中文站</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://hazmole.github.io/masks-zh-release/docs/rules/the-moves/index.xml" rel="self" type="application/rss+xml"/><item><title>在遊戲中使用動作</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-moves/using-moves-in-play/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-moves/using-moves-in-play/</guid><description>USING MOVES IN PLAY
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>第四章：動作與機制 on 蒙面少俠 中文站</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-moves/</link><description>Recent content in 第四章：動作與機制 on 蒙面少俠 中文站</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://hazmole.github.io/masks-zh-release/docs/rules/the-moves/index.xml" rel="self" type="application/rss+xml"/><item><title>在遊戲中使用動作</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-moves/using-moves-in-play/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-moves/using-moves-in-play/</guid><description>在遊戲中使用動作
 #
-The most important thing to keep in mind about moves is this: to do it, you do it.
-Every move has both a mechanical element—rolling the dice and charting the results as a full hit, partial hit, or miss, and then determining what happens based on the move—and a fictional element—you charge forward and punch someone, or you say something mean and provocative, or what have you.</description></item><item><title>基本動作</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-moves/basic-moves/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-moves/basic-moves/</guid><description>基本動作
+關於動作最重要的一點是：想做什麼，就實際去做。
+每一個動作都同時有著機制性和敘事性的要素。機制性的要素包括：擲骰子，查看結果是完全成功、部分成功、或失敗，然後根據動作決定會發生什麼；而敘事性的要素則像是：你衝向前並狠揍某人一拳、或者你說出刻薄挑釁的話語，諸如此類。你不能在缺少其中一個要素的情況下得到另一個！無論你想做什麼，你都得實際去做。
+如果你沒有在故事中做出相關的行動，那麼就沒有任何動作會被觸發。想要〈釋放你的力量〉？你得嘗試用你的能力做些瘋狂事！想〈直面威脅〉？那你必須投身戰鬥並與敵人激烈扭打！想〈揭穿面具〉？你需要留神注意他們隱藏起來的蛛絲馬跡！想要〈安慰或支持某人〉？那你就必須說出一些安慰或支持的話語！
+有時候你會看著一個動作，然後說：「我想做這件事。」 你意識到你接下來期望發生的事情正是〈直面威脅〉的機制性結果，因此你想要觸發這個動作。這樣很好！但你不能因為你想擲骰就擲骰。你必須在故事中採取一些行動，才能夠觸發動作。
+與此同時，GM也會注意每個動作的觸發時機。有時候當你描述自己在做某件事情時，GM會告訴你這觸發了某個動作——這也很好！如果你偏好這樣，那你也可以只專注於描述自己的角色要說什麼或做什麼，並依靠GM在你觸發了某個動作時將其點出。
+最後需要注意的是，沒有動作並不代表你不能去做那些行動！ 使用動作的目的在於觸發這些特定敘事和規則機制的組合，但即使沒有動作支援，你依然可以在故事中做出任何行動。
+掌握、下次+1、和 持續+1
+#
+有些動作會把「你的角色獲得掌握」做為動作的結果，比如「獲得 1 掌握」或「獲得 3 掌握」。它 們是你可以根據動作而去花費的臨時點數，且通常會帶有 「花費掌握一換一」的詞句，意思是「花費一點掌握來換取一個動作中記述的效果」。通常這些掌握必須在給定的對話或場景中被花費，但實際上這些掌握在失效前可以留存多長的時間，仍遵循各動作的說明。如果有任何含糊不清的地方，則交由GM裁決。
+也有些動作會寫著你的角色「獲得下次+1」或「獲得持續+1」。 下次+1 意味著你的角色在下一次適用的擲骰中將獲得+1加值； 持續+1 則意味著你的角色在所有適用的擲骰中都將獲得+1加值，參照各動作的說明。動作永遠會說明這些加值能夠持續多久的時間。</description></item><item><title>基本動作</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-moves/basic-moves/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-moves/basic-moves/</guid><description>基本動作
 #
 在遊玩《蒙面少俠》的過程中，每個玩家都會使用到這些基本動作，推動故事的發展。
 這七個基本動作分別是：〈直面威脅〉、〈釋放你的力量〉、〈保衛某人〉、〈評估局勢〉、〈煽動某人〉、〈安慰或支持某人〉、〈揭穿面具〉。本章將提供這些動作各自的詳細說明、以及他們如何在故事中發揮作用的使用範例。
@@ -25,17 +33,18 @@ Every move has both a mechanical element—rolling the dice and charting the res
 「異變者」雷克斯（由麥特扮演）闖入了異星征服者的侵攻機獸的操控艙──這頭跟摩天大樓一樣巨大的機器人正在神翠市街道上瘋狂肆虐。雷克斯的視線掃過整個控制艙，裏面滿滿都是征服者的手下，一群實力遠遠不及那位外星大帝的外星雜魚。
 「我要衝進去，然後把他們一個個丟飛出去，我需要骰〈直面威脅〉嗎？」麥特問道。
 「不用。」我說：「他們不是你的對手，所以不算什麼威脅。你輕而易舉地把他們全都丟飛了出去，並完全癱瘓了侵攻機獸的控制。然而，你也在此時聽見異星征服者的聲音從控制艙的入口傳來……」
+邊欄：打架、狀態、血流成河！
+...
+看到這邊，你可能會想問：「等等。當我一拳打在怪物臉上時，《蒙面少俠》系統對此的表現方式卻是對怪物造成情緒狀態？這說不通啊。牠應該流血！為什麼牠不會流血？」
+牠確實會！當你〈直面威脅〉時，你很可能正在攻擊或傷害敵人。遵循故事中的描述——如果你痛揍了蜘蛛老大的臉，那麼是的，他很可能會因為嘴唇裂開而流血。只要這符合敘事，那麼是的，你確實能夠把敵人的手臂打殘，這樣他們就得想出其他辦法來對付你。
+不過，《蒙面少俠》其實並不怎麼重視身體上的傷害。堅不可摧的宇宙外星人在被擊倒前能夠承受多少物理傷害？純粹的人類弓箭手又能夠忍受多少打擊？ 《蒙面少俠》並不關注這些──相反的，在《蒙面少俠》中，他們在承受打擊後的反應更為重要。外星人可能會勃然大怒。弓箭手可能會害怕退縮。
+反派們總是會在狀態被標記後進行一個動作（參見「運用NPC和反派」），因此他們被標記的狀態同時也會說明他們接下來將做些什麼。而對於PC而言，擺脫這些狀態最常見的方式就是採取相應的特殊行動。標記狀態會導致更多的故事，也會讓更多的事情發生——而這正是我們要的。
 釋放你的力量
 #
 當你釋放你的力量克服阻礙、重塑環境、或延展感官時，擲+古怪。
 若成功，你成功達成目的。 擲出7-9時，你標記一個狀態、或者ＧＭ會告訴你這股力量是多麼不穩定或僅只造成暫時性的影響。
 〈釋放你的力量〉詳述
-〈釋放你的力量〉這個動作就是使用你的能力去做某件複雜、危險、和複雜的行動。這個並不是「使用你的力量」動作──你的超能力大概可以用在幾乎所有其他基本動作上。這個動作針對的情境是：你用你的能力做出某個激烈的行動，而我們不確定它會如何發展、或甚至你是否能成功。
-這其中的差別相當關鍵──單純使用你的超能力並不算是釋放力量。釋放力量意味著你將能力逼到極限、或在危險或困難的情況下使用它們。在遊戲過程中，你們將會位每個角色建立各自能力的基準，而這也將告訴你們什麼情況下算是釋放力量、什麼時候不算。記住，這些角色全都是年輕的英雄，他們還在熟悉自己的超能力、摸索自己能做到什麼──當時機來到，他們往往能夠釋放力量，突破自己原本能力的限制。
-若你並沒有打算克服阻礙、重塑環境、或延展感官的話，那麼你大概也不會釋放你的力量。儘管如此，這三個行動分類的解釋其實相當廣泛。比如說，「克服阻礙」包括了搶先邪惡的神速惡魔一步飛到上古神器的位置、到粉碎煉獄女為阻撓你接近她聖所而施展的巫術能量力場牆。「重塑環境」可以是擊垮建築物的其中一面牆好讓你從中逃脫、也可以是使用你的磁力控制超能力來把反派囚禁在金屬構成的牢籠中。「延展感官」則涵蓋了像將你的心靈感應能力延伸觸及到他人的心中、或是使用你的超視覺看到半個城市外的景象。
-〈釋放你的力量〉是個稍微有些包羅萬象的動作。當你嘗試揮拳打擊一頭巨大的岩石怪物時，你可能會覺得你在〈釋放你的力量〉，也就是你的超能怪力……然而這其實是個〈直面威脅〉的動作。當你嘗試創造一道龐大的寒冰之牆以保護你的朋友們不受爆炸所傷，你可能會覺得你在〈釋放你的力量〉……但這實際上是個從立即性威脅中〈保衛某人〉的動作。在使用這個動作之前，永遠記得先檢查是否有其他動作更具體或更符合當下的情境──這個動作正是為了處理其他動作不適用的情況而存在的。
-如果角色們僅僅是使用他們正常人的能力去解決問題──比如說，不使用任何超能力來逃離威脅、或僅僅是開車撞向敵人──那麼這就不是〈釋放你的力量〉。GM直接根據敘事情境來描述發生了什麼事。如果你想嘗試控制下來發生的事，那麼就使用你的超能力來解決問題吧！
-關於〈釋放你的力量〉的選項 若成功，你成功達成目的 意味著只要你骰出 7 或以上，無論你打算做什麼，你都能成功做到你想做的事情。但當你擲出 7-9 時，你必須選擇標記一個狀態（狀態由你選擇，而不是GM）、或讓GM告訴你這股力量是多麼不穩定或僅只造成暫時性的影響。</description></item><item><title>影響力</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-moves/influence/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-moves/influence/</guid><description>影響力
+〈釋放你的力量〉這個動作就是使用你的能力去做某件複雜、危險、和複雜的行動。這個並不是「使用你的力量」動作──你的超能力大概可以用在幾乎所有其他基本動作上。這個動作針對的情境是：你用你的能力做出某個激烈的行動，而我們不確定它會如何發展、或甚至你是否能成功。</description></item><item><title>影響力</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-moves/influence/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-moves/influence/</guid><description>影響力
 #
 影響力是一種用來衡量誰的話語、行動、意見、和榜樣對你有意義的方式。如果某人擁有對你的影響力，那麼代表你在乎他們的所言所行。預設上，成年人都擁有對PC們的影響力──年輕英雄們在乎成年人對他們說的話。 但隨著時光流逝，他們將能夠挪去他們不想要聽進話語的人們對他們的影響力。
 影響力是一種二元性的資源，就像開關一樣。你要嘛擁有對某人的影響力，要嘛沒有。如果你已經擁有對某個PC的影響力，而你因為某些原因再次獲得對他的影響力時，則你改為立即調動他的標籤屬性，告訴他該讓哪個標籤屬性上升，哪個標籤屬性下降。如果你再次獲得對某個NPC的影響力，則你改為獲得下次以他為目標進行動作時+1。
@@ -139,12 +148,15 @@ GM將根據整個敘事情境決定團隊是否沒有做好準備或亂了套。
 要清除 憤怒 狀態，你必須傷害某人或毀掉某個重要的東西。 要清除 恐懼 狀態，你必須逃離某個困難。 要清除 愧疚 狀態，你必須做出犧牲以除去你的罪惡感。 要清除 絕望 狀態，你必須讓自己放鬆。 要清除 不安 狀態，你必須採取魯莽的行動而不告知你的團隊。 清除憤怒狀態 需要你宣洩你的憤怒，無論是對人或是對物。僅僅毆打沙包是不夠的──你必須要把你的憤怒發洩在某個人、或是某個重要的東西上。每個角色對於「重要」的標準並不相同，因此 GM 需要在憤怒的角色破壞掉某個東西時詢問該物是否重要，以及為什麼重要。傷害某人並不一定要是物理性的傷害他們──對著他們咆哮怒吼，傷害他們的感情也同樣能算。
 清除恐懼狀態 需要你躲避或逃離某個複雜、危險、或有問題的情境。這可能代表你從反派面前倉皇逃走、或當某人想要和你談談你最近的行為舉止時從房間奪門而出。關鍵在於「逃避」──與其面對它，你寧可選擇逃之夭夭。</description></item><item><title>聚會動作</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-moves/session-moves/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-moves/session-moves/</guid><description>聚會動作
 #
-There are two session moves that happen for every session you play. One happens when you start playing, and one happens when you’re finishing up.
+你們每次的遊戲聚會都會有兩個聚會動作。一個發生在你們開始的時候，另一個則發生在你們要結束的時候。
 在每次聚會開始時，ＧＭ使團隊默契增加１點。
 在每次聚會結束時，選擇下列其中一項：
 你與團隊更緊密：說明誰讓你感到被接納；該角色獲得對你的影響力，並清除一個狀態或獲得1點潛能 你加深對自己的印象：說明你如何看待自己以及其理由；選擇一個標籤屬性上升，一個標籤屬性下降 你變得更遠離團隊：說明你為什麼感到疏離。移除另一個角色對你的影響力
-The start of session move happens only once, and is there just to get some Team in the pool for the players to spend.
-Every player performs the end of session move, one at a time.</description></item><item><title>潛能</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-moves/potential/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-moves/potential/</guid><description>潛能
+開始時的聚會動作只會發生一次，而且它的存在目的就是為了讓玩家們能有一些可供花費的團隊默契而已。
+在聚會結束時，每個玩家都會各自進行一次聚會結束動作，一次一個，依序進行，並由他們自己選擇要進行哪一個聚會結束動作的選項。 你應該回顧一下這次聚會中發生了什麼事，藉此判斷該選擇哪一個選項。也許會有好幾個選項都說得通，但最終，該選擇哪個選項都是由你自己決定。
+與團隊更緊密 意味著你變得更關心你的同伴，且你和他們之間的聯繫也變得比以前更緊密了。如果你感覺自己和其他PC之間的羈絆變得更深厚，那麼你可能就是與團隊更緊密。即使你覺得自己和整個團隊都變得更要好了，你最終還是需要從中挑選一個特定的隊友——選擇一個你覺得在整個聚會過程中與你最為親近的對象。他將獲得對你的影響力，且所有影響力的規則都將如常適用————如果他已經擁有對你的影響力，那他將立即調動你的標籤屬性，提升一個並降低另一個，且你無法拒絕他們的影響。接著，你可以清除一個狀態或標記潛能。如果他因此調動你的標籤屬性，則他不能夠調動任何會讓你因此標記狀態的標籤屬性——現在是聚會的結束，角色不應該在你們結束遊戲的時候標記狀態。
+加深對自己的印象 意味著你變得更了解如何去看待自己成熟的那一面。這代表你正在逐步接近你想成為的人，或至少是你認為你會成為的那種人。 這個選項與你和其他角色的互動比較沒有關係，而更多是關於你成為了一個更獨立、完整的自己。向大家說明一下你具體上是如何加深了對自己的印象，以及它如何在這次聚會中體現出來的，然後，你就可以選擇並調動你自己的標籤屬性了，提升一個並降低另一個。
+變得更遠離團隊 意味著你與隊友與朋友漸行漸遠。也許你與他們起了爭執、與他們意見不合……但也可能你們只是分道揚鑣，踏上了不同的道路。你不再像以前那樣在乎隊友的話語或意見，並因此取消了他對你的影響力。這是少數你能夠讓另一個角色失去對你的影響力的方法之一。</description></item><item><title>潛能</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-moves/potential/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-moves/potential/</guid><description>潛能
 #
 每當你在進行任何動作時骰出失敗的結果，你標記一個潛能──你的角色正在成長，無論是他們的自我認識，還是他們能夠做到的事。一旦你標記了五個潛能，你就可以取得你的一個成長發展，並從清單中劃掉該成長發展。
 成長發展清單被分成了兩個部分。只有在你從上半部分取得五個成長發展之後，你才能夠從下半部分挑選成長發展。 更多關於成長發展的說明，請參見第六章「未來發展」的章節。</description></item></channel></rss>

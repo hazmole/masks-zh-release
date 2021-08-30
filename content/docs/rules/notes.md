@@ -56,6 +56,7 @@ weight: 100
 * Satin : 薩汀
 * Scarlet Songbird : 猩紅鳴鳥
 * Source Code : 源碼駭客
+* Spider : 蜘蛛老大
 * Shell : 鋼殼
 * Teacher : 「老師」
 * Technatrix : 科技游蛇

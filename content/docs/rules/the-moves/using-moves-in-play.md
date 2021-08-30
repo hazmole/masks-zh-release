@@ -3,78 +3,27 @@ title: 在遊戲中使用動作
 weight: 1
 ---
 
-## USING MOVES IN PLAY
-The most important thing to keep in mind about moves is this: to do it, you do it. 
+## 在遊戲中使用動作
+關於動作最重要的一點是：想做什麼，就實際去做。
 
-Every move has both a mechanical element—rolling the dice and charting 
-the results as a full hit, partial hit, or miss, and then determining what happens 
-based on the move—and a fictional element—you charge forward and punch 
-someone, or you say something mean and provocative, or what have you. You 
-can’t get one without the other! To do it, you do it. 
+每一個動作都同時有著機制性和敘事性的要素。機制性的要素包括：擲骰子，查看結果是完全成功、部分成功、或失敗，然後根據動作決定會發生什麼；而敘事性的要素則像是：你衝向前並狠揍某人一拳、或者你說出刻薄挑釁的話語，諸如此類。你不能在缺少其中一個要素的情況下得到另一個！無論你想做什麼，你都得實際去做。
 
-No move ever triggers without the associated fictional action. Want to 
-unleash your powers? You have to try something crazy with your abilities! 
-Want to directly engage a threat? You have to throw yourself into thick of 
-it and start tussling with the enemy! Want to pierce someone’s mask? You’ve 
-got to be watching them for signs of what’s hidden beneath! Want to comfort 
-or support someone? You’ve got to actually say something comforting or 
-supporting to them!
+如果你沒有在故事中做出相關的行動，那麼就沒有任何動作會被觸發。想要〈釋放你的力量〉？你得嘗試用你的能力做些瘋狂事！想〈直面威脅〉？那你必須投身戰鬥並與敵人激烈扭打！想〈揭穿面具〉？你需要留神注意他們隱藏起來的蛛絲馬跡！想要〈安慰或支持某人〉？那你就必須說出一些安慰或支持的話語！
 
-Sometimes you’ll look at a move and say, “I want to do that thing.” You 
-realize that what you really want to happen, right now, are the mechanical 
-results of directly engage a threat, so you want to trigger that move. That’s 
-awesome! But you don’t get to roll because you want to roll. You have to take 
-some action in the fiction that triggers the move. 
+有時候你會看著一個動作，然後說：「我想做這件事。」 你意識到你接下來期望發生的事情正是〈直面威脅〉的機制性結果，因此你想要觸發這個動作。這樣很好！但你不能因為你想擲骰就擲骰。你必須在故事中採取一些行動，才能夠觸發動作。
 
-The GM, at the same time, is watching for moments when a move triggers. 
-Sometimes you describe yourself doing something, and the GM tells you that 
-it sounds like you’re triggering a move—and that’s awesome, too! If you like, 
-you can focus on just saying what your character says or does, and rely on the 
-GM to help call it out when you trigger a move. 
+與此同時，GM也會注意每個動作的觸發時機。有時候當你描述自己在做某件事情時，GM會告訴你這觸發了某個動作——這也很好！如果你偏好這樣，那你也可以只專注於描述自己的角色要說什麼或做什麼，並依靠GM在你觸發了某個動作時將其點出。
 
-The final thing to keep in mind is that just because there’s no move for 
-it  doesn’t  mean  you  can’t  do  it!  Using  moves  is  triggering  these  specific 
-combinations of fiction and rules, but you can still do things in the fiction 
-without a move behind it. 
+最後需要注意的是，沒有動作並不代表你不能去做那些行動！
+使用動作的目的在於觸發這些特定敘事和規則機制的組合，但即使沒有動作支援，你依然可以在故事中做出任何行動。
 
 
-### HOLD, +1 FORWARD, AND +1 ONGOING
-Some moves describe your character getting hold as a result of the move, such 
-as “hold 1” or “hold 3.” These are temporary points you can spend according 
-to the move, often with the phrase “spend hold one-for-one,” meaning “spend 
-one point of hold for one effect as the move describes.” Usually hold has to be 
-spent during a given conversation or scene, but moves tell you how long you 
-have before the hold expires. If there’s ambiguity, ask the GM for clarification.
-
-Other moves describe your character “taking +1 forward” or “taking +1 
-ongoing.” +1 forward means your character gets +1 to the next applicable 
-roll; +1 ongoing means your character gets +1 to all applicable rolls moving 
-forward, as the move describes. The move always indicates how long these 
-bonuses last.
-
-{{< expand "邊欄：打架、狀態、血流成河！" "..." >}}
-At this point, you might be asking, “Hold up. When I punch a monster in the face, 
-the  primary  way  that’s  represented  in  the  MASKS  system  is  with  an  emotional 
-condition inflicted on the creature? That doesn’t make sense. It should bleed! Why 
-isn’t it bleeding?”
-
-It is! When you directly engage a threat, you’re probably hitting an enemy and 
-hurting them. Follow the fiction—if you punch the Spider in the face, then yeah, 
-he’s probably bleeding from a split lip. If it fits the fiction, then yeah, you might 
-nerve strike an enemy’s arm into uselessness, and they’ll have to find other ways 
-to come after you.
-
-MASKS doesn’t pay close attention to physical harm, though. How much physical 
-harm  can  an  invulnerable  space  alien  take  before  they  go  out?  How  much 
-punishment can the utterly human bowman take? MASKS isn’t about that—in MASKS, 
-their responses to getting punched are far more important. The alien gets Angry. 
-The bowman gets Afraid. 
-
-Villains always make a move after marking a condition (page 158), so the condition 
-they mark says a lot about what they’ll do next. And the most common way for PCs 
-to get rid of a condition is to take a particular kind of action. Marking conditions 
-leads to more fiction, more things happening—and that’s exactly what you want.
-{{< /expand >}}
+### 掌握、下次+1、和 持續+1
+有些動作會把「你的角色獲得掌握」做為動作的結果，比如「獲得 1 掌握」或「獲得 3 掌握」。它
+們是你可以根據動作而去花費的臨時點數，且通常會帶有 「花費掌握一換一」的詞句，意思是「花費一點掌握來換取一個動作中記述的效果」。通常這些掌握必須在給定的對話或場景中被花費，但實際上這些掌握在失效前可以留存多長的時間，仍遵循各動作的說明。如果有任何含糊不清的地方，則交由GM裁決。
 
 
+也有些動作會寫著你的角色「獲得下次+1」或「獲得持續+1」。
+下次+1 意味著你的角色在下一次適用的擲骰中將獲得+1加值；
+持續+1 則意味著你的角色在所有適用的擲骰中都將獲得+1加值，參照各動作的說明。動作永遠會說明這些加值能夠持續多久的時間。
 

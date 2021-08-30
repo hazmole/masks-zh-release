@@ -4,8 +4,7 @@ weight: 6
 ---
 
 # 聚會動作
-There are two session moves that happen for every session you play. One 
-happens when you start playing, and one happens when you’re finishing up.
+你們每次的遊戲聚會都會有兩個聚會動作。一個發生在你們開始的時候，另一個則發生在你們要結束的時候。
 
 <div class='Move'>
 在<b>每次聚會開始</b>時，ＧＭ使團隊默契增加１點。
@@ -16,41 +15,14 @@ happens when you start playing, and one happens when you’re finishing up.
 * 你變得更遠離團隊：說明你為什麼感到疏離。移除另一個角色對你的影響力
 </div>
 
-The start of session move happens only once, and is there just to get some 
-Team in the pool for the players to spend.
+開始時的聚會動作只會發生一次，而且它的存在目的就是為了讓玩家們能有一些可供花費的團隊默契而已。
 
-Every player performs the end of session move, one at a time. It’s entirely 
-their own choice which end of session move they make. You should look at 
-what happened over the session to determine exactly which choice is right, 
-but it’s likely a few different options will make sense. Ultimately, it’s your call 
-which option you choose.
+在聚會結束時，每個玩家都會各自進行一次聚會結束動作，一次一個，依序進行，並由他們自己選擇要進行哪一個聚會結束動作的選項。
+你應該回顧一下這次聚會中發生了什麼事，藉此判斷該選擇哪一個選項。也許會有好幾個選項都說得通，但最終，該選擇哪個選項都是由你自己決定。
 
-Growing  closer  to  the  team  means  you  care  more  about  your  fellow 
-teammates and you’re more connected to them than you were before. If you 
-feel like the bond between you and the other PCs grew, then you probably grew 
-closer to the team. You ultimately need to pick one teammate in particular 
-you feel you grew closer to, even if you feel like you grew closer to the whole 
-group—choose the person you feel you had the greatest bond with over the 
-course of the session. They get Influence over you, and all the rules apply—if 
-they already have Influence over you, they immediately shift one of your Labels 
-up and one down, without you being able to reject their Influence. In turn, you 
-get to clear any marked condition of your choice, or mark potential. If they 
-shift your Labels, they shouldn’t shift any Labels that will cause you to mark 
-a condition—it’s the end of the session, and characters shouldn’t be marking 
-conditions right before you stop playing.
+**與團隊更緊密** 意味著你變得更關心你的同伴，且你和他們之間的聯繫也變得比以前更緊密了。如果你感覺自己和其他PC之間的羈絆變得更深厚，那麼你可能就是與團隊更緊密。即使你覺得自己和整個團隊都變得更要好了，你最終還是需要從中挑選一個特定的隊友——選擇一個你覺得在整個聚會過程中與你最為親近的對象。他將獲得對你的影響力，且所有影響力的規則都將如常適用————如果他已經擁有對你的影響力，那他將立即調動你的標籤屬性，提升一個並降低另一個，且你無法拒絕他們的影響。接著，你可以清除一個狀態或標記潛能。如果他因此調動你的標籤屬性，則他不能夠調動任何會讓你因此標記狀態的標籤屬性——現在是聚會的結束，角色不應該在你們結束遊戲的時候標記狀態。
 
-Growing into your own image of yourself means you’re becoming more 
-of how you see your adult self. It means you’re becoming closer to what you 
-want to be, or at the very least what you think you will be. It’s less about your 
-interactions  with  any  other  character,  and  more  about  you  becoming  an 
-independent and completed person on your own. Explain to the group exactly 
-what you see yourself becoming and how that was borne out over the course 
-of the session, and then you get to choose one of your own Labels to shift up 
-and one to shift down.
+**加深對自己的印象** 意味著你變得更了解如何去看待自己成熟的那一面。這代表你正在逐步接近你想成為的人，或至少是你認為你會成為的那種人。
+這個選項與你和其他角色的互動比較沒有關係，而更多是關於你成為了一個更獨立、完整的自己。向大家說明一下你具體上是如何加深了對自己的印象，以及它如何在這次聚會中體現出來的，然後，你就可以選擇並調動你自己的標籤屬性了，提升一個並降低另一個。
 
-Growing away from the team means you drifted away from your teammates 
-and friends. Maybe you had a fight with them, or actively disagreed with 
-them...but maybe you just diverged and went different ways. You indicate that 
-you no longer care about the words or opinions of a teammate in the same way, 
-and take away their Influence over you. This is one of the few ways you can 
-take Influence over you away from another character.
+**變得更遠離團隊** 意味著你與隊友與朋友漸行漸遠。也許你與他們起了爭執、與他們意見不合……但也可能你們只是分道揚鑣，踏上了不同的道路。你不再像以前那樣在乎隊友的話語或意見，並因此取消了他對你的影響力。這是少數你能夠讓另一個角色失去對你的影響力的方法之一。
