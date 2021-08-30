@@ -8,9 +8,17 @@ When you run MASKS, you’ll inevitably have an impulse to plan stories in advan
 The main characters in a game of MASKS change drastically over the course of the game. Their Labels shift, they gain and lose Influence, and they reach their potential. All of these changes are reflected both in elements on the character sheets and in the fiction of your game. Like the moves, change in MASKS is both fictional and mechanical.
 Sometimes you gain something in the fiction, and it causes you to mark a change on your character playbook.</description></item><item><title>擔任GM</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-gm/the-gm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-gm/the-gm/</guid><description>擔任GM
 #
-If you’re reading this, you’re probably the person who’s running the game for your group. You’re the Gamemaster—the GM, for short.
-The rest of the players are focused on their one character. Their job is to make that character interesting, compelling, cool, complicated, and so on. To play that character to the hilt, and to own their decisions.
-You? You’re responsible for most everything else. It’s sorta like you’re the cosmic being behind the scenes, controlling the entire universe with your phlogiston-powered puppet strings, laughing maniacally every now and then.</description></item><item><title>明燈 The Beacon</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-masks/the-beacon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-masks/the-beacon/</guid><description>明燈 The Beacon
+如果你正在閱讀這行文字，那麼你很有可能就是那個負責為你們團隊主持遊戲的人。你就是遊戲主持人(Gamemaster)──簡稱GM。
+其他玩家需要專注於他們自己的那一個角色上。他們的職責是讓這個角色變得有趣、吸引人、酷炫、複雜等。他們要把這個角色發揮到極致，做出屬於自己的決定。
+至於你呢？你將負責其他大部分的事物。你會有點像是這一切的幕後黑手，用你的傀儡絲線控制著整個宇宙，時不時發出瘋狂大笑。這差事可酷了。
+你將負責扔出那些窮凶極惡、危險異常的反派，並看著英雄們把他們一一打倒。你需要狠狠戳向玩家角色們的痛處，並沉浸於其帶來的戲劇張力。你要把他們推到極限，見證他們將在這種巨大的壓力下變成什麼樣子。你在這裡是為了帶給玩家驚喜，讓事情向著他們可能從未預料到的方向發展，並同時被他們選擇去做的驚人之舉給娛樂。
+我該怎麼做？
+#
+這個嘛，這就是這一章的目的所在。 它將告訴你身為《蒙面少俠》的GM該做些什麼。而這也正是讓遊戲活起來的方法──一起來吧。
+你應該已經閱讀過在這之前的其他章節，所以你已經知道了這個遊戲的所有主要機制與概念。你不必把它們全部記起來什麼的，但這些內容應該已經飄盪在你的腦海中了。
+這個章節提供了你這一側的對話所需遵守的規則。 「目標事項」是你主持遊戲時要達成的總體目標，它們旨在讓你以最佳的方式進行《蒙面少俠》。 「原則」為你提供了實踐目標事項的最佳手段。 「動作」則是你在面對玩家做出的選擇時可以用來回應的具體事件。 將其合在一起，它們將構成一個漂亮的結構，讓GM能以一種好玩、有趣、充滿戲劇性、且符合遊戲主題和風格的方式來主持《蒙面少俠》這個遊戲。
+這個章節還涵蓋了許多其他重要的小知識，包括：
+如何創建反派 (page 155) 如何處理特定的扮演書 (page 160) 如何營造出超級英雄的風格、以及戰鬥場景 (page 146) 再說一次，你不必在開始遊戲前把這整個章節全部背下來，所以別浪費力氣了。 做好重新回顧幾次這個章節的準備，讓記憶恢復，並提醒自己應該在遊戲中做些什麼。</description></item><item><title>明燈 The Beacon</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-masks/the-beacon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-masks/the-beacon/</guid><description>明燈 The Beacon
 #
 你沒有必要這麼做。你大可以過著你安全、舒適、單純的人生，那確實不錯。
 但……拜託，超能力耶！外星人！巫師！時間旅行！
@@ -128,7 +136,7 @@ Adult moves are essentially more powerful versions of the basic moves. But they 
 #
 When you wield your powers with precision or grace, roll+Freak。 roll + Freak.</description></item><item><title>構築場景</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-basics/framing-scene/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-basics/framing-scene/</guid><description>構築場景
 #
-要讓對話往有趣的方向發展，最好方法就是「構築場景」。比起坐在桌前含糊不清地談論那些酷炫的角色、他們的身分、或他們能做到什麼之類，不如把這些角色們放到有一個具體的地點場所，並給他們一個具體的目標去採取行動。你不會只說，「哦對，奈微操使擁有操控奈米科技的超能力，所以他可以運用體內的奈米粒子來製造武器！」，相反的，你會把奈微操使放到英雄團隊「典範者」的總部裡，並描述他把他的奈米粒子送進了附近的機器裡並接管了整個總部的安全系統。
+要讓對話往有趣的方向發展，最好方法就是「構築場景」。比起坐在桌前含糊不清地談論那些酷炫的角色、他們的身分、或他們能做到什麼之類，不如把這些角色們放到有一個具體的地點場所，並給他們一個具體的目標去採取行動。你不會只說，「哦對，奈微小子擁有操控奈米科技的超能力，所以他可以運用體內的奈米粒子來製造武器！」，相反的，你會把奈微小子放到英雄團隊「典範者」的總部裡，並描述他把他的奈米粒子送進了附近的機器裡並接管了整個總部的安全系統。
 把你的故事想成是一本漫畫或超級英雄電影。直接切入最精采的戲劇性奮戰，對抗那些危險的反派、或那些關於在困境下何謂是非對錯的複雜議題。跳過那些無聊的瑣事，直接進入正在發生、或那些即將發生事件的核心。或許這聽起來有些複雜，但它其實不比尋常對話要難多少；一旦你準備好並開始遊戲，遊戲的規則將會帶你走完剩下的路。 儘管GM擁有決定「什麼時候會發生什麼事」的最終決定權，但團隊中的每個人都有責任讓你們故事中的每一個場景都有有趣的開場，並朝有意義的方向發展。
 強硬構築 Hard Framing
 #
@@ -567,14 +575,14 @@ Fights come up often in MASKS, so you need to be prepared for them. An awesome f
 #
 團隊中的任何人都可以消耗團隊默契來讓其他隊友進行動作的擲骰結果獲得 +1 加值。然而消耗團隊默契的角色必須要能實際在故事中幫上忙才能這麼做──如果你跟你的隊友處在完全不同的地方，那麼這在除非敘事上顯得合理（比如說透過心靈感應），否則你將無法消耗團隊默契來幫助他。
 複數隊友可以各自消耗一點團隊默契來協助同一次動作擲骰──只要整個團隊齊心協力且你們有足夠的團隊默契，再爛的擲骰結果都能夠被扭轉成功。然而，每個隊友對同一次動作擲骰都只能各自消耗一點團隊默契，且他們仍必須要能夠實際在故事中提供協助。
-酷牛姊衝向血紅歐泊，兩個人開始了一場肉搏惡戰，血紅歐泊用她的赤劍揮砍，而酷牛姊則用她的鐵拳猛揍。瑪莉莎為酷牛姊的〈直面威脅〉動作直骰，並骰出了5 ── 失敗。
+酷牛姊衝向血腥歐泊，兩個人開始了一場肉搏惡戰，血腥歐泊用她的赤劍揮砍，而酷牛姊則用她的鐵拳猛揍。瑪莉莎為酷牛姊的〈直面威脅〉動作直骰，並骰出了5 ── 失敗。
 「我想要幫忙。」格蕾絲說道：「我召喚出一個簡單的陰影結構，抓住她的腳踝並讓她失去平衡。」
 「我其實不確定你有沒有辦法幫上忙。」我說：「你現在正在街道的另一頭跟水魄女纏鬥，對吧？你應該已經分身乏術。」
-「那不然我來？」馬克插畫：「神射手可以往他們衝突的方向射出一箭，這樣血紅歐泊就必須在那個瞬間分神偏轉它。」
+「那不然我來？」馬克插話：「神射手可以往他們衝突的方向射出一箭，這樣血腥歐泊就必須在那個瞬間分神偏轉它。」
 「嗯，這不錯！你從附近的樓頂上射出一箭，你當然可以幫助她。消耗一點團隊默契。」這讓瑪莉莎的擲骰結果被提升到了 6，但這仍然是個失敗。
 「我在那嗎？我有趕到那了嗎？」莎拉問：「我剛剛試著盡可能快的飛往那裡。」
 「喔對，你現在到現場了。」
-「讚啦！從神射手箭矢射出方向的另一側，我直直飛向血紅歐泊。這應該能繼續讓她措手不及，這樣酷牛姊就能完美的命中她。」
+「讚啦！從神射手箭矢射出方向的另一側，我直直飛向血腥歐泊。這應該能繼續讓她措手不及，這樣酷牛姊就能完美的命中她。」
 「完美！消耗另一點團隊默契吧，莎拉。」現在瑪莉莎的擲骰結果變成了 7──成功的結果！
 同是團隊一份子（無論是暫時或永久）的NPC也同樣能夠提供協助。玩家可以為這些NPC的行為消耗團隊默契。玩家仍然必須為每個提供協助的NPC各自消耗一點團隊默契，且NPC們也仍必須在敘事上提供實際的幫助。如果GM認為NPC不會提供幫助，那麼他們就不會這麼做。
 自私地使用團隊默契
@@ -898,8 +906,8 @@ NPC 的影響力
 #
 Sureshot : 神射手 Toro : 酷牛姊 Vertex : 頂尖叛客 Grasshopper : 蚱蜢女俠 Dusk : 黃昏 Huma : 神雀 Fission : 裂變俠 Skysong : 天樂女 Hornet : 胡蜂女 Rex : 雷克斯 英雄
 #
-Bryce Brilliant : 輝煌布萊斯 Champion : 英勇俠 Golden Girl : 黃金女孩 Mantis : 螳螂女 The Cast-Iron Man : 鑄鐵人 The Haunt : 鬼影 Silver Savior : 白銀救星 反派
+Bryce Brilliant : 輝煌布萊斯 Champion : 英勇俠 Golden Girl : 黃金女孩 Mantis : 螳螂女 The Cast-Iron Man : 鑄鐵人 The Haunt : 鬼影 Silver Savior : 白銀救星 Warpstar : 曲星 Wayfinder : 尋道者 反派
 #
-Aquaria : 水魄女 Blue Hydra : 湛藍海德拉 Captain Coldheart : 寒心上尉 Deadly Devil : 致命魔鬼 Dominus : 至尊魔主 Dread Queen : 恐怖女王 Fanboy : 狂粉男孩 Gorfomoth : 葛戈魔斯 La Espada : 魔劍少女 Lady Faust : 浮士德女士 Magus Everard : 魔導師艾弗瑞 Nano : 奈微操使 Rosa Rook : 羅莎．盧克 Satin : 薩汀 Scarlet Songbird : 猩紅鳴鳥 Source Code : 源碼駭客 Shell : 鋼殼 Teacher : 「老師」 Technatrix : 科技游蛇 Tentacular Doom : 觸手末日怪 Troll : 巨魔 Ursa : 烏爾莎(大熊座) Vanquish : 征服者 White Cobra : 白色眼鏡蛇 組織
+Arcknife : 電弧刀手 Aquaria : 水魄女 Blue Hydra : 湛藍海德拉 Blood Opal : 血腥歐泊 Captain Coldheart : 寒心上尉 Carlo the Assassin : 刺客凱洛 Cygnus : 天鵝座 Deadly Devil : 致命魔鬼 Doctor Chaotix : 混亂博士 Dominus : 至尊魔主 Dread Queen : 恐怖女王 Fanboy : 狂粉男孩 Farlander : 外境怪客 Gorfomoth : 葛戈魔斯 Ilijah Intrepid : 以利亞．因特毗 Kalka the Bloodhewn : 血鑿之卡爾卡 La Espada : 魔劍少女 Lady Faust : 浮士德女士 Magus Everard : 魔導師艾弗瑞 Nano : 奈微小子 Power Sink : 吸能怪 Rosa Rook : 羅莎．盧克 Sablestar : 黑貂星 Satin : 薩汀 Scarlet Songbird : 猩紅鳴鳥 Source Code : 源碼駭客 Shell : 鋼殼 Teacher : 「老師」 Technatrix : 科技游蛇 Tectonic Prime : 原初機構 Tentacular Doom : 觸手末日怪 Troll : 巨魔 Ursa : 烏爾莎(大熊座) Vanquish : 征服者 White Cobra : 白色眼鏡蛇 組織
 #
 A.</description></item></channel></rss>

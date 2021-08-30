@@ -173,7 +173,7 @@ they’ve caused. Especially when it’s important structures, or people, who’
 been hurt. Show them the costs and the penalties for letting that damage ensue.
 
 {{< hint info >}}
-天樂女，當妳返回妳的水晶飛船時，妳看見A.E.G.I.S.的特工們將飛船團團包圍，用奇怪的封條綁住它。首席特工解釋道，在妳上次駕駛它穿過城市，撞壞那些摩天大樓之後，他們決定要扣押妳的飛船。妳打算做什麼？
+天樂女，當妳返回妳的水晶飛船時，妳看見A.E.G.I.S.的特工們將飛船團團包圍，用奇怪的封條綁住它。領頭的特工解釋道，在妳上次駕駛它穿過城市，撞壞那些摩天大樓之後，他們決定要扣押妳的飛船。妳打算做什麼？
 {{< /hint >}}
 {{< hint info >}}
 黃昏，妳擊倒了魔導師，但群眾看著你的目光卻是充滿驚恐。他們很安靜，但妳仍能聽見竊竊私語──他們還記得妳摧毀了自由廣場的那個場面，且他們很害怕妳。他們的眼神……妳不禁覺得自己就是個危險人物。妳打算怎麼辦？妳要接受他們對妳的看法嗎？
@@ -236,15 +236,10 @@ telling them to do something nasty. When you turn their move back on them,
 always do it as if it was a 10+ result.
 
 {{< hint info >}}
-Vertex, your efforts to provoke Grasshopper to come out partying with you wind up 
-making you look more insecure—and open you up. Grasshopper, you can provoke 
-Vertex to do whatever you want, as if you’d rolled a 10+. What do you do?
+頂尖叛客，你對蚱蜢女俠使用〈煽動某人〉，想煽動她跟你一起從派對中溜出來的行為卻反過來讓你看起來更加不安──甚至讓你敞開了自己。蚱蜢女俠，你可以煽動頂尖叛客讓他做任何妳想要他做的事，就像是妳在〈煽動某人〉中骰出了10+的結果一樣。妳打算怎麼做？
 {{< /hint >}}
 {{< hint info >}}
-Skysong, you’re piercing Kalka the Bloodhewn’s mask, but she’s just stone-faced and 
-angry. You wind up showing much more on your face than she does on hers, so she 
-gets to ask you some questions from the pierce the mask move. How could she get 
-you to help her defeat Sablestar?
+天樂女，妳試著對血鑿之卡爾卡使用〈揭穿面具〉，但她是如此面無表情和憤怒。妳臉上表情透露出的訊息要比她的表情多得多，因此她可以從〈揭穿面具〉的問題列表中問你一些問題：「她要怎麼樣才能讓妳協助她擊敗黑貂星？」
 {{< /hint >}}
 
 
@@ -256,16 +251,10 @@ messy option they hadn’t considered. It raises the tension around their choice
 and decisions, while still keeping things moving forward. 
 
 {{< hint info >}}
-Toro, Arcknife is getting away, dashing down the street. You could throw something 
-at him, but he moves so quickly, you’ve got no chance of hitting him. Your only shot 
-is to smash the ground—send a tremor running through the street—and knock him 
-off his feet. Of course, that’s going to break everything around you. What do you do?
+酷牛姊，電弧刀手正在逃跑，飛奔穿梭在街道上。妳確實可以扔東西砸他，但他速度快到妳完全沒辦法擊中他。妳唯一的機會就是重擊地表──釋放出一道從街道中擴散出去的震動波──來把他擊倒在地。當然，這同時也會破壞妳周圍的一切。妳打算怎麼做？
 {{< /hint >}}
 {{< hint info >}}
-Sureshot, from your perch atop the nearby building, you’ve got a shot at the Vorpal 
-Integrator—you can probably take it out. But it’s nearing full power, and you can 
-clearly see Dusk getting crushed by Tectonic Prime. You can send your arrow to 
-either situation—but you only have time for one or the other. What do you do?
+神射手，你能夠從你位於附近大樓頂端的藏身處擊中利刃積分儀──你也許能就此把它破壞掉。然而它已經快要來到全速運轉，且你可以清楚看到黃昏就快要被原初機構給擊潰。你的箭矢能夠射向任何一處──但你的時間只夠你選擇其中一邊。你打算怎麼做？
 {{< /hint >}}
 
 
@@ -277,16 +266,10 @@ the NPC’s Influence, and that’s exactly what you want, to keep the PCs’ se
 of identity fluid and changing.
 
 {{< hint info >}}
-Rex, Cygnus looks at you with disgust. “Ew, you’re the one 
-who’s going to take me down? Why couldn’t it be 
-someone  more  photogenic,  you  ugly  freak?” 
-She’s shifting your Freak up, your Mundane 
-down. Do you accept it?
+雷克斯，天鵝座一臉嫌棄的看著你。「噁，要來打倒我的人就是你嗎？就不能來個更上鏡的傢伙嗎，你這個醜陋的怪胎？」她想提升你的古怪，降低你的平凡。你要接受嗎？
 {{< /hint >}}
 {{< hint info >}}
-Skysong,  your  uncle  Warpstar  says to you in your native tongue, “I don’t  know  why  you’re  staying 
-here with these people. They’re simple, stupid, and violent. You’re so  much  better  than  they  are.” 
-He’s shifting your Superior up, and your Mundane down. Do you accept it?
+天樂女，你的叔叔曲星用你的母語對你說道：「我無法理解妳為什麼要跟這些人們廝混，他們單純、愚蠢、又暴力。妳遠比他們要優秀的多。」他想提升妳的優越，降低妳的平凡。妳要接受嗎？
 {{< /hint >}}
 
 
@@ -298,18 +281,10 @@ Don’t hesitate to take advantage of an opportunity in which an NPC would
 jump to a wrong conclusion.
 
 {{< hint info >}}
-Toro, you’re moving down the hallway alongside Arcknife, your uneasy alliance 
-settling into a kind of mutual silence, when Wayfinder, the youngest hero on the 
-Exemplars, appears. He takes one look at the two of you together and shakes his head. 
-“Yeah. I’ve read your file, Toro. Of course the two of you would team up. Just a matter 
-of time before you became a villain.” Now he’s charging down the hallway towards 
-you at super speed. What do you do?
+酷牛姊，你與電弧刀手一起行走在走廊，你們因為這臨時的同盟而陷入一種相互沉默之中，然而這時，尋道者，「典範者」聯盟中最年輕的英雄出現了。他看著你們兩個人走在一起，搖了搖頭。「是啊，我看過你的資料，酷牛姊。你們兩個當然會合作……我早就知道你遲早會成為反派。」現在他正以超高速從走廊另一頭向你們衝過來。你打算做什麼？
 {{< /hint >}}
 {{< hint info >}}
-Grasshopper, you take off your costume and rejoin the evacuated students now that 
-Power Sink has been captured. You find your sister, but she looks at you with sadness 
-and disgust. “You ran,” she says. “You ran and left me there. If it wasn’t for that green 
-hero lady, I’d be dead, because you ran. I hate you!” What do you do?
+蚱蜢女俠，現在吸能怪已經被抓住了，因此妳脫下了妳的英雄服，重新加入被疏散的學生群中。妳找到了你的姐姐，但她卻用悲傷和厭惡的眼神看著妳。「妳跑了，」她說。「妳跑了，把我一個人丟在那裡……要不是那個綠色的英雄小姐，我早就死了，全都是因為你自己逃跑了，我恨妳！」妳打算做什麼？
 {{< /hint >}}
 
 
@@ -323,16 +298,10 @@ difficulties of each PC’s abilities and relationships come up to counterbalanc
 the benefits.
 
 {{< hint info >}}
-Hornet,  when  you  and  the  team  enter  the  Exemplars’  base,  you’re  met  almost 
-immediately by one of their security people. “You’re on file as working with Mantis,” 
-she says. “She’s considered a possible threat in our systems. You’ll have to wait 
-outside.” What do you do?
+胡蜂女，當妳和團隊一起走進典範者的基地時，妳幾乎立刻就碰上了他們的其中一名安保人員。「有紀錄顯示妳和螳螂女一起合作過。」她說：「她在我們的系統中被視為一個潛在的威脅，所以很抱歉，妳得在外面等著。」妳打算做什麼？
 {{< /hint >}}
 {{< hint info >}}
-Sureshot, you manage to land a few good shots against Carlo the Assassin while 
-you’re punching each other, but he goes straight for a kick at your bow, breaking it in 
-half. You pull away from each other, but your bow dangles uselessly from your hand. 
-He grins as he pulls out his own bow and nocks an arrow. What do you do?
+神射手，你在與刺客凱洛近身互搏時試圖朝他的方向射出好幾箭，但他直接一腳踢在你的弓上，把它從中折斷。你們兩個彼此拉開距離，然而你的弓弦無力地從你的手中垂下。他露出微笑，一邊拿出自己的弓並把箭搭上弦。你打算做什麼？
 {{< /hint >}}
 
 
@@ -342,21 +311,14 @@ THE MASKS on page 160, you’ll find individual moves you can make for each
 playbook, to really push on and bring attention to that playbook’s issues. You 
 can make these moves any time you could make any other GM move.
 
-**Example:** Nova—Introduce threats only they can take on
+**範例:** 超新星—導入只有他們能夠處理的威脅
 {{< hint info >}}
-Fission, as Doctor Chaotix’s device fires, a portal opens up in the sky. An enormous 
-figure descends, radiating power, with strange translucent wings emerging from his 
-back. He waves his hands, and the very matter from the tops of nearby skyscrapers 
-begins to rearrange into statues. What do you do?
+裂變俠，隨著混亂博士的裝置發動，天空被劃開，打開了一道傳送裂縫。一個巨大的人影從中緩緩降下，散發著無比力量，古怪的半透明羽翼在他的背後張開。他僅僅是雙手一揮，周遭摩天大廈的頂部物質便被重新組構成了狀似那個人影的雕像。你打算做什麼？
 {{< /hint >}}
 
-**Example:** Outside—Make a request from home
+**範例:** 外來者—指派來自家鄉的要求
 {{< hint info >}}
-Skysong, your uncle Warpstar runs into the room and grabs your shoulders. He 
-speaks to you in the melodic, unending tones of your home language. “Child, you 
-must come with me, right now—one of the Keynomes has been unearthed on this 
-planet, and we need to secure it for our homeworld before the Farlander does.” What 
-do you do?
+天樂女，你的叔叔曲星衝進了房間，抓住了妳的肩膀。他開口，用妳母語那種悠揚綿延的腔調對妳說道：「孩子，妳必須跟我走，馬上──在這個星球上發現了其中一把真名之鑰，為了我們的母星，我們必須在外境怪客出手之前確保它。」 妳打算做什麼？
 {{< /hint >}}
 
 
@@ -367,20 +329,13 @@ these moves when you would make any other move, so long as the villain’s
 involved in the situation. They always amp up the situation, and highlight that 
 villain’s own particular idiom.
 
-**Example:** Blood Opal—Instantly heal a deadly wound
+**範例:** 血腥歐泊—瞬間治療致命傷
 {{< hint info >}}
-Rex, you smash through the final pillar and the building collapses behind you, 
-smashing all around Blood Opal. But you’re astonished as you see her push her way 
-free of the rubble, the wounds and cuts on her body healing almost immediately. “Is 
-that the best you can do?” she says. What do you do?
+雷克斯，你打碎了最後一根柱子，整棟建築也隨即在你身後崩塌，全數壓砸在血腥歐泊身上。但當你接著看見血腥歐泊從這一片碎石瓦礫中掙脫，身上的傷口幾乎在一瞬間恢復癒合時，你也難掩心中的驚訝。「你只有這點能耐嗎？」她說道。你打算做什麼？
 {{< /hint >}}
 
-**Example:** Ilijah Intrepid—Offer a valuable piece of information or gadget for help
+**範例:** 以利亞．因特毗—提供有價值的情報或道具以尋求協助
 {{< hint info >}}
-Dusk, Ilijah Intrepid holds up his hands. “Wait, I came here to talk,” he says. He pulls 
-out a strange device, diamond shaped, faintly glowing purple. “You can use this to 
-draw off the excess energies from the Penumbral door in your soul. It will delay your 
-end. All you have to do to get it is help me to steal the Quantum Gateway.” What do 
-you do?
+黃昏，以利亞．因特毗投降似的舉起雙手：「等等，我是來談的。」他說，一邊拿出了一個散發著淡淡紫光的古怪菱形裝置。「妳可以用這東西吸取隱藏在妳靈魂內那半影之門釋放的多餘能量，從而延緩妳的末日……妳只需要幫助我偷走量子閘道，我就把它送給妳，怎麼樣？」妳打算做什麼？
 {{< /hint >}}
 

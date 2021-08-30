@@ -26,27 +26,40 @@ weight: 100
 * The Cast-Iron Man : 鑄鐵人
 * The Haunt : 鬼影
 * Silver Savior : 白銀救星
+* Warpstar : 曲星
+* Wayfinder : 尋道者
 
 #### 反派
+* Arcknife : 電弧刀手
 * Aquaria : 水魄女
 * Blue Hydra : 湛藍海德拉
+* Blood Opal : 血腥歐泊
 * Captain Coldheart : 寒心上尉
+* Carlo the Assassin : 刺客凱洛
+* Cygnus : 天鵝座
 * Deadly Devil : 致命魔鬼
+* Doctor Chaotix : 混亂博士
 * Dominus : 至尊魔主
 * Dread Queen : 恐怖女王
 * Fanboy : 狂粉男孩
+* Farlander : 外境怪客
 * Gorfomoth : 葛戈魔斯
+* Ilijah Intrepid : 以利亞．因特毗
+* Kalka the Bloodhewn : 血鑿之卡爾卡
 * La Espada : 魔劍少女
 * Lady Faust : 浮士德女士
 * Magus Everard : 魔導師艾弗瑞
-* Nano : 奈微操使
+* Nano : 奈微小子
+* Power Sink : 吸能怪
 * Rosa Rook : 羅莎．盧克
+* Sablestar : 黑貂星
 * Satin : 薩汀
 * Scarlet Songbird : 猩紅鳴鳥
 * Source Code : 源碼駭客
 * Shell : 鋼殼
 * Teacher : 「老師」
 * Technatrix : 科技游蛇
+* Tectonic Prime : 原初機構
 * Tentacular Doom : 觸手末日怪
 * Troll : 巨魔
 * Ursa : 烏爾莎(大熊座)
@@ -59,3 +72,8 @@ weight: 100
 * Exemplar : 典範者
 * Rook Industries: 盧克工業
 * VENOM : 猛毒幫
+
+#### 物品
+* Keynomes : 真名之鑰
+* Penumbral door : 半影之門
+* Vorpal Integrator : 利刃積分儀
