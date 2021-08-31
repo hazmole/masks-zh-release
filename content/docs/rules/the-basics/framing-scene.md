@@ -67,144 +67,70 @@ weight: 2
 
 
 ### 動作與擲骰
-Framing scenes starts the conversation in an interesting place, like nocking 
-an arrow on the bow and aiming it at a target. But the moves carry the arrow 
-to the target. They connect your characters to the fiction in exciting ways, 
-and they drive the story in directions you might not expect. Each move is a 
-small set of rules that help resolve conflicts, answer questions in the fiction, 
-and push the story forward. Moves are like the programming language of the 
-game—“When you do x, then y”—shaping and defining the fiction when your 
-characters take action.
+構築場景能讓對話從一個有趣的情境開始，就彷彿瞄準目標，把箭搭在弦上。然而，實際上將箭帶到目標的是「動作」：它們以令人興奮的方式將你的角色與故事聯繫起來，並將故事推向你或許從未預期的方向。每一個動作都可以視作是一套小規則，用來協助你處理故事中的衝突、回答故事中的問題、並推動故事的發展。動作就像是這款遊戲的程式語言——「當你做x時，就會y」——隨著角色們採取行動去形塑和定義故事的樣貌。
 
-The basic moves are the core of the game, and any PC can trigger them 
-from the start of play. Each character also gets their own playbook moves, 
-more specific pieces of programming language that point the characters in 
-their own cool and interesting directions. The PCs might add more moves over 
-the course of play, too. In general, the basic moves cover situations that come 
-up all the time in MASKS stories, while the special moves cover situations that 
-are character specific or much more rare.
+基本動作是這個遊戲的核心，所有PC都可以在遊戲開始後去觸發它們。每個角色也都會有自己的扮演書動作，這些更加具體的程式語言將帶領角色朝著各自酷炫而有趣的方向前進。PC甚至可能會在遊戲過程中得到更多的動作。一般來說，基本動作涵蓋了那些《蒙面少俠》故事中會經常出現的情況，而其他特殊動作則涵蓋了專屬於特定角色或其他較為罕見的情境。
 
-Every move has a specific trigger, the “When you do x” part of the program. 
-They aren’t triggered whenever, or when you feel like they should be, but only 
-when your characters are in situations that trigger the move. If you want to 
-trigger a move, you have to do the thing that triggers it. (You can also avoid 
-a move by avoiding its trigger.) Triggers are almost always tied to the fiction, 
-which means all moves are governed by the same principle: if you do it, you do 
-it. If you want to trigger the basic move directly engage a threat, then you have 
-to directly engage a threat, perhaps charging at a supervillain while screaming 
-and swinging your fists. And if you pick up a car in each hand and go swinging 
-at the giant robot, you’re directly engaging the threat, and the move triggers, 
-whether you like it or not.
+每個動作都有一個特定的觸發條件，也就是程序中的「當你做x時」的部分。它們不是在任何時候都能被觸發，也不是在你覺得應該觸發的時候觸發，相反的，它們只有在你的角色處於會觸發該動作的情境時才會被觸發。如果你想觸發某個動作，那麼你就必須去做一個能觸發它的行動。（當然，你也可以反過來透過避開動作的觸發條件來避免觸發該動作。）動作的觸發條件幾乎總是與故事情境掛鉤，這意味著所有的動作都遵守同一個大原則：如果你做了，那你就做了。如果你想要觸發基本動作中的〈直面威脅〉，那麼你就必須去直面威脅，也許你會是一邊尖叫一邊揮舞著雙拳向一個超級反派衝過去。而反過來說，如果你兩手各抓起一輛汽車朝著巨大機器人揮砸過去，那麼你就是在直接與威脅交戰，且無論你喜不喜歡，你都會因此觸發〈直面威脅〉這個動作。
 
 {{< hint info >}}
-Marissa’s  character,  Toro  the  Bull,  is  in  a  super-science  lab—like  the  kind  that 
-experimented on her—and she’s not happy about it.
+瑪莉莎的角色，「蠻牛」酷牛姊，正處於一座超科學實驗室中──就跟在她身上做實驗的那種實驗室一樣──而她也因此不怎麼愉快。
 
-“You recognize the gene vats, the nano-machines, all the equipment, Toro,” I say. 
-“It’s weirdly like coming home. And there are people, teenagers like you, floating in 
-those gene vats on the far side of the room. The scientists in the room look at you, 
-aghast.”
+「你認出了陳列在實驗室的各種基因培養槽、奈米機器、以及所有其他設備，酷牛姊。」我說。
+「這就像是回到家一樣的怪異。在房間另一側還有其他人──像你一樣的少年少女──漂浮在那些基因培養槽中。注意到你的存在，房間內的科學家們驚訝地看著你，目瞪口呆。」
 
-“Oh hell no,” Marissa says. “I start flinging tables over, chucking them around like 
-crazy. I want this place messed up.”
+「噢，這可不行，」瑪莉莎說： 「我開始發狂似的把桌子給扔出去，朝著四面八方亂丟亂砸。我要把這個地方弄得亂七八糟。」
 
-I nod. Toro isn’t triggering a move yet; she’s super strong, so flipping these tables 
-isn’t exactly difficult for her, and she’s unthreatened. “Yeah, you make a mess. Tables 
-up-ended, chemicals spilled, scientists running from you. This room is trashed. That’s 
-when a whole squad of black-armored thugs with assault rifles comes into the room. 
-They don’t even look like they’re going to ask you to surrender, they’re just going to 
-shoot.”
+我點點頭。酷牛姊還沒有觸發動作；她超級強壯，因此把這些桌子翻倒亂扔對她來說並不是什麼難事，此外，她在這個場景中也沒有受到任何威脅。
+「是的，妳把場面弄得一團糟。桌子被掀翻、化學藥品灑落一地，科學家們慌張地從妳身邊跑開。這個房間一片狼藉。然而就在這時，一整隊手持突擊步槍、穿著黑色裝甲的暴徒闖進房間。他們看起來甚至沒有要嚇阻你投降的意思，而是打算直接開槍。」
 
-Marissa grins at me. “Awesome. I wade into their midst and start tossing them 
-around.”
+瑪莉莎對我露出微笑： 「好極了。我要衝進他們中間，打算把他們打飛出去。」
 
-I nod. “Perfect. You’re directly engaging a threat, definitely.” 
+我點頭： 「很好。那麼理所當然的，你是在〈直面威脅〉。」
 
-Marissa makes a face. “Oof, hold up, I didn’t think these guys were an actual 
-danger. I’m bulletproof, right?”
+瑪莉莎做了個鬼臉：「哦，等等，我不覺得這些傢伙對我來說算是真正的危險──我是防彈的，對吧？」
 
-“Yeah, but they’re well-trained and pouring concentrated fire your way. They’re 
-pretty dangerous, even to you. Still want to wade in and toss ’em around?” 
+「沒錯，但他們訓練有素，而且正朝著妳的方向集中火力傾瀉子彈。他們相當危險，即使對妳來說也是如此。妳還想衝過去大鬧一番嗎？」
 
-Marissa has time to reconsider and not take the action—she hasn’t crossed the 
-Rubicon yet, hasn’t seen the consequences of the action. 
+瑪莉莎還有時間重新考慮要不要放棄這個行動——她還沒有越過那條線，也還沒有看到這個行動的後果。
 
-“Yeah,” she says. “Let’s go for it.” 
+「好，」她說：「就這樣上吧。」
 
-Marissa looks to the basic move—directly engage a threat—to find out what 
-happens next. 
+瑪莉莎接著看向基本動作——〈直面威脅〉──來看看接下來會發生什麼事。
 {{< /hint >}}
 
-Often when you trigger a move, you roll dice to see what happens next. 
-These are the only times you roll dice in the whole game. You might want 
-to roll dice to resolve a situation at other times—don’t, until you’ve actually 
-done something in the game that triggers a move. Sometimes you might want 
-to trigger a move and go straight to rolling without describing any action in 
-the fiction—don’t, until you’ve done something in the game that triggers it. 
-Fiction first.
+通常來說，當你觸發一個動作時，你會擲骰子來看看接下來會發生什麼。
+這也是你在整個遊戲中唯一需要擲骰子的時候。你可能會想在其他時候透過擲骰來處理某些情況——不要這麼做，除非你在遊戲中確實做了某個會觸發動作的行為。有時候，你可能會因為想觸發某個動作而直接擲骰，卻沒有描述你在故事中採取了什麼行動——不要這麼做，除非你在遊戲中採取了某個會觸發它的行動。記住，永遠以故事優先。
 
-Some moves are just input-output without any random element. No dice 
-needed. See New Examplar on page 199 for an example of a move that doesn’t 
-need dice.
+有些動作僅僅是單純的輸入輸出，沒有涉及任何隨機元素，也不需要擲骰子。關於這類不須擲骰的動作，可以參見「自訂動作」章節中作為範例的〈新生典範者〉動作。
+
 
 ### 成功與失敗
-When a move asks you to roll dice, pick up two six-sided dice (hereafter 
-referred  to  as  2d6)  and  roll  them. You’ll  probably  be  asked  to  roll  with 
-something or “+” something, like Freak, Danger, Savior, or Conditions Marked. 
-That means add that number to whatever comes up on the 2d6. So if you have 
-Danger +3, you add 3 to the results on the dice. If you have Savior -2, you 
-subtract 2 from the results on the dice. 
+當一個動作要求你擲骰時，拿起兩個六面骰（以下簡稱 2d6），然後擲骰。你可能會被要求在擲骰上「+」上一些東西，比如古怪、危險、救助、或已標記的狀態數量。這意味著你需要把這些數字加到2d6的擲骰結果上。因此，如果你「危險」的標籤屬性為+3，那麼你就要把擲骰結果再加上3。如果你的「救助」標籤屬性為-2，那麼你就得把擲骰結果再減去2。
 
-You can never roll with more than +4, and less than -3, no matter what 
-penalties or bonuses you’d have.
+<b>你在擲骰時的加減值永遠都不能大於+4或小於-3，無論你原本的加減值狀況如何。</b>
 
-Every move splits up outcomes the same way. A 7 or higher is a “hit,” while 
-a 6 or less is a “miss.” A 10 or higher is a “strong hit,” while a 7, 8, or 9 is a “weak 
-hit.” Most moves give some results and changes to the fiction between strong 
-hits and weak hits, and some may say what happens on a miss. Follow what 
-the move says when you roll it.
+所有的動作都使用相同的方式去區分擲骰結果。7或以上是「成功」，而6或以下是「失敗」。10或以上是「完全成功」，而7、8、9為「部份成功」。
+大部分的動作都會讓完全成功和部份成功之間有一些差異，而有些動作可能會說明你在失敗時會發生什麼事。當你擲骰時，遵循該動作的說明。
 
-In  general,  a  hit  means  you  largely  keep  control  of  the  situation  and 
-probably get some version of what you want. It’s not always exactly or all that 
-you wanted, but it’s the bare minimum. On a weak hit (7-9), you might get 
-a distorted version of what you wanted, or you might get some major costs 
-attached. On a strong hit (10 or higher), you might get an even better version 
-of what you wanted. You almost always want 10+ when you roll (except for 
-the one inverted move in the game, take a powerful blow—pay close attention 
-to that one!). 
+一般來說，成功代表你能夠大致上掌控局面，並可能得到一部分你想要的發展。它並不總是會完全如你所願，但它會給你最低限度的甜頭。
+當你骰出部份成功（7-9）的結果時，那麼你得到的發展或許會是稍微偏離你預期的版本、或者它伴隨著重大的代價。
+如果你骰出完全成功（10或更高）的結果，那麼你可能甚至能得到比你預期還要更好的結果。因此當你擲骰時，你幾乎總是會想要骰出10+的結果（除了遊戲中的一個剛好反過來的動作：〈承受沉重打擊〉——請特別留意它！）。
 
-A miss, 6 or less, isn’t the same as a failure. It just means the GM gets full 
-say over what happens next, and chances are you won’t like it. The GM will 
-probably make things worse for you in some way, tighten the screws more, but 
-it doesn’t have to be the worst possible thing that could happen, and it doesn’t 
-even have to mean that you actually failed. Some of the most interesting misses 
-give you exactly what you wanted, in the worst possible way. 
+值得注意的是，骰出失敗（6或更少）實際上並不等於失敗。它僅僅是表示GM對於接下來將發生的事情將握有完全的發言權，而且你很有可能不會喜歡那個發展。GM很可能會在某種程度上使你身處的情境變得更糟，把螺絲擰得更緊；然而，這並不一定代表最惡劣的情境降臨，甚至不一定意味著你真的失敗了。一些最有趣的6-結果可能會讓你得到你想要的，但卻是以最糟糕的形式呈現。
 
 {{< hint info >}}
-Marissa rolls to toss those black-clad goons around, and sadly rolls 2, with Danger 
-+2, for a total of 4. A miss.
+瑪莉莎為她衝過去攻擊那夥黑衣走狗的行動擲骰，但骰出了令人哀傷的2，儘管她的危險屬性有+2，但總共為4，仍然是個失敗。
 
-“Yeah, you’re thrown into the mix with them, and they’re pumping bullets your 
-way, but you largely shrug them off as you chuck these soldier types around, sending 
-them flying into tables and walls with abandon. When you hurl the last one all the 
-way up against the ceiling and watch them fall back down, you notice their features 
-underneath the cracked helmet. This guy’s a teenager. You peel off the helmet and 
-find a guy no older than you, but with implants in his skin, probably something 
-ensuring his compliance. Each one you check is the same, another teen, showing 
-signs of experimentation. You just beat up your lab-siblings, the same people you 
-were hoping to save.” 
+「好的，妳投身衝進了他們之中，他們正朝著妳的方向掃射，但妳仍將大部分的子彈輕鬆甩開，並在同時把這些士兵般的傢伙一個個扔飛出去，讓他們狠狠飛撞到附近的桌子和牆壁上。隨著妳把最後那個士兵扔到天花板上，看著他無力摔落在地上，妳忽然注意到他從破裂頭盔下露出的面容：這傢伙是一名青少年。妳拆下他的頭盔，發現這個傢伙的年紀並不比妳大，而且皮膚內嵌有植入物──或許是用來確保他服從的裝置。檢查在場每個人的結果都是一樣的：又一個青少年，又是實驗的痕跡。妳剛剛狠狠痛打了妳實驗室的同胞，而他們正是妳希望拯救的人。」
 
-Marissa groans. “Oof. Now I feel terrible.”
+瑪莉莎哀號：「噢，現在我感覺糟透了。」
 {{< /hint >}}
 
-The GM doesn’t roll dice in MASKS, ever. The GM just says what happens, 
-making moves when a player rolls a miss, when the conversation gets boring, 
-or when a move tells them to contribute. These limits ensure the GM sets up 
-situations in which the PCs are forced to react. For more about GM moves, 
-check out page 135.
+在《蒙面少俠》，GM並不擲骰，永遠不會。
+GM僅僅需要描述發生了什麼事，並在玩家擲骰失敗、在對話開始變得無聊時、或當某個動作要求他介入的時候進行動作。這個限制能夠確保GM建構出將迫使PC做出反應的情境。關於更多GM動作的詳情，請參閱「<a href='{{< relref path="docs/rules/the-gm/the-gm-moves" >}}'>GM動作</a>」章節。
 
-
-### TRIGGERS AND UNCERTAINTY
+### 觸發條件與不確定性
 There are only seven basic moves in MASKS, and a limited number of other 
 moves. Does that mean you can only do those things in the game? Why would 
 we limit it like that?
