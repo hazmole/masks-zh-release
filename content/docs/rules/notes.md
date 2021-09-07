@@ -48,6 +48,7 @@ weight: 100
 * Kalka the Bloodhewn : 血鑿之卡爾卡
 * La Espada : 魔劍少女
 * Lady Faust : 浮士德女士
+* Lightning Streak : 落雷人
 * Magus Everard : 魔導師艾弗瑞
 * Nano : 奈微小子
 * Power Sink : 吸能怪
@@ -55,9 +56,10 @@ weight: 100
 * Sablestar : 黑貂星
 * Satin : 薩汀
 * Scarlet Songbird : 猩紅鳴鳥
+* Shell : 鋼殼
 * Source Code : 源碼駭客
 * Spider : 蜘蛛老大
-* Shell : 鋼殼
+* Stone Titan : 岩石泰坦
 * Teacher : 「老師」
 * Technatrix : 科技游蛇
 * Tectonic Prime : 原初機構

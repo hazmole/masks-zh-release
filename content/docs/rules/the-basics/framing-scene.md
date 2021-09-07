@@ -131,57 +131,27 @@ weight: 2
 GM僅僅需要描述發生了什麼事，並在玩家擲骰失敗、在對話開始變得無聊時、或當某個動作要求他介入的時候進行動作。這個限制能夠確保GM建構出將迫使PC做出反應的情境。關於更多GM動作的詳情，請參閱「<a href='{{< relref path="docs/rules/the-gm/the-gm-moves" >}}'>GM動作</a>」章節。
 
 ### 觸發條件與不確定性
-There are only seven basic moves in MASKS, and a limited number of other 
-moves. Does that mean you can only do those things in the game? Why would 
-we limit it like that?
+在《蒙面少俠》中只有七個基本動作以及其他有限數量的動作。這是不是代表我們在遊戲中只能做這些事情呢？為什麼我們要有這樣的限制呢？
 
-The answer is simple: the moves point to places where no one knows 
-what happens next. 
+答案很簡單：因為這些動作諭示著沒有人知道接下來會發生什麼事情的情境。
+　　
+如果你的超能力是飛行，而且你想在飛越城市上空，不急不躁……那麼這個情境中就沒有任何不確定因素。所有玩家和GM都很清楚接下來會發生什麼，你就是直接做到這件事了。
 
-If your superpower is flight, and you want to fly over the city, no urgency, 
-no rush...then there’s no uncertainty. The players and the GM all know exactly 
-what happens next. You just do it. 
+如果你是個擁有超強怪力與超高速的傢伙，而且想要打倒一個平凡無奇的普通市民（出於某些理由）……沒有任何不確定因素存在。他們無法傷害你、阻止你、或者影響你。你就是能直接做到。
 
-If you, someone with super strength and super speed, want to knock out a 
-completely mundane citizen (for some reason)...there’s no uncertainty. They 
-can’t hurt you, stop you, or affect you. You just do it. 
+又如果你想對某人咒罵幾句，逞逞口舌之快，沒有什麼太過尖銳或深刻的話語，也沒有什麼需要對方回應的意圖，那麼這仍然沒有任何不確定因素，你就直接這麼做了。
 
-If you want to throw a quick snarky insult at someone, nothing too biting or 
-incisive, nothing that demands a response, there’s no uncertainty. You just do it. 
-But when you’re trying to fly faster than Lightning Streak to make sure 
-you get to the Interdimensional Quantum Stabilizer first, then no one, not the 
-player or the GM, knows what happens. That’s when a move triggers (in this 
-case, unleash your powers). 
+但是如果你想飛得比落雷人還快，確保自己能夠先他一步抵達跨維度量子穩定器的所在地，那麼沒有人──無論玩家還是GM──會不知道將發生什麼事。這正是觸發動作的時機（在這種例子中，觸發的會是〈釋放你的力量〉）。
 
-When you’re trying to knock down the Stone Titan with your fists, to stop 
-the towering fifteen foot behemoth of stone, then no one knows what happens 
-next. That’s when a move triggers (in this case, directly engage a threat). 
-When you’re trying to throw a biting insult that makes Vanquish turn away 
-from the Cosmic Battery to fight you, abandoning sense and reason to smash 
-you into the ground for your insolence, then no one knows what happens next. 
-That’s when a move triggers (in this case, provoke someone). 
+當你想用你的拳頭擊倒岩石泰坦，阻止眼前這高聳入雲的十五英尺石頭巨獸時，那麼誰也不知道接下來會發生什麼。這時候就會觸發動作（在這種例子中會是〈直面威脅〉）。
 
-Your character can do anything that it makes sense they can do, within the 
-story. Moves resolve situations in which both player and GM aren’t sure what 
-happens next, to tell you what happens next. They highlight the natural tension 
-points in a MASKS story. 
+又當你想拋出一句侮辱嘲諷的話語，想讓征服者離開宇宙砲台轉而與你交戰，想讓他因為你的無禮而狠狠教訓你，那麼接下來會發生什麼，沒有人知道。這時也會觸發動作（在這種例子中會是〈煽動某人〉）。
 
-When a move is triggered, everyone around the table doesn’t know what 
-will happen, including the GM. When a PC tries to suck all the power out of 
-an enormous robot and channel it directly into the city’s power grid, no one 
-around the table is sure what will happen until that move is resolved. And 
-when it’s resolved, everyone knows where the story goes next.
+你的角色可以去做任何他們在故事中有理由會去做的事情。而「動作」則被用來處理那些玩家和GM都不確定接下來會發生什麼事的情境，用來告訴你們接下來究竟會變得怎麼樣。它們強調了《蒙面少俠》故事中那些劇情張力的重點。
 
-Sometimes, the GM and the players have to talk a bit to get on the same 
-page about the uncertainty. A PC wants to fly into space, and the GM feels that 
-it’s uncertain if they can because they’ve never done it before. But the player’s 
-always had it in their head that they can fly into space, should the need arise. 
-The player and the GM have to quickly figure out if this is truly uncertain. The 
-point of moves is to make us excited, interested, and surprised about what 
-happens next, and if someone doesn’t feel excitement around the uncertainty, 
-then it’s a good sign that either a move isn’t being triggered, or someone doesn’t 
-fully understand the situation. Talk it out and find a place where you agree 
-on the uncertainty, then make the move that makes sense. Or no move at all.
+當一個動作被觸發時，遊戲桌上的所有人都不會知道接下來將發生什麼事，包括GM也是如此。
+當玩家角色嘗試吸走一個巨大機器人身上的所有能量，並將其直接疏導到城市的電網中時，直到這個動作被處理之前，遊戲桌上的所有人都不會知道接下來將發生什麼事。而當這個動作被處理後，每個人也都將知道這個故事會往什麼方向前進。
 
-For more on the basic moves and when or why they’re triggered, check out 
-page 55. 
+有時候，GM和玩家會需要聊一聊以在不確定性上取得共識。比如說，某個PC可能想飛入太空，而GM可能會因為他們從未這麼做過而認為這件事帶有不確定性，但在玩家腦中其實一直覺得他們可以在有需要的時候飛到太空中。在這種情況下，玩家和GM得迅速釐清這個行為究竟是否真的帶有不確定性。動作的存在意義在於讓我們對接下來發生的事情感到緊張、興奮、與驚訝，而如果有人對這不確定性並不感興趣，那這同樣是個好跡象：這說明要麼是沒有任何動作被觸發，要麼是我們沒有完全把握情況。好好談談，讓你們取得對不確定性的共識，接著處理相應合理的動作、或者不觸發任何動作，讓故事繼續下去。
+
+更多關於基本動作、以及何時或為何要觸發這些動作的說明，請參見「<a href='{{< relref path="docs/rules/the-moves/basic-moves" >}}'>基本動作</a>」章節。

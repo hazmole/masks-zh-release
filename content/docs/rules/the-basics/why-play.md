@@ -4,47 +4,18 @@ weight: 4
 ---
 
 ## 為什麼要玩這個遊戲？
-But why do this? Why go to all this work to tell a story, when TV, movie 
-theaters, and even book stores are full of superhero stories you can consume 
-without having to do any of the work to write them yourself?
+為什麼我們要做這些？現在的電視、電影院、甚至書店裡都有很多超級英雄的故事，你不需要花力氣自己寫就可以享受它們，為什麼我們還要花這麼大力氣去講故事呢？
 
-Because it’s frickin’ awesome!
+因為這一切都太他媽棒透了！
 
-Because  when  you  play  MASKS,  you  create  your  own  cool  superheroes, 
-interesting and competent and powerful and capable of heading up their 
-own comic books. You then watch those characters bounce off each other 
-in dramatic, tense, and most of all fun ways. You create your own team of 
-superheroes and watch them argue, draw together, and kick all the butts!
+因為當你們遊玩《蒙面少俠》的時候，你們將創造出屬於自己的酷炫英雄，他們有趣、能幹、強大，且能夠領銜主演自己的漫畫故事。然後，你能夠見證這些角色以戲劇性、緊張刺激、以及──最重要的──無比有趣的方式相互碰撞。你們將創造出你們自己的超級英雄團隊，看著他們彼此爭執，聚集在一塊，然後把所有阻礙一腳踢開！
 
-Because superhero stories let you play with whatever crazy elements you 
-like, and weave them all together into one awesome tapestry. Vampires? Sure! 
-Robots? Definitely! Aliens? Of course! Alien robot vampires? Why the heck 
-not! Superhero comics are unselfconscious about their zaniness, and they let 
-you tap into the same wellspring of unrestrained creativity, and just have fun 
-making stuff up!
+因為超級英雄的故事讓你可以玩遍任何你喜愛的瘋狂元素，並把它們融合編織成精彩萬分的故事。吸血鬼？沒問題！機器人？肯定的！外星人？當然有！外星機器吸血鬼？為什麼不呢！超級英雄漫畫對那些荒誕瘋狂的要素總是如此自然，而它們也讓你能利用同樣不受限的創意源泉去發揮，並單純享受於編造故事的喜悅！
 
-Because  we  can  all  relate  to  these  characters  and  their 
-stories. We all have to grow up eventually, so you’ve either 
-done it already, are doing it right now, or are going to do 
-it someday. We’ve all felt it when someone else’s 
-words  have  changed  how  we  saw 
-ourselves,  and  we’ve  all  had  to 
-decide  whether  to  take  that,  or 
-to  reject  it  and  find  something 
-else.  And  that  means  what  these 
-characters are going through, even with all 
-the spider-demons and the super-police and 
-the costumed burglars, is relatable and even 
-real to us.
+因為我們都能體會這些角色的感受以及他們的故事。我們最終都必須長大，所以你要麼已經成為大人，要麼現在正在經歷這一切，或總有一天會面對它們。
+我們都有過因為別人的話語而改變對自己看法的體驗，我們也都得決定要接受它們，還是將其拒於門外並找尋其他看法。而這也代表，儘管摻雜著蜘蛛惡魔、超能警察、或是變裝大盜等亂七八糟的要素，故事中這些角色所經歷的一切也全都能讓我們感同身受，甚至對我們來說是無比真實的。
 
-Because  these  stories  of  young  heroes 
-and their superpowers and their battles are 
-about regular human drama, writ big and 
-large  and  loud.  They’re  melodramatic 
-and they’re engaging, and they’re over 
-the top, and if you invest even a bit 
-of yourself you’ll get sucked in.
+因為這些年輕英雄、他們的超能力、以及他們熱血戰鬥的故事，全都是又誇張又響亮的人物通俗劇。
+它們狗血，迷人，過火誇大，而只要你投入了哪怕一點點自我進去，你就會深陷其中。
 
-Because everyone wants to tell 
-you who to be. And you’ve got 
-to find your own path, kid.
+因為每個人都想告訴你你該成為什麼樣的人物。而你，孩子，必須找到自己的道路。
