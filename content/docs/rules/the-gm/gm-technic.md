@@ -213,17 +213,11 @@ or take up too much of your attention in the game as a whole.
 這些技巧和訣竅對於成功運行《蒙面少俠》來說並沒有那麼關鍵──只要你遵循本章前述的目標事項、原則、和動作的說明，就能一切順利。
 然而，下面這些能夠提供你一些方法來讓你的遊戲更上一層樓！
 
-**使用跨頁畫格.** In comics, splash panels are gigantic panels, taking 
-up the whole page or even two pages, intricately drawn and showing off 
-the detailed awesome of something. When you feel like something is super 
-cool—some crazy heroic maneuver or some really cool fixture of the setting—
-describe it in detail like a splash panel. 
+**使用全版畫格.**
+在漫畫中，全版畫格是一種的巨大畫格，佔據了一整頁或橫跨兩頁的篇幅，運用誇張豐富的筆觸，並展示了某個事件的精彩細節。當你覺得故事中出現了某個超級酷炫的東西時──也許是一些瘋狂的英雄壯舉、或一些非常酷的建築或裝置──那麼就彷彿那是全版畫格一樣去詳細描述它吧。
 
-**畫出地圖.** They don’t have to be works of art—they just have to help you 
-clarify the situation. What’s where. What’s at stake. Draw them on whatever’s 
-available—again, don’t worry too much about quality here. The point is to 
-give you all the information you need to share the fictional mindscape during 
-complicated situations.
+**畫出地圖.**
+這不一定要是什麼藝術品──它們只需要能幫助你釐清故事中的情況：什麼東西在哪裡？什麼處於危機之中？將這些畫在任何你能用的東西上──在強調一次，不需要太擔心它們的精緻度，畫地圖的重點在於讓你能給出所有你需要的情報，來在情況變得複雜時確實呈現出你心中所描繪的故事情境。
 
 **填補背景故事.**
 詢問關於過去事件的問題。當然，詢問玩家關於PC們過去的問題，但也可以問關於神翠市過去的問題。你只能詢問那些PC們也會知道答案的問題，但記住，神翠市的超人類歷史事件有很大一部分是為公眾所知的。利用這些問題的答案來填滿你們的神翠市，並以此為基礎去發展。
