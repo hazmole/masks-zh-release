@@ -92,7 +92,7 @@ weight: 5
 
 「啊，噗，我的救助很低。」她說。 但她還是擲骰了，結果是3！
 
-「噢，好的，妳全力轟出強烈的光束並切斷了暗影般的利爪——但老師只是用一種完全不像人類的表情看著妳，然後猛然衝過來。她的身體脹大延展，詭異地扭曲著，她衝著妳來並用她那延長怪異的肢體狠狠拍向你。這幅光景相當駭人——請標記恐懼狀態，然後骰〈承受沉重打擊〉。」
+「噢，好的，妳全力轟出強烈的光束並切斷了那些暗影般的利爪——但老師只是用一種完全不像人類的表情看著妳，然後猛然衝過來。她的身體脹大延展，詭異地扭曲著，她衝著妳來並用她那延長怪異的肢體狠狠拍向你。這幅光景相當駭人——請標記恐懼狀態，然後骰〈承受沉重打擊〉。」
 
 我遵循著故事中的描述──天樂女顯然必須因為這一擊而〈承受沉重打擊〉──且我同時在對她〈施加狀態〉──一個簡單且相當適合與〈承受沉重打擊〉共存的硬動作。我這麼做是透過了老師的其中一個動作〈從無害、值得信賴的形態中顯露出她的真面目〉。儘管這不太符合這個動作完整的敘述──他們很顯然不信任老師的這個形態──但也夠接近了。
 
@@ -109,195 +109,101 @@ weight: 5
 
 「哦，我就跳到她面前，瘋狂地毆打她。一次又一次地出拳。」麥特說。麥特擲骰進行〈直面威脅〉，並骰出了11！「完美！好的‥‥我選擇『讓對手恐懼、吃驚、或留下深刻印象』，還有『奪走他們身上的某物』。顯然我可以奪走天樂女，對吧？」
 
-「噢，當然。」我回答：「好，你們兩個扭打在一起，陷入一場激烈的惡鬥，她的身體扭曲成怪異的捲曲觸手並朝著你捅過來，而你只是用你的爪子將她撕開，臉上帶著野獸般的表情咆哮著。」
-“Oh definitely,” I reply. “Yeah, you two are embroiled in a nasty little fight, her
-body twisting into weird tendrils and stabbing at you, you just tearing her up with
-your claws, snarling with that animalistic expression on your face. Her body slackens
-and she releases Skysong before she pulls away from you. But she got her licks in
-too—take a powerful blow.” Matt gets a 3—he’s getting all the good rolls!
+「噢，當然。」我回答：「好，你們兩個扭打在一起，陷入一場激烈的惡鬥，她的身體扭曲成怪異的捲曲觸手並朝著你捅過來，而你只是用你的爪子將她撕開，臉上帶著野獸般的表情咆哮著。她的身體拉伸開來，在從你身邊遠離的同時放開了天樂女。但她同時也成功痛擊了你──〈承受沉重打擊〉吧。」麥特骰出了 3──他的骰運可不是蓋的！
 
-“I get to mark potential and say how I weather the blows, right? It’s not even
-conscious. My body repairs the damage, and grows hardened scales over those spots
-almost instantly. She can’t hurt me!” Matt says.
+「我可以標記一點潛能，然後描述我是如何撐過了這一頓打擊，對吧？這甚至不是有意識去做的行動，我的身體自動修復了傷口，並幾乎瞬間在傷處重新長出更加堅硬的鱗片。她傷不了我的！」 麥特說道。
 
-“That’s awesome!”
+「這真是太棒了！」
 
-Since Rex has traded blows with her, I mark a condition on the Teacher. Normally
-I’d mark Angry for her but because Rex impressed, surprised, or frightened her, I
-look and choose to mark Insecure. “I see double down on broken plans or ideas in the
-condition moves for Insecure, and go with that.
+由於雷克斯與她互相造成了打擊，因此我為老師標記了一個狀態。通常我會標記憤怒狀態，但因為雷克斯選擇了讓她恐懼、吃驚、或留下深刻印象，因此我在看了看狀態列表之後，改為選擇了標記不安狀態。我在不安的狀態動作列表中看到了「對破碎的計畫或想法加注」，並用它繼續推進。
 
-“Yeah, she reels and looks super uncertain as her face collapses into a goopy
-mishmash...but then her features snap back together and you hear her say, ‘No!
-You’re just...just children! I must save you! I will save you!’ And though you’ve
-clearly got Skysong safe
-behind you, she surges
-forward, straight
-towards you. She’s
-trying to get around
-you, Rex—trying to get to
-Skysong.”
+「好，她踉蹌後退，臉部垮成了一團疙瘩，看起來超級不確定……但接著她的五官又回歸原位，然後你們聽到她大喊：『不！你們只不過……只不過是孩子！我必須拯救你們！我會拯救你們！』而明明你已經把天樂女安全地護在身後了，她還是猛地暴起，直直向著你衝過來。她打算繞過你，雷克斯……她打算再次抓住天樂女。」
 
-“Can I defend Skysong?” Matt asks.
+「我可以對天樂女使用〈保衛某人〉嗎？」麥特問。
 
-“In a second—I think that’s
-where the panels shift to show
-what’s happening with Fission
-and Hornet while all that fighting
-is going on,” I say. Fission hasn’t
-had spotlight yet, so I want to
-shine it on him. “Hornet just
-slammed that stun baton into the wall.
-You telling Fission anything, Hornet?”
+「稍等會──我想這裡是畫面轉移到另一邊，看看在這場亂鬥的同時裂變俠和胡蜂女這一邊發生了什麼事。」我說道。裂變俠還沒有得到過聚光燈，所以我想要把鏡頭轉到他身上。「胡蜂女剛把電擊棒砸到了牆上，你有告訴裂變俠什麼嗎，胡蜂女？」
 
-“‘Charge it up! If you pour your power into it,
-you can break this place apart!” Joe says as Hornet.
+「『給它充能！如果你把能量注入進去，你就可以把這個鬼地方打破開來！』」喬以胡蜂女的口吻說道。
 
-“Okay, I don’t hesitate—I’ll follow Hornet’s lead,”
-says Sarah. “I wrap my hands around the baton, and
-then I pour power into it until the walls shatter.”
+「OK，我毫不猶豫──我聽從胡蜂女的指揮。」莎拉說：「我雙手握住電擊棒，然後將力量全數注入其中，直到牆壁被打碎。」
 
-“Perfect! Unleash your powers,” I say.
+「很耗！〈釋放你的力量〉吧。」我說。
 
-“Can Fission get the +1 bonus for acting on the
-answer for assess the situation?” Joe asks.
+「他是依據〈評估局勢〉的答案採取行動，這樣裂變俠可以得到+1的加值嗎？」喬問道。
 
-“Normally that bonus is for the person who did the assessment, but sure, in this
-case, since you’re team leader and Fission is following your plan.”
+「通常來說，這個加值只會給評估局勢的人使用，但既然你是團隊領袖且裂變俠是依照你的計劃行動，那麼在這個情況下，當然可以。」
 
-Sarah gets a 6. It’s going to be a miss!
+莎拉骰出了6，她就要失敗了！
 
-“Wait, I want to help,” says Joe. “As soon as the wall starts to shatter under Fission’s
-power, I start striking at the cracks. It probably hurts my hands, makes my fingers
-bleed, but I’m well trained, and I break bricks with my hands all the time. Does that
-work?”
+「等等，我想要幫忙！」喬插話：「在牆壁在裂變俠的能量摧殘下開始龜裂的同時，我開始猛擊裂縫。這或許會傷到我的雙手，讓我的手指流下鮮血，但我訓練有素，而且我經常練習用徒手碎磚。這樣有用嗎？」
 
-“Yeah, totally! That makes the roll a 7!” I take one Team from the pool.
+「嗯，當然可以！這會讓擲骰結果變成7！」我減少了他們的一點團隊默契。
 
-Fission overcomes the obstacle, but at a cost. “I’m pretty high on conditions right
-now, so...I’m gonna make it unstable or temporary,” says Sarah.
+裂變俠克服了阻礙，但需要付出代價。<br/>
+「我現在身上的狀態還挺多的，所以……我想要讓這股力量不穩定或只造成暫時性的影響。」莎拉說道。
 
-“Oh, perfect,” I say. “Yeah, you feel your power disrupting this pocket reality.
-Weird glowing green cracks spread from the stun baton and Hornet starts striking
-those cracks, forcing them to spread further, creating holes in the walls and showing
-that blackness beyond. At one end of the hall, you see a hole of light—blue sky! That
-must be the way back! But between here and there is a mess of broken high school
-hallway and gaping voids of hungry darkness.” I’m raising the tension here—they
-have a way out, but it’s dangerous to get there, and the Teacher’s still on their heels.
+「喔，完美。」我說：「好，你感覺你的能量開始擾動這整個微縮現實。發著怪異綠光的裂痕從電擊棒的位置蔓延開來，同時胡蜂女開始擊打裂痕，迫使它們進一步擴散，四周牆壁上碎出了一個個的破口，露出了後頭遙遠的黑暗。在走廊另一邊的盡頭，你看到了一個露出淡藍色天空風景的破洞！那肯定就是回去的路！但在你們與出口之間的是一片殘破的高校走廊，到處都是充斥著飢渴黑暗的虛空裂口。」我在這裡加劇了緊張的氣氛──出口就在他們眼前，但通往出口的路途相當危險，而且老師仍然緊追在他們身後！
 
-「那麼，胡蜂女──妳打算做什麼？」
+「那麼，胡蜂女──接下來，妳打算做什麼？」
 {{< /hint >}}
 {{< /details >}}
 
 
 ## 玩家 VS 玩家
-In MASKS, there may be some conflict between PCs, situations where two young 
-heroes try to provoke each other or punch each other. Most of the time, PCs 
-try to comfort or support each other, and they have relatively little reason to 
-resist—even on a hit, the comforted or supported PC can choose to not open 
-up. But even though MASKS is mostly concerned with conflict against antagonists 
-and villains, sometimes the PCs will want to hit each other. That’s okay! You 
-and MASKS can handle it. 
+在《蒙面少俠》的故事中，PC之間可能會起衝突，出現兩個年輕的英雄打算挑釁彼此或痛毆對方一拳的情況。在大部分的情況下，PC會試圖對彼此使用〈安慰或支持某人〉，且他們也比較沒有抵抗的理由──即使這個動作骰出成功，被安慰或支持的PC也可以選擇不敞開心胸。但即使《蒙面少俠》主要聚焦在玩家們與敵人和反派之間的衝突，有時候PC仍會想要對抗彼此。這也沒關係！你和《蒙面少俠》的規則都可以妥善處理它們的。
 
 ### 共享聚光燈
-These situations ultimately follow many of the guidelines for fights. Share 
-the spotlight between the characters and be a fan of everyone involved. You 
-may flip to one PC first, as the instigator, to  directly engage a threat, but you 
-need to keep shifting the focus of your panels so all the PCs involved get 
-the spotlight. No PC should ever completely thrash any other just because of 
-spotlight.
+許多處理戰鬥場景的準則也都能適用於這些場景：分享角色之間的聚光燈、以及成為所有參與角色的粉絲。你可以先聚焦在其中一個PC身上，把他當成打鬥的發起者，讓他進行〈直面威脅〉，但你同時需要不斷轉移你鏡頭的焦點，好讓所有PC都能夠得到聚光燈的照耀。任何PC都不應該只因為在聚光燈下就徹底擊敗任何其他PC。
 
-Remember that players usually have a fair amount of control over when 
-they go down. If their conditions are full and they have to mark another, then 
-they go out; but they have options besides marking conditions when they take 
-powerful blows. As such, you can rely on that move to help ensure nobody 
-gets taken out too quickly, too easily—the PCs may be faced with some hard choices about the costs of continuing the fight, but they probably won’t go 
-down without warning.
+記住，玩家們通常對於他們何時倒下這件事握有相當大的控制權。當然，如果他們的狀態已經標滿，而他們又必須標記另一個狀態時，那麼他們就會退場；但當他們在〈承受沉重打擊〉時，他們確實擁有除了標記狀態之外的其他選擇。因此，你可以依靠這個動作來確保不會有人太快或太輕易地被擊倒──PC們可能會面對一些艱難抉擇，煩惱於是否要為了繼續戰鬥下去而付出代價，但他們不太可能會毫無預警地倒下。
 
 
 ### 抵禦和幫助
-The  only  means  PCs  have  to  directly  intervene  when  another  PC  comes 
-after them is to defend against a PC threat. On a 7+, the defender gives the 
-opposition a -2 to their roll. Defend needs to be against an immediate threat, 
-though, and with PCs against PCs, that should really be limited to dangerous 
-and direct action. A PC can’t usually defend themselves when another PC tries 
-to comfort or support them or pierce their mask. Resolve the first move, then 
-let the target of the move make a move in response.
+PC唯一可以用來直接干預其他PC的手段，就是「對PC造成的威脅」使用〈保衛某人〉。擲出7+時，保衛者可以讓對方的擲骰結果-2。
+〈保衛某人〉需要針對立即性的威脅去使用，因此在PC對抗PC的情況下，這也應該只能用於危險和直接的行動；也因此當PC並不能使用〈保衛某人〉來干擾其他PC〈安慰或支持某人〉或〈揭穿面具〉的行動。處理第一個動作，接著讓該動作針對的目標做出反應。
 
-Other PCs can pretty much always help by spending Team from the pool. A 
-PC might scream that they don’t want help, but if another PC wants to spend 
-Team to help out, they get +1 to a roll. Players are encouraged to talk out of 
-character about whether or not they want to spend Team.
+其他PC幾乎永遠都可以透過消耗團隊默契來協助彼此。PC可能會大喊著說他不需要幫忙，但如果其他PC想要消耗團隊默契來幫忙他，那他就會因此得到+1的加值。我們鼓勵玩家們脫離角色的層面去討論他們是否需要消耗團隊默契。
+
 
 ### 玩家 VS 玩家　的範例
 {{< hint info >}}
-Huma’s pretty frustrated with Vertex’s nonsense, especially choosing to let La Espada 
-go during their last conflict, instead of bringing her down. 
+神雀對頂尖叛客亂來的行動很是不滿，尤其是他在他們上次的戰鬥中選擇放魔劍少女逃離現場，而不是將她打倒。
 
-“‘So what?” says Jack as Vertex. ‘You’re not the real team leader, that’s Hornet. 
-You’ve got no authority...unless you want to punch me. Is that what you want to do, 
-jerk? You gonna hit me?’ I want to provoke Huma to back down. Definitely not to 
-hit me!” Vertex has Influence over Huma, so that provoke definitely goes off. But 
-Jack gets a miss.
+「『那又怎樣？」傑克，扮演著頂尖叛客，說道：「你可不是我們團隊真正的領袖，胡蜂女才是。你沒有任何權力指使我……還是你想揍我。這就是你想做的嗎？混蛋？打我啊？』我想對神雀使用〈煽動某人〉，我希望他退讓，當然，我可不想要他出手揍我！」
+頂尖叛客擁有對神雀的影響力，所以這肯定符合〈煽動某人〉的條件。然而，傑克擲出了一個失敗。
 
-“Oh, yeah, okay. So Huma, I’ll turn that around. You get a free provoke on Vertex, 
-as if you’d rolled a 10+.” I’m turning the move around on Vertex, a great GM move 
-in PC vs PC conflicts.
+「噢，好，好的。那麼神雀，我要把這反過來處理。你免費獲得一次煽動頂尖叛客的機會，就如同你在〈煽動某人〉中骰出了10+的結果一樣。」我對頂尖叛客使用了〈把他們的動作反過來對付他們〉，一個特別適合PC與PC之間衝突的GM動作。
 
-“Awesome! I want Vertex to back down. I’d love it if he apologized, but backing 
-down is enough. ‘No, Vertex. I don’t have to hit you. Because you’re a coward, and 
-you’re going to shut up. Right. Now,’” says Rich. 
+「太好了！我希望頂尖叛客退讓。如果他願意道歉的話我會很高興，但退讓就很夠了。『不，頂尖叛客，我沒有必要打你，因為你就是個懦夫，而且我相信你會閉上你的嘴。現在，立刻。」瑞奇說道。
 
-“Ah, I can’t back down after that!” says Jack. He thinks for a second. “Yeah...I 
-guess I hit Huma!” 
+「啊，我可不能就這樣退縮！」傑克說，他想了一下：「好……我想我要衝過去揍神雀！」
 
-“Oh man,” I say. “Okay, well, first mark a condition as a result of the provoke, then 
-I think you’re directly engaging a threat, right?”
+「喔天。」我說：「OK，好，首先做為〈煽動某人〉的結果，請標記一個狀態，然後我想你是在〈直面威脅〉，對吧？」
 
-“Yep. I’ll mark Angry and roll to directly engage.” Jack gets an 11. “Hah! So I get 
-two options, right?”
+「對。我要標記憤怒狀態，然後擲骰來〈直面威脅〉。」捷克骰出了11：「哈！所以我可以選擇兩個選項，對吧？」
 
-“Hold on. I definitely want to defend myself,” says Rich. “I saw him coming a 
-mile away. I try to slip out to the side and let him run into a wall.” He rolls to defend 
-against an immediate threat, and gets a 9. That means he exposes himself to cost, 
-retribution, or judgment, but he does drop Vertex’s roll down to a 9.
+「等等。我肯定會想保護我自己。」瑞奇說道：「我看見他從一英里左右的距離外衝過來。我嘗試閃到一邊，讓他直接撞上牆壁。」他針對這立即性的威脅對自己使用〈保衛某人〉，並骰出了9，這意味著他使自己暴露在代價、報復、或批評之下，但他也同時把頂尖叛客的擲骰結果降到了9。
 
-“You slip to the side, Huma, but it’s not enough. Vertex’s first punch hits the wall, 
-but he rebounds quickly and catches you with a second blow.”
+「你閃躲開來，神雀，但這還不夠。頂尖叛客的第一拳揍在牆壁上，但他接著迅速回彈並揮出第二拳打中了你。」
 
-“I choose to resist or avoid his blows,” says Jack.
+「我要選擇『抵抗或避開對方的攻擊』。」傑克說。
 
-“Yep. So Huma, you can’t get a good shot in—you were probably a little startled 
-by this, despite your move to slip to the side. Vertex lands a surprisingly solid punch 
-to your face, but nothing too bad. Roll to take a powerful blow.” 
+「好的。所以神雀，儘管你閃到一旁，但你找不到出手的時機──你或許因此有些錯愕。頂尖叛客出乎意料的第二拳扎實的打在你臉上，但還不算太糟。請擲骰進行〈承受沉重打擊〉。」
 
-Rich gets an 8. He debates a few options: “No way am I giving him an opportunity. 
-I’m tempted to lash out again, but my Superior’s not so good right now, so I’ll mark 
-two conditions. Angry and Insecure—I’m doubting myself. I just got punched by 
-Vertex.” 
+瑞奇骰出了8。他在幾個選項中猶豫：「我不會給他機會的。我很想要再咒罵煽動我的隊友，但我的優越屬性現在不怎麼高……我要標記兩個狀態，憤怒和不安──我產生自我懷疑。我剛剛竟然被頂尖叛客給打中了。」
 
-“Yep. Plus, you exposed yourself to cost, retribution, or judgment, right? So yeah. 
-Pick one of your teammates who’s watching and give them Influence over you,” I say.
-“Oh, definitely Hornet! Vertex specifically mentioned her!” says Rich.
+「好的。除此之外，你也使自己暴露在代價、報復、或批評之下對吧？所以對，選擇一個正看著這一切的隊友，讓他們獲得對你的影響力。」我說道。
 
-“Yep, so Hornet, you get Influence over Huma. Huma, you’ve got some nice hits 
-on your face—nothing too bad, but boy do they sting. And you’re keenly aware of 
-Hornet watching you in this fight. What do you do now?” 
+「噢，那肯定是胡蜂女！畢竟剛剛頂尖叛客特別提到了她！」瑞奇說道。
 
-“I think about stopping for a minute...but I’m coming right back at him. Time 
-to show him what it means to be Huma. I want to directly engage and just lay him 
-out on the ground.” 
+「好，那麼胡蜂女，你獲得了對神雀的影響力。神雀，你的臉上挨了這一下──不太嚴重，但老兄這還是挺痛的。你敏銳地意識到胡蜂女正看著你戰鬥。你現在打算做什麼？」
 
-And the fight continues…
+「有那麼一瞬間我想停下這場愚蠢的戰鬥……但我還是立刻對他反擊。是時候讓他知道『神雀』這個名字代表的意義了。我想要〈直面威脅〉，並把他打倒在地上。」
+
+然後戰鬥仍在繼續……
 {{< /hint >}}
 
-Don’t hesitate to let these dramatic confrontations play out—but remember, 
-plenty of interesting things can happen to break these fights up. If there are 
-other PCs there, they get the spotlight, too! They can try to interfere, defend 
-one teammate or the other. If someone gets a miss, they might get attacked by a 
-villain or interrupted by something else dangerous—that happens all the time 
-in comics. Use these tools to help ensure PC vs PC conflicts don’t run too long 
-or take up too much of your attention in the game as a whole.
+不要猶豫於去玩出這些充滿戲劇張力的對峙場景──但記住，有許許多多有趣的事件可能會在這個過程中發生，從而中斷這場戰鬥。如果這個場景有其他的PC存在，那麼他們也會成為聚光燈的焦點！他們可以嘗試干擾、或插手保護其中一名隊友。如果有人骰出了失敗，那麼他們可能會被忽然現身的反派襲擊、或者被其他危險的意外事件給打斷──這種情況經常在漫畫中發生。運用這些技巧，來協助你確保PC與PC之間的衝突不會持續太久，或在整個遊戲中佔用你們太多的注意力。
 
 
 ---
