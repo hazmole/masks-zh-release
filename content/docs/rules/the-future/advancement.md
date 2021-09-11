@@ -4,97 +4,51 @@ weight: 1
 ---
 
 ## 成長發展
-The main characters in a game of MASKS change drastically over the course of 
-the game. Their Labels shift, they gain and lose Influence, and they reach their 
-potential. All of these changes are reflected both in elements on the character 
-sheets and in the fiction of your game. Like the moves, change in MASKS is both 
-fictional and mechanical. 
+《蒙面少俠》遊戲中的主要角色們會隨著遊戲的進展發生顯著的變化。他們的標籤屬性會被調動、他們會獲得並失去影響力、他們將挖掘自己的潛能。
+所有這些變化都將同時反映在角色卡以及你們遊玩的故事情節上。和動作一樣，這些《蒙面少俠》中的變化也同時具有敘事性和機制性。
 
-Sometimes you gain something in the fiction, and it causes you to mark a 
-change on your character playbook.
-
+有時候，你會在故事得到某些東西，而這將導致你需要把這個變化紀錄在角色扮演書上。
 {{< hint info >}}
-Hornet sends the last punch into Vanquish’s jaw, knocking out the alien dictator, 
-while Mantis looks on. There’s no doubt in my mind—she just gained Influence over 
-Mantis with that impressive display, and I tell Joe to mark it down.
+在螳螂女的注視下，胡蜂女朝著征服者的下巴狠狠送出了最後一拳，撂倒了這個外星獨裁者。我認為這毫無疑問──她因為這令人印象深刻的表現贏得了對螳螂女的影響力，於是我告訴喬，請他將其紀錄下來。
 
-For his service to the strange alien Crafters, Sureshot gets a new energy bow, 
-something that never runs out of ammunition and can fire energy bolts of myriad 
-forms. I tell Mark he should probably record the new bow as a different ability with 
-something like energy control.
+為了感謝他為這群奇異外星工匠的付出，神射手得到了一把嶄新的能量弓：一把永遠不會耗盡彈藥、而且能以各種形式發射出能量的酷炫武器。我告訴馬克，他也許應該將這把新的能量弓做為一種類似能量控制的新能力紀錄下來。
 {{< /hint >}}
 
-Sometimes, you lose something in the fiction, and it makes you mark 
-something out of your character playbook. 
-
+有時候，你會在故事中失去些什麼，而這也會促使你把這個變化紀錄在你的角色扮演書上。
 {{< hint info >}}
-Skysong flies her crystalline ship directly into the skyscraper-sized Dominus to take 
-him out once and for all. The maneuver works, the energy discharge from the ship 
-sending him to a different dimension...but I tell Skysong to mark the ship off her 
-sheet. She doesn’t have it anymore—it shattered when it struck him.
+天樂女駕駛著她的水晶飛船直接撞進那如同摩天大廈一般高大的至尊魔主體內，想要徹底的解決他。這個妙計成功了，飛船釋放出的能量將他送到了另一個次元……但我告訴天樂女她得因此把這艘飛船從角色卡上劃掉：它在撞上至尊魔主的同時粉身碎骨──她已經失去這艘飛船了。
 
-Dusk learned she could take away Lady Faust’s powers while meditating in her 
-Penumbra sanctum, but she’d consume the power of the sanctum entirely. In the final 
-fight with Lady Faust, Grace decides to go through with the plan, channeling all the 
-power of Penumbra into Lady Faust to blast away her demonic might. I tell Grace to 
-cross the sanctum off her playbook.
+黃昏理解到她可以透過在她的半影聖殿中冥想來奪走浮士德女士的力量，但她也會因此將聖殿的力量消耗殆盡。在與浮士德女士的最後一戰中，格蕾絲決定照計畫行事，將聖殿的半影之力引導到浮士德女士體內來轟散她的惡魔之力。在這之後，我告訴格蕾絲把她的〈避難聖所〉從她的扮演書上劃掉。
 {{< /hint >}}
 
-Reaching your potential and taking advances works in the other direction. 
-You take the advance mechanically, then you have to work out how it fits into 
-the fiction. Chances are, you and the GM will have to work together to make 
-sense of the change. The key, though, is that you don’t need permission to take 
-an advance—you can take it whenever you want, and while you might need 
-to work out a compromise about the fiction to make the advance make sense, 
-ultimately you always get whatever you take. 
+激發你的潛能並成長則剛好反過來：你會先在機制上取得成長發展，然後你必須弄清楚它將如何融入敘事之中。通常來說，你與GM會需要一起討論來讓這個變化顯得合理。然而重點是，你並不需要徵求GM的許可才能取得成長發展──你可以選擇並得到任何你想要的！而儘管你可能會需要在敘事面做出妥協來讓這個變化合情合理，你最終總是能得到你想要的。
 
 {{< hint info >}}
-Rex and the team just fought off a bunch of time-displaced dinosaurs, and Rex got an 
-advance thanks to a few misses during the fight. Matt really likes the idea of getting a 
-pet raptor, so he takes the advance Get a move from another playbook and chooses 
-C’mon, Lucky from the Beacon playbook. That means he gets some kind of smaller 
-companion that helps him out on some moves. 
+雷克斯和團隊成員剛剛擊退一群因時光錯亂而出現的恐龍，而因為在戰鬥中骰出了幾次失敗，雷克斯現在可以取得一個成長發展。麥特很中意養一頭迅猛龍寵物的想法，所以他想要取得「從其他扮演書中獲得另一個動作」的成長發展，並選擇了明燈扮演書中的動作〈上吧來福〉。這意味著他將得到某個小體型的寵物搭檔來協助他採取某些行動。
 
-I think that’s awesome. I tell him that Rex finds an egg from the raptors. I suggest 
-that in the fiction, it probably makes sense that the egg won’t hatch a fully grown 
-raptor; but especially since it’s a time-displaced raptor, it probably ages rapidly as he 
-raises it in the team’s base, and it’ll show up at least by next session. Matt’s cool with 
-all that, and writes down the move and his raptor’s name.
+我覺得這真是太棒了。所以我告訴他，雷克斯發現了一顆迅猛龍的蛋。我表示在敘事上，這顆蛋或許不太可能合理地直接孵出一隻完全成熟的迅猛龍；但由於這是隻經歷過時間錯亂的迅猛龍蛋，牠或許能在團隊的基地裡以相當驚人的速度被扶養長大，並至少從下次聚會開始就能派上用場。麥特同意這一切，並將這個動作以及他寵物迅猛龍的名字給寫了下來。
 
-Huma rolls a miss trying to pierce his dad’s mask, and it’s the last potential Huma 
-needs to advance. Rich immediately decides on Take a sanctuary from the Doomed 
-playbook, and suggests there’s a special place, tied to the power of Huma, that his 
-family never learned to call on. I think that’s awesome, so as soon as the scene is 
-resolved and Huma storms away from his dad, I say that his power calls him to his 
-new sanctuary.
+神雀在對他父親使用〈揭穿面具〉的嘗試中骰出了失敗，而這也讓他得到了成長所需的最後一個潛能。瑞奇馬上就決定要獲得命帶天劫者扮演書中的「避難聖所」，並提出其實有這麼一個特別的場所與神雀的力量緊緊相連，但他的家族卻從未學會如何呼喚這股力量。我覺得這很讚，所以就在這個場景告一段落，神雀激動地遠離他父親的同時，我描述他的力量覺醒並將他召喚到了他的聖所之中。
 {{< /hint >}}
 
-### MARKING POTENTIAL
-You have to mark potential five times to advance. As soon as you mark the 
-fifth, you clear your track and take an advance. Pick one option from the 
-advancement list and mark it off—once you’ve taken that particular advance, 
-you can’t take it again. Once you’ve taken five from the top list, above the line, 
-you can start taking options from below the line. 
+### 標記潛能
+你必須要標記潛能五次才能夠進行成長發展。當你標記了第五個潛能的瞬間，你將清除你所有已標記的潛能，並進行成長。
+從成長發展選項中挑選一個，並把它劃掉——一旦你取得了某個成長選項，你就不能再重複取得同一個選項。當你從上半部分的選項列表中取得了五個成長發展後，你就可以開始挑選下半部分的成長發展選項了。
 
-There are a few ways to mark potential throughout the game, ranging from 
-team moves to some of the results of basic moves, but the most important way 
-is by rolling a miss on any move. Every time you roll a miss, on any move, 
-you mark potential.
+在遊戲過程中有好幾種標記潛能的手段，像是團隊動作、或某些基本動作的結果，但最主要的途徑是透過在任何動作中骰出失敗的結果。
+每當你在進行任意動作時骰出失敗的結果，你就可以標記一個潛能。
 
 ---
 
 ### 成長發展選項
-大部分的成長發展選項都相當直接明瞭，但我們還是在這裡寫下一些關於它們各自代表意義的說明。
+大部分的成長發展選項都很簡單易懂，但我們還是在這裡寫下一些關於它們的說明。
 <div class='Move'>
 <ul>
     <li>從你的扮演書獲得另一個動作</li>
     <li>從其他扮演書中獲得另一個動作</li>
 </ul>
 </div>
-You get another move, either from your own playbook or from a different one, 
-depending on which advance you choose. This is for getting another move, not 
-an extra—you can’t take the doom track from the Doomed, for instance, by 
-taking a move from another playbook.
+你獲得另一個動作，取決於你所選擇的成長發展選項，這個動作可能是來自你自己的扮演書、或另一個其他不同的扮演書。然而要注意的是，這個成長發展選項是獲得另一個動作，而不是額外事物──因此，舉例來說，你不能透過「從其他扮演書中獲得另一個動作」來獲得命帶天劫者的末日軌。
 
 ####
 
@@ -103,14 +57,9 @@ taking a move from another playbook.
     <li>某個人將永遠失去對你的影響力；選擇一個標籤屬性＋１</li>
 </ul>
 </div>
-Pick one character; they lose Influence over you if they have it, and they 
-can never gain Influence over you again, by any means. If they would ever gain 
-Influence over you, ignore that part of the move or effect. 
+選擇一個角色；如果他擁有對你的影響力，那麼他將失去它，且他將再也無法獲得對你的影響力，無論用什麼方法都一樣。如果他將要獲得對你的影響力，那麼無視這個部分的動作結果或效果。
 
-After you choose that character, add +1 to any one of your Labels. Note that 
-this isn’t a shift, meaning that another Label doesn’t have to move down. You 
-simply move that Label up one. It might shift down later, like normal, but the 
-overall total of your Labels is permanently increased by one.
+在你選擇完角色之後，挑選你的任意一個標籤+1。要注意這並不是調動標籤屬性，也就是說你不需要讓另一個標籤屬性-1。你只需要提升該標籤屬性 1 點就好。它也許會在這之後如常被降低，但你標籤屬性的數值總和將會永久提升 1 點。
 
 ####
 
@@ -119,12 +68,7 @@ overall total of your Labels is permanently increased by one.
     <li>重新分配你的標籤屬性；並選擇一個標籤屬性＋１</li>
 </ul>
 </div>
-As soon as you pick this advance, you can reassign the points in your 
-Labels however you choose, shifting any of them up and down as much as 
-you want, so long as the overall total of all your Labels doesn’t change. After 
-you’re finished shifting however you want, add +1 to a single Label. Just like 
-the advance above, this isn’t a shift. That Label goes up by 1, and no other Label 
-has to come down.
+在你選擇這個成長發展的瞬間，你將可以立刻按照你的意願重新分配你標籤屬性的數值，只要你所有標籤屬性的數值總和不變，你就可以隨意上下調動任意的標籤屬性。在你結束調動之後，挑選任意一個標籤屬性再+1。跟前一個的成長發展選項一樣，這並不是調動標籤屬性。你只需要使該標籤屬性提升 1 點，而不需要降低其他的標籤屬性。
 
 ####
 
@@ -134,15 +78,10 @@ has to come down.
     <li>在使用過「關鍵時刻」之後，再次解鎖它</li>
 </ul>
 </div>
-When you take this advance, you unlock your Moment of Truth. When you 
-trigger it, you follow the script listed in your playbook and take control of what 
-happens in the narrative (page 47). After you’ve triggered it once, it becomes 
-“locked” again, and you have to take the second advance to unlock it again.
+當你取得這個成長發展，你將解鎖你的「關鍵時刻」。當你觸發它的時候，你將遵循你扮演書的「關鍵時刻」區塊中所寫的文本，並獲得描述故事中將發生什麼事的控制權（參照「創建英雄角色」章捷中關於關鍵時刻的說明）。在你觸發了一次「關鍵時刻」之後，它將會再度被「鎖上」，且你必須取得第二個成長發展才能再次解鎖它。
 
-The second advance is listed below the line, so you can only take it after 
-you’ve already taken five advances. Even if you change playbooks, you can 
-only take this advance once, after you’ve already unlocked and triggered your 
-playbook’s Moment of Truth.
+第二個成長發展選項被列在成長發展列表的下半部分，因此你只能在已經取得五個成長發展之後才能夠取得它。
+你只能取得這個成長發展選項一次，即使你更換了扮演書也一樣，且你只能在已經解鎖並觸發了扮演書的「關鍵時刻」之後才能取得它。
 
 ####
 
@@ -153,9 +92,7 @@ playbook’s Moment of Truth.
     <li>從你的導師那裏再選擇最多四個資源</li>
 </ul>
 </div>
-These  advances  get  you  more  options  for  the  base  elements  of  your 
-playbook. When you take them, you get those additional options immediately, 
-selected from those already present. 
+這些成長發展為你扮演書中的基本元素提供了更多的選擇。當你取得這些成長發展的時候，你將立即從其描述的選項中挑選並獲得這些額外的選項。
 
 ####
 
@@ -166,17 +103,9 @@ selected from those already present.
     <li>改變你〈面具〉的標籤屬性；你〈面具〉新的標籤屬性＋１</li>
 </ul>
 </div>
-These advances increase your overall Label totals. Adding +1 to any two 
-Labels means that you increase any two Labels by one step, without shifting 
-anything down. Adding +2 to the Label your mentor embodies or denies is a 
-Protégé advance, and it requires you to add the +2 specifically to either the 
-Label that your mentor embodies or denies, and no others. Changing your 
-Mask Label and adding +1 to the new Mask Label is a Janus advance, and 
-represents you changing your mind about who you are, how you see yourself 
-and your mask. 
+這些成長發展會增加你標籤屬性的數值總和。「任意二個標籤屬性＋１」意味著你將使任意的兩個標籤屬性提升 1 點，而不需要降低任何標籤屬性。「你導師體現或否定的標籤屬性＋２」是專屬於門徒扮演書的成長發展，且它要求你使特定的標籤屬性+2：你只能選擇你導師所體現或否認的標籤屬性，而非其他的標籤屬性。「改變你〈面具〉的標籤屬性；你〈面具〉新的標籤屬性＋１」是專屬於雙面人扮演書的成長發展，它代表著你改變了對於自己是誰、以及你如何看待自己和面具的想法。
 
-Remember that each individual Label can never be higher than +3.
-
+記得，每個標籤屬性個別的數值都不能超過+3。
 
 ####
 
@@ -189,16 +118,9 @@ Remember that each individual Label can never be higher than +3.
     <li>獲得命帶天劫者扮演書中的「末日」、「末日軌」和「末日徵兆」</li>
 </ul>
 </div>
-These advances allow you to take a specific extra from a different playbook. 
-Make your choices and fill in your options as if you were building a character 
-of that playbook anew, unless the advance tells you to do something different.
+這些成長發展讓你能從不同的扮演書中獲得特定的額外事物。除非這個成長發展另有說明，否則你將如同創建新角色一樣，為這些額外事物做決定，並把你的選擇寫下來。
 
-For all these options, make sure you talk with the GM. Taking drives from 
-the Beacon might not mean much—maybe you’re just getting more interested 
-and excited about living a superheroic life. But if you take a sanctuary, that’s 
-got to come from somewhere. If you take a secret identity, you have to explain 
-how you can fit in with the mortal population. Work with the GM to answer 
-these questions after you take the advance.
+關於所有這些選項，請務必要與GM討論。獲得明燈的「驅動力」也許並不意味著什麼──也許你只是為能過上超級英雄的生活而感到愈發興奮和有趣而已。但如果你拿了獲得了「避難聖所」，那它肯定其來有自。如果你獲得了一個「秘密身份」，那麼你就得解釋你是如何融入到凡人社群之中。在你獲得這些成長發展之後，和GM一起討論來回答這些問題。
 
 ####
 
@@ -209,32 +131,15 @@ these questions after you take the advance.
     <li>進一步異變，並獲得二個新的超能力（從其他扮演書選擇）</li>
 </ul>
 </div>
-These  advances  give  you  more  abilities,  Remember  abilities  include 
-superpowers and skills, all the cool things that make your character deserving 
-of inclusion in your superhero comic book. These advances tell you what 
-abilities to choose from—if they tell you to choose from any playbook, then 
-select any abilities listed in the other playbooks.
+這些成長發展將給你更多的超能力。記住，這裡所謂的「超能力」包括了超常能力和高超技術，以及所有讓你的角色有資格擠身超級英雄漫畫行列的酷炫玩意兒。這些成長發展會告訴你可以選擇哪些超能力──如果它要求你從任意扮演書中選擇，那麼就選擇其他扮演書中列出的任意超能力。
 
-The same general advice and rules from character creation apply here. 
-The advance is about you developing new powers and skills, and the abilities 
-described in the playbooks generally feed into that idea more consistently and 
-successfully than just picking any ability at all—for example, time travel isn’t an 
-ability in any of the base playbooks, and will almost always cause more trouble 
-than it’s worth. That said, use our own judgment, and talk to your GM and the 
-other players. If you have a great idea for an ability that’s not in the playbooks, 
-then maybe it can still work out.
-
+那些創建角色時的規則和建議也同樣適用於此。
+這些成長發展呈現的是你開發出了新的力量和技術，而通常來說，扮演書中列出的超能力會比其他隨意挑選的超能力還要更容易一致且順利地融入──舉例來說，「時間旅行」這個超能力並沒有被列在任何一本核心扮演書上，且與它的價值相比，它幾乎總是會為故事帶來更多的麻煩與混亂。即便如此，這也只是我們自己的判斷，你還是可以和你們的GM與其他玩家討論。如果你想到了一個沒有被列在任何扮演書上的超能力，那麼也許它仍然能在你們的故事中好好發揮。
 
 ---
 
 ### 進階成長發展選項
-Some advances are listed in the playbook 
-below a line. You can only choose these 
-advances  when  you’ve  already  taken 
-five advances above the line. These are 
-generally  uniform  across  the  different 
-playbooks, but a few playbooks have some 
-small changes to these advances. 
+有一些成長發展選項會被列在扮演書的下半部分。你只能在已經獲得了上半部分的 5 個成長發展之後才能夠選擇這些成長發展。這些成長發展選項在扮演書上大致上都是相同的，但有一些扮演書仍會少許差異。
 
 <div class='Move'>
 <ul>

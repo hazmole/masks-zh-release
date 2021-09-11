@@ -94,34 +94,22 @@ weight: 5
 
 「噢，好的，妳全力轟出強烈的光束並切斷了暗影般的利爪——但老師只是用一種完全不像人類的表情看著妳，然後猛然衝過來。她的身體脹大延展，詭異地扭曲著，她衝著妳來並用她那延長怪異的肢體狠狠拍向你。這幅光景相當駭人——請標記恐懼狀態，然後骰〈承受沉重打擊〉。」
 
-I’m following the fiction—Skysong definitely has to take a powerful blow from
-that hit—and I’m inflicting a condition—a simple hard move that works well along
-with taking a powerful blow. I’m doing it through one of the Teacher’s moves—
-reveal her true form from an innocuous and trusted shape. It’s not quite the full
-move—they certainly didn’t trust this shape—but close enough.
+我遵循著故事中的描述──天樂女顯然必須因為這一擊而〈承受沉重打擊〉──且我同時在對她〈施加狀態〉──一個簡單且相當適合與〈承受沉重打擊〉共存的硬動作。我這麼做是透過了老師的其中一個動作〈從無害、值得信賴的形態中顯露出她的真面目〉。儘管這不太符合這個動作完整的敘述──他們很顯然不信任老師的這個形態──但也夠接近了。
 
-“Can I jump in to defend her from that hit?” Matt asks. “I think Rex would totally
-help Skysong out here.”
+「我可以跳過去對她使用〈保衛某人〉來擋住這一擊嗎？」麥特問道：「我想雷克斯絕對會在這裡出手幫助天樂女。」
 
-“No, we’re still resolving Skysong’s defend move,” I reply. “The Teacher moves so
-unexpectedly, you just can’t get there in time.”
+「不，我們還在處理天樂女〈保衛某人〉的動作。」我回答：「老師的行動太過出乎預料，因此你沒辦法即時做出反應。」
 
-Andrea rolls to take a powerful blow and gets a 7. “I don’t like any of these
-options! I guess I’ll give ground. The opponent gets an opportunity.”
+安茱莉亞為〈承受沉重打擊〉擲骰，並骰出了7﹐「我不喜歡這些選項！……我想我還是讓步吧，讓我的對手得到一個機會。」
 
-I look to the Teacher’s drive again, and decide she’d try to capture Skysong, once
-and for all. “Yeah, you’re pretty dazed by this, right? Before you put yourself back
-together, she wraps her weird arms around you and pulls open one door in the hall.
-Behind it there’s that endless swirling dark vortex. She’s gonna throw you inside!”
+我再次看了看老師的動機，並決定她會嘗試抓住天樂女──徹底地囚禁她。「好，妳因為這一擊而有些頭暈目眩，對吧？在妳回過神來之前，她就用她那怪異的陰影手臂纏住妳，並打開了走廊上的一扇門。門後就是那無止盡呼嘯的黑暗漩渦。她打算把妳給丟進去！」
 
-Now that the Teacher has seized her opportunity, it’s time to turn the spotlight
-back to the other PCs. “Rex, you’re moving by this point—what do you do?”
+現在，老師抓住了她的機會，是時候把聚光燈轉到其他PC身上了。
+「雷克斯，你在此時展開行動——你打算做什麼？」
 
-“Oh, I’m gonna just leap on her and punch her tons. Over and over and over,”
-Matt says. Matt rolls to directly engage, and gets an 11! “Perfect! Okay...I choose to
-impress, surprise, or frighten my foe, and take something from her. Clearly Skysong,
-right?”
+「哦，我就跳到她面前，瘋狂地毆打她。一次又一次地出拳。」麥特說。麥特擲骰進行〈直面威脅〉，並骰出了11！「完美！好的‥‥我選擇『讓對手恐懼、吃驚、或留下深刻印象』，還有『奪走他們身上的某物』。顯然我可以奪走天樂女，對吧？」
 
+「噢，當然。」我回答：「好，你們兩個扭打在一起，陷入一場激烈的惡鬥，她的身體扭曲成怪異的捲曲觸手並朝著你捅過來，而你只是用你的爪子將她撕開，臉上帶著野獸般的表情咆哮著。」
 “Oh definitely,” I reply. “Yeah, you two are embroiled in a nasty little fight, her
 body twisting into weird tendrils and stabbing at you, you just tearing her up with
 your claws, snarling with that animalistic expression on your face. Her body slackens
