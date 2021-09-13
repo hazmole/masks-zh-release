@@ -3,30 +3,17 @@ title: GM的動作
 weight: 4
 ---
 # GM動作
-Your agendas are your goals, and your principles are the paths you take to achieve 
-your goals. Your moves, then, are the things you actually say during the game to 
-fill in what happens next. They’re individual steps you take towards your goal.
+你的「目標事項」就是你玩這個遊戲所需達成的目標，你的「原則」則是通往這些目標的途徑。
+然後，你的「動作」，就是你在遊戲過程中為了建構接下來發生的事情而實際所說的話語；它們是你朝著目標所踏出的每一步。
 
-Often, it’s enough to let the players tell you what they do and focus on any 
-moves they trigger along the way. If they roll a hit, the moves usually tell you 
-what happens next. But sometimes that’s not enough: when they roll a miss, 
-and you have to make a hard move; when no one’s triggering any moves, and 
-they’re all looking at you expectantly; or when you just think that you should 
-make a move as a follow-up to something that happens. 
+通常情況下，你只需要讓玩家們告訴你他們做了些什麼，並專注於處理他們在這過程中所觸發的任何動作就足夠了。如果他們骰出了成功，那麼那個動作通常會告訴你接下來該發生什麼事。但有時這還不夠，比如說：當他們骰出了失敗而你必須進行某個硬動作的時候；當沒有人觸發任何動作，而他們都期待地看著你的時候；或者，當你就是覺得你該為了建構出某個故事中事件的後續發展而進行動作的時候。
 
 
 ## 軟動作 VS. 硬動作
-Throughout the book, I’ve made reference to hard moves, which implies that 
-there are soft moves. Whether a move is harder or softer is about how much, 
-and how directly, it changes the fiction. Softer moves set the stage for harder 
-moves in the future, and can be dealt with, stopped, and undermined before 
-they lead to a harder move. Harder moves change the fiction immediately and 
-importantly, and can’t be stopped. 
+在整個規則中，我常常提及「硬動作」這個詞彙，那這當然也意味著有「軟動作」的存在。一個動作是硬還是軟，取決於它會對故事造成改變有多大或多直接。軟動作為之後的硬動作做鋪墊，且它可以在後續的硬動作發生之前被應對、制止、或顛覆。相反的，硬動作則會對故事造成立即且重要的改變，而且它無法被阻止。
 
-As GM, you decide how hard or soft to make any given move. Keep in mind 
-your agendas and principles, though. If you’re hitting with hard moves all the 
-time, chances are you’re not being a fan of the PCs. If you’re using soft moves 
-all the time, then you’re not making your threats real.
+身為GM，你要決定你在進行任何動作時的軟硬程度。不過，也要時時把你的目標事項和原則謹記在心。
+如果你總是在使用硬動作的話，那麼你就很可能沒有在「做玩家角色們的粉絲」；而如果你總是使用軟動作的話，那麼你就沒有「讓威脅真實」。
 
 
 ##### 軟動作範例
@@ -49,27 +36,20 @@ all the time, then you’re not making your threats real.
 
 
 ## 使用動作的時機
-You make a move—as hard or as soft as you like—when: 
-* ...there’s a lull in the conversation. 
-* ...a player misses a roll. 
-* ...a player hands you a golden opportunity. 
+你會在下列時機進行你的動作──由你自己決定是軟是硬：
+* ……當對話停頓了下來的時候。
+* ……當某個玩家骰出了失敗的時候。
+* ……當某個玩家為你提供了一個黃金時機的時候。
 
-**You’re the Editor in Chief, in charge of keeping the story interesting.**
-When everybody’s looking around, unsure of what happens next...when the 
-conversation stalls...that’s your cue. Step in. Make something happen. You can 
-usually get away with softer moves in this case. 
+**你就是首席編輯，負責讓故事保持有趣。**
+當所有人環顧四周，不確定接下來會發生什麼事情時……或當對話停了下來的時候……那就是你出手的信號！介入其中，讓一些事件發生。在這種情況下你通常可以用軟動作去處理就好。
 
-**You’re the Voice of Fate, in charge of interpreting misses.** When someone 
-rolls a miss on a move, you’re the ultimate authority on what happens next. 
-Whatever move you make needs to flow from the fiction, based on what’s come 
-before and the circumstances of the missed roll. If the PC’s move describes a 
-miss condition, follow those guidelines. Otherwise, you make whatever move 
-fits, hard or soft as you choose. 
+**你就是命運的發聲者，負責闡釋失敗的結果。**
+當有人在進行動作時骰出了失敗，你握有最終決定權來說明接下來發生了什麼事。
+你做的任何動作都應該要遵循敘事，根據先前發生的事以及擲骰失敗的情境。如果PC進行的動作有說明失敗時會發生什麼事，那麼就遵循它的說明去處理。否則，你進行任何一個適合的動作，軟硬程度由你決定。
 
-**You’re the Keeper of Continuity, in charge of following the fiction and seizing opportunities.** When someone does something that’s just begging for 
-a move, then make one! A PC can’t go charging at Dominus, the time-traveling 
-god-being, and not expect to get smacked. You’re in charge of making sure that 
-when the fiction demands a move, you make one. 
+**你就是連貫性的維繫者，負責遵循敘事並把握機會。**
+當有人做出了某個就是在乞求事件發生的行為時，那就讓它發生！PC不太可能直接衝向至尊魔主──一名能夠穿梭時空的神級存在──而不預期自己挨揍。你負責確保當故事情境需要你進行某個動作的時候，你會去這麼做。
 
 
 ## GM基本動作
@@ -96,7 +76,7 @@ when the fiction demands a move, you make one.
 
 
 ### 施加一個狀態
-年輕英雄過著充滿壓力的緊張生活！你可以透過 施加一個狀態 來闡明這股壓力有多麼強烈，以及他們是如何被壓迫而來的一切給負面地影響。造成一個狀態 總是會導致更多的敘事，這也正是你想要的結果。當你施加一個狀態時，只有在你對其有相當明確的想法時，你才需要直接告訴PC該標記哪個狀態。
+年輕英雄過著充滿壓力的緊張生活！你可以透過 施加一個狀態 來闡明這股壓力有多麼強烈，以及這些壓迫而來的一切是如何對他們造成了負面的影響。造成一個狀態 總是會導致更多的敘事，這也正是你想要的結果。當你施加一個狀態時，只有在你對其有相當明確的想法時，你才需要直接告訴PC該標記哪個狀態。
 
 {{< hint info >}}
 酷牛姊，你對著征服者如雨般揮出無數重拳，但他卻完全沒有受到任何影響。當你停下攻勢，你氣喘吁吁，你的拳頭疼痛不已，而他只是狂妄的嘲笑你。標記恐懼狀態。你打算怎麼做？
@@ -118,12 +98,8 @@ when the fiction demands a move, you make one.
 
 
 ### 讓他們聚集在一起
-The young heroes will do a bang-up job of separating themselves. They’ve all 
-got their own stuff to worry about, their own interests and ideas to pursue. 
-It’s your job to bring ’em back together and connect the disparate elements of 
-their lives so they wind up encountering each other again in surprising places 
-and ways. You don’t have to make them love each other—but you do need to 
-point them at each other.
+年輕英雄們十分容易分開行動。他們都有自己的瑣事要去操心，有自己的興趣和理想要去追求。
+你的工作就是讓他們重新聚集在一起，把他們生活中的不同元素連接起來，讓他們在出乎意料的情境或地點遭遇到彼此。你不必讓他們彼此相愛──但你確實需要讓他們在意彼此。
 
 {{< hint info >}}
 蚱蜢女俠，你的姊姊跑到了神雀面前，拿出她那小巧的筆記本。「請問您……您可以幫我簽名嗎？」她說，她的眼神中閃爍著希望、驚奇、以及崇拜：「您是我最喜歡的英雄！」你打算做什麼？
