@@ -146,49 +146,21 @@ weight: 1
     <li>更換扮演書</li>
 </ul>
 </div>
-Pick a new playbook that no other player is currently using, and switch 
-your character over to it. This is a huge change for your PC—they’re now 
-confronted with totally different issues, and their situation and life will change 
-to match. This is the alien Outsider settling into life on Earth and becoming a 
-Janus, concerned more about leading a double life than their alien home. Or 
-the noble Legacy being doused in strange chemicals and changing into a weird 
-monster, the Transformed, now contending with their grotesque body. 
+挑選一個沒有被其他玩家使用的新扮演書，然後把你的角色換成該扮演書。這對你的角色來說將會是一個巨大的改變──他們現在要面對截然不同的問題，且他們的處境和人生也會隨之改變。這就像是身為外星人的「外來者」終於在地球上安頓下來並成為「雙面人」，他將會更關注他們現在過著的雙重生活勝過他們的外星家園；又或者是當高貴的「傳承者」被浸在奇怪的化學藥劑並被轉化成為「異變者」，一頭長相詭異的怪物，那他現在就必須頂著這副怪誕的身軀掙扎奮鬥。
 
-You get whatever moves the playbook tells you to take, as if you were 
-building a new character with that playbook. You also get whatever extras the 
-playbook describes. Don’t worry about the “When our team came together for 
-the first time…” section, or the Influence or Relationships—those things are 
-already set for your character. Keep your Labels exactly the same as they were 
-before you switched playbooks, keep any conditions you had marked, keep any 
-potential you have currently marked, and keep any Influence you hold over 
-other characters. 
+你將獲得任何扮演書指示你取得的動作以及任何額外內容，就好像你使用該扮演書重新創建一個新的角色一樣。不要擔心「當團隊初次集結……」、影響力、或人際關係的部分──你的角色早就已經設定好這些部分的內容了。你的標籤屬性將維持與你更換扮演書前一模一樣的數值。保留任何你已經標記的狀態、潛能、以及你所擁有對任何其他角色的影響力。
 
-Use the advancement track on your new playbook, but transfer any marks 
-you’ve made below the line—those advances don’t “refresh” when you change 
-playbooks. 
+使用你新扮演書上的成長發展選項，但記得把所有下半部分已經標記的成長發展標記移轉過來──當你更換扮演書時，這些成長發展並不會因此「刷新」。
 
-Whether you keep the abilities, moves, and extras of your first playbook 
-depends on the exact circumstances of your switch. Generally speaking, you 
-keep anything internal to your character—like your emotions or knowledge—
-and you lose anything external that doesn’t fit with the new playbook or 
-would’ve been lost in the change. 
+至於你是否能夠保留你原本扮演書上的超能力、動作、和額外內容，則取決於遊戲中的具體情況而定。
+一般而言，你能夠保留任何屬於角色內在的事物──像是你的情緒或知識──而你也將同時失去任何與新扮演書不符、或將在改變中失去的外在事物。
 
-If you’re the Doomed and you change to a new playbook, you almost 
-certainly give up your doom track and doomsigns—you’re not the Doomed 
-anymore, and it’s likely those pieces don’t make sense to carry over to your 
-new playbook. If you’re the Protégé and you change to a new playbook, you 
-probably give up your mentor—your story’s not about your close relationship 
-with them anymore. If you’re the Janus, though, you might not actually give up 
-your secret identity or your social obligations to become the Beacon. 
+舉例來說，如果你是「命帶天劫者」且你換了一個新的扮演書，那麼你幾乎肯定會放棄你的「末日軌」和「末日徵兆」──畢竟你不再是命帶天劫者了，而把這些東西帶到你的新扮演書上似乎也不太合理。如果你是「門徒」且你換了一個新的扮演書，那麼你可能會放棄你的「導師」──畢竟，你的故事已經不再聚焦於你和他們之間的親密關係了。然而，如果你是「雙面人」的話，那你就算你成為了「明燈」，你可能也不會真正放棄你的「秘密身份」或社會義務。 
 
-It’s  easy  to  imagine  exceptions—a  Protégé  keeping  their  mentor,  but 
-becoming part of a larger tradition as they become a Legacy, for example. 
-A Janus who abandons their prior life—and their prior powers—as they’re 
-forever altered and become the Transformed. 
+你可以很容易想像出一些例外──比如說，「門徒」仍然保留他的導師，但他的導師也在他成為「傳承者」時成為了某個更大家族傳統的一部分；或者，「雙面人」在被永久轉化並成為了「異變者」的同時，也隨即放棄了他們原本的生活──以及他們原本的超能力。
 
-Talk these pieces over with your GM to decide which you keep and which 
-you lose, if any. The key is to be true to the fiction—what would the character 
-actually keep, and what would they lose?
+和你的GM討論，一起決定你能夠保留哪些部分，又會失去哪些。重點在忠實於故事中的發展與變化──你的角色實際上會保留些什麼，又會失去些什麼？
+
 
 ####
 
@@ -197,9 +169,8 @@ actually keep, and what would they lose?
     <li>獲得一個成年英雄動作</li>
 </ul>
 </div>
-When you take this advance, you immediately gain access to one of the 
-adult moves (page 119). Keep in mind that you can only take this advance 
-twice—you can only ever gain access to two of the five adult moves.
+當你取得這個成長發展時，你將立刻獲得其中一個成年英雄動作（參見「成年英雄動作」章節）。
+要記住，你最多只能取得這個成長發展選項兩次──因此你最多也只能從五個成年英雄動作中獲得其中兩個。
 
 ####
 
@@ -208,12 +179,10 @@ twice—you can only ever gain access to two of the five adult moves.
     <li>固定一個標籤屬性的數值，並選擇一個標籤屬性＋１</li>
 </ul>
 </div>
-Pick one Label and lock it—it can’t move up nor down. If that Label would 
-shift, ignore that effect in its entirety.
+選擇一個標籤屬性，並將其固定──它將無法再被提升或下降。如果該標籤屬性將被某個效果給調動，則將該效果完整忽略。
 
-You also get to add +1 to any Label you choose, remembering that this isn’t 
-a shift, but an addition. You can do these effects in any order, meaning you can 
-add +1 before you lock the Label—raising it to +3, for example, then locking it. 
+你還可以再選擇任何一個標籤屬性並讓其+1。要注意這並不是調動，而是提升。
+你可以按照任意順序來執行這兩個效果，這意味著你可以在固定某個標籤屬性之前先讓它+1──比如說，先把它提升到+3，然後再固定它。
 
 ####
 
@@ -222,47 +191,25 @@ add +1 before you lock the Label—raising it to +3, for example, then locking i
     <li>從生涯退役，或成為城市的典範</li>
 </ul>
 </div>
-When you take this advance, your character is no longer a PC. Regardless 
-of whether you choose to have them retire or become a paragon, their story, 
-as far as MASKS is concerned, is over. 
+當你取得這個成長發展後，你的角色就不再是PC了。無論你是選擇讓他們退役還是成為典範，他們的故事──起碼對《蒙面少俠》這個規則而言──就已經結束了。
 
-If your PC retires, they stop being a superhero, at least in the traditional 
-sense. Maybe they go off to college, maybe they form a company around their 
-super science ideas, maybe they venture off into the galaxy to explore the 
-cosmos—regardless, they stop being a costumed superhero in Halcyon City. 
-What’s more, they’re guaranteed safety—the GM can’t later mess with them 
-specifically in any way. 
+如果你選擇讓你的PC退役，他們就不再是超級英雄了──至少就傳統意義上是如此。
+也許他們會就讀大學、也許他們會發揮他們的超級科學想法去成立一間公司、也許他們會冒險深入銀河系去探索整個宇宙──無論如何，他們都不再是神翠市中穿著英雄服裝的超級英雄。更重要的是，他們的安全得到了保障──從此之後，GM再也不能用任何方式去搞他們了。
 
-If your PC becomes a paragon, they become one of the leading heroes of 
-Halcyon City—essentially, they become one of the adults. Even if they’re not 
-public, they’re still embedded deeply in the fabric of the city. Work with the 
-GM to figure out exactly what that looks like for the character. They transition 
-into an NPC, and the GM has a responsibility to avoid targeting them. They’re 
-presumed to be having their own adventures, conflicts, and battles, but they’re 
-not the focus of the story anymore.
+如果你選擇讓你的PC成為城市的典範，那他們將會成為神翠市中的領頭英雄──實際上，他們成為了那些成年人中的一員。就算他們不是公眾人物，他們也已經深深嵌入了這座城市的結構當中。他們將變成NPC，且GM有責任避免去針對他們。他們仍然有自己的冒險、衝突、和戰鬥要去處理，但他們不再是這個故事的焦點了。
 
-After you choose this advance, if you’re still playing your MASKS campaign, 
-pick up a new playbook and make a new character. 
+在你選擇了這個成長發展之後，如果你還打算繼續參與你們的《蒙面少俠》戰役，就挑選一個新的扮演書，並重新創建一個新的角色吧。
 
 
 
 ## 創建新的角色
-When  you  make  a  new  character  during  an 
-ongoing campaign—most important when your old 
-character retires or becomes a paragon—the process 
-is mostly the same, aside from a few key differences.
+當你為某個正在進行中的戰役期間重新創建一名新的角色時──最常見於當你的舊角色退役或成為了城市的典範──其過程與正常創角大致相同，只有少數幾個關鍵性的差異。
 
-Ignore  your  “When  the  team  first  came 
-together…” section. The team is already together, so 
-that question won’t matter. Instead, work out why 
-you’re joining the team, why the team already trusts 
-you, and why they want you to join their group.
+忽略你的「當團隊初次集結……」部分。這個團隊已經集結在一起了，所以這個問題不再重要。相反的，弄清楚為什麼你會加入這個團隊、為什麼這個團隊已經信任你、以及為什麼他們希望你加入他們的團體。
 
-Ignore your Influence section. Pick at least two PCs whose words matter to 
-you. Give them Influence over you. 
+忽略你的「影響力」部分。挑選至少兩個你在乎他們話語的PC，並讓他們獲得對你的影響力。
 
-For Relationships, fill them in with other PCs as normal.
+至於「人際關係」的部分，則跟原本一樣填入其他PC的名字。
 
-After you’ve introduced your character, go around the table and ask each 
-PC if they care what you think. If they do, they give you Influence over them. 
-If they don’t, ask them to tell you one time they shot you down.
+在你介紹過你的角色之後，輪流詢問每個PC是否在乎你角色的想法，如果他在乎你的想法，那麼你就會獲得對他的影響力。
+如果他不在乎的話，表示他們曾有一次否決了你，請他告訴你關於這個情況的詳情。
