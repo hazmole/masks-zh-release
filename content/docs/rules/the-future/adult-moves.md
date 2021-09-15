@@ -4,243 +4,159 @@ weight: 2
 ---
 
 ## 成年英雄動作
-The adult superheroes of Halcyon City can do things the younger heroes can’t 
-quite pull off. As the younger heroes grow in confidence, power, and ability, 
-their capabilities mature. 
+神翠市中的成年超級英雄可以做到許多年輕英雄做不到的事情。然而，隨著年輕英雄的信心、實力、和超能力的增長，他們的能力也會逐漸成熟。
 
-Adult moves are essentially more powerful versions of the basic moves. 
-But they don’t actually replace the basic moves—just because you can now 
-overwhelm a vulnerable foe, that doesn’t mean you can’t directly engage a 
-threat. 
+成年英雄動作本質上就是更強大版本的基本動作。
+但它們無法完全取代基本動作──就算你現在能夠〈制服脆弱的敵人〉，並不代表你就無法再〈直面威脅〉。
 
 ---
 
 
 <div class='Move'>
 
-## 行使你的力量 WIELD YOUR POWERS
+## 行使你的力量
 
-When you<b> wield your powers</b> with precision or grace, roll<b>+Freak</b>。
-roll + Freak. 
+當你精準或優雅地<b>行使你的力量</b>時，擲<b>+古怪</b>。
 
 <tag>若成功</tag>，選擇一項。<br/>
 <tag>擲出10+時</tag>，選擇二項。<br/>
 
-* take hold of something vulnerable to you
-* create something useful from your environment
-* neutralize an opponent or threat, at least for now
+* 抓住某個對你而言容易得手的事物
+* 從你周遭環境創造出有用的事物
+* 無力化一個敵人或威脅，至少現在如此
 </div>
 {{< details title="〈行使你的力量〉詳述" >}}
-Unleashing your powers is trying something you’re not sure you can really 
-pull off, whereas wielding your powers is doing something with mastery and 
-control, so you get exactly the effect you want. Just like unleashing your powers, 
-wielding them doesn’t trigger every time you use your abilities; you still have 
-to wield them to a particular effect, and you have to do it with a focus or grace 
-beyond the most ordinary uses of your abilities. 
+〈釋放你的力量〉在於嘗試某個你不確定自己是否真能做到的行動，而〈行使你的力量〉則是在熟練和控制下去做某些行動，因此你能夠確實得到你想要的效果。
+跟〈釋放你的力量〉一樣，〈行使你的力量〉這個動作並不會在你每次使用超能力的時候都被觸發；你仍然必須為了達成特定效果去行使它們，且你必須以超乎平常使用超能力時的磚專注或優雅去這麼做才行。
+
 
 #### 關於〈行使你的力量〉的選項
-To take hold of something vulnerable to you, you seize something, physically 
-or metaphorically. You could literally snatch something out of an enemy’s 
-hands with your telekinesis, or you could take control of the genius loci in the 
-Halcyon Park, or you could take hold of your enemies’ fear by putting on a 
-terrifying show of power. You name what you want to take hold of before you 
-make the move, and the GM tells you if it’s vulnerable to you. 
+要 <b>抓住某個對你而言容易得手的事物</b>，你需要控制或抓住某個東西，無論是就物理上或譬喻上的都可以。
+你可以如同字面意義上的用你的心靈傳動能力從敵人手中搶走某個東西、你可以控制住神翠市立公園中的地靈、或者你可以透過展現可怖力量主導敵人的恐懼。你在進行這個動作之前說出你想抓住什麼東西，然後GM會告訴你那個東西對你而言是否容易得手。
 
-To create something useful from your environment, just name something 
-within your abilities to make, and you do it. This could be anything from 
-“a hole in the wall” to “a living statue” depending on your abilities and the 
-environment around you. It’s always explicitly useful to you,—if you create a 
-living statue, it’ll fight for you or defend you, not cause you trouble.
+要 <b>從你周遭環境創造出有用的事物</b>，你只需要說出某個你超能力範圍內能創造出的事物，然後你就能成功做到。
+這可以是任何從「牆上的窟窿」到「活過來的雕像」之類的事物，一切取決於你的超能力和周遭環境。你創造出來的東西永遠會對你帶來明確的幫助──假如你創造了一個活過來的雕像，那麼它將會為你而戰或保護你的安全，而不是給你製造麻煩。
 
-To neutralize an opponent or threat, at least for now, name what you hope 
-to neutralize, and so long as it’s within your abilities to do so, that opponent 
-or threat is locked down, incapacitated, or otherwise indisposed. This could 
-be anything from encasing an enemy in ice to shooting a flashbang arrow in 
-their face. It’s always temporary—they’ll recover, given time—but it may give 
-you the opportunity you need to take them down, or to run. 
+要 <b>無力化一個敵人或威脅，至少現在如此</b>，說出你希望無力化的事物，接著只要這在你的能力範圍內確實可行，那麼那個敵人或威脅就會被困鎖、動彈不得、或以其他形式失去行動能力。這可能透過任何形式發生，包括把敵人困在冰塊裏頭、或往他們臉上射去一支耀眼奪目的閃光箭。然而這個效果永遠只是暫時的──只要給他們一點時間，他們就會從中恢復──但這仍然能提供你關鍵機會去打倒他、或逃之夭夭。
 {{< /details >}}
 
 
 
 <div class='Move'>
 
-## 制服脆弱的敵人 OVERWHELM A VULNERABLE FOE
+## 制服脆弱敵人
 
-When you <b>overwhelm a vulnerable foe</b>, roll <b>+Danger</b>。
+當你<b>制服某個脆弱的敵人</b>時，擲<b>+危險</b>。
 
-<tag>若成功</tag>，the fight’s over. They’re done.。<br/>
+<tag>若成功</tag>，戰鬥結束，他們就此倒下。<br/>
 <tag>擲出10+時</tag>，選擇一項。<br/>
 <tag>擲出7-9時</tag>，選擇二項。
 
-* you take a powerful blow in turn
-* you hurt your foe more than you intended
-* you cause serious collateral damage
+* 做為交換，你承受了一次沉重打擊
+* 你對敵人造成了超乎你意圖的傷害
+* 你造成了嚴重的附帶損害
 </div>
 {{< details title="〈制服脆弱的敵人〉詳述" >}}
-This is a powerful move—it’s a way for a PC to instantly end a fight against a foe, 
-regardless of how many conditions they have marked. You open fire, pouring 
-attack after attack on an enemy and just battering them into submission. 
+這是個相當強大的動作──它提供了PC在在瞬間結束與某個敵人的戰鬥，無論對方還有多少個狀態可以標記都一樣。你傾瀉火力，對敵人展開一次又一次的攻擊，然後就這麼把他們扁到投降。
 
-The key to this move is “vulnerable foe.” Dangerous opponents almost 
-certainly won’t be vulnerable, at least until they’ve been pushed a bit—maybe 
-the PC tricks them into making a stupid move, or maybe they’ve gotten banged 
-up first. But until the PC has a real chance against them to end things quickly, 
-they can’t trigger the move. 
+這個動作的關鍵點在於「脆弱的敵人」。危險的對手幾乎肯定不會是脆弱的，除非他們被逼到了窘境──也許PC騙他們做出了什麼愚蠢的舉動、或也許他們在這之前已經負傷累累。然而，直到PC真正得到迅速搞定對方的機會之前，PC都無法觸發這個動作。
 
-“The fight’s over” means exactly that. Against this enemy, at least, the fight 
-is over. They’re knocked down, knocked out, defeated, incapable of continuing.
+「戰鬥結束」正如其意。至少，與這個敵人的戰鬥就此結束。他被擊倒、打暈、潰敗，無法再繼續戰鬥下去了。
+
 
 #### 關於〈制服脆弱的敵人〉的選項
-Choosing to take a powerful blow in turn is exactly what it says—you have to 
-roll to take a powerful blow. Your enemy, though they’re vulnerable to you, 
-gets a shot at you before they go down.
+選擇 <b>做為交換，你承受了一次沉重打擊</b>，就像其所寫的那樣──你必須擲骰進行一次〈承受沉重打擊〉。儘管你的敵人對你而言很脆弱，但他們仍在倒下之前打中了你。
 
-Choosing you hurt your foe more than you intended means your dangerous 
-nature overcomes your restraint. To overwhelm a vulnerable foe, you’ve really 
-got to lay it on them, hard, and it can get out of your control. This is when it 
-turns out you accidentally left your psychic opponent a vegetable (at least for 
-now), or the massive energy blast you unleashed cost your enemy an arm. 
-Depending on your tone and the fiction, it might even mean your enemy dies. 
-You can bet that’ll have repercussions, especially when your teammates and 
-the adult heroes hear about it. 
+選擇 <b>你對敵人造成了超乎你意圖的傷害</b>，意味著你的危險本性掙脫了你的自我克制。要想制服脆弱的敵人，你將必須真正、狠狠地對他們下重手，而這也將超出你自己的控制範圍。這也許代表你不小心把你的靈能死對頭打成了植物人（或至少目前是這樣），或者你轟出的巨大能量砲讓你的敵人失去了一條手臂。根據你你們的故事風格和敘事內容，這甚至可能會意味著你的敵人因此死亡。你可以肯定這必然會招來負面的影響，尤其是當你的隊友和其他成年英雄聽到這件事之後。
 
-Choosing you cause serious collateral damage means your environment, 
-and those around you, are hurt or at least endangered. Maybe that torrent of 
-blows you unleash damages a support strut, and now the building is collapsing. 
-Maybe when you blew up half the street with a radioactive blast, you caught 
-your friends in the explosion. It’s up to the GM exactly who or what gets hurt.
+選擇 <b>你造成了嚴重的附帶損傷</b>，意味著你周遭的環境、以及你周圍的人們，將會因此受到傷害，或至少遭受威脅。
+也許你釋放的衝擊波破壞了建築的支柱，而大樓因此開始崩塌；也許當你以輻射爆破炸掉半條街的時候，你的朋友也被捲入了爆炸之中。由GM決定實際上究竟是誰或什麼東西承受了損傷。
 {{< /details >}}
 
 
 
 <div class='Move'>
 
-## 以最佳利益說服 PERSUADE WITH BEST INTERESTS
+## 以最佳利益說服
 
-When you <b>persuade someone with their best interests</b>, roll <b>+Superior</b>。
+當你<b>用他們的最佳利益來說服某人</b>時，擲<b>+救助</b>。
 
 <b>若對方為NPC：</b><br/>
-<tag>擲出10+時</tag>，they buy it and act accordingly.<br/>
-<tag>擲出7-9時</tag>，they need concrete assurance right now. 
+<tag>擲出10+時</tag>，他們會買你的帳並依此行動。<br/>
+<tag>擲出7-9時</tag>，他們現在就需要你給出具體的保證。
 
 <b>若對方為PC：</b><br/>
-<tag>若成功</tag>，they can mark potential or shift their own Labels if they do what you want.<br/>
-<tag>擲出10+時</tag>，take Influence over them as well.
+<tag>若成功</tag>，若他們按照你所希望的去行動，則他們可以標記一點潛能、或者調動自己的標籤屬性。<br/>
+<tag>擲出10+時</tag>，你同時獲得對他們的影響力。
 </div>
 {{< details title="〈以最佳利益說服〉詳述" >}}
-Provoking someone is about pushing their buttons; persuading them with 
-their best interests is about dangling a carrot in front of them and leading 
-them where you want. You’re not trying to trick or anger them—you’re offering 
-them exactly what they want or need in exchange for them doing what you 
-tell them to do. 
+〈煽動某人〉在於按下他們的按鈕；而〈以最佳利益說服〉則是關於在他們面前吊起一根胡蘿蔔，把他們誘導到你想要他們前去的地方。
+你並不是在嘗試欺騙或激怒他們──相反的，你是在給他們提供他們正想要或需要的事物，換取他們按你所說的去行動。
 
-Persuading  someone  with  their  best  interests  doesn’t  have  to  be  so 
-obviously transactional, either. You don’t have to physically have the thing they 
-want—it’s more about you identifying what they want or need and telling them 
-what to do to get it. Telling a would-be hero that they really need to stand up 
-to the corrupt police department if they want to appear to be a true hero is 
-persuading them with their best interests—you’re offering them a path to their 
-goals.
+〈以最佳利益說服〉也不一定要具有明顯的交易性質。你不需要真的擁有他們想要的東西──這個動作更多是在於你確認了他們想要或需要什麼，並告訴他們該怎麼做才能得到它。
+比如說，對一個想成為英雄的人說，假如他們想讓自己看起來像是一名真正的英雄，那他們就需要挺身站出來對抗腐敗的警察機關──這就是在〈以最佳利益說服〉他們：你給他們提供了一條通往目標的途徑。
 
-Like  provoke,  when  you  trigger  this  move  make  sure  you  say,  out  of 
-character, what you want them to do.
+就像〈煽動某人〉一樣，當你觸發這個動作時，確保你以跳脫角色的立場說明了你究竟希望他們去做什麼事情。
 
 #### 關於〈以最佳利益說服〉的選項
-When an NPC needs concrete assurance, they need clearer proof that the path 
-you’re offering to them really is in their best interests. You need to provide 
-some evidence or support, or make some kind of meaningful promise to back 
-up your words, for them to believe what you’re telling them.
+當NPC要求具體的保證時，他們會需要你給出更清晰的保證，證明你所提供的途徑確實能夠滿足他們的最佳利益。
+為了讓他們相信你說的話，你會需要提供某種證據或支持，或做出有意義的承諾來增加你話語的說服力。
 
-For PCs, if you get a hit, they get to choose whether they mark potential 
-or shift Labels (and which Labels they shift) if they do what you want. Taking 
-Influence over them on a 10+ is in addition to them getting to mark potential 
-or shift their Labels.
+當對PC使用這個動作時，如果你骰出成功，且他們按照你所希望的去做的話，則他們可以選擇標記潛能、或者調動自己的標籤屬性（由他們自己選擇要怎麼調動）。擲出10+時，除了他們可以選擇標記潛能或調動標籤屬性之外，你還可以再額外獲得對他們的影響力。
 {{< /details >}}
 
 
 
 <div class='Move'>
 
-## 展現同情 EMPATHIZE
+## 展現同理心
 
-When you <b>openly empathize with someone</b>, roll <b>+Mundane</b>.
+當你<b>坦誠地對某人展現同理心</b>時，擲<b>+平凡</b>。
 
-<tag>若成功</tag>，they must reveal a vulnerability or mark a condition.<br>
-<tag>擲出10+時</tag>，take Influence over them as well.
+<tag>若成功</tag>，他們必須揭露一個弱點、或標記一個狀態。<br>
+<tag>擲出10+時</tag>，你同時獲得對他們的影響力。
 </div>
 {{< details title="〈展現同情〉詳述" >}}
-Openly empathizing with someone is about creating a deeper connection with 
-another person, something more than just comforting them. You can comfort 
-someone by saying what they want to hear, without ever truly understanding 
-them or reaching them. Empathizing with them requires you to address their 
-real feelings and situation, meaningfully and directly—not to make them feel 
-better, but to connect with them, to reach them.
 
-To trigger this move you must empathize openly, speaking about it out loud 
-to let them know. It’s not enough to empathize internally, to think about how 
-you understand where the other person is coming from—you have to speak 
-to them about it. 
+坦承地對某人展現同理心代表著你與對方建立了更深層的聯繫，而不僅僅是安慰他們而已。
+你可以透過說出他們想聽的話語來〈安慰或支持某人〉，而不需要真正理解或共感他們的處境。但〈展現同理心〉要求你有意義且直接地去同理他們的真實感受和處境──這不是為了讓他們好過一點，而是為了與建立他們聯繫，為了碰觸他們。
 
-#### 關於〈展現同情〉的選項
-When you get a hit on empathizing with someone, they choose whether they 
-reveal a vulnerability or mark a condition. If they choose to mark a condition, 
-they’re keeping themselves closed down, refusing to connect, and doing so 
-hurts them emotionally. They choose which condition they mark. 
+要觸發這個動作，你必須坦誠地展現你的同理心，大聲說出來讓他們知道。僅僅在內心產生共鳴、或只在心裡想著你有多麼理解這個人的想法都是不夠的──你必須將其對他們訴說出來。
 
-If they choose to reveal a vulnerability and they’re a PC, it almost certainly 
-triggers the appropriate team move on their playbook.
+#### 關於〈展現同理心〉的選項
+當你在進行〈展現同理心〉時骰出成功，則他們可以選擇揭露一個弱點、或標記一個狀態。如果他們選擇標記一個狀態，代表他們選擇繼續封閉自己，拒絕與你交流，且這麼做也會同時對他們自己造成情緒性的傷害。由他們自己決定要標記哪個狀態。
+
+如果他們選擇揭露一個弱點，且他們同時是PC的話，那這幾乎肯定會觸發他們扮演書上相應的團隊動作。
 {{< /details >}}
 
 
 
 <div class='Move'>
 
-## 為某事挺身而出 STAND UP FOR SOMETHING
+## 為某事挺身而出
 
-When you <b>stand up for something</b>, roll <b>+Savior</b>.
+當你<b>為某事挺身而出</b>時，擲<b>+救助</b>。
 
 <tag>擲出10+時</tag>，選擇一項。<br/>
 <tag>擲出7-9時</tag>，選擇二項。
 
-* listeners can’t keep doing what they’re doing
-* listeners can’t flee without addressing you
-* listeners can’t attack you without losing status or position
+* 聽眾無法繼續進行他們原本的行動
+* 聽眾無法不先對付你就轉身逃離
+* 聽眾無法攻擊你而不因此失去身分或地位
 </div>
 {{< details title="〈為某事挺身而出〉詳述" >}}
-Standing up for something is making heroic speeches in the face of terrible 
-opposition, and boldly stating your true beliefs. Standing up for something is 
-about defending an ideal in the face of someone who’d tear it down. It lets you 
-affect those who listen to you in a broad way, generally preventing them from 
-continuing to take action that threatens your ideal.
+〈為某事挺身而出〉就是在面對可怕的對手時發表英雄的演講，大膽說出你自己的真實信念。
+〈為某事挺身而出〉就是起身捍衛你的理想，去面對某個將要摧毀它的對手。它讓你能夠大致影響那些聽到你話語的人們，並通常能夠阻止他們繼續採取會威脅你理想的行動。
 
-Standing up for something is most often about your words, what you 
-say, and who hears you. That means you don’t necessarily have to do anything 
-physical to trigger it—you could stand up for something while tied to a chair.
+〈為某事挺身而出〉通常是關於你的話語，你說了些什麼、以及誰聽見了你的話語。這意味著你不一定要做出任何具體的行動才能觸發它──你大可以在被綁在椅子上的情況下為某事挺身而出。
 
 #### 關於〈為某事挺身而出〉的選項
-Choosing that listeners can’t keep doing what they’re doing means you can 
-ensure someone who hears you has to stop what they’re doing to listen to your 
-words. If a villain is programming the city-destroying bomb, and you choose 
-can’t keep doing what they’re doing, you ensure that they turn their attention 
-away from the bomb. What they do next isn’t in 
-your control, however.
+選擇 <b>聽眾無法繼續進行他們原本的行動</b>，意味著你可以確保那些聽到你說話的人必須停止他們正在做的事情來聆聽你的話語。
+如果某個反派正在編寫城市毀滅炸彈，而你選擇了讓聽眾無法繼續他們原本的行動，那麼你可以確保他們將會把注意力從炸彈上移開。然而他們接下來會採取什麼行動，就不是你能控制的了。
 
-Choosing  that  listeners  can’t  flee 
-without addressing you means that you 
-guarantee they face you directly instead 
-of running away. They have to directly 
-respond  to  what  you’ve  said  before 
-they can leave, and that means you get 
-another chance to come at them with 
-another move, or to keep their attention 
-away from anything else.
+選擇 <b>聽眾無法不先對付你就轉身逃離</b>，意味著你可以保證他們會直接面對你而不是逃離現場。
+他們必須先直接回應你所說的話語之後才能離開，而這也代表你能得到另一個機會使用其他動作對付他們、或者把他們的注意力從其他事情上移開。
 
-Choosing that listeners can’t attack you 
-without losing status or position means that if they 
-choose to come after you, doing so hurts their status or 
-position in some way. Status is about how others see 
-them, while position is about their actual stance and 
-placement. Hurting their status means others view them 
-worse,  while  hurting  their  position  means  they  put 
-themselves at a disadvantage.
+選擇 <b>聽眾無法攻擊你而不因此失去身分或地位</b>，意味著如果他們選擇對付你，那這麼做將會以某種形式傷害到他自己的身分或地位。
+這裡的「身分」是關於他人如何看待他們，而「地位」則是他們實際的立場與位置。身分受到傷害意味著其他人對他們的看法變得更糟，而地位受到傷害則意味著他們使自己置於不利的地位。
 {{< /details >}}
