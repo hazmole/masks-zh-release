@@ -110,11 +110,8 @@ weight: 4
 
 
 ### 抓困某人
-Lock people down. Put them into dangerous situations, with no clear way out. 
-Do it to the PCs, or to people the PCs care about. Sometimes you can even just 
-straight up capture characters, having the villain take them to a secret lair or 
-something similar. When you capture someone, you amp up the stakes, giving 
-the heroes a chance to be heroes and save their friend.
+把人們關起來。讓他們陷入沒有明確出路的險境。對PC、或者對PC關心的人這樣做。
+有時你甚至可以直接把這些角色抓起來，讓反派把他們帶到自己的秘密巢穴或其他類似的地方。當你抓困某人的時候，你就是加大賭注，讓這些年輕英雄們有機會成為英雄並拯救他們的朋友。
 
 {{< hint info >}}
 神射手，門口被熊熊烈火給阻隔，且你正位於八樓──任何從這裡跳下去的嘗試對你來說都會相當嚴重。同時，薩汀仍在向你步步逼近，像是火焰對它毫無影響一樣。你打算做什麼？
@@ -125,12 +122,8 @@ the heroes a chance to be heroes and save their friend.
 
 
 ### 讓無辜者陷入危險
-Halcyon City is full of people, and they may be used to the superhuman 
-conflict that riddles the city, but they aren’t immune to it or safe from it. That’s 
-why heroes are needed in the first place—to keep people safe. When Rampage 
-throws a car, it has to go somewhere, and that means people are often put 
-in danger. Putting innocents in danger ups the ante, and gives the heroes a 
-chance to be heroes.
+神翠市中到處都是人，而且他們或許已經習慣了那些遍及這座城市的超人類衝突。但這並不代表他們能免受其害。
+這就是為什麼我們需要英雄來保護人們的安全。當蠻暴把車子扔出去時，車子必然會砸到某處，而這也意味著人們經常會陷入危險之中。讓無辜者陷入危險意味著局勢變得更加凶險，而這也讓英雄們更有機會成為英雄。
 
 {{< hint info >}}
 胡蜂女，你聽見狂粉男孩透過他機器人的揚聲器發出格格嘻笑聲，機器人的胸口開啟，露出裡面一個正在倒數的計時器。這玩意兒裏頭有一個炸彈，而且這棟建築物裡頭還有很多群眾！你打算做什麼？
@@ -141,12 +134,8 @@ chance to be heroes.
 
 
 ### 展現出附帶傷害的代價
-It’s easy to just pass over and ignore the damage when buildings get destroyed, 
-cars trashed, streets torn up. Halcyon City’s gotten pretty darn good at cleaning 
-up that kind of destruction, after all. But that doesn’t mean someone doesn’t 
-come calling, demanding that the PCs take responsibility for the damage 
-they’ve caused. Especially when it’s important structures, or people, who’ve 
-been hurt. Show them the costs and the penalties for letting that damage ensue.
+當建築物被摧毀、汽車被砸毀、或是街道被蹂躪，我們很容易就會把這些傷害給忽略掉。畢竟神翠市已經相當擅長清理這方面的破壞。
+然而這並不代表不會有人來要求PC們對他們造成的破壞負責，尤其當重要的建築或人物受傷時更是如此。向他們展現這些附帶傷害所帶來的代價和懲罰。
 
 {{< hint info >}}
 天樂女，當妳返回妳的水晶飛船時，妳看見A.E.G.I.S.的特工們將飛船團團包圍，用奇怪的封條綁住它。領頭的特工解釋道，在妳上次駕駛它穿過城市，撞壞那些摩天大樓之後，他們決定要扣押妳的飛船。妳打算做什麼？
@@ -157,12 +146,9 @@ been hurt. Show them the costs and the penalties for letting that damage ensue.
 
 
 ### 揭露未來，隱晦或直接地
-The characters in MASKS are the future of this city. They’ll determine what 
-Halcyon City becomes. So keep showing them the future and the possible 
-paths they’re on. Sometimes you can do this in a straightforwardly comic book 
-fashion—literally, showing them the future through time portals or future 
-versions of themselves or whatever. But other times, do it indirectly, through 
-current figures that might represent what they’re becoming. 
+《蒙面少俠》的角色們是這座城市的未來，他們也將會決定神翠市的未來。因此，不斷向他們展示未來的樣貌、以及他們可能踏上的道路。
+有時候你可以用直接了當的漫畫風格這麼做──字面意義上的，透過時空傳送門、未來的自己、或其他之類的手段來把未來呈現在他們眼前。
+但其他時候，間接地利用現在的人物來展現他們可能正在成為的樣子。
 
 {{< hint info >}}
 胡蜂女，在妳對著螳螂女怒吼之後，妳衝出去換上妳的便裝。但就在妳完全離開基地之前，妳回頭看見妳的導師坐在她的電腦前。她看起來……比妳過往見過的她還要更累，疲憊不堪，悲傷。注意到了妳的視線，她重新收斂起注意力，臉色變得不太好看。妳打算做什麼？
@@ -173,13 +159,8 @@ current figures that might represent what they’re becoming.
 
 
 ### 宣告畫框外的威脅
-Halcyon City marches on, even while the heroes deal with other problems 
-and issues. Between scenes, outside of the conversation, villains may take 
-action that threatens the heroes and their interests. When you need to make 
-a move, you can announce those threats. Draw attention to them. Show a 
-villain cackling ominously, or have them make veiled allusions to what they’ve 
-done—or just straight up announce it, publicly. Villains can be a pompous 
-bunch, after all.
+神翠市在不斷邁進，即使在英雄們處理其他難題或麻煩時依然如此。在場景與場景之間、在對話沒有談及的地方，反派們仍可能會採取威脅到英雄們和他們利益的行動。
+當你需要進行一個動作時，你可以宣告這些威脅。引起人們的注意，展現出反派發出不祥的咯咯邪笑、或讓他們隱晦地暗示自己的所作所為──或者直接公布出來。畢竟，反派們都是一群自大驕傲的傢伙。
 
 {{< hint info >}}
 神雀，你反過來征服了征服者，你正站在那裏享受著你的英雄時刻，征服者倒在地上，你的腳踩在他的胸口……在這時，你感覺到一陣嗡嗡聲從你放手機的口袋中傳來。當你偷偷地接起電話，你聽到了你父親的聲音：「魯斯塔姆，你爺爺出事了。我們在醫院，快點過來。」你打算做什麼？
@@ -190,11 +171,8 @@ bunch, after all.
 
 
 ### 讓他們為勝利付出代價
-You  can  open  paths  for  the  heroes  to  come  through  victoriously,  having 
-another hero or even a villain arrive with a way to succeed—but always at a 
-price. The villain will only help if you give them something you shouldn’t; the 
-hero offers help, but only in exchange for your team agreeing to follow her 
-lead in the future. 
+你可以為英雄們開闢通往勝利的道路，讓另一個英雄或甚至反派出現，提供通往成功的途徑──但這總是得付出代價的。
+反派只有在你願意給他們一些不該給的東西時才會出手協助；英雄當然會提供幫助，但前提是你們團隊同意在未來遵從他的領導。
 
 {{< hint info >}}
 黃昏，浮士德女士伸出了她的手。「我可以幫助妳。］她說：「我可以提供妳關閉裂隙所需要的力量，讓妳把這個怪物趕出妳們的世界。但妳需要給我一些東西作為交換──我希望妳讓我進入妳身後那座傳送門通往的半影國度。」妳打算怎麼辦？
@@ -205,11 +183,8 @@ lead in the future.
 
 
 ### 把他們的動作反過來對付他們
-Sometimes, all you have to do to make a move is flip around the move a PC 
-just made. They tried to pierce someone’s mask? Great! Pierce theirs, and ask 
-them some questions. They tried to provoke someone? Great! Provoke them, 
-telling them to do something nasty. When you turn their move back on them, 
-always do it as if it was a 10+ result.
+有時候，你要做的就是把PC剛剛進行的動作反過來用。他們想試著對別人使用〈揭穿面具〉？很好！那就反過來揭穿他們自己的面具，然後詢問他們〈揭穿面具〉上的一些問題。
+他們想〈煽動某人〉？那好！反過來讓他們被煽動，要求他們去做一些糟糕的行動。當你把他們的動作反過來對付他們時，永遠記得把它視作骰出了10+的結果。
 
 {{< hint info >}}
 頂尖叛客，你對蚱蜢女俠使用〈煽動某人〉，想煽動她跟你一起從派對中溜出來的行為卻反過來讓你看起來更加不安──甚至讓你敞開了自己。蚱蜢女俠，你可以煽動頂尖叛客讓他做任何妳想要他做的事，就像是妳在〈煽動某人〉中骰出了10+的結果一樣。妳打算怎麼做？
@@ -220,11 +195,8 @@ always do it as if it was a 10+ result.
 
 
 ### 告知他們可能的後果並確認
-Sometimes, the path to victory is clear—but it won’t come without taking a few 
-hits along the way. You can always tell a PC exactly what will happen if they 
-follow a particular course of action, giving them a difficult choice to make or a 
-messy option they hadn’t considered. It raises the tension around their choice 
-and decisions, while still keeping things moving forward. 
+有時候，通往勝利的道路是明確可見的──但在這過程中，你不可能不承受一些打擊或取捨。你永遠可以告知PC當他們採取某個特定行動後究竟會發生什麼樣的結果，
+讓他們面對艱難的抉擇、或給他們一個他們從未考慮過的混亂選項。這不僅提升了他們選擇和決定帶來的緊張感，同時還能保持故事繼續向前發展。
 
 {{< hint info >}}
 酷牛姊，電弧刀手正在逃跑，飛奔穿梭在街道上。妳確實可以扔東西砸他，但他速度快到妳完全沒辦法擊中他。妳唯一的機會就是重擊地表──釋放出一道從街道中擴散出去的震動波──來把他擊倒在地。當然，這同時也會破壞妳周圍的一切。妳打算怎麼做？
@@ -235,11 +207,8 @@ and decisions, while still keeping things moving forward.
 
 
 ### 告訴他們他們是什麼樣的人、或他們應該成為什麼樣的人
-Adults and other NPCs who hold Influence over the PCs are always telling the 
-PCs exactly who to be. How to act. What to think. Do it, and do it often. Telling 
-the PCs who to be almost always means they have to shift their Labels or reject 
-the NPC’s Influence, and that’s exactly what you want, to keep the PCs’ senses 
-of identity fluid and changing.
+擁有對PC影響力地成年人和其他NPC總是在告訴PC他們究竟該是什麼樣的人物，他們該如何行動、又該怎麼去思考。
+讓他們去做，而且經常這麼做。告訴PC該成為什麼樣的人物，幾乎總是意味著他們必須因此調動自己的標籤屬性或拒絕NPC的影響，而這正是你想要的，讓PC對自我身份的感受不斷流動和變化。
 
 {{< hint info >}}
 雷克斯，天鵝座一臉嫌棄的看著你。「噁，要來打倒我的人就是你嗎？就不能來個更上鏡的傢伙嗎，你這個醜陋的怪胎？」她想提升你的古怪，降低你的平凡。你要接受嗎？
@@ -250,11 +219,8 @@ of identity fluid and changing.
 
 
 ### 讓NPC做出草率決定或嚴厲的結論
-NPCs don’t always know what’s best. They judge situations quickly and harshly 
-and, especially when they have power of their own, they act just as quickly. 
-Those decisions can set in motion all kinds of mayhem and future moves. 
-Don’t hesitate to take advantage of an opportunity in which an NPC would 
-jump to a wrong conclusion.
+NPC並不總是能搞清楚狀況。他們會快速且嚴厲地對局勢做出批判，尤其當他們握有自己的力量的時候，他們採取行動的速度也會同樣快速且草率。
+這些決定能夠引發各種混亂、並為你未來的動作做出鋪墊。當你遇到一個能讓NPC得到錯誤結論的機會時，千萬不要猶豫，儘管去利用它吧。
 
 {{< hint info >}}
 酷牛姊，你與電弧刀手一起行走在走廊，你們因為這臨時的同盟而陷入一種相互沉默之中，然而這時，尋道者，「典範者」聯盟中最年輕的英雄出現了。他看著你們兩個人走在一起，搖了搖頭。「是啊，我看過你的資料，酷牛姊。你們兩個當然會合作……我早就知道你遲早會成為反派。」現在他正以超高速從走廊另一頭向你們衝過來。你打算做什麼？
@@ -265,13 +231,8 @@ jump to a wrong conclusion.
 
 
 ### 觸發他們能力和人際關係的缺點
-Every ability has a downside; every relationship comes with responsibility. 
-Bring those into play to increase the pressure on the PCs. If your powers 
-require you to have equipment, then having that equipment break can mess 
-with your ability to act. If your dad is the leader of the biggest superhero team 
-in the city, people will judge you by his standards. Make the problems and 
-difficulties of each PC’s abilities and relationships come up to counterbalance 
-the benefits.
+每一種超能力都有缺點；每一段關係也都連帶著責任。把這些帶到遊戲中，提高PC的壓力。
+如果你的超能力需要使用某些裝備，那麼讓這件裝備壞掉將會狠狠搞砸你使用超能力的能力。如果你的父親是這座城市中最大的超級英雄團隊的領袖，那麼人們將會以他的標準來評價你，為你帶來莫大的壓力。讓每個PC的超能力和人際關係的問題和困難浮出水面，平衡它們所帶來的好處。
 
 {{< hint info >}}
 胡蜂女，當妳和團隊一起走進典範者的基地時，妳幾乎立刻就碰上了他們的其中一名安保人員。「有紀錄顯示妳和螳螂女一起合作過。」她說：「她在我們的系統中被視為一個潛在的威脅，所以很抱歉，妳得在外面等著。」妳打算做什麼？
@@ -282,10 +243,7 @@ the benefits.
 
 
 ### 進行一個扮演書動作
-Every playbook has its own unique issues and themes to deal with. In BEHIND 
-THE MASKS on page 160, you’ll find individual moves you can make for each 
-playbook, to really push on and bring attention to that playbook’s issues. You 
-can make these moves any time you could make any other GM move.
+每個扮演書都有自己獨特的問題和主題需要處理。在「<a href='{{< relref path="docs/rules/the-gm/behind-the-masks" >}}'>扮演書動作</a>」的章節中，你可以找到針對每個扮演書去使用的各個GM動作，讓你能夠真正去推動每個扮演書各自的問題。你可以在任何你能進行其他GM動作的時候使用這些動作。
 
 **範例:** 超新星—導入只有他們能夠處理的威脅
 {{< hint info >}}
@@ -299,11 +257,8 @@ can make these moves any time you could make any other GM move.
 
 
 ### 進行一個反派動作
-Like the playbook moves, every villain you make has a few moves of their own. 
-You’ll find out how to do that later in this chapter ( page 156). You can make 
-these moves when you would make any other move, so long as the villain’s 
-involved in the situation. They always amp up the situation, and highlight that 
-villain’s own particular idiom.
+就跟扮演書動作一樣，你所創造的每個反派也都有幾個自己獨有的動作。
+你將在「<a href='{{< relref path="docs/rules/the-gm/using-npc" >}}'>運用NPC和反派</a>」章節中進一步瞭解該如何使用它們。只要反派參與在情境中，你就可以在任何你能進行其他GM動作的時候使用這些動作。這些動作總是能讓局勢變得更加激烈，並突顯出反派的特點。
 
 **範例:** 血腥歐泊—瞬間治療致命傷
 {{< hint info >}}

@@ -3,7 +3,7 @@ title: 進行第一次聚會
 weight: 1
 ---
 
-## BEFORE THE FIRST SESSION
+## 在第一次聚會之前
 Time for your first session! The beginning of your adventures in Halcyon City! 
 There will be plenty of robo dinosaurs in your future, I assure you!
 
@@ -13,7 +13,7 @@ adventurous forays into Halcyon City’s superhuman world.
 
 Here’s what you need to do to make that first session go smoothly. 
 
-#### MATERIALS AND PREP
+#### 材料和準備
 Print out every playbook you’re using in the game and make sure you’ve got at 
 least passing familiarity with each one. Limiting what you offer to the players 
 changes the nature of the game a bit—for example, if you want a lighter game, 
@@ -37,7 +37,7 @@ to the table with one ready. You can even put the villain out there and ask the
 players to come up with a connection to them during character creation.
 
 
-## STARTING THE FIRST SESSION
+## 開始第一次聚會
 You’ve got your crew assembled—huzzah! Now it’s time for character creation.
 
 Spread out the playbooks and give a brief overview of each. If you’ve got 
@@ -61,7 +61,7 @@ table one at a time, with each player explaining who their character is, what
 they look like, what they can do, and the answers to their backstory questions.
 
 ---
-#### ASKING PROBING QUESTIONS
+#### 詢問誘導性的問題
 Players don’t introduce their characters in a monologue. Like everything else 
 in MASKS, it’s a conversation; ask questions throughout. Explore their characters, 
 and your version of Halcyon City, with pointed questions aimed at fleshing out 
@@ -137,14 +137,14 @@ News reports?”
 
 
 ---
-## DURING THE FIRST SESSION
-Your goals in your first session are to: 
+## 在第一次聚會期間
+你在你們第一次聚會時的目標有：
 
-* Help your players create their characters
-* Prime Halcyon City with plenty of cool material and events to build on
-* Show off who these characters are
-* Go through most of the mechanics of the game (and definitely all the basic moves)
-* Create an awesome first issue of your comic 
+* 協助你的玩家們創建他們的角色
+* 讓神翠市充滿許多的酷炫玩意兒和事件
+* 展現、介紹這些角色
+* 經歷這個遊戲中大部分的機制（當然還有所有的基本動作）
+* 創造出你們漫畫中絕讚的第一個事件
 
 That first session, a fair amount of your time will be eaten up by character 
 creation. Usually, it takes about one or two hours if you’re asking questions and 
@@ -272,7 +272,7 @@ team, so give the heroes some time to be a team.
 
 
 ---
-## AFTER THE FIRST SESSION
+## 在第一次聚會之後
 When you’re done with the first session, you’ll have a good idea of who these 
 characters are and what they’re interested in. You’ll have plenty of NPCs to play 
 with, and you’ll have backstories to draw on. Let these elements percolate, and 

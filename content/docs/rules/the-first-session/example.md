@@ -57,109 +57,63 @@ weight: 2
 
 「啊，懂了。」喬說：「OK，好吧……那我想我要照做。我猶豫了幾秒，接著把粉筆交出去。」
 
-“‘Wonderful,’ says Rosa. ‘I’m glad to see some humility. Bodes well for the future 
-of our city.’ She starts to walk away from you, with her security moving to cover her. 
-Hornet, add a Team to the pool for doing what your teammate asked.” I’m playing 
-Rosa to her drive (page 131)—to dominate the superhuman resources of Halcyon 
-City and beyond. Rosa got what she wanted, and she’s not interested in pursuing 
-this any harder, even though I could imagine this turning into an out-and-out fight. 
+「『太好了。』羅莎說：『我很高興能在這裡看見一些謙遜，這對我們的城市來說是個好預兆。』她開始從你們身邊離開，她的保安人員也開始移動，掩護著她離去。胡蜂女，因為妳按照了妳隊友要求的去做，因此你們可以增加一點團隊默契。」我在詮釋羅莎的動機──<b>為了掌控神翠市以及其他地方的超人類資源</b>。羅莎得到了她想要的，而且她沒有興趣再進一步追逼下去了，儘管我可以想像將會演變成一場激烈無比的惡鬥。
 
-“Rex, Fission—what are you doing?” I want to shine the spotlight on the other 
-characters, because they haven’t done much yet in this scene. One of them might 
-start a fight...
+「雷克斯，裂變俠──你們打算做什麼？」我想要把聚光燈照在其他角色身上，因為他們在這個場景中還沒怎麼行動過。他們其中一個也許會想要挑起爭端……
 
-“Yeah...I think I’m letting them go,” says Matt. “I’m pretty beat up, I’ve got three 
-conditions  marked,  and  I  don’t  really  want  to  make  things  worse.  Plus...it  was 
-Skysong who talked us down...so of course I’m listening to her.”
+「嗯……我想我會讓她們離開。」麥特說：「我被打得挺慘的，我已經有三個狀態被標記了，我真的不想讓情況變得更糟。再加上……勸我們放棄的是天樂女……所以我當然會聽她。」
 
-“Cool. What about you, Fission?” 
+「酷，那你呢，裂變俠？」
 
-“I...don’t think I want to fight them, but I don’t think I want to just let them go, 
-either. I want to be able to track them. I want to figure out where they’re taking this 
-chalk,” says Sarah.
+「我……不認為我想要跟他們開打，但我也不覺得我會想就這麼讓他們離開。我想要能夠追蹤他們的下落。我想搞清楚他們會把這根『粉筆』帶去哪裡。」莎拉說道。
 
-“Oh cool! How would you do that? Is that something you’ve ever done before?” 
-I’m asking provocative questions (page 133), in this case about Fission’s powers, 
-so I can build on the answers  (page 133) later. 
+「喔，酷！那你要怎麼做到這件事？你以前曾經這麼做過嗎？」
+我在<b>提出誘導性的問題</b>，在這個情況下，我問的問題是關於裂變俠的超能力，這樣我之後就能夠<b>基於答案構築</b>。
 
-“I’ll extend my awareness and tweak one of those energy guns just a bit, so it 
-starts leaking an energy trail, something I can sense. Right? I’ve got control of stuff 
-at the atomic level, so I’ll be able to track it. And no, I don’t think I have done this 
-before—it’s one of those applications of my powers I’ve wondered about, but haven’t 
-tried,” Sarah says. I’m aware that Fission is a Nova, so his powers generally give a 
-fictional justification for at least trying a huge number of things—so even if this 
-has never happened before, I’m being a fan of the PCs (page 82) by going with it.
+「我要延展我的意識，然後把其中一把能量槍調整一下，讓它開始洩露出能量的蹤跡，我能感覺到這些，對吧？我能夠控制原子級別的東西，這樣我就能夠追蹤他們。然後……不，我不認為我以前做過這件事──這是個我以前想過的其中一種超能力用法，但從來沒有試過。」莎拉說道。我知道裂變俠是「超新星」，因此他的超能力通常能夠提供一個很好的敘事理由，讓他能夠至少嘗試去做出很多很多不可思議的行動──所以即使這件事過去從來沒有發生過，我還是會<b>做玩家角色們的粉絲</b>，順著他下去。
 
-“That’s awesome!” I say. “Roll to unleash your powers, you’re extending your 
-senses! You’re doing it subtly, but it’s still an unleash.” Sarah rolls a 9. “So that means 
-you can either mark a condition, or it’s temporary or unstable,” I say.
+「這太棒了！」我說：「擲骰進行〈釋放你的力量〉，你是在延展你的感官！儘管你是以不引人注意的方式這麼做，這仍然算是釋放力量。」莎拉骰出了 9，「所以這表示你可以選擇標記一個狀態、或者它只會造成暫時性或不穩定的效果。」我說。
 
-“Wait, can I spend a Team out of the pool to help ()?” asks Joe. 
+「等等，我可以花費一點團隊默契來協助他嗎？」喬問道。
 
-“How would you do that? Fission is doing something pretty specific to his crazy 
-powers, and he’s trying to keep it on the downlow,” I say. I’m not against the idea, but 
-we’ve got to follow the fiction.
+「你要怎麼做到這件事呢？裂變俠正在做一件非常限定於他瘋狂超能力的舉動，而且他打算保持低調。」我說。我並不是反對這個主意，但我們必須遵循敘事。
 
-“Ah, yeah. Hmmm. Can we say that I’ve been helping Fission figure out some of 
-the things he can do? We’ve been training together, after all,” Joe asks.
+「啊，對喔。嗯……我們可以說，我以前曾經幫助過裂變俠一起研究他能夠做到些什麼嗎？畢竟，我們曾經一起受訓過。」喬問。
 
-“Yeah!” says Sarah. “So maybe I figured out that I can do this during one of those 
-training sessions.” 
+「是啊！」莎拉說：「所以，也許我是在其中一次的訓練課程中瞭解到我可以做這件事的。」
 
-“Yep, and I recognize what you’re doing, the little flares of energy from your 
-fingertips. To do it, though, I have to help you get into a meditative state that Mantis 
-taught me. So I start chanting quietly towards you, ‘Close your eyes, clear your mind, 
-focus yourself, be empty,’ and so on. So that’s what I’m doing right now, trying to help 
-Fission focus,” says Joe.
+「對，而且我注意到你正在這麼做，你的指尖冒出了小小的能量火花。不過要做到這點，我必須幫助你進入冥想狀態──這是螳螂女教我的。所以我開始低聲向你呢喃：『閉上你的雙眼，清除雜念，集中自我，放空意識……』之類的。所以這就是我現在在做的，我要試圖幫助裂變俠專注。」喬說道。
 
-“Yeah, that’s cool! Spend one Team out of the pool: that makes Fission’s roll a 
-10.” I’m playing to find out what changes  (page 126), and I like this—it adds a 
-relationship and partnership between Fission and Hornet that wasn’t clearly there 
-before. Yeah, it’s a bit of a retcon, but it fits with the fiction we’ve established, it’s 
-interesting, and it’s allowing for a cool thing right now.
+「好啊，真酷！那麼你們花掉了一點團隊默契：這讓裂變俠的擲骰結果變成了10。」
+我正在<b>用玩的來看看發生了什麼事</b>，而我也喜歡這個改變──它增加了裂變俠和胡蜂女之間的關係和合作情誼，而這部分的細節在之前並沒有那麼清楚。
+是的，這用上了些「回溯修訂」的手法，但它確實符合我們所建立的故事；它足夠有趣，而且能夠讓現在發生的酷炫情境得以成立。
 
-“Okay! So there’s an energy trail that you can follow, Fission. When you decide to 
-pursue it, chances are good it’ll take you to wherever they put the chalk—although 
-that doesn’t mean it’ll be undefended.” I’m following the fiction here, but I’m also 
-revealing the future, subtly (page 140). I’m flagging to the players that they should 
-expect a fight if they go after the chalk.
+「OK！所以他們確實留下了一道你能夠追蹤的能量軌跡，裂變俠。如果你們決定追著軌跡前進，那麼你們很有可能會來到他們安置『粉筆』的地方──但這並不代表他們會毫無防備。」
+我在這裡遵循著故事的發展，但我同時也在<b>〈揭露未來，隱晦或直接地〉</b>。我對玩家們發出暗示：如果他們打算追回粉筆，那他們可以預期將有一場惡戰等待著他們。
 
-“In the meantime, though, you guys sound pretty beat. What are you doing now, 
-Rex?” Matt hasn’t done much during this conversation, so I want to make sure he 
-gets some spotlight.
+「不過在此同時，你們感覺也挺疲憊的。你現在打算做什麼，雷克斯？」麥特在這段對話中還沒有做過些什麼，所以我想確保他得到一些聚光燈。
 
-“Hm. I think I wanted to talk to Skysong about what happened, and stuff in 
-general. Y’know. Also, because I have that crush on her,” says Matt.
+「嗯……我認為我會想要跟天樂女談談剛剛發生的事，也許在談談些其他尋常話題。你懂的，因為我暗戀著她。」麥特說道。
 
-“Perfect!” Rex is taking action, so I don’t have to make another move here. If he 
-hadn’t proposed this scene, and all the PCs just wanted to rest for the night, I would 
-cut to some later moment and make a move again, but I don’t have to. “I’ll cut to 
-that scene, but I want to make it clear where everyone else is going. Hornet?” I ask.
+「完美！」雷克斯採取了行動，所以我不需要在這裡在進行另一個動作。如果他沒有提出這個場景，而且所有其他PC只打算好好休息一晚的話，那麼我就會把時間切到稍後的某個時刻再出手，但我現在沒這個必要了。「我待會會切到那個場景，但我想先搞清楚其他人打算去哪裡。胡蜂女？」我問。
 
-“Ah, I’d probably go file a report with Mantis—she likes reports after I go into any 
-other extradimensional realm—and then I’m going to hit the sack,” says Joe.
+「啊，我應該會向螳螂女提交一份報告──她喜歡我在進入任何其他異次元領域之後寫的報告──然後我就會打道回府了。」喬說道。
 
-“Awesome. What about you, Fission?” 
+「很好。那你呢，裂變俠？」
 
-“Same general idea. I’m going back to our base, taking a shower, and then going 
-to sleep.”
+「我的想法差不多。我要回到我們的基地，洗個澡，然後就去睡覺。」
 
-“And Skysong? Rex is going to try to talk to you, but where would that be?”
+「那天樂女呢？雷克斯打算要跟你聊聊，但會是在哪裡呢？」
 
-“Oh, after today’s stress, I’m going to make myself hot chocolate—truly, the 
-greatest of all Earth drinks—and chill out on the couch.”
+「喔，在這一整天的壓力之後，我打算給自己弄一杯熱巧克力──這無疑是全地球最棒的飲料──然後在沙發上好好放鬆。」
 
-“Awesome! And that’s the end of the scene—check to see if you cleared any 
-conditions by taking action during that scene.” 
+「太好了！那麼這就是這個場景的結尾──檢查一下你們在這個場景中有沒有做過什麼可以清掉任何狀態的行動？」
 
-“Does letting Rosa Rook have the chalk count as running from something 
-difficult?” asks Joe.
+「讓羅莎．盧克拿走『粉筆』算是『逃離某個困難』嗎？」喬問道。
 
-“Absolutely!” I say. “You were basically postponing your conflict with her, at least 
-in part out of fear. Clear Afraid (page 88).” 
+「肯定是的！」我說：「你基本上是在推遲你們與她之間的衝突，而這至少有一部分是出於恐懼。清除恐懼狀態吧！」
 
-After everybody else checks and clears any appropriate conditions, I start to set 
-the next scene…
+在每個人都確認並清除任何相應的狀態後，我開始構築起下一個場景……
 {{< /hint >}}
 
-If you’d like to see more of this long example, go to www.magpiegames.com/masks/long-example, and you’ll get to see what more interpersonal scenes between the characters might look like!
+如果你想要閱讀這個長篇範例的後續，前往<a href="www.magpiegames.com/masks/long-example" target="_blank">官方網站</a>，你將會看到更多角色間人際互動的場景會是什麼樣子！
