@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>第十章：自訂動作 on 蒙面少俠 中文站</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-custom-moves/</link><description>Recent content in 第十章：自訂動作 on 蒙面少俠 中文站</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://hazmole.github.io/masks-zh-release/docs/rules/the-custom-moves/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>第十章：自訂動作 on 蒙面少俠 中文站</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-custom-moves/</link><description>Recent content in 第十章：自訂動作 on 蒙面少俠 中文站</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://hazmole.github.io/masks-zh-release/docs/rules/the-custom-moves/index.xml" rel="self" type="application/rss+xml"/><item><title>自訂動作</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-custom-moves/custom-moves/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-custom-moves/custom-moves/</guid><description>自訂動作
+#
+此時此刻，你已經看過了各種各樣的動作：基本動作、扮演書動作、團隊動作等。 這些動作展現了《蒙面少俠》這個規則的靈活性……而你甚至藉著創造出屬於你自己的動作——自訂動作——來利用這個靈活性，為你們特定的遊戲內容服務。
+每個動作都是一小塊完整的機制，用來保證當它被觸發時會發生一些酷炫且有趣的事情。 自訂動作讓你能夠為你想要的遊戲內容做出新的保證。透過這些自訂動作，你可以創作出屬於你們的《蒙面少俠》遊戲、屬於你們的神翠市，並突顯你們對特定內容的興趣。以下是一個例子：
+當你參與了典範者旗下的戰鬥模擬訓練時，擲+危險。
+若成功，你讓典範者中的某人對你的表現印象深刻；獲得對他們其中一個人的影響力。 擲出7-9時, 你在過程中被弄傷；標記一個狀態，由你自己選擇。
+若失敗，你違背了模擬訓練的規矩或永久性的損壞了模擬器──且你可以指望典範者會讓你知道你做錯了什麼。
+這個動作讓典範者以及他們的基地變得更加充實。 它可以與涉及典範者的故事弧有所關連——一個Restoration類型的故事弧、或也許一個針對他們的Destruction類型的故事弧——但這並不是必要的！ 你可以透過加入這類動作來為你的遊戲增添趣味，為你的神翠市添加風味、定義、和深度。透過這個方式，你能夠確保當玩家與特定設定互動時將會發生一些有趣的事情。
+想像的故事
+#
+你可以無止盡地改造、調整、打亂這個系統。 不要害怕嘗試把你腦中的想法付諸行動，從改變設定到改造整個主要規則，儘管把你的《蒙面少俠》遊戲變成你想要的樣子！
+除此之外，睜大眼睛留意其他《蒙面少俠》系列的規則書，像是《神翠市先驅報集錦》、《蒙面少俠：無拘無束》、和《神盾局的秘密》。所有這些書籍都提供了大量的自訂動作，為你的遊戲提供了各種工具和參考範例。如果你真的很想見識更多，去翻翻其他「啟示錄引擎」的遊戲規則，像是《啟示錄世界 Apocalypse World》、《怪物心 Monsterhearts》、《地城世界 Dungeon World》、以及 Magpie Games 自己出版的《龍族史詩 Epyllion》和《城市之影 Urban Shadows》──不過要注意，這些遊戲規則中有許多都有著相當限制級內容。</description></item><item><title>編寫自訂動作</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-custom-moves/building-custom-moves/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-custom-moves/building-custom-moves/</guid><description>編寫自訂動作
+#
+動作通常由下列要素組成：
+一個觸發條件： 「當（某件事）發生時……」 一個結果： 「……那麼（其他事情）就會發生。」 這可能會包括了進行擲骰、或可能就是直接讓某件事發生。 風險賭注： 如果這個動作涉及擲骰，那麼就說明在擲出10+、7-9、以及6-時會發生什麼事。 你也必須定義10+、7-9、以及失敗時的結果：10+意味著事情通常會成功；7-9意味著會有一些代價或併發後果；而6-則代表事情通常會變得更糟。
+不過除了這些核心要素之外，你還需要確保任何你所編寫的自訂動作都能達成這兩個要求：
+觸發條件是一個有趣且具有不確定性的行動 會導致一個能推動故事發展的結果 觸發條件
+#
+The key to making good triggers is that the actions themselves need to be interesting and exciting, and only likely to occur when there’s actual uncertainty about what will happen. You don’t want triggers based on boring actions, and you don’t want triggers that come up too often.</description></item><item><title>常見自訂動作類型</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-custom-moves/common-types/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-custom-moves/common-types/</guid><description>COMMON CUSTOM MOVE TYPES
+#
+Between sessions, you can create custom moves for nearly any use. Here are some of the most common places where custom moves are useful and interesting. Remember that if you take advantage of any of these opportunities, you shouldn’t hide it—make sure the players know, so they can use these moves!
+SITUATIONS
+#
+Custom moves are great for filling in specific holes in your game.</description></item></channel></rss>

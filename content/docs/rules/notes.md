@@ -51,6 +51,7 @@ weight: 100
 * Lightning Streak : 落雷人
 * Magus Everard : 魔導師艾弗瑞
 * Nano : 奈微小子
+* Overbrain : 超腦博士
 * Power Sink : 吸能怪
 * Rosa Rook : 羅莎．盧克
 * Sablestar : 黑貂星

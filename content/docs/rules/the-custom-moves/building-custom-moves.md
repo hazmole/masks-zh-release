@@ -3,23 +3,21 @@ title: 編寫自訂動作
 weight: 2
 ---
 
-# BUILDING CUSTOM MOVES
-Moves generally consist of:
-* A trigger: “When (something) happens…”
-* An outcome: “...then (something else) happens.” This might include a roll of the dice, or it might just be something that happens.
-* Stakes: If the move does have a roll, say what happens on a 10+, a 7-9, and a 6-.
+# 編寫自訂動作
+動作通常由下列要素組成：
+* 一個觸發條件： 「當（某件事）發生時……」
+* 一個結果： 「……那麼（其他事情）就會發生。」<br/>
+這可能會包括了進行擲骰、或可能就是直接讓某件事發生。
+* 風險賭注： 如果這個動作涉及擲骰，那麼就說明在擲出10+、7-9、以及6-時會發生什麼事。
 
-You’ve also got to define the 10+, 7-9, and miss results: a 10+ means things
-generally work out; a 7-9 means there’s some cost or complication; and a 6-
-mean things usually get worse.
+你也必須定義10+、7-9、以及失敗時的結果：10+意味著事情通常會成功；7-9意味著會有一些代價或併發後果；而6-則代表事情通常會變得更糟。
 
-Beyond those core components, though, you need to make sure any custom
-moves you create do two things:
-* Trigger on an interesting and uncertain action
-* Lead to outcomes that push the fiction forward
+不過除了這些核心要素之外，你還需要確保任何你所編寫的自訂動作都能達成這兩個要求：
+* 觸發條件是一個有趣且具有不確定性的行動
+* 會導致一個能推動故事發展的結果
 
 
-## TRIGGERS
+## 觸發條件
 The key to making good triggers is that the actions themselves need to
 be interesting and exciting, and only likely to occur when there’s actual
 uncertainty about what will happen. You don’t want triggers based on boring
@@ -28,9 +26,11 @@ actions, and you don’t want triggers that come up too often.
 Here’s a move with a bad trigger:
 
 <div class='Move'>
-When you lie to an adult, roll + Superior. On a 10+, they buy your lie. On a 7-9,
-answer their questions, and you’re good. On a miss, they see right through you...and
-you’re in trouble.
+當你<b>對成年人說謊時</b>時，擲<b>+優越</b>。
+
+<tag>擲出10+時</tag>，他們會相信你的謊言。<br/>
+<tag>擲出7-9時</tag>，只要回答他們的幾個問題，你就會沒事。<br/>
+<tag>若失敗</tag>，他們看穿了你……現在你有麻煩了。
 </div>
 
 The trigger is so non-specific, the PCs will trigger it all the time, even when
@@ -42,14 +42,17 @@ feed false information to the Exemplars.
 Here’s a move with a better trigger:
 
 <div class='Move'>
-When you make a statement to the cameras, roll + Superior. On a 10+, choose three.
-On a 7-9, choose two.
-• you convince the viewing audience to see your team according to a Label of your choice
-• your statement will bring you an opportunity from a viewer
-• your statement frames you, in particular, as a successful and noteworthy hero of the city; mark potential
-• you don’t anger or upset anyone important or powerful with your statement 
+當你<b>對著鏡頭發表聲明</b>時，擲<b>+優越</b>。
 
-On a miss, your statement goes awry, and listeners interpret your words in the worst possible way.
+<tag>擲出10+時</tag>，選擇三項。<br/>
+<tag>擲出7-9時</tag>，選擇二項。
+
+* 你說服了觀眾們以一個你所選擇的標籤屬性來看待你們的團隊
+* 你的聲明會為你帶來一個來自觀看者的機會
+* 你的聲明將你塑造成了一個成功、且值得關注的英雄；標記一點潛能
+* 你的聲明並不會激怒或惹惱任何重要或強大的人物
+
+<tag>若失敗</tag>，你的聲明出了差錯，且聽眾們會以最糟糕的方式解讀你的話語。
 </div>
 
 Now, it’s about a specific instance, something that won’t happen all the time.
@@ -58,52 +61,51 @@ your PCs say to the public of the city. And finally, there’s uncertainty attac
 to that trigger. We don’t know what happens when one of your PCs makes a
 statement to the cameras, and that’s why we have the move.
 
-#### COMMON TRIGGER TYPES
-<b>Character action</b>: Moves can trigger when a character takes action. To make
-a strong move, always tie that action to specifics—action in a particular place,
-against a particular character, with a particular item, and so on.
+#### 常見的觸發條件類型
+<b>角色行動</b>: 這類動作會在角色採取某個行動時被觸發。
+要把動作寫好，請務必把這個行動與某個具體特定的事項掛勾──比如說在某個特定的場所、針對某個特定的角色、使用某個特定的物品，諸如此類。
 
 <div class='Move'>
-The Overbrain’s Helmet: When you put on the Omnihelmet and telepathically
-search for someone, roll + Freak. On a hit, you learn exactly where they are and what
-they’re doing right now. On a 7-9, the connection is stronger than you expected; give
-them Influence over you or mark a condition, your choice. On a miss, you find them,
-but you alert the Overbrain to your location; brace yourself.
+<b>〈超腦博士的頭盔〉</b><br/>
+當你<b>戴上全知頭盔並用心靈感應尋找某人</b>時，擲<b>+古怪</b>。
+
+<tag>若成功</tag>，你得知他確切的位置以及現在正在做的事情。<br/>
+<tag>擲出7-9時</tag>，這股心靈聯繫的力量比你預期還要強烈；讓他獲得對你的影響力、或你標記一個狀態，由你決定。
+
+<tag>若失敗</tag>，你找到了對方，但你也同時讓超腦博士注意到了你的位置；做好準備。
 </div>
 
-<b>Situation</b>: Moves can trigger due to the specific situation a PC is in, usually
-because an NPC or the environment takes action. The PC still has to be there
-and be involved, though, for the move to trigger.
+
+<b>情境</b>: 這類動作會在玩家身處於特定情境時被觸發，通常這會是因為某個NPC或環境採取了行動而導致的。不過，PC仍然必須要處於現場或被捲入其中才能觸發這類動作。
 
 <div class='Move'>
-Bloodhounds: When Agent Hersh and her metahuman detectors are hunting you,
-roll + Mundane. On a hit, you can avoid detection if you flee, now. On a 10+, you get
-the drop on Agent Hersh—you can ambush her or let her pass, your call. On a miss,
-they’ve got you dead to rights.
+<b>〈獵犬〉</b><br/>
+當<b>特工赫許用她的超人類探測器找尋你的下落</b>時，擲<b>+平凡</b>。
+
+<tag>若成功</tag>，如果你現在逃離，你就不會被偵測到。<br>
+<tag>擲出10+時</tag>，你搶先特工赫許一步──你可以埋伏她、或者讓她就這麼離開，由你決定。
+
+<tag>若失敗</tag>，她們當場逮到了你。
 </div>
 
-<b>From now on</b>: Moves can trigger as soon as you take them, and the effects
-go on continuously. They don’t need an explicit trigger.
+
+<b>從此以後</b>: 這類動作會在你取得它們的時候觸發，且它們的效果會不斷持續作用。它們不需要任何詳實的觸發條件。
 
 <div class='Move'>
-New Exemplar: [When you take this move and ever afterward…] Sign the contract
-and join the Exemplars. Take +1 ongoing any time you wield your authority or
-speak publicly. While you’re part of their team, you can never reject the Exemplars’
-Influence over you.
+<b>〈新典範者〉</b><br/>
+（當你取得這個動作且從此之後……）簽署合同並加入典範者團隊。<br>
+你獲得在任何時候行使你的權威或公開發言時的持續+1。當你身為他們團隊的一份子時，你永遠無法拒絕典範者們對你的影響力。
 </div>
 
-<b>Right now and done</b>: Moves can trigger once, as soon as you take them.
-Again, no explicit trigger is needed.
+
+<b>當下處理完畢</b>: 這類動作會在你取得它們的時候被觸發一次。同樣的，它們也不需要任何詳實的觸發條件。
 
 <div class='Move'>
-The Forge: [Immediately after you take this move…] When you go into one of
-VENOM’s Forge brainwashing tubes, it rearranges your mind and memories to make
-you a weapon. Shift your Labels around however you want, so long as your overall
-total remains the same and Danger ends at +3. The GM tells you what memory you
-lose during the change.
+<b>〈重塑〉</b><br/>
+（在你取得這個動作之後立刻……）當你進入猛毒幫的其中一個重塑洗腦管時，它將重新編排你的思想和記憶，使你成為武器。按你想要的任意調動你的標籤屬性，只要最後你標籤屬性的總和不變，且危險為+3。GM會告訴你你在這個改造過程中失去了什麼記憶。
 </div>
 
-## EFFECTS
+## 效果
 
 Triggers are only one half of a move. You need to know what happens when a
 move is triggered, too, and those effects need to be interesting and cool all on
@@ -151,7 +153,7 @@ choose “you don’t leave a trace,” the GM has a golden
 opportunity to make a move.
 
 
-#### COMMON EFFECT TYPES
+#### 常見的效果類型
 <b>Direct Effects</b>: Moves can directly affect the fiction, making changes, causing
 events, without touching on any mechanical pieces in between.
 
