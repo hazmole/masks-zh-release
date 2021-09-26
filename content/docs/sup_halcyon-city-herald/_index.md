@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 2
 bookFlatSection: true
-title: "擴充-無拘無束"
+title: "擴充-神翠市先驅報集錦"
 ---

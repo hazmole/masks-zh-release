@@ -116,4 +116,4 @@ weight: 2
 在每個人都確認並清除任何相應的狀態後，我開始構築起下一個場景……
 {{< /hint >}}
 
-如果你想要閱讀這個長篇範例的後續，前往<a href="www.magpiegames.com/masks/long-example" target="_blank">官方網站</a>，你將會看到更多角色間人際互動的場景會是什麼樣子！
+如果你想要閱讀這個長篇範例的後續，前往<a href="https://www.magpiegames.com/masks/long-example" target="_blank">官方網站</a>，你將會看到更多角色間人際互動的場景會是什麼樣子！

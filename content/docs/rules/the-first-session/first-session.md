@@ -4,137 +4,80 @@ weight: 1
 ---
 
 ## 在第一次聚會之前
-Time for your first session! The beginning of your adventures in Halcyon City! 
-There will be plenty of robo dinosaurs in your future, I assure you!
+是時候開始你們的第一次聚會了！你們在神翠市的冒險即將啟程！
+你們的未來肯定會出現很多很多的機械恐龍，我跟你保證！
 
-Your first session will involve a lot of character creation. That’ll be the 
-players’ job. You, on the other hand, are responsible for setting up their first 
-adventurous forays into Halcyon City’s superhuman world. 
+你們的第一次聚會大部分的時間都會花在角色創建上，這些是玩家們的工作。
+而另一方面，你則要負責安排他們第一次踏入神翠市這個超人類世界的第一場冒險。
 
-Here’s what you need to do to make that first session go smoothly. 
+為了讓第一次聚會更加順利，以下是你需要去做的。
 
 #### 材料和準備
-Print out every playbook you’re using in the game and make sure you’ve got at 
-least passing familiarity with each one. Limiting what you offer to the players 
-changes the nature of the game a bit—for example, if you want a lighter game, 
-don’t offer the Doomed—so think carefully about which playbooks you’re 
-offering.
+印出你在遊戲中會使用的每一本扮演書，並確保你對每個扮演書都至少有一定的了解。
+限制你提供給玩家的扮演書將會或多或少改變遊戲的性質──比如說，假如你想要讓遊戲的氛圍更輕鬆一些，那就不要提供「命帶天劫者」給你的玩家選擇──因此，請仔細考慮你要給玩家們使用哪些扮演書。
 
-Print out the other necessary sheets for the game, including a basic moves 
-sheet for every player. Grab some index cards or post-its, pencils, and dice. You 
-can find the sheets you need to print online at www.magpiegames.com/masks. 
+接著印出其他遊戲所需要的表單和參考紙，包括每個玩家一張的基本動作表。
+準備一些索引卡或便條紙、鉛筆、和骰子。你可以在<a href='https://www.magpiegames.com/masks'>官方網站</a>上找到你需要列印的東西。
 
-Read through this book before you get to the table. You don’t have to 
-go  through  every  inch  of  THE MASKS  (page  93)  or  THE FUTURE  (page  113),  but 
-definitely skim them. HOOKS AND ARCS (page 181) is most important after your 
-first session, but it can give you some good things to look out for during this 
-first game. 
+在你上遊戲桌前，先把這本規則讀過一遍。你不一定要仔細讀過「第五章：扮演書」和「第六章：未來發展」章節的每一字一句，但請務必要大致瀏覽過一遍。
+「第九章：引鉤與故事弧」會是你們第一次聚會結束之後最重要的章捷，但它也可以在第一次聚會期間提供給你一些好點子。
 
-Depending on how much time you have at the table, you might want to 
-prep a villain in advance. If you can make a villain at the table, connected to 
-the PCs and their issues, you should try to do that—but if time’s a factor, come 
-to the table with one ready. You can even put the villain out there and ask the 
-players to come up with a connection to them during character creation.
+取決於你們遊戲時間的長度，你可能會想要提前準備好反派。如果你能夠在遊戲途中即興創建出一個反派，將他與PC們和他們的議題連結起來，那麼你應該去嘗試看看──但如果時間會是個問題，那麼你最好在遊戲前就把他準備。你甚至可以把這名反派擺在桌上，然後要求玩家們在創建角色的時候考慮一下他們與這名反派之間的聯繫。
 
 
 ## 開始第一次聚會
-You’ve got your crew assembled—huzzah! Now it’s time for character creation.
+你已經集結了你的團隊成員──萬歲！現在該是創建角色的時候了。
 
-Spread out the playbooks and give a brief overview of each. If you’ve got 
-the time and want to get in the mood, you can have players dramatically 
-read the flavor text out loud. Answer any questions that come up, and make 
-suggestions to players as you ask them what issues interest them. Make clear 
-that choosing a playbook is more about choosing the issues and themes their 
-character will focus on than anything else. Refer to THE HEROES (page 39) for 
-more information on how to create characters.
+把扮演書在桌上攤開，並為每個扮演書做一段簡單的概述。如果你有時間並想讓大家進入狀態的話，你可以請玩家們大聲且戲劇性地朗讀扮演書上的文字。
+回答任何他們提出來的問題，適時地給他們建議，並詢問玩家們對什麼議題感興趣。讓他們清楚明白，選擇扮演書的重點更多是在於選擇他們角色所要關注的議題和主題上。
+參閱《<a href='{{< relref path="docs/rules/the-heros" >}}'>創建英雄角色</a>》章節以了解更多關於如何創建角色的詳情。
 
-In particular, draw your players’ attention to the pieces of each playbook 
-they’re likely to skim over—their Moments of Truth and their team moves. 
-Those can tell them a lot about the kind of character they’re playing, so make 
-sure they see them up front. 
+尤其注意，讓你的玩家們把注意力放到他們在閱讀扮演書時最有可能瞥一眼就略過去的部分──他們的「關鍵時刻」和「團隊動作」。這兩段文字會透露出許多關於他們將扮演角色的相關訊息，因此請確保他們在做出決定之前閱讀過這些文字。
 
-Encourage the players to talk about their choices out loud, to build up 
-excitement and share input on each other’s stuff. No pressure, though—each 
-player can create their character through whatever process best suits them. 
-Once almost everyone’s done, start character introductions, going around the 
-table one at a time, with each player explaining who their character is, what 
-they look like, what they can do, and the answers to their backstory questions.
+鼓勵玩家們大聲談論他們做出的選擇，藉此營造期待興奮的氛圍並讓大家能彼此分享意見。不過，不要讓這件事反過來造成壓力──每個玩家都可以透過最適合自己的方式來創造屬於自己的角色。當大家都完成的差不多了，就開始讓每個人輪流介紹自己的角色，說明他們的角色是什麼樣的人、長什麼樣子、他們能做到什麼、以及他們背景故事問題的回答。
+
 
 ---
 #### 詢問誘導性的問題
-Players don’t introduce their characters in a monologue. Like everything else 
-in MASKS, it’s a conversation; ask questions throughout. Explore their characters, 
-and your version of Halcyon City, with pointed questions aimed at fleshing out 
-their explanations. 
+玩家為角色做自我介紹的過程不會是一齣獨角戲。相反的，它跟《蒙面少俠》的其他遊戲過程一樣，會是一個對話；在他們介紹的同時提問。用針對性的問題來充實豐富他們的說明，探索他們角色的細節，以及屬於你們自己的神翠市的風貌。
+
+通常來說，你可以先接受並運用較為籠統的回答，並於日後再深入更具體的細節──畢竟，這是個套路經典的漫畫故事，而角色們的完整背景故事只會隨著時間的推移，才透過閃回倒敘之類的手法具體呈現在觀眾面前。
+
+然而，如果你覺得自己需要從他們的回答中挖掘出更多的情報時，那表示他們的答案很可能不夠具體，只使用了大量概括性的詞彙或模糊不清的細節。
+當你覺得需要更多情報的時候，深入其中去挖出更具體的細節。當某個玩家說：「我爸爸是個罪犯。」時，追問「他做了什麼？又為什麼要這麼做？」
+當某個玩家說：「這座城市大致上都認為我表現挺好的。」，問他「為什麼？你做了什麼事贏得了他們的信任？他們又是怎麼表現出對你的喜愛的？有廠商出售你的玩具模型嗎？還是新聞報導？」
 
 {{< hint info >}}
-Rich is introducing his character, Huma the Legacy, to the group (for more about 
-Huma’s  character  creation  process  see  THE HEROES,  page  40).  He  explains  that  the 
-greatest  story  of  his  legacy  is  when  his  dad  defeated 
-Vortex single-handedly, after Vortex had beefed himself 
-up using neutron star matter. 
+瑞奇正在向大家介紹他的角色：「傳承者」神雀（更多關於神雀的角色創建過程見參見第三章的《創建英雄角色》章節）。
+他正在說明關於他家族傳承中最偉大的成就，是在黑渦怪客利用中子星物質大幅強化了他自己之後，神雀的父親單槍匹馬擊敗了他。
 
-“Tell me a bit more,” I say. “Why did your dad 
-have to fight Vortex alone? Wouldn’t other teams 
-have been on the scene?”
+「再跟我多說一點。」我說：「你父親為什麼要孤身一人跟黑渦怪客槓上？其他英雄團隊沒有在現場嗎？」
 
-“Yeah, but Vortex was so overpowered, 
-he  just sucked  them all into his own 
-personal black hole,” says Rich. “Dad 
-managed to knock out Vortex, then 
-fly  in  there  and  pull  all  the  other 
-heroes out.”
+「有啊，但黑渦怪客實在太強大了，他輕易就把那些人都吸到了自己的個人黑洞裏頭。」瑞奇回答：「我父親成功擊倒了黑渦怪客，並把其他英雄全都帶了出來。」
 
-“That’s awesome! So your 
-dad not only stopped the bad 
-guy,  but  saved  everyone  as 
-well!” I say. “Can you name 
-one or two of the heroes he 
-saved?” I’m trying to get the 
-names of a few other possible 
-NPCs,  while  also  fleshing  out 
-some of the important people in 
-our Halcyon City.
+「太厲害了！所以你的父親不僅阻止了壞蛋，還救了大家啊！」我說，「你能說出一兩個他救過的英雄們的名字嗎？」
+我試著得到其他幾個潛在NPC的名字，並同時充實了神翠市中關於一些重要人物的細節。
 
-“Yeah, how about...I don’t know...let’s go with Fastball and Red Eagle,” Rich says. 
-“Excellent!” 
+「好啊，那不如……我不知道耶……就『快球俠』和『赤鷹』吧？」瑞奇說。
 
-Rich continues, saying the city widely has a positive impression of the Huma 
-legacy. 
+「太好了！」
 
-“Yeah, totally. What about other heroes, though? Folks like Fastball and Red 
-Eagle? Are they grateful? Jealous? Awed?” I ask.
+瑞奇繼續下去，他說這座城市的人們普遍對傳承者神雀抱著良好的印象。
 
-“Oh, I like that it isn’t positive. Let’s go jealous, actually. They didn’t love my dad,” 
-Rich says.
+「嗯，這是肯定的。不過其他英雄呢？比如說『快球俠』和『赤鷹』，他們的想法會是感激？妒忌？或也許敬畏？」我問道。
 
-“Why’s that? What did your dad do that really got their ire up, and how did you, 
-Huma, find out about it?”
+「哦，我想讓這不這麼正面一些。就嫉妒吧，他們不喜歡我爸。」瑞奇回答。
 
-“I saw an exchange between them at the house. They yelled at Dad, claiming that 
-he took credit for what they’d done.” 
+「為什麼會這樣？你父親做了什麼讓他們這麼生氣的事？你，神雀，又是怎麼發現的？」
 
-“Did you hear any details?”
+「我在家裡看過他們之間的對峙。他們對著我父親怒吼，聲稱他把他們的功績都攬到了自己身上。」
 
-“No, I don’t think I did. To this day, I still kind of wonder about that.” 
+「你有聽到任何他們爭吵的細節嗎？」
 
-“Awesome!” I say. “Please continue!”
+「沒有，我不覺得我有聽到。一直到現在，我都還是對此有些介意。」
+
+「真棒！」我說：「請繼續吧！」
 {{< /hint >}}
-
-In general, you can work with generalized answers and drill down to 
-specifics later—after all, it’s a classic trope of comic book fiction that characters’ 
-full backstories only really get fleshed out over time, through flashbacks and 
-whatnot. 
-
-That said, if you feel like you need more information from their answers, 
-their answers are probably non-specific, based on generalities, big loaded 
-terms, or ambiguous details. Drill down to specifics when you feel like you 
-need more information. When a player says, “My dad was a criminal,” ask 
-“What did he do? Why did he do it?” When a player says, “The city generally 
-thinks I’m pretty good,” ask “Why? What did you do that earned their trust? 
-What does it look like, that they think you’re pretty good? Action figures? 
-News reports?”
-
 
 ---
 ## 在第一次聚會期間
@@ -146,63 +89,44 @@ News reports?”
 * 經歷這個遊戲中大部分的機制（當然還有所有的基本動作）
 * 創造出你們漫畫中絕讚的第一個事件
 
-That first session, a fair amount of your time will be eaten up by character 
-creation. Usually, it takes about one or two hours if you’re asking questions and 
-exploring each character to get to your first scenes. 
+在第一次聚會，你們的時間會有相當大一部份都被角色創建的過程所吃掉。通常來說，如果你有在提問並探索每一個角色的話，那你們大約會花上一到兩個小時，才能開始你們的第一個場景。
 
-Once the characters are created, take a break and prepare a villain if you 
-don’t  have  one  already  (page  155).  Pull  in  a  villainous  character  they’ve 
-already set up, or create one tied into at least one PC—it’s important to have a 
-cool villain for an awesome opening sequence. Create a villain you’re excited 
-to show off!
+在創好玩家角色之後，稍微休息一下，如果你還沒有準備好反派的話，你也可以趁這個時候準備一個。
+抓出一個他們剛剛在創角過程中設定的反派、或者創一個至少與一名PC有關的新反派──為你們精彩的開幕場景準備一個酷炫反派可是很重要的，創造出一個能讓你期待炫耀一番的反派出來吧！
 
-Dive  right  in  with  an  opening  scene  that’s  all  about  a  fight.  Frame  it 
-evocatively as a comic book. Describe panels that show off different parts of 
-the city before zooming in on your chosen location for the fight. Then show 
-off the villain destroying something, causing mayhem, pursuing their drive. 
-Finally, go to each PC one at a time, and ask them how they enter the scene, 
-allowing them to play up how cool they are. Maybe let them make one move, 
-but keep this limited—you want to get all the PCs into the scene before any of 
-them start doing too much.
+用一個滿是精采打戲的場景做為開場，並用會讓人想到漫畫般的手法去分鏡。描述一個個的漫畫畫格是如何展現出這座城市的不同風貌，然後聚焦到你為了戰鬥而挑選的地點上。
+接著，展現出反派破壞了些什麼東西、造成了混亂、追尋他們動機。最後，逐一詢問PC們是如何進入場景的，讓他們盡情表現出自己最酷炫的那一面。也許你還可以讓他們進行一兩個動作，但有所節制──你會希望在任何一個人開始做太多事情之前讓所有PC都進入場景中的。
 
-Once they’re all in the scene, trigger when you enter battle against a 
-dangerous foe as a team (page 84) to prime the Team pool with some points 
-for them to use. Then go to town. Have an awesome, fun fight scene—but try 
-not to take up the rest of the session with it. Remember your villain’s drive: 
-they might try to run away if things turn against them. 
+當所有玩家都進入場景之後，觸發「以一整個團隊共同開始戰鬥來對抗危險敵人」的動作（參見「<a href='{{< relref path="docs/rules/the-moves/team-move" >}}'>團隊默契</a>」章節），為他們補充一些可用的團隊默契點數。然後開始盡情狂歡吧，來一場精彩有趣的戰鬥打戲──但試著不要讓它佔據整個聚會剩下來的時間。記住你反派的動機：如果情況對他們不利，他們很有可能會嘗試溜之大吉。
 
-Try to get to the aftermath of the fight, if at all possible. Shift to heroes 
-showing  up  and  judging  the  PCs’  performance;  to  the  PCs’  loved  ones 
-commenting  on  the  events  of  the  battle;  to  the  PCs  sharing  triumphant 
-celebrations or secrets and vulnerabilities, or comforting and supporting each 
-other. 
+試著去處理戰鬥後的餘波，如果可能的話。
+把場景切到其他英雄出場並批評PC們的表現；到PC的摯愛對戰鬥事件做出評論；到PC們共同慶祝勝利、互相傾訴秘密或弱點，或者彼此安慰和支持。
 
-If  possible,  you  want  your  first  session  to  hit  at  least  the  following 
-mechanics:
+如果可能的話，你會希望你的第一次聚會至少用到下列幾項機制：
 
-* Every basic move, including take a powerful blow, at least once
-* Label shifts and rejecting Influence
-* Conditions, taking them and removing them 
+* 觸發每個基本動作至少一次，包括〈承受沉重打擊〉
+* 調動標籤屬性 和 拒絕影響力
+* 狀態，施加並清除它們
 
-Here are some other key things you want to try to do in your first session:
-* Bring on the action
-* Build on character creation
-* Ask questions constantly
-* Call out moves when they happen
-* Offer moves when the players flinch
-* Frame scenes with multiple characters
-* Shift their Labels
-* Display the adaptations to the superhuman
-* Give them a chance to talk
+以下這些是你在第一次聚會期間會希望做到的其他重要事項：
+* 帶出動作場面
+* 基於創角要素去構築
+* 不斷提問
+* 在觸發動作時點出來
+* 當玩家退縮時給予動作的建議
+* 搭建有複數角色參與的場景
+* 調動他們的標籤屬性
+* 表現出社會對超人類存在的適應
+* 給他們交談的機會
 
-### BRING ON THE ACTION
+### 帶出動作場面 BRING ON THE ACTION
 A huge part of MASKS is superheroic action—explosions! Punches! Flying people! 
 Kirby crackle! Energy bolts! Since you’re opening with a big fight against a 
 villain, you should have plenty of opportunity to bring on that awesome action. 
 Take advantage of it. Play up the tension of it, and the fun of it. Keep the pace 
 up early, and slow it down after the action scene is over.
 
-### BUILD ON CHARACTER CREATION
+### 基於創角要素去構築 BUILD ON CHARACTER CREATION
 The more you reincorporate elements the players have introduced during 
 character creation, the better. You’ve got a limited time to do it, but make 
 connections and incorporations as best you can. When you need to include 
@@ -210,7 +134,7 @@ an endangered civilian, go for one of the NPCs introduced during character
 creation. When you need to include a villain, go for someone they’ve fought 
 before or have a relationship with. 
 
-### ASK QUESTIONS CONSTANTLY
+### 不斷提問 ASK QUESTIONS CONSTANTLY
 Never stop asking for more details throughout the whole first session. Any time 
 a question occurs to you about the fiction, ask it. “What happens to villains 
 after you paste them into the ground?” “Oh, have you ever done that with your 
@@ -219,7 +143,7 @@ downtown? Why wouldn’t she be running from the Blue Hydra?” Those details
 give you more to play within the setting, especially when you build arcs after 
 the first session.
 
-### CALL OUT MOVES WHEN THEY HAPPEN
+### 在觸發動作時點出來 CALL OUT MOVES WHEN THEY HAPPEN
 You’re trying to show off all the basic moves, so be on the lookout for instances 
 when a player triggers one of them. At the very start of play, the other players 
 will probably need a bit more help to pick out when they’re triggering a move 
@@ -228,7 +152,7 @@ to them, asking, “It sounds like you’re trying to _______, right?” If they
 to trigger a particular move, help them out by asking, “Cool! What does that 
 look like on the page?”
 
-### OFFER MOVES WHEN THE PLAYERS FLINCH
+### 當玩家退縮時給予動作的建議 OFFER MOVES WHEN THE PLAYERS FLINCH
 In general, don’t tell players what to do—leave their actions up to them. But 
 in this first session, offer some suggestions about moves they might make, 
 especially when they seem hesitant to commit. Always phrase it as a question, 
@@ -237,7 +161,7 @@ pushing this bus at you, do you think you’d want to just tear through it—may
 unleash your powers? Or maybe you want to slow her to a stop by defending 
 the people in the bus?”
 
-### FRAME SCENES WITH MULTIPLE CHARACTERS
+### 搭建有複數角色參與的場景 FRAME SCENES WITH MULTIPLE CHARACTERS
 Your opening scene is definitely going to include multiple characters—the 
 whole team should be in that initial fight. But as the fight ends, continue to 
 frame scenes with at least two PCs in them, if not more. Try not to have the 
@@ -246,14 +170,14 @@ front of another PC! It’s the first session, and you want to give them a chanc
 to interact with each other and trigger moves like defend someone or comfort 
 or support someone.
 
-### SHIFT THEIR LABELS
+### 調動他們的標籤屬性 SHIFT THEIR LABELS
 From the get-go, use the NPCs’ Influence over the PCs to try to shift their 
 Labels. Have the villain tell them who they are—”You’re nothing! You can’t 
 possibly stand up to me!” is a classic—and then make them accept or reject 
 that Influence. The earlier the players get used to the idea that other characters 
 can change their Labels, adjusting them up or down, the better.
 
-### DISPLAY THE ADAPTATIONS TO THE SUPERHUMAN
+### 表現出社會對超人類存在的適應 DISPLAY THE ADAPTATIONS TO THE SUPERHUMAN
 Show off Halcyon City’s superhuman side in this first session. Remind the 
 players of the past generations of superhumans with statues and monuments 
 around the city. Call out that people are probably used to these kinds of attacks, 
@@ -261,7 +185,7 @@ so they have drills and shelters. In the aftermath, describe the expert clean-
 up crews moving away rubble. Give the players a sense of place by putting 
 Halcyon City’s adaptations into your panels.
 
-### GIVE THEM A CHANCE TO TALK
+### 給他們交談的機會 GIVE THEM A CHANCE TO TALK
 Alongside  the  need to frame scenes with  multiple  characters  is  the  need 
 to actually let them interact with each other. Don’t try to make everything 
 about NPCs pushing at the PCs—let them bounce off one another. Prod 
@@ -273,15 +197,7 @@ team, so give the heroes some time to be a team.
 
 ---
 ## 在第一次聚會之後
-When you’re done with the first session, you’ll have a good idea of who these 
-characters are and what they’re interested in. You’ll have plenty of NPCs to play 
-with, and you’ll have backstories to draw on. Let these elements percolate, and 
-start asking yourself questions to draw them together. You’re going to use these 
-pieces to build your character issues, your hooks, and your arcs—see HOOKS AND 
-ARCS for more (see page 181).
+在你結束第一次聚會之後，你對於這些角色是什麼樣的人以及對什麼東西有興趣將會有一個比較明確的概念。你將會有好幾個可以扮演的NPC、你也有他們的背景故事可以借鑑。
+讓這些元素醞釀，並對你自己提問來把它們整合在一塊。你將要使用這些元素來構築你們角色的問題、你們的引鉤、以及你們的故事弧──參見「<a href='{{< relref path="docs/rules/the-hooks-and-arcs/about" >}}'>引鉤與故事弧</a>」章節以查看更多內容。
 
-Remember that you’re not about to come up with the full plot for the next 
-few sessions—you’re creating the tools that will help you structure the next 
-sessions, but you’re always going to play to find out what happens and what 
-changes.
-
+記住，你沒有要想出接下來幾次聚會的完整故事情節──相反的，你在創造的是能夠協助你架構下幾次聚會內容的工具；你永遠必須用玩的來看看會發生什麼事。

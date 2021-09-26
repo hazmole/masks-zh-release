@@ -21,8 +21,10 @@ weight: 100
 #### 英雄
 * Bryce Brilliant : 輝煌布萊斯
 * Champion : 英勇俠
+* Fastball : 快球俠
 * Golden Girl : 黃金女孩
 * Mantis : 螳螂女
+* Red Eagle : 赤鷹
 * The Cast-Iron Man : 鑄鐵人
 * The Haunt : 鬼影
 * Silver Savior : 白銀救星
