@@ -3,7 +3,7 @@ title: 創造與使用故事弧
 weight: 3
 ---
 
-## CREATING ARCS
+## 創造故事弧
 The plans of villains and antagonists in Halcyon City are sometimes as simple 
 as, “Rob a bank!” “Steal a McGuffin!” But the PCs also have to save the city 
 from grander, more dangerous, more dramatic threats, problems that span 
@@ -21,21 +21,22 @@ might bring to fruition—how they might change the city. They’re a way for
 you to track what the big, overarching difficulties in the city are, and what you 
 should be drawing on for future sessions. 
 
-To build an arc, follow these steps:
-* Choose an arc type 
-* Build out the cast 
-* Fill in the phases 
-* Create custom moves (optional) 
-* Give it a name and description
+
+遵循下列步驟來創造故事弧：
+* 選擇一個故事弧類型
+* 組建演員陣容
+* 填寫階段
+* 編寫自訂動作（可選）
+* 給它一個名稱和描述
 
 
-### CHOOSE AN ARC TYPE
-There are 5 kinds of arc you could make:
-* Corruption — something good, positive, or helpful is made dangerous and threatening 
-* Invasion — threats and enemies fight their way into control 
-* Restriction — those with power place constraints on those without 
-* Destruction — threats and enemies break and destroy what stands in their way 
-* Restoration — the heroes push to repair what damage has been done 
+### 選擇故事弧類型
+你總共有五種故事弧類型可以選擇：
+* 墮落 — something good, positive, or helpful is made dangerous and threatening 
+* 侵略 — threats and enemies fight their way into control 
+* 限制 — those with power place constraints on those without 
+* 毀滅 — threats and enemies break and destroy what stands in their way 
+* 復興 — the heroes push to repair what damage has been done 
 
 Each arc type comes with several subtypes to further define exactly what 
 the arc is about and to give it an impulse—an overarching tendency for the 
@@ -43,8 +44,9 @@ arc, a way to understand where the arc is heading. Arcs also come with their
 own moves, which you can make any time you could make any other kind of 
 move, to push an arc further along its particular issues.
 
+<div class='Move'>
 
-#### CORRUPTION 
+#### 墮落 CORRUPTION 
 Corruption  arcs  are  subtle  and  dangerous.  They  undermine  the  good  of 
 Halcyon City, turning friends to foes, heroes to villains, hope to fear. 
 
@@ -65,10 +67,9 @@ Halcyon City, turning friends to foes, heroes to villains, hope to fear.
 Corruption arcs almost always involve at least some cast members acting 
 as the corruptors and some acting as the corrupted. The transition is never 
 immediate—the PCs get to see the change. 
+</div><div class='Move'>
 
-
-
-#### INVASION 
+#### 侵略 INVASION 
 Invasion arcs are about dangerous forces seizing useful or desirable resources 
 for themselves. Invaders are hoping to take control of something by force, not 
 aiming to destroy it. You can’t control something that’s destroyed. 
@@ -90,10 +91,9 @@ aiming to destroy it. You can’t control something that’s destroyed.
 Invasion arcs can be subtle or direct, depending on the situation and the 
 invaders. Sometimes, aliens pour from a portal over the city...other times, they 
 shapeshift and secretly infiltrate important agencies. 
+</div><div class='Move'>
 
-
-
-#### RESTRICTION 
+#### 限制 RESTRICTION 
 Restriction arcs are about powers exerting their might to lock down the heroes 
 and others in the city. Restriction arcs tighten around the PCs, trapping them 
 into rules and situations in which they’re supposed to be unable to take action. 
@@ -117,10 +117,9 @@ PCs, be they superhero teams, corporations, or law enforcement agencies. Play
 up the inexperience and youth of the PCs during a restriction arc—this is the 
 quintessential “parents laying down a new curfew” arc, but at a superheroic 
 level.
+</div><div class='Move'>
 
-
-
-#### DESTRUCTION 
+#### 毀滅 DESTRUCTION 
 Destruction arcs are about breaking pieces of the world. They’re always about 
 destroying some specific thing, not everything. Everyone at the table knows 
 that if Halcyon City explodes then the game would be over. An individual 
@@ -147,10 +146,9 @@ destruction—not what is doing the destroying.
 Always tie destruction arcs strongly to the human motivations of the 
 villains and antagonists involved. The destruction they seek is always strangely 
 justified to them; it’s not a real arc if they’re just doing it for fun. 
+</div><div class='Move'>
 
-
-
-#### RESTORATION 
+#### 復興 RESTORATION 
 Restoration arcs are about fixing damage, healing wounds, and making the 
 world right again. Often they’re about cleaning up the mess of another arc. 
 Note that some of these subtypes are callbacks to other types of arcs. If 
@@ -173,7 +171,7 @@ calling on the relevant subtype here.
 The PCs may want to restore things on their own, but always have NPCs 
 looking to restore pieces of the world. The methods NPCs choose to fulfill their 
 restoration plans will still put them at odds with the PCs.
-
+</div>
 
 ### BUILD OUT THE CAST
 Once you’ve chosen what kind of arc you’re assembling, fill out the cast, a list of 
@@ -266,7 +264,7 @@ enough that you can use them at your table and know what they’re about.
 
 
 ---
-## HOW TO USE ARCS
+## 如何使用故事弧
 Your arcs provide you with a framework to help guide what moves you make 
 and what actions your NPCs take. When you’re at a loss, look down at your 
 arcs for some guidance. You can always make arc moves when appropriate, 
@@ -284,11 +282,11 @@ then the whole arc should resolve. Reassess the current state of the city, and
 between sessions, build a new arc. 
 
 ---
-## SAMPLE ARC
+## 範例故事弧
 
-**Name**:  The Future Perfect
+**名稱**:  The Future Perfect
 
-**Type**:  Invasion (time travelers)
+**類型**:  Invasion (time travelers)
 
 **Impulse**:  To control the actions of predecessors
 

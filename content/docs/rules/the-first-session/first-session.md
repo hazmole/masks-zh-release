@@ -113,86 +113,45 @@ weight: 1
 * 基於創角要素去構築
 * 不斷提問
 * 在觸發動作時點出來
-* 當玩家退縮時給予動作的建議
+* 當玩家畏縮時給予動作的建議
 * 搭建有複數角色參與的場景
 * 調動他們的標籤屬性
-* 表現出社會對超人類存在的適應
+* 表現出社會對超人類的適應
 * 給他們交談的機會
 
-### 帶出動作場面 BRING ON THE ACTION
-A huge part of MASKS is superheroic action—explosions! Punches! Flying people! 
-Kirby crackle! Energy bolts! Since you’re opening with a big fight against a 
-villain, you should have plenty of opportunity to bring on that awesome action. 
-Take advantage of it. Play up the tension of it, and the fun of it. Keep the pace 
-up early, and slow it down after the action scene is over.
+### 帶出動作場面
+《蒙面少俠》中有很大部分是在描寫超級英雄的動作戲──爆炸！重拳！翱翔天際！火花紛飛！能量束四射！
+由於你的開場將會是一場與反派的大戰，你應該會有很多機會能夠帶出這類酷炫驚奇的動作場面。
+善加利用這點，營造出緊張、刺激、以及樂趣。在一開始加快節奏，然後等到動作場景結束後再放慢腳步。
 
-### 基於創角要素去構築 BUILD ON CHARACTER CREATION
-The more you reincorporate elements the players have introduced during 
-character creation, the better. You’ve got a limited time to do it, but make 
-connections and incorporations as best you can. When you need to include 
-an endangered civilian, go for one of the NPCs introduced during character 
-creation. When you need to include a villain, go for someone they’ve fought 
-before or have a relationship with. 
+### 基於創角要素去構築
+把玩家在創角過程中拋出的要素融入得越多越好。你的時間有限，但去盡可能地把它們關聯整合起來。
+當你需要讓一個陷入危機的市民登場時，使用他們在角色創建過程提到的其中一個NPC。
+當你需要往故事加入一名反派的時候，就去找一個曾經與他們交手過或有其他關係的人物。
 
-### 不斷提問 ASK QUESTIONS CONSTANTLY
-Never stop asking for more details throughout the whole first session. Any time 
-a question occurs to you about the fiction, ask it. “What happens to villains 
-after you paste them into the ground?” “Oh, have you ever done that with your 
-powers before? Did you know you could?” “Why would your mom be here, 
-downtown? Why wouldn’t she be running from the Blue Hydra?” Those details 
-give you more to play within the setting, especially when you build arcs after 
-the first session.
+### 不斷提問
+永遠不要在第一次聚會期間停下追問更多細節的動作。每當你對故事產生疑問，立刻提問。
+「在你把反派們埋進地面之後會發生什麼事？」「噢，你以前曾經用你的超能力做過這件事嗎？你知道你能辦到嗎？」「為什麼你媽媽會在市中心這裡？她為什麼不從湛藍海德拉身邊逃走？」這些細節將提供你更多的設定去發揮，尤其當你在第一次聚會結束後需要建立故事弧的時候更是如此。
 
-### 在觸發動作時點出來 CALL OUT MOVES WHEN THEY HAPPEN
-You’re trying to show off all the basic moves, so be on the lookout for instances 
-when a player triggers one of them. At the very start of play, the other players 
-will probably need a bit more help to pick out when they’re triggering a move 
-or to determine which move they’re triggering. Model it early and call it out 
-to them, asking, “It sounds like you’re trying to _______, right?” If they want 
-to trigger a particular move, help them out by asking, “Cool! What does that 
-look like on the page?”
+### 在觸發動作時點出來
+你在嘗試展示出所有的基本動作，因此請特別留意玩家們觸發任何動作的時機。在遊戲剛開始的時候，其他玩家可能會需要更多的提醒才會知道他們在什麼時候觸發了動作，或觸發了哪一個動作。盡早把模式建立起來，並把它點出來，詢問他們：「聽起來你是打算要_______，對嗎？」如果他們想觸發某個特定動作，透過詢問來幫助他們：「酷！這在畫面上看起來會是什麼樣子？」
 
-### 當玩家退縮時給予動作的建議 OFFER MOVES WHEN THE PLAYERS FLINCH
-In general, don’t tell players what to do—leave their actions up to them. But 
-in this first session, offer some suggestions about moves they might make, 
-especially when they seem hesitant to commit. Always phrase it as a question, 
-based on the fiction—”Toro, you’re super strong, right? When Rampage is 
-pushing this bus at you, do you think you’d want to just tear through it—maybe 
-unleash your powers? Or maybe you want to slow her to a stop by defending 
-the people in the bus?”
+### 當玩家畏縮時給予動作的建議
+一般來說，不要指示玩家該做些什麼──讓他們自己去決定該採取什麼行動。但在第一次聚會時，你可以提供他們一些建議，尤其是當他們看起來猶豫不決的時候，讓他們知道這裡或許能夠進行什麼動作。永遠以問句的形式表達，並根據敘事來建議──「酷牛姊，妳有著超級怪力，對吧？當蠻暴推著公車往你身上撞過來的時候，妳覺得妳會想要直接把它扯成兩半──也許〈釋放你的力量〉？或者妳想透過〈保衛某人〉來保護公車上的人們，硬是把她衝撞過來的力道抵銷停下？」
 
-### 搭建有複數角色參與的場景 FRAME SCENES WITH MULTIPLE CHARACTERS
-Your opening scene is definitely going to include multiple characters—the 
-whole team should be in that initial fight. But as the fight ends, continue to 
-frame scenes with at least two PCs in them, if not more. Try not to have the 
-PCs splinter into solo scenes. If the Protégé’s mentor berates them, do it in 
-front of another PC! It’s the first session, and you want to give them a chance 
-to interact with each other and trigger moves like defend someone or comfort 
-or support someone.
+### 搭建有複數角色參與的場景
+你的開幕場景肯定會包含好幾個角色──整個團隊都應該要在最初的戰鬥中登場。但隨著戰鬥結束，試著繼續搭建至少有兩個PC登場的場景。盡量不要讓PC單獨分散到不同的場景中。如果「門徒」的導師要指責他的話，就讓他在另一個PC的面前這麼做！這是你們的第一次聚會，你會需要給他們一個互相交流的機會，並觸發諸如〈保衛某人〉或〈安慰或支持某人〉之類的動作。
 
-### 調動他們的標籤屬性 SHIFT THEIR LABELS
-From the get-go, use the NPCs’ Influence over the PCs to try to shift their 
-Labels. Have the villain tell them who they are—”You’re nothing! You can’t 
-possibly stand up to me!” is a classic—and then make them accept or reject 
-that Influence. The earlier the players get used to the idea that other characters 
-can change their Labels, adjusting them up or down, the better.
+### 調動他們的標籤屬性
+從最一開始就要使用NPC對PC們的影響力來嘗試調動他們的標籤屬性。讓反派對他們說他們是什麼樣的人──「你什麼都不是！你不可能對抗我！」就是一個經典的例子──然後讓他們決定要接受還是拒絕這個影響。讓玩家去習慣其他角色能夠上下調動他們標籤屬性的事實，越早習慣越好。
 
-### 表現出社會對超人類存在的適應 DISPLAY THE ADAPTATIONS TO THE SUPERHUMAN
-Show off Halcyon City’s superhuman side in this first session. Remind the 
-players of the past generations of superhumans with statues and monuments 
-around the city. Call out that people are probably used to these kinds of attacks, 
-so they have drills and shelters. In the aftermath, describe the expert clean-
-up crews moving away rubble. Give the players a sense of place by putting 
-Halcyon City’s adaptations into your panels.
+### 表現出社會對超人類的適應
+在第一次聚會期間，表現出神翠市中屬於超人類的那一面。利用城市周圍的雕像和紀念碑來提醒玩家們關於歷代超人類的存在。點出人們或許已經習慣了這一類的恐怖襲擊，因此他們或許會有防災演習和避難所之類的事實。在戰鬥塵埃落定之後，描述專業的清掃大隊搬走瓦礫殘骸的情景。透過把神翠市適應了超人類存在的證據放到你的鏡頭內，讓玩家們產生出對這個地方的場所感。
 
-### 給他們交談的機會 GIVE THEM A CHANCE TO TALK
-Alongside  the  need to frame scenes with  multiple  characters  is  the  need 
-to actually let them interact with each other. Don’t try to make everything 
-about NPCs pushing at the PCs—let them bounce off one another. Prod 
-them sometimes—suggest ways they might clear conditions by messing with 
-each other, or suggest moves they might make in their interactions with each 
-other—but let them just have some time to interact directly. MASKS is about the 
-team, so give the heroes some time to be a team.
+### 給他們交談的機會
+除了需要搭建有複數角色登場的場景之外，你還需要讓他們確實能彼此互動。
+不要總是讓NPC推動PC前進──讓PC們互相碰撞。有時候，煽動他們──暗示他們可以透過招惹彼此來清除身上的狀態──或者，提醒他們在彼此互動的時候或許可以進行哪些動作──但真正的重點是，留給他們一些能夠直接與彼此互動的時間。
+《蒙面少俠》是一款關於團隊的遊戲，因此給英雄們一些時間，讓他們能真正成為一個團隊。
 
 
 ---
