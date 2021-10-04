@@ -33,3 +33,5 @@ bookToC: false
 *  少年悍將 Teen Titans (原創卡通網路影集, 以及 漫畫 by Marv Wolfman 和Geoff Johns 發行的版本)
 *  驚奇女士 Ms. Marvel (by G. Willow Wilson & Adrian Alphona)
 *  金鋼狼與X戰警 Wolverine and the X-Men (by Jason Aaron & Chris Bachalo)
+
+<u>翻譯：Hazmole、老貓</u>

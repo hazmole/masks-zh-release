@@ -37,7 +37,9 @@ weight: 100
 * Blue Hydra : 湛藍海德拉
 * Blood Opal : 血腥歐泊
 * Captain Coldheart : 寒心上尉
+* Carceri : 卡瑟利
 * Carlo the Assassin : 刺客凱洛
+* Cuckoo : 杜鵑
 * Cygnus : 天鵝座
 * Deadly Devil : 致命魔鬼
 * Doctor Chaotix : 混亂博士
@@ -45,6 +47,7 @@ weight: 100
 * Dread Queen : 恐怖女王
 * Fanboy : 狂粉男孩
 * Farlander : 外境怪客
+* Gehenna : 基埃納
 * Gorfomoth : 葛戈魔斯
 * Ilijah Intrepid : 以利亞．因特毗
 * Kalka the Bloodhewn : 血鑿之卡爾卡
@@ -61,6 +64,7 @@ weight: 100
 * Scarlet Songbird : 猩紅鳴鳥
 * Shell : 鋼殼
 * Source Code : 源碼駭客
+* Solace : 撫慰者
 * Spider : 蜘蛛老大
 * Stone Titan : 岩石泰坦
 * Teacher : 「老師」
@@ -76,7 +80,7 @@ weight: 100
 * A.E.G.I.S : 神盾局（調停維安專門特派局）
 * Crystal Corp : 水晶公司
 * Exemplar : 典範者
-* Rook Industries: 盧克工業
+* Rook Industries: 盧克企業
 * VENOM : 猛毒幫
 
 #### 物品
