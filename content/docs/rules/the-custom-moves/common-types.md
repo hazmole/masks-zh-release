@@ -3,13 +3,13 @@ title: 常見自訂動作類型
 weight: 3
 ---
 
-## COMMON CUSTOM MOVE TYPES
+## 常見自訂動作類型
 Between sessions, you can create custom moves for nearly any use. Here are some
 of the most common places where custom moves are useful and interesting.
 Remember that if you take advantage of any of these opportunities, you shouldn’t
 hide it—make sure the players know, so they can use these moves!
 
-#### SITUATIONS
+### 情境
 Custom moves are great for filling in specific holes in your game. If there’s a
 situation that seems interesting and uncertain, but none of the basic moves
 quite cover it, that’s a good sign you should add a custom move. Superhero
@@ -17,14 +17,14 @@ stories can span vastly different genres and styles, including all kinds of craz
 elements, so don’t hesitate to come up with new custom moves to deal with
 those surprising situations.
 
-### ITEMS
+### 物品
 MASKS is a game of superhero stories, and superhero stories are chock-a-block
 full of MacGuffins and crazy super science doodads and fantasy artifacts.
 Making custom moves for these objects gives them greater importance in your
 game, and genuinely makes them more significant than just being things that
 everybody’s after.
 
-### POWERS AND ABILITIES
+### 超能力和異能
 Especially when PCs pick up unique or additional powers, a custom move may
 be in order. MASKS covers a lot of ground with fictional positioning, but custom
 moves can draw out important and specific powers. This doesn’t just have to
@@ -32,68 +32,63 @@ be superhuman powers—if the Beacon connects with an Internet community
 of other would-be superheroes, then giving them a custom move to use that
 network is a great idea.
 
-### FRAMING SCENES
+### 構築場景
 You can use custom moves to frame scenes quickly and skip past some of
 the action. For instance, if the PCs might infiltrate the superhuman prison
 known as the Spike, instead of spending time making several individual rolls
 to unleash powers or assess the situation, you could make a custom move that
 accounts for the whole infiltration in a single roll.
 
-### LOVE LETTERS
-When a player misses a session and you want to catch them up, or when you
-want to start some conflicts fast and hard, love letters are what you’re looking
-for. Love letters give more information and setup than regular custom moves,
-and they can quickly and easily resolve cliffhangers.
+### 情書
+當玩家錯過遊戲聚會而你想要讓他們跟上進度、或當你想要快速強硬地開始一些衝突場景時，「情書」就是你最好的選擇。情書能夠提供比一般自訂動作更多的訊息和設置，且它們能更快速容易地處理故事懸念。
 
-##### LOVE LETTER EXAMPLE
+##### 情書範例
 <div class='Move'>
-Dear Sureshot,
-When last we left you, you’d fallen off that crevasse in the Other Realm and
-disappeared into the darkness. Man, that must’ve sucked, right?
-Let’s find out how you’re doing here. For better or worse, this is all about your
-skills, your abilities...the special things you can do. Roll + Freak. On a 10+, you’re
-banged up, but you’re still pretty operational, and you can reconnect to your team
-soon. On a 7-9, mark two conditions, but you’re still up and moving. On a miss, you’re
-in deep trouble. Mark any conditions you didn’t already have marked. Your body’s
-pretty broken, and if you don’t get real help soon, you may not make it back home.
-Best of luck, buddy. You’ll need it.
-Hugs and kisses,
-Your GM
+親愛的 神射手：
+
+在上次我們離開你的時候，你掉進了異界裂縫並消失在黑暗之中。老兄，這肯定糟透了，對吧？
+
+讓我們來看看你在那裡過的怎麼樣。無論好壞，這全都得指望你的技巧、能力……以及你能做到所有特別的一切。擲<b>+古怪</b>。
+
+<tag>擲出10+時</tag>, 你受了點傷，但行動並沒有大礙，且你很快就能重新和你的團隊會合。<br/>
+<tag>擲出7-9時</tag>，標記二個狀態，但你仍然能夠行動。<br/>
+<tag>若失敗</tag>，你深陷危機。標記所有你還沒有標記的狀態。你的身體狀況相當糟糕，且如果你不盡快得到真正的幫助，那麼你很可能無法活著回去。
+
+祝好運，夥計，你會需要它的。
+
+最親愛的,<br/>
+你的GM
 </div>
 
-You can use love letters to immediately set up the situation, too. This is
-great for when you’re running MASKS as a single session one-shot game, instead
-of a campaign.
+你也可以使用情書來立即設置出故事情境。當你打算把《蒙面少俠》運行成只持續一場聚會的單發團，而非跨越好幾次聚會的戰役時，這會是相當合適的手段。
 
 <div class='Move'>
-Dear Toro,
-Make your character like normal, but your starting role for The Bull’s Heart is
-Defender.
-You don’t know your real name. You don’t really know where you’re from. You
-might be from a test tube. You might be an amnesiac. You might be a clone, or a secret
-robot, or any of countless options. Some part of you doesn’t want to find out...but
-some other part needs to know.
-The guys in black armor with the weird glowing guns, they’ve come for you a
-few times. This most recent attack was the worst, though. You’re pretty sure they pull
-their punches—they’re trying to take you alive, not kill you—but this time, they let
-’er rip against the city and people around you. Seems they’ve figured out you actually
-care if people get hurt...
-Let’s find out exactly what happened. Roll + Danger. On a 10+, choose two. On
-a 7-9, choose one.
-• you took ’em down quick, and few people were hurt—shift Savior up and any
-other Label down, if you want
-• you caught one and scared him into talking—a first for you, but you’ve got a
-lead on who sent these goons
-• you didn’t let them get to you; if you don’t choose this option, mark Angry
-On a miss, it was bad. You won, but people were hurt...and they planted a tracer
-on you. Which you’re only finding now. Right as they’re coming for you. Mark Angry
-and one other condition of your choice.
-Hope you can handle them!
-Hugs and kisses,
-Your GM
+親愛的 酷牛姐：
+
+如常創建你的角色，但你〈蠻牛之心〉的起始角色身分為【保衛者】。
+
+你並不知道你真正的名字叫什麼。你也不清楚你來自何方。你可能是從實驗試管中誕生；你可能患了失憶症；你或許是個克隆體、是個秘密機器人、或種種數不盡的可能。你心中有一部份的你並不想要找出答案……但另一部份卻渴望知道真相。
+
+那些帶著怪異光線槍，穿著黑色裝甲的傢伙們，他們來找你好幾次了。而最近這一次襲擊的結果尤其糟糕。你很確定他們動真格了──他們打算活捉你，而不是殺你──但這一次，他們對著這座城市和你身邊的人們伸出了魔爪。看起來他們已經知道你其實很在意是否有人受傷……
+
+讓我們來看看究竟發生了什麼事。擲<b>+危險</b>。
+
+<tag>擲出10+時</tag>, 選擇二項。<br/>
+<tag>擲出7-9時</tag>, 選擇一項。<br/>
+
+- 你很快打倒了他們，受傷的人很少──若你希望，提升你的救助屬性，並降低任意其他標籤屬性。
+- 你抓住了其中一個傢伙，並威嚇他開口──這對你來說是頭一遭，但你終於有了一個關於幕後黑手的線索。
+- 你沒有讓他們影響到你；如果你沒有選擇這個選項，則你標記憤怒狀態。
+
+<tag>若失敗</tag>, 糟糕透頂。你贏了，但人們受了傷……他們還趁機在你身上放置了追蹤器，而你一直到現在，當他們再次衝著你來的時候，你才發現這件事！標記憤怒和另一個你選擇的狀態。
+
+希望你能夠好好應付他們！
+
+最親愛的,<br/>
+你的GM
 </div>
 
-## SPIN-OFFS
+## 更進一步
 There are tons of custom moves you can make to hone and focus your game
 of MASKS—the game is a framework that’s plenty strong enough to manage your
 permutations. But you can push it hard, too, creating custom moves that really
@@ -103,15 +98,15 @@ Here are a few examples of some big changes you can make with custom
 moves in MASKS.
 
 <div class='Move'>
-SPENDABLE INFLUENCE
-When you take Influence over someone, hold the token. You can hold multiple Influence
-tokens over the same character. Spend your Influence when you choose to:
-• take +1 on a move against that character
-• inflict a condition on that character
-• ask that character a question; they must answer honestly
-• (for PCs) shift that character’s Labels, one up and one down
-• (for PCs) offer that character the chance to mark potential if they do what you want
-• (for PCs) give that character -2 on a move against you
+<h4>可消耗的影響力</h4>
+
+當你獲得對某人的影響力時，拿取一個代幣。你可以拿取多個對同一個角色的影響力代幣。你可以消耗你的影響力代幣以：
+- 對該角色進行的動作獲得+1加值
+- 對該角色造成一個狀態
+- 詢問該角色一個問題；他必須誠實回答
+- (對PC) 調動該角色的標籤屬性：提升一個，降低一個
+- (對PC) 提供該角色標記潛能的機會：如果他按你所說的去做，則他標記一點潛能
+- (對PC) 讓該角色在對你進行的動作中承受-2減值
 </div>
 
 This change will have repercussions all over the system, so if you go with
@@ -122,13 +117,11 @@ emotional manipulation and leverage—most likely, a game with these rules
 would be darker and more cynical.
 
 <div class='Move'>
-CUSTOM CONDITIONS
-When you take a condition, write down a word or short phrase to represent the
-emotional state afflicting you. When that condition would impede you, take -1 to any
-moves you make. When another PC can take advantage of your condition, they take +1 to
-any moves they make against you. They really have to take advantage of your condition
-in the fiction to get the bonus, though.
-If you take appropriate action in the fiction to relieve your condition, you can clear it.
+<h4>自訂狀態</h4>
+
+當你獲得狀態時，寫下一個詞或短語來表現這個折磨著你的情緒狀態。當你進行任何動作時，若這個狀態會阻礙你，則你承受-1減值。當其他PC能夠利用你的狀態，則他們在對你進行任何動作時都將獲得+1加值，然而，他們必須真的能在敘事中利用你的狀態才能獲得這個好處。
+
+如果你在故事中採取了適當的行動來舒緩你的狀態，則你可以將它清除。
 </div>
 
 Custom conditions allow for a much wider array of descriptions of
@@ -139,7 +132,8 @@ the condition does or doesn’t matter, and you lose the clear path to removing
 the condition.
 
 <div class='Move'>
-HARM
+<h4>傷害軌</h4>
+
 Characters start play with varying numbers of boxes in their harm tracks. PCs always
 have six. NPCs have a number equal to their conditions.
 When you trade blows with an NPC, inflict one harm on them. As one of your choices
@@ -162,12 +156,13 @@ line, and Danger takes on a much greater significance as beating enemies into
 submission becomes a much more straightforward and effective tactic.
 
 <div class='Move'>
-FASTER ADVANCEMENT
-At the end of each session, answer the following three questions. For each yes, mark
-potential.
-• Did we beat a dangerous enemy?
-• Did we learn more about a threatening plot?
-• Did we connect with each other as a team?
+<h4>更快的成長發展</h4>
+
+在每次聚會結束時，回答下列三個問題。每有一個「是」的回答，就標記一點潛能。
+
+- 我們是否打敗了一個危險的敵人？
+- 我們是否理解了更多關於某個迫近陰謀的情報？
+- 我們是否像一個團隊一樣彼此連結？
 </div>
 This kind of change may seem pretty small, ultimately, but it plays into
 many of the other economies and balances of MASKS. PCs advance much more
@@ -183,7 +178,8 @@ down particular paths much more strongly, and ensure PCs reach their upper
 level advances much sooner.
 
 <div class='Move'>
-TEAM STAT
+<h4>團隊值</h4>
+
 The team as a whole gains a Team stat, and a Team track with five boxes.
 Your Team stat starts the game at +0. Your Team stat can never go higher than +3
 or lower than -2.
