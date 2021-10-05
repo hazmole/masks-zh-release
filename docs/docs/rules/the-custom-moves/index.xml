@@ -16,9 +16,34 @@
 不過除了這些核心要素之外，你還需要確保任何你所編寫的自訂動作都能達成這兩個要求：
 觸發條件是一個有趣且具有不確定性的行動 會導致一個能推動故事發展的結果 觸發條件
 #
-The key to making good triggers is that the actions themselves need to be interesting and exciting, and only likely to occur when there’s actual uncertainty about what will happen. You don’t want triggers based on boring actions, and you don’t want triggers that come up too often.</description></item><item><title>常見自訂動作類型</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-custom-moves/common-types/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-custom-moves/common-types/</guid><description>COMMON CUSTOM MOVE TYPES
+撰寫一個好的觸發條件的重點在於其行動本身就要足夠有趣、刺激、且通常只會發生在我們確實不確定接下來會發生什麼事的時候。 你不會希望觸發條件是基於無聊的行動，也不會想看到這個觸發條件發生的太過頻繁。
+下面這個動作是一個有著糟糕觸發條件的例子：
+當你對成年人說謊時時，擲+優越。
+擲出10+時，他們會相信你的謊言。 擲出7-9時，只要回答他們的幾個問題，你就會沒事。 若失敗，他們看穿了你……現在你有麻煩了。
+這個觸發條件太不明確，以至於PC們會相當頻繁地觸發它。就算情況一點也不有趣，或甚至在大人們百分之百會相信他們的謊言時也一樣。 它本身既沒有感染力，也無法把故事導向有趣的發展。如果這個觸發條件能更集中在某個特定的情境上，比如說「當你把虛假情報告知典範者時」，那它就能達成更強的效果。
+下面這個動作就有著比較好的觸發條件：
+當你對著鏡頭發表聲明時，擲+優越。
+擲出10+時，選擇三項。 擲出7-9時，選擇二項。
+你說服了觀眾們以一個你所選擇的標籤屬性來看待你們的團隊 你的聲明會為你帶來一個來自觀看者的機會 你的聲明將你塑造成了一個成功、且值得關注的英雄；標記一點潛能 你的聲明並不會激怒或惹惱任何重要或強大的人物 若失敗，你的聲明出了差錯，且聽眾們會以最糟糕的方式解讀你的話語。
+如你所建，這個觸發條件是關於一個特定具體，且不會總是在發生的情境。它也表現出了一些你們遊戲的面相──你的遊戲，起碼其中一部份，會是關於你的PC們對這座城市的公眾發話。而最後，這個觸發條件確實蘊含著不確定性。我們並不清楚當你的其中一名PC在鏡頭前發表聲明時會發生什麼事，而這也正是為什麼我們設計了這個動作。
+常見的觸發條件類型
+#
+角色行動: 這類動作會在角色採取某個行動時被觸發。 要把動作寫好，請務必把這個行動與某個具體特定的事項掛勾──比如說在某個特定的場所、針對某個特定的角色、使用某個特定的物品，諸如此類。
+〈超腦博士的頭盔〉
+當你戴上全知頭盔並用心靈感應尋找某人時，擲+古怪。
+若成功，你得知他確切的位置以及現在正在做的事情。 擲出7-9時，這股心靈聯繫的力量比你預期還要強烈；讓他獲得對你的影響力、或你標記一個狀態，由你決定。
+若失敗，你找到了對方，但你也同時讓超腦博士注意到了你的位置；做好準備。
+情境: 這類動作會在玩家身處於特定情境時被觸發，通常這會是因為某個NPC或環境採取了行動而導致的。不過，PC仍然必須要處於現場或被捲入其中才能觸發這類動作。
+〈獵犬〉
+當特工赫許用她的超人類探測器找尋你的下落時，擲+平凡。
+若成功，如果你現在逃離，你就不會被偵測到。
+擲出10+時，你搶先特工赫許一步──你可以埋伏她、或者讓她就這麼離開，由你決定。
+若失敗，她們當場逮到了你。
+從此以後: 這類動作會在你取得它們的時候觸發，且它們的效果會不斷持續作用。它們不需要任何詳實的觸發條件。
+〈新典範者〉
+（當你取得這個動作且從此之後……）簽署合同並加入典範者團隊。</description></item><item><title>常見自訂動作類型</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-custom-moves/common-types/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-custom-moves/common-types/</guid><description>常見自訂動作類型
 #
 Between sessions, you can create custom moves for nearly any use. Here are some of the most common places where custom moves are useful and interesting. Remember that if you take advantage of any of these opportunities, you shouldn’t hide it—make sure the players know, so they can use these moves!
-SITUATIONS
+情境
 #
-Custom moves are great for filling in specific holes in your game.</description></item></channel></rss>
+Custom moves are great for filling in specific holes in your game. If there’s a situation that seems interesting and uncertain, but none of the basic moves quite cover it, that’s a good sign you should add a custom move.</description></item></channel></rss>
