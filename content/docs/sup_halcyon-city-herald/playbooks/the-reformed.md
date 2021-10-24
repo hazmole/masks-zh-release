@@ -6,8 +6,8 @@ weight: 1
 # 改邪歸正者 The Reformed
 
 <div class="playbookDesc">
-	Villainy used to be a way of life for you. Then you saw just what your selfishness and hate created.
-	The supervillain life is hard one to quit. But you know this best: sometimes the villain needs saving too.
+	邪惡兇行曾經是你的生活方式。然後，你看到了你自私和仇恨所創造的一切。
+	超級反派的生活是如此難以放棄，但你最清楚這一點：有時候，壞人也需要被拯救。
 </div>
 
 {{< details title="如何扮演改邪歸正者" >}}
@@ -75,80 +75,78 @@ ask for favors from those networks. It also allows you to ask for help from peop
 
 * 男性, 女性, 模稜兩可, 性別認同轉變, 性別越界
 * 亞洲或南亞裔, 黑人, 西班牙/拉丁美洲人, 印地安人, 中東人, 白人
-* sad eyes, technicolor eyes, shadowy eyes, gorgeous eyes
-* conservative clothes, school uniform, concealing fashion, expensive fashion
-* tattered costume, normal clothes, sleek costume, regal costume
+* 哀傷的眼神, 鮮豔的眼神, 幽暗的眼神, 愉快的眼神
+* 保守的服裝, 學校制服, 低調時尚, 昂貴時尚
+* 破舊的英雄服, 普通的服裝, 時髦的英雄服, 堂皇的英雄服
 
 ## 超能力
 <div class="Instructions">
-You’re young, but you’ve been around for a few years before switching teams. You know how to
-fight, but you’re known for one ability more than any other. Choose one.</div>
+你很年輕，但你在加入隊伍之前已經有過數年的經驗了。你清楚戰鬥的方式，但你的其中一個超能力比其他更為人知。選擇一項。</div>
 
-* poison, venom, or acid control
-* weapons and martial expertise
-* ferrokinesis
-* vitality absorption
-* fear manipulation
-* geokinesis
+* 毒液、毒素、或酸液控制
+* 武器和武器專精
+* 礦鐵控制
+* 生命力吸收
+* 操控恐懼
+* 御土
 
 ## 標籤屬性
 <div class="Instructions">在創建角色時，自行選擇一個標籤屬性 +1。</div>
 　危險+2　　古怪+1　　救助-1　　優越+0　　平凡+0
 
 ## 背景故事
-* Who mentored you in supervillainy?
-* Who first showed you that you could do good?
-* What was your goal as a villain?
-* What caused you to switch sides?
-* Why do you care about the team?
+* 誰在你的超級反派生涯中指導你？
+* 誰第一個讓你知道你可以做善事？
+* 你過去做為反派的目標是什麼？
+* 是什麼導致你換邊站？
+* 你為什麼在乎這個團隊？
 
 ## 關鍵時刻
 <div class="Move">
-  You’ve seen your greatest mistakes, and the rest of the world has, too. They’re all watching you
-now, judging every move you make. When everything is on the line and your back is against the
-wall, though, you’ll show them what you’re made of—that being a hero is a choice. An act of will.
-And you’ve got what it takes to save the day. Of course, afterward, you can expect both sides, hero
-and villain, to deeply question where your loyalties truly lie...
+你看見過你最大的錯誤，世界上的其他人也都看見了。他們現在全都注視著你，評判著你的一舉一動。然而，當所有一切都在劫難逃，你卻束手無策時，你將向他們展現出你的全部──成為英雄是一種選擇，是意志的實踐。而你能力拯救這一切。<br>
+當然，在這之後，你可以預期無論哪邊──英雄或是反派──都將深深質疑你的忠誠究竟在何方……
 </div>
 
 ## 團隊動作
 <div class="Move">
-	When you share a moment of triumph with someone, ask them what gives them hope for a
-brighter day and give them Influence.
+	當你與某人共同慶祝勝利時，詢問他是什麼讓他對更美好的日子抱有希望，並讓他獲得對你的影響力。
 </div>
 <div class="Move">
-	When you share a vulnerability or weakness with someone, ask them what they would do
-something dark for and gain Influence over them.
+	當你向某人傾訴你的弱點時，詢問他會為了什麼而做出黑暗勾當，且你獲得對他的影響力。
 </div>
 
 ## 額外事物
 <div class="Move">
 
-### 〈Friends in Low Places〉
-You have ties to villains from your previous career. Choose three names to fill in:
-* Finch, Ellen “Devil” Drummond, Mr. Cane, The Mad Magpie, Dr. Cutler, Armorer, Tegan Queen, Lovelace
+### 〈陰暗角落的朋友〉
+你過去的職業生涯與反派們有所關聯。選擇三個名字並填入：
+* 飛鳴雀, 拐杖先生, 瘋狂喜鵲, 卡特勒博士, 兵械製造者, 泰根女皇, 勒芙蕾絲, 艾倫．「魔鬼」．德拉蒙德
 
-For each of them, choose a specialty.
+為每一個名字選擇一項專長。
 
-* _______________ Specialty: weapons, materials, cosmic artifacts, alien tech, insider info<br>
-Obligation:□□□□
+* _______________ 專長: 武器, 原物材料, 宇宙人造物, 外星科技, 內幕情報<br>
+義務:□□□□
 
-* _______________ Specialty: weapons, materials, cosmic artifacts, alien tech, insider info<br>
-Obligation:□□□□
+* _______________ 專長: 武器, 原物材料, 宇宙人造物, 外星科技, 內幕情報<br>
+義務:□□□□
 
-* _______________ Specialty: weapons, materials, cosmic artifacts, alien tech, insider info<br>
-Obligation:□□□□
+* _______________ 專長: 武器, 原物材料, 宇宙人造物, 外星科技, 內幕情報<br>
+責任:□□□□
 
-* _______________ Specialty: weapons, materials, cosmic artifacts, alien tech, insider info<br>
-Obligation:□□□□
+* _______________ 專長: 武器, 原物材料, 宇宙人造物, 外星科技, 內幕情報<br>
+義務:□□□□
 
-When you create your character, mark two obligations on one villain, and mark one obligation on another.
+在你創建你的角色時，標記其中一個反派的「義務」二格，並標記另一個反派的「義務」一格。
 
-When you come to them for help with your problems, mark obligation on them and they’ll help out within their specialty. If all their boxes are full, then they won’t help you until you help them.
+當你向他們求助以解決你的問題時，標記一格他的「義務」，他將會在他專長範圍內提供協助。如果他的義務格已經全部被填滿，則直到你幫助他之前他將不會再協助你。
 
-When time passes, roll + your highest obligation. On a 10+, they come crashing into your life with a crisis. On a 7-9, they call for a favor. On a miss, they don’t come knocking yet, but mark obligation with them—the debts are getting heavier.
+當一段時間經過，擲<b>+你最高的義務</b>。
 
-When you help one of these villains with their problems, erase two obligations on them.
+擲出10+時，他將帶著危機闖入你的生活。<br>
+擲出7-9時，他向你要求協助。<br>
+擲出失敗時，他還沒有來打擾你，但標記他的一格「義務」──人情債在逐漸加重。
+
+當你協助其中一個這些反派處理他們的問題，消除他的二格「義務」。
 </div>
 
 
@@ -157,57 +155,52 @@ When you help one of these villains with their problems, erase two obligations o
 <div class="Instructions">選擇二個：</div>
 <div class="Move">
 
-### 〈What the hell, hero〉
-When you call out an injustice that a hero has perpetrated, roll + Danger. On a hit, take Influence over them. On a 7-9, choose one. On a 10+, choose two.
-- You get them to admit their wrongdoing
-- You win over an onlooker; take Influence over them
-- You don’t turn their attention and anger onto yourself
+### 〈搞什麼，英雄？〉
+當你聲張某個英雄犯下的不義行徑時，擲<b>+危險</b>。
 
-On a miss, they dismiss you; mark a condition (their choice), shift Danger up, Savior down.
+擲出成功時，獲得對他的影響力。<br>
+擲出7-9時，選擇一項。<br>
+擲出10+時，選擇二項。
+
+- 你讓他承認了自己的錯誤
+- 你贏得了一個旁觀者的青睞；獲得對他的影響力
+- 你沒有因此把他的注意力和憤怒引到自己身上
+
+擲出失敗時，他把你給打發掉。標記一個狀態（由他選擇），將你的危險標籤屬性提升一級，並把救助標籤屬性降低一級。
 </div>
 <div class="Move">
 
-### 〈Wrong side of the tracks〉
-You always get to
-ask an additional question when you pierce
-the mask of a villain, even on a miss. When you
-pierce the mask of a hero (your call), add this
-question to the list:
-- what was your darkest moment?
+### 〈卑劣出身〉
+當你對某個反派進行〈揭穿面具〉時，你永遠可以額外詢問一個問題，即使擲出失敗也一樣。<br>
+當你對某個英雄（由你決定）進行〈揭穿面具〉時，將這個問題加入問題列表：
+- 你最黑暗的時刻是什麼？
 </div>
 <div class="Move">
 
-### 〈Not so different〉
-When you provoke someone to
-criminal or villainous action, you can use Danger
-instead of Superior.
+### 〈沒那麼不一樣〉
+當你〈煽動某人〉去進行犯罪或邪惡行動時，你可以擲+危險來取代+優越。
 </div>
 <div class="Move">
 
-### 〈Dark past〉
-When you confess to a serious crime
-you committed as a villain while in the presence of
-someone involved, shift Danger up and any other
-Label down, say what you did, and choose one.
-- No one was hurt badly by the crime
-- You aren’t in legal danger from the crime
-- You aren’t being actively pursued for extralegal retribution
+### 〈黑暗的過去〉
+當你在某個被捲入其中的人在場時坦承你過去身為反派時所犯過的罪行時，提升危險標籤屬性並降低任何一個其他標籤屬性。說出你做過的事，並選擇一項。
+- 在這場罪行中沒有人受到嚴重傷害
+- 你沒有因為這場罪行而面臨法律上的威脅
+- 你沒有面臨法外報復行動的積極追捕
 </div>
 <div class="Move">
 
-### 〈Blowing off steam〉
-When you commit a
-misdemeanor or small “victimless” crime, you
-may clear a condition of your choice.
+### 〈發洩火氣〉
+當你做出惡行或「沒有受害者」的小小犯罪時，你可以清除一個你所選擇的狀態。
 </div>
 <div class="Move">
 
-### 〈Do me a favor〉
-When you go to an ordinary civilian
-you know for a favor, roll + Mundane. On a 10+,
-they’ll lend you a hand. On a 7-9, they need a
-promise up front. On a miss, you catch them up in
-your superpowered nonsense, and they suffer for it.
+### 〈幫我一個忙〉
+當你向一位你認識的普通市民請求幫助時，擲<b>+平凡</b>。
+
+擲出10+時，他會對你伸出援手。<br>
+擲出7-9時，他需要你預先做出承諾。<br>
+擲出失敗時，你讓他陷入了你的超能力暴行之中，且他將為此受害。
 </div>
 
 ---
@@ -216,15 +209,14 @@ your superpowered nonsense, and they suffer for it.
 </div>
 
 ## 當團隊初次集結時……
-We fought a terrible enemy from my old life. Who was it and what did they take from me?
+我們和一個來自我過去生活中的可怕敵人交戰。他是誰？他從我這裡奪走了什麼？
 
 ## 人際關係
-* I’ve earned the trust of _________________, and I follow their example of what a hero should be.
-* I did something terrible to __________________ once. I hope they can forgive me one day.
+* 我得到了________的信任，且我以他的榜樣，那才是英雄該有的樣子。
+* 我曾對________做了某個可怕的事。我希望他總有一天可以原諒我。
 
 ## 影響力
-Do you talk openly about your days as a villain? If so, give each team member Influence over you.
-If not, just give Influence to the one teammate whose example you most closely follow.
+你是否會公開談論你曾為反派的過去？若是，讓每個隊友獲得對你的影響力。<br>若否，則只讓那位你最引以為榜樣的隊友獲得對你的影響力。
 
 ---
 ## 成長發展
