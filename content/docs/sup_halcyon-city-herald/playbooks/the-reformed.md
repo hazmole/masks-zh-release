@@ -11,30 +11,14 @@ weight: 1
 </div>
 
 {{< details title="如何扮演改邪歸正者" >}}
-Haunted, redemptive, dangerous, tarnished. The Reformed is still young, but even in their
-short time they’ve done things—if not quite unforgivable, then pushing the limits. They
-filled the role of the villain, and they did it willingly and knowingly. And now they’re
-trying to do better, to be better, but redemption doesn’t come that easily.
+陰魂不散、贖罪、危險的、留有汙點的。改邪歸正者還很年輕，但即使他們經歷過的時光短暫，他們也已經做過一些事情──如果不是完全不可饒恕的話，那就把它推到極限。他們曾擔當過反派的角色，而且他們知情也自願如此。而現在他們正努力改過向善、變得更好，但贖罪可沒有那麼容易。
 
-The key to playing the Reformed is to keep in mind that you’ve already been there.
-You’ve already walked on the dark side. You’ve already done bad things. Not just silly
-little pranks or tricks, the way the Delinquent might have. You were a villain. And you
-specifically chose to abandon that life to be better. So while you may be drawn to take
-criminal action, you’re also trying not to. You’re fighting your base impulses. Your bad
-habits. Maybe even your addictions.
+扮演改邪歸正者的關鍵，在於牢牢記住：你已經去過了那裡，你已經在黑暗面中行走過。你已經做過壞事，並不是像不良少年那樣的愚蠢惡作劇或小打小鬧。你曾是個反派。而且你確實選擇了放棄那樣的生活以成為更好的人。因此儘管你會被吸引去採取犯罪行動，你也同時在努力嘗試抗拒著這麼做。你在對抗你最基本的衝動、你的壞習慣、或甚至你的癮頭。
 
-That said, your old life wasn’t all bad. Yeah, you aren’t going to rob banks or hurt
-people anymore, but you made friends. You developed relationships. And you got to
-know those people the other heroes are all too likely to just dismiss as “villains.” It’s not
-so easy to just cut all those people and relationships out of your life, especially when
-they’re trying to pull you back in. Don’t hesitate to go to those characters outlined in
-your Friends in Low Places for help, even if you are trying to be as noble as possible.
-Those people have some hold on you, but also you have relationships with them.
+話雖如此，你以前的生活也不全是壞事。是啊，你不會再去搶銀行或傷害其他人了，但你過去曾交過朋友，你曾締結過不同的人際關係，你也認識那些很可能會被其他英雄們單純視為「反派」的人們。而要把這些人際關係從你的生活中一刀兩斷可不是一件容易的事，尤其是當他們也在試圖把你拉回黑暗時更是如此。即使你想表現得盡可能高貴，但千萬不要猶豫於向那些列在你〈陰暗角落的朋友〉區塊的角色尋求幫助。這些人或多或少牽絆著你的人生，但你與他們之間也確實有著關係情誼。
 
-Finally, embrace the conflict likely to come from your teammates mistrusting you, or
-the world mistrusting you. Don’t play the Reformed if you want to be assured that others
-are going to see you as heroic. Your teammates and the world at large are all likely to come
-at you harder than they might for any other character, but that’s what you signed up for.
+最後，擁抱因為隊友們不信任你、或整個世界不信任你而衍生出的衝突。如果你想要確保眾人會把你視為英雄，那就不要扮演改邪歸正者。比起其他角色，你的隊友和這個世界上大部分的人們都可能會更嚴酷地去對付你，但這也正是你要的。
+
 
 ### 關於你的動作 & 額外事物
 For What the hell, hero, you get to determine the nature of the injustice you call
