@@ -1,50 +1,35 @@
 ---
-title: 改邪歸正者 The Reformed
+title: 自新者 The Reformed
 weight: 1
 ---
 
-# 改邪歸正者 The Reformed
+# 自新者 The Reformed
 
 <div class="playbookDesc">
 	邪惡兇行曾經是你的生活方式。然後，你看到了你自私和仇恨所創造的一切。
 	超級反派的生活是如此難以放棄，但你最清楚這一點：有時候，壞人也需要被拯救。
 </div>
 
-{{< details title="如何扮演改邪歸正者" >}}
-陰魂不散、贖罪、危險的、留有汙點的。改邪歸正者還很年輕，但即使他們經歷過的時光短暫，他們也已經做過一些事情──如果不是完全不可饒恕的話，那就把它推到極限。他們曾擔當過反派的角色，而且他們知情也自願如此。而現在他們正努力改過向善、變得更好，但贖罪可沒有那麼容易。
+{{< details title="如何扮演自新者" >}}
+陰魂不散、贖罪、危險的、留有汙點的。自新者還很年輕，但即使他們經歷過的時光短暫，他們也已經做過一些事情──如果這些事沒那麼不可饒恕的話，那就把它推到極限。他們曾身為反派，而且他們不僅知情，也自願如此。現在他們正努力改過向善、變得更好，但贖罪可沒有那麼容易。
 
-扮演改邪歸正者的關鍵，在於牢牢記住：你已經去過了那裡，你已經在黑暗面中行走過。你已經做過壞事，並不是像不良少年那樣的愚蠢惡作劇或小打小鬧。你曾是個反派。而且你確實選擇了放棄那樣的生活以成為更好的人。因此儘管你會被吸引去採取犯罪行動，你也同時在努力嘗試抗拒著這麼做。你在對抗你最基本的衝動、你的壞習慣、或甚至你的癮頭。
+扮演自新者的關鍵在於牢牢記住：你已經去過了那個地方，你早已在黑暗面中行走過。你曾做過惡事，並不是像不良少年那樣的愚蠢惡作劇或小打小鬧。你曾是個反派。而你現在也明確選擇放棄了那樣的生活以成為更好的人。因此儘管你仍會被犯罪行動給吸引，你也同時在嘗試抗拒這麼做。你在對抗著你最基本的衝動、你的壞習慣、或甚至你的癮頭。
 
-話雖如此，你以前的生活也不全是壞事。是啊，你不會再去搶銀行或傷害其他人了，但你過去曾交過朋友，你曾締結過不同的人際關係，你也認識那些很可能會被其他英雄們單純視為「反派」的人們。而要把這些人際關係從你的生活中一刀兩斷可不是一件容易的事，尤其是當他們也在試圖把你拉回黑暗時更是如此。即使你想表現得盡可能高貴，但千萬不要猶豫於向那些列在你〈陰暗角落的朋友〉區塊的角色尋求幫助。這些人或多或少牽絆著你的人生，但你與他們之間也確實有著關係情誼。
+話雖如此，你以前的生活也不全是壞事。是啊，你不會再去搶銀行或傷害其他人了，但你在過去曾交過朋友，你曾與不同的人們締結關係，你也認識那些很可能會被其他英雄們單純視為「反派」的人們。要把這些人際關係從你的生活中一刀兩斷可不是一件容易的事，尤其是當他們也在試圖把你拉回黑暗時更是如此。就算你想表現得盡可能高貴，也千萬不要猶豫於向那些寫在你〈陰暗角落的朋友〉區塊的角色們尋求幫助。這些人或多或少牽絆著你的人生，但你與他們之間也確實有著情誼。
 
-最後，擁抱因為隊友們不信任你、或整個世界不信任你而衍生出的衝突。如果你想要確保眾人會把你視為英雄，那就不要扮演改邪歸正者。比起其他角色，你的隊友和這個世界上大部分的人們都可能會更嚴酷地去對付你，但這也正是你要的。
+最後，擁抱那些因為隊友或世界不信任你而衍生的衝突。如果你想要確保所有人都會把你當成英雄來看待，那就不要扮演自新者。跟其他角色相比，你的隊友和這個世界上大部分的人們都可能會更嚴酷地去對付你，而這也正是你要的。
 
 
 ### 關於你的動作 & 額外事物
-For What the hell, hero, you get to determine the nature of the injustice you call
-out. It shouldn’t be just a small perceived slight—the point of the move is to let
-you accuse more heroic types of wrongdoing, forcing them to perk up and listen
-because it’s a former villain doing it. They don’t have to agree with you that they
-committed an injustice, nor does anyone else, when you trigger the move. For
-”You win over an onlooker,” at the GM’s discretion this can be interpreted as a
-crowd of individuals.
+關於〈搞什麼，英雄〉，你可以決定你所聲張的不公正行徑的性質。它不應該只是個輕微的疏忽或怠慢──這個動作的重點在於讓你指控那些更「英雄類型」的錯誤行為，迫使他們抬起頭聆聽你的話語，因為這句指控正是出自一位前反派的口中。當你觸發這個動作時，他們不需要同意你對他不公正行徑的指控，其他人也不需要同意。關於選項中的「你贏得了一個旁觀者的青睞」，根據GM的裁斷，這個旁觀者也可以被解釋成一個群體。
 
-For Dark past, triggering the move allows you to fill in pieces of your past. Don’t
-confess to crimes that it would make absolutely no sense for you to have done—
-your confession has to be real and true to trigger the move. It also has to be a
-serious crime. No misdemeanors or small transgressions. Whatever you confess
-has to have hurt someone in some way.
+關於〈黑暗的過去〉，觸發這個動作讓你能夠填補上你過去的經歷。不要坦白那些對你來說毫無意義的罪行──你的懺悔必須是真實且真誠的才能觸發這個動作。這個罪行同時也必須要是嚴重的犯罪，而不能只是無關緊要的小過失或輕罪。你所坦白的經歷必須要以某種方式傷害到某人才行。
 
-For Blowing off steam, the GM is the final arbiter of whether or not the crime
-actually qualifies for the trigger. As long as you’re doing something illegal,
-something that you shouldn’t be doing, but that doesn’t directly, obviously, or
-significantly harm anyone, the move should trigger.
+關於〈發洩火氣〉，GM擁有最終裁斷權去決定你犯的罪行是否夠格觸發這個動作。然而只要你做的事情是違法、是你不應該做的，但卻沒有對任何人造成直接、明顯、或顯著的傷害的話，那這個動作就應該會被觸發。
 
-Do me a favor gives you the ability to go to civilian contacts for help. The
-Reformed is plugged into criminals and villains, and this move may help you
-ask for favors from those networks. It also allows you to ask for help from people
+〈幫我一個忙〉讓你能夠透過平民百姓的門路尋求協助。自新者與犯罪和反派緊緊相連，而這個動作能夠幫助你從這些人際網路中得到好處。它同時也讓你能向那些你在表社會世界遇過的人們求助。
 
-### 改邪歸正者的靈感來源
+### 自新者的靈感來源
 * Loki, Young Avengers
 * Terra, Teen Titans
 * Quentin Quire, Wolverine and the X-Men
@@ -108,16 +93,16 @@ ask for favors from those networks. It also allows you to ask for help from peop
 
 為每一個名字選擇一項專長。
 
-* _______________ 專長: 武器, 原物材料, 宇宙人造物, 外星科技, 內幕情報<br>
+* _______________ 專長: 武器, 材料, 偉大製品, 外星科技, 內幕情報<br>
 義務:□□□□
 
-* _______________ 專長: 武器, 原物材料, 宇宙人造物, 外星科技, 內幕情報<br>
+* _______________ 專長: 武器, 材料, 偉大製品, 外星科技, 內幕情報<br>
 義務:□□□□
 
-* _______________ 專長: 武器, 原物材料, 宇宙人造物, 外星科技, 內幕情報<br>
+* _______________ 專長: 武器, 材料, 偉大製品, 外星科技, 內幕情報<br>
 責任:□□□□
 
-* _______________ 專長: 武器, 原物材料, 宇宙人造物, 外星科技, 內幕情報<br>
+* _______________ 專長: 武器, 材料, 偉大製品, 外星科技, 內幕情報<br>
 義務:□□□□
 
 在你創建你的角色時，標記其中一個反派的「義務」二格，並標記另一個反派的「義務」一格。
@@ -140,7 +125,7 @@ ask for favors from those networks. It also allows you to ask for help from peop
 <div class="Move">
 
 ### 〈搞什麼，英雄？〉
-當你聲張某個英雄犯下的不義行徑時，擲<b>+危險</b>。
+當你聲張某個英雄犯下的不公正行徑時，擲<b>+危險</b>。
 
 擲出成功時，獲得對他的影響力。<br>
 擲出7-9時，選擇一項。<br>
@@ -167,7 +152,7 @@ ask for favors from those networks. It also allows you to ask for help from peop
 <div class="Move">
 
 ### 〈黑暗的過去〉
-當你在某個被捲入其中的人在場時坦承你過去身為反派時所犯過的罪行時，提升危險標籤屬性並降低任何一個其他標籤屬性。說出你做過的事，並選擇一項。
+當你坦白你過去身為反派時所犯過的罪行，且有某個被捲入其中的人物在場時，提升危險標籤屬性並降低任何一個其他標籤屬性。說出你做過的事，並選擇一項。
 - 在這場罪行中沒有人受到嚴重傷害
 - 你沒有因為這場罪行而面臨法律上的威脅
 - 你沒有面臨法外報復行動的積極追捕
