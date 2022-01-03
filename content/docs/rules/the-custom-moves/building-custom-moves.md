@@ -99,13 +99,9 @@ weight: 2
 ---
 ## 效果
 
-Triggers are only one half of a move. You need to know what happens when a
-move is triggered, too, and those effects need to be interesting and cool all on
-their own. Good effects push the fiction forward and lead to more moves. If a
-move doesn’t produce clear new paths after it’s been triggered, then its effects
-are weak.
+觸發條件僅僅是動作的其中一部分，你還需要知道在動作被觸發時會發生什麼事，而且這些效果本身也必須有趣且酷炫。好的效果能夠推動故事情節，並導致更多動作的發生。如果一個動作被觸發後卻沒能產生清晰明確的新發展，那它的效果就不夠好。
 
-Here’s a move with weak effects:
+下面這個動作是一個有著糟糕效果的例子：
 
 <div class='Move'>
 當你<b>嘗試穿過魔導師艾弗瑞的聖所門檻</b>時，擲<b>+古怪</b>。
@@ -115,13 +111,9 @@ Here’s a move with weak effects:
 <tag>若失敗</tag>，你無法進去。
 </div>
 
-None of its possible outcomes are particularly interesting. Getting inside
-the Sanctum is interesting, but only because the Sanctum itself is interesting—
-this move doesn’t make it any more so. Giving Everard Influence allows for a
-Label shift, but devoid of anything else, that’s not very interesting and it’s
-detached from the fiction. The miss just plain shuts down the fiction.
+這個動作所有可能的結果都不是特別有趣。能夠進入聖所可能會有點意思，但這僅僅是因為聖所本身就很有趣──這個動作並沒能為它增添任何樂趣。讓魔導師艾弗瑞獲得影響力將讓他得以掉動標籤屬性，但除此之外別無他物，這並不是很有趣，也和敘事脫節。而擲骰失敗更是單純地中斷了敘事發展。
 
-Here’s a move with much better effects:
+下面這個動作就有著比較好的效果：
 
 <div class='Move'>
 當你<b>駭入盧克企業的實驗室</b>時，擲<b>+優越</b>。
@@ -137,68 +129,49 @@ Here’s a move with much better effects:
 <tag>若失敗</tag>，你仍然選擇一項，但你入侵的行動暴露給了盧克的保安組織；他們知道你在哪裡，而且他們正衝著你來……
 </div>
 
-In this move, none of the options are explicitly
-mechanical—they don’t provide Influence or shift Labels or
-anything similar. But they’ll all lead to interesting places
-in the story. No matter what information a PC finds, it
-opens up new paths for new moves. And if a PC doesn’t
-choose “you don’t leave a trace,” the GM has a golden
-opportunity to make a move.
+在這個動作中，沒有任何選項會帶來明確的機制性效果──它們並不會提供影響力、調動標籤數性或任何之類的影響。但它們全都會引導故事往有趣的方向發展。無論PC發現了什麼情報，這個動作都會為更多新的動作開闢出一條新路。而且如果PC沒有選擇「你不會留下任何蛛絲馬跡」，那GM也將因此得到了進行動作的黃金時機。
 
 
 #### 常見的效果類型
-<b>直接影響</b>: Moves can directly affect the fiction, making changes, causing
-events, without touching on any mechanical pieces in between.
+<b>直接影響</b>: 動作可以直接影響敘事，帶來改變，引發事件，而無須涉及任何規則機制。
 
 <div class='Move'>
 <b>〈典獄長〉</b><br/>
 當你<b>把宇宙典獄長的虛空手銬銬在某個擁有超能力的人身上</b>，只要他仍然被銬著，他就會失去他的超能力。
 </div>
 
-<b>標籤屬性代換</b>: You can create custom moves that change which Labels are used
-with which basic moves in particular situations. Always make these Label swap
-moves tied to specific situations.
+<b>標籤屬性代換</b>: 你可以撰寫自訂動作去改變在特定情況下改為使用某個標籤屬性來進行某個基本動作。務必讓這些代換的標籤屬性能與特定情境聯繫起來。
 
 <div class='Move'>
 <b>〈異能榨取〉</b><br/>
 吸能怪能夠使所有他身邊超人類的超能力枯竭。當你<b>以肉搏戰對吸能怪進行〈直面威脅〉</b>時，擲+平凡以取代原本的+危險。
 </div>
 
-<b>添加選項</b>: Custom moves can add further options to existing moves,
-expanding how they’re useful and making them specific to their surroundings.
+<b>添加選項</b>: 自訂動作可以為既有的動作增添額外的選項，擴展它們的用途，並讓它們更能具體應對周圍情境。
 
 <div class='Move'>
 <b>〈鏡之長廊〉</b><br/>
 當你在永恆諸界的長廊中〈評估局勢〉時，把下面這兩個問題加到選項列表中：
 
 * 我在鏡子中看到了什麼關於我的可怕未來？
-* 我在鏡子中看到了什麼關於我的璀璨未來？
+* 我在鏡子中看到了什麼關於我的光輝未來？
 </div>
 
-<b>施加一個狀態</b>: You can always have custom moves inflict conditions on
-PCs. Those moves indicate ways that the PCs’ emotions can be affected and
-changed, whether they like it or not.
+<b>施加一個狀態</b>: 你永遠可以讓自訂動作對PC們施加狀態。這些動作表現出了PC們的情緒狀態可以被如何影響和改變，無論他們是否喜歡都一樣。
 
 <div class='Move'>
 <b>〈情緒吸血鬼〉</b><br/>
 當你<b>拒絕撫慰者的影響力</b>時，除了該動作原本的效果之外，再標記一個他所選擇的狀態。
 </div>
 
-<b>Take or give Influence/shift Labels</b>: You can use custom moves to affect
-Influence and Label shifting. The two are intimately tied together, but a move
-that takes Influence sets up for later Label shifts, while a move that directly
-shifts Labels is immediate and powerful.
+<b>獲得或給出影響力/調動標籤屬性</b>: 你可以使用自訂動作來處理影響力和標籤屬性的調動。這兩者緊密相連，能讓某人獲得影響力的動作鋪墊了往後的標籤屬性調動，而能夠直接調動標籤屬性的動作則顯得立即且強大。
 
 <div class='Move'>
 <b>〈他只是個孩子〉</b><br/>
 杜鵑能夠佔據孩童的身體並賦予其強大的力量；它能夠使自己侵占的身體如鑽石般堅硬，但仍表現得像個孩子一樣。當你對杜鵑〈直面威脅〉時，除非你曾見過它的真實型態，否則它將獲得對你的影響力。
 </div>
 
-<b>從選項中選擇</b>: You can set up custom moves that allow players to pick
-options from a list. The list provides some clear courses for the fiction to follow,
-without defining exactly which path it will go down. Make sure that all the
-choices on the list are juicy and interesting, each one leading to new possible
-moves.
+<b>從選項中選擇</b>: 你可以撰寫自訂動作讓玩家從選項列表中挑選。這份列表為故事提供了幾個明確的發展方向，而沒有明確規定它會順著哪一條路走下去。確保列表上的每一個選項都豐富而有趣，並能夠引出更多潛在的動作。
 
 <div class='Move'>
 <b>〈紙人軍團〉</b><br/>
@@ -215,9 +188,7 @@ moves.
 <tag>若失敗</tag>，你打輸了戰鬥，並在卡瑟利的監獄飛船中醒來。祝你好運。
 </div>
 
-You can play a few tricks with lists of options, too, including setting up
-negative lists where players choose which of a set of bad options they want
-to avoid.
+你也可以在這份選項列表上玩點花樣，這包括了設置會帶來負面效果的選項列表，讓玩家們從中選擇他們想要避免的糟糕選項。
 
 <div class='Move'>
 <b>〈深淵的凝視〉</b><br/>
@@ -232,9 +203,7 @@ to avoid.
 * 告訴基埃納你最懼怕的危險是什麼。
 </div>
 
-<b>獲得並花費掌握</b>: These kinds of moves are pretty much the same as setting
-up a list. The difference is that hold allows players to make their choices later,
-after they’ve rolled for the original move, instead of right then and there.
+<b>獲得並花費掌握</b>: 這類動作與會列出選項的動作很相似，差別在於，獲得「掌握」讓玩家們能夠在之後做出選擇，也就是在他們為原本的動作擲骰判定以後，而不是當下就必須決定。
 
 <div class='Move'>
 <b>〈隨插即用〉</b><br/>

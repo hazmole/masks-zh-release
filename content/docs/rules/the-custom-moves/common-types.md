@@ -136,14 +136,17 @@ the condition.
 
 Characters start play with varying numbers of boxes in their harm tracks. PCs always
 have six. NPCs have a number equal to their conditions.
+
 When you trade blows with an NPC, inflict one harm on them. As one of your choices
 for directly engaging a threat, you can choose to inflict an additional harm. If you use
 overwhelming force against a target, you should inflict an additional harm anyway; the
 GM tells you when that’s appropriate.
+
 When you take a powerful blow, mark one box on your harm track. If half the boxes
 of your harm track are marked, you’re not doing so hot; what once may have been easy
 now requires you to unleash your powers. If all boxes on your harm track are marked,
 you’re in very bad shape; you’re likely to die without immediate help.
+
 If an NPC ever fills their harm track, they go unconscious. Without help, they’ll die.
 The GM can inflict harm as a hard move.
 </div>
@@ -183,16 +186,20 @@ level advances much sooner.
 The team as a whole gains a Team stat, and a Team track with five boxes.
 Your Team stat starts the game at +0. Your Team stat can never go higher than +3
 or lower than -2.
+
 Whenever you would add a Team to the pool, mark a box on the track instead. When
-you mark the fifth box, clear it and increase your Team stat by +1. Whenever you would
-spend a Team from the pool, instead clear one box on the track. If there are no filled boxes
+you mark the fifth box, clear it and increase your Team stat by +1. 
+Whenever you would spend a Team from the pool, instead clear one box on the track. If there are no filled boxes
 to clear, then decrease your Team stat by -1.
-When you help a teammate, roll + Team. On a hit, add +1 to their roll. On a 7-9, clear
-one box on the Team track. On a miss, clear one box on the Team track in addition to any
-other hard moves.
-When you act selfishly, say how your actions ignore or insult your teammates and roll
-+ Team instead of your usual Label on any move. After the move is resolved, decrease
-the Team stat by -1.
+
+When you help a teammate, roll + Team. 
+
+On a hit, add +1 to their roll. <br>
+On a 7-9, clear one box on the Team track. <br>
+On a miss, clear one box on the Team track in addition to any other hard moves.
+
+When you act selfishly, say how your actions ignore or insult your teammates and roll + Team instead of your usual Label on any move. 
+After the move is resolved, decrease the Team stat by -1.
 </div>
 
 This is a big change, one that messes with a core economy of the game—

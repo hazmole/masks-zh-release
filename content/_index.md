@@ -4,7 +4,7 @@ type: docs
 bookToC: false
 ---
 
-<img src="https://www.magpiegames.com/wp-content/uploads/2020/06/MPG-Header-Masks2.jpg" width="100%">
+<img src="./image/MPG-Header-Masks2_2400x.jpg" width="100%">
 {{< hint warning >}}
 本站與原始規則的所有文字內容均採用創用 CC BY 4.0 國際授權條款。<br/>
 其他獨特的設定或虛構元素的版權皆屬於 Magpie Games, 2016。<br/>
