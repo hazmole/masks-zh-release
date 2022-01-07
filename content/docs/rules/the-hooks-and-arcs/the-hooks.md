@@ -3,31 +3,21 @@ title: 創造與使用引鉤
 weight: 2
 ---
 
-## BUILDING HOOKS
-Each hook is an actual character that pulls a PC towards a Label. Pairs of hooks 
-are always focused on one PC, in particular on the two Labels by which they 
-might be defined. The simplest way to come up with a pair of hooks for a PC 
-is to ask: “Is (PC) a (Label) or (Label)?” 
+## 創造引鉤
+每一個引鉤都代表著一個會將PC拉向某個標籤屬性的角色。 每一對引鉤總是以某個PC為中心，並特別聚焦於這個PC可能被定義的兩個標籤屬性上。
+要為PC設計一對引鉤，最簡單的方法就是自問：「（PC）是（標籤屬性）還是（標籤屬性）的？」
 
-Think of this question as if you’re a reader of your game’s comic book 
-series. Where do you think the main characters are going? How do you think 
-others see them? What do you think is pushing them to take action? Setting 
-up hooks flags these issues and ideas so you can emphasize them during play.
+把自己當作你們遊戲漫畫的讀者來回答這個問題。你覺得主角們會往什麼方向前進？你覺得其他人會如何看待他們？你認為是什麼在推動他們採取行動？創建引鉤的過程能夠豎立這些問題和想法，並讓你能夠在遊戲過程中強調它們。
 
-Build some hooks after your first session of play, and always look at them 
-between sessions. If you feel that a given pair of hooks has been resolved—
-especially if the PC has locked any of the Labels involved in the pair—then 
-you should create a new pair of hooks for that PC. In general, hold onto a pair 
-of hooks for about three or four sessions before changing up the conflict and 
-focusing on a new set of Labels. 
+在你們第一次聚會結束後創造一些引鉤，並總是在聚會和聚會之間的空檔時間檢查它們。如果你感覺某一對引鉤已經被解決了──尤其是如果PC固定了其中一個與引鉤相關的標籤屬性──那麼就該是時候為這個PC創造一對新引鉤了。通常來說，你可以維持使用同一對引鉤長達大約三到四次聚會，並在這之後改變衝突的內容，並轉為聚焦另一組新的標籤屬性。
 
-When you build a new pair of hooks:
-* Choose the PC that they’re centered on
-* Choose the Labels involved
-* Assign NPCs to the pairings
+當你創造一對新的引鉤時：
+* 選擇被這對引鉤拉扯的PC
+* 選擇涉及的標籤屬性
+* 為引鉤指派NPC
 
 
-### CHOOSING THE PC
+### 選擇PC
 Ultimately, you need at least one pair of hooks for each PC so you have 
 something to guide you on how to pull each PC’s self-image. When you’re 
 choosing which PC to build a new pair of hooks for, though, only choose PCs 
@@ -38,7 +28,7 @@ them, whom they have Influence over, and anything else of note about their
 character.
 
 
-### CHOOSE THE LABELS
+### 選擇標籤屬性
 Each pair of Labels charts a different kind of conflict, a different set of issues. 
 The pairing of Danger vs Savior, for example, is about the tension between 
 destructively defeating enemies and saving lives; the pairing of Danger vs 
@@ -56,40 +46,41 @@ telling them to hide their strangeness and act “normal.”
 
 <div class='Move'>
 
-#### PAIRING: DANGER VS FREAK 
+#### 搭配: 危險 VS 古怪
 
 This pairing is about power—especially when it gets out of hand. PCs involved 
 in a Danger vs Freak pairing are often the most powerful of their team, capable 
 of rewriting existence or causing massive destruction. Those around them 
 question whether they can be trusted with their power—maybe because they’re 
 kids or because they have more power than anybody should be trusted with.
-* Hook Impulse — Danger: To remind them of collateral damage
-* Hook Impulse — Freak: To play up their strangeness and capabilities
+
+* 引鉤推力 — 危險: 提醒他們的附帶傷害
+* 引鉤推力 — 古怪: 突顯他們的怪異和能力
 </div><div class='Move'>
 
-#### PAIRING: DANGER VS MUNDANE
+#### 搭配: 危險 VS 平凡
 This pairing is about fear. PCs involved in a Danger vs Mundane pairing are 
 viewed with understanding by those close to them, and fear by others—until 
 things go wrong, and the fear may spread like wildfire. But can they show those 
 who fear them that they’re just a person at heart? Or will they turn out to be 
 the threat everyone worries can’t be stopped?
 
-•  Hook Impulse — Danger: To mistrust and provoke
-•  Hook Impulse — Mundane: To interrupt dangerous situations
+* 引鉤推力 — 危險: 去猜疑和煽動
+* 引鉤推力 — 平凡: 中斷危險的情境發展
 </div><div class='Move'>
 
-#### PAIRING: DANGER VS SAVIOR
+#### 搭配: 危險 VS 救助
 This pairing is about heroic roles. PCs involved in a Danger vs Savior pairing 
 are torn between defeating enemies and saving lives. When they’re caught in a 
 dangerous fight, they’re not sure if they should take down the villain fast and 
 hard or if they should focus on keeping people safe at the cost of potentially 
 letting the villain escape. 
 
-•  Hook Impulse — Danger: To push towards a fight
-•  Hook Impulse — Savior: To push away from a straight fight, towards saving lives
+* 引鉤推力 — 危險: 推向戰鬥
+* 引鉤推力 — 救助: 遠離直接的戰鬥，推向拯救人命
 </div><div class='Move'>
 
-#### PAIRING: DANGER VS SUPERIOR
+#### 搭配: 危險 VS 優越
 This pairing is about control. Superior characters are good at looking around, 
 taking in the environment, understanding it, using it...and provoking other 
 people to do what they want. Surgical strikes and efforts. Dangerous characters 
@@ -97,11 +88,11 @@ are good at punching enemies in the face, at letting loose, at breaking things
 down.  Characters  caught  in  these  arcs  are  stuck  between  precision  and 
 uncontrolled venting. 
 
-•  Hook Impulse — Danger: To infuriate and provoke
-•  Hook Impulse — Superior: To point out failures of control and planning
+* 引鉤推力 — 危險: To infuriate and provoke
+* 引鉤推力 — 優越: To point out failures of control and planning
 </div><div class='Move'>
 
-#### PAIRING: FREAK VS MUNDANE
+#### 搭配: 古怪 VS 平凡
 This pairing is about fitting in, usually focusing on one of two angles: either 
 the PC is especially strange, notably different from the people around them, 
 and unsure if they’ll ever fit in...or they’re especially normal, and they don’t 
@@ -109,31 +100,31 @@ feel different enough. Either way, the people involved in this pairing push them
 either further in sync with the normal people of Halcyon City, or push them 
 to be alone, separate from the people around them by their own strangeness.
 
-•  Hook Impulse — Freak: To isolate and drive away
-•  Hook Impulse — Mundane: To make normal
+* 引鉤推力 — 古怪: To isolate and drive away
+* 引鉤推力 — 平凡: To make normal
 </div><div class='Move'>
 
-#### PAIRING: FREAK VS SUPERIOR 
+#### 搭配: 古怪 VS 優越 
 This pairing is about being special. A character who is caught in this pairing 
 hears voices on one side telling them they’re better, stronger, and more capable 
 than everyone around them, and voices on the other side calling them a 
 worthless monster. Either way, they’re struggling to make sense of what their 
 difference means.
 
-* Hook Impulse — Freak: To call out the flaws of strangeness
-* Hook Impulse  —  Superior:  To  praise  the  power  and  ability  of strangeness
+* 引鉤推力 — 古怪: To call out the flaws of strangeness
+* 引鉤推力 — 優越:  To  praise  the  power  and  ability  of strangeness
 </div><div class='Move'>
 
-#### PAIRING: FREAK VS SAVIOR 
+#### 搭配: 古怪 VS 救助 
 This pairing is about responsibility. What responsibilities does someone with 
 intense power have? Are they beholden only to their own power? Or are they 
 burdened with the need to make use of their powers for the greater good? 
 
-•  Hook Impulse — Freak: To praise immense power and abilities
-•  Hook Impulse — Savior: To place responsibility
+* 引鉤推力 — 古怪: To praise immense power and abilities
+* 引鉤推力 — 救助: To place responsibility
 </div><div class='Move'>
 
-#### PAIRING: MUNDANE VS SUPERIOR
+#### 搭配: 平凡 VS 優越
 This pairing is about human connection. Characters with a high Mundane 
 can connect with other people on a meaningful level...but they can’t get those 
 people to reliably do what they want. Characters with a high Superior, on 
@@ -142,33 +133,33 @@ more directly, but they’re more aloof and detached from those people. With
 this pairing, play up that detachment, the cost of feeling superior and the 
 compromises required of being mundane.
 
-•  Hook Impulse — Mundane: To require compromise for connection
-•  Hook Impulse — Superior: To detach and distance from others
+* 引鉤推力 — 平凡: To require compromise for connection
+* 引鉤推力 — 優越: To detach and distance from others
 </div><div class='Move'>
 
-#### PAIRING: MUNDANE VS SAVIOR 
+#### 搭配: 平凡 VS 救助 
 This pairing is about saving others—protecting them from outward and inner 
 threats. Saviors are great at stopping a car flying through the air at someone’s 
 face, but Mundane characters can actually make people feel better, and might 
 even be able to save villains from themselves.
 
-•  Hook Impulse — Mundane: To ask for empathy and mercy
-•  Hook  Impulse  —  Savior:  To  demand  defense  and  protection  for 
+* 引鉤推力 — 平凡: To ask for empathy and mercy
+* 引鉤推力 — 救助:  To  demand  defense  and  protection  for 
 innocents
 </div><div class='Move'>
 
-#### PAIRING: SAVIOR VS SUPERIOR
+#### 搭配: 救助 VS 優越
 This pairing is about whether heroes should be proactive or reactive. Saviors 
 respond to threats...but superior PCs read the situation and manipulate those 
 around them to take action. They solve problems proactively, at the cost of 
 being coldly removed from those around them. Which method is truly heroic? 
 Fighting the good fight or winning the war?
 
-•  Hook Impulse — Savior: To highlight impending threats
-•  Hook Impulse — Superior: To present opportunities for action
+* 引鉤推力 — 救助: To highlight impending threats
+* 引鉤推力 — 優越: To present opportunities for action
 </div>
 
-### ASSIGN NPCs
+### 指派NPC
 After selecting the pairing for your hooks, assign the 
 hooks themselves to either side of the pairing. A hook 
 is a fictional element embodying the pull on the PC 
@@ -207,7 +198,7 @@ filling in your hooks.
 
 ---
 
-## HOW TO USE HOOKS
+## 如何使用引鉤
 Set up your hooks between sessions. Doing so makes you think about who 
 these characters are, and ask yourself questions about what they might become. 
 During play, use your list of hooks as a reference sheet for your moves. 
@@ -229,7 +220,7 @@ and think about other ways to pull on those Labels with those hooks.
 
 ---
 
-## SAMPLE HOOK PAIRING
+## 成對引鉤的範例
 {{< hint info >}}
 I’m brainstorming a pair of hooks for Rex, the Transformed. Rex so far has been 
 pretty surly; he’s clearly distraught about his transformed body. He has a high Freak 
