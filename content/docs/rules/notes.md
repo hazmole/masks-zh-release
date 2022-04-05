@@ -81,6 +81,7 @@ weight: 100
 * Crystal Corp : 水晶公司
 * Exemplar : 典範者
 * Rook Industries: 盧克企業
+* Spike: 尖釘監獄
 * VENOM : 猛毒幫
 
 #### 物品

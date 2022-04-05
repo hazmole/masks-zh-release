@@ -1,43 +1,25 @@
 ---
-title: 常見自訂動作類型
+title: 常見自訂動作類型($)
 weight: 3
 ---
 
 ## 常見自訂動作類型
-Between sessions, you can create custom moves for nearly any use. Here are some
-of the most common places where custom moves are useful and interesting.
-Remember that if you take advantage of any of these opportunities, you shouldn’t
-hide it—make sure the players know, so they can use these moves!
+在聚會與聚會之間的空檔，你可以創建各種各樣的自訂動作來處理幾乎所有一切。以下是一些最常見的使用場合，能讓自訂動作發揮用途並帶來無比樂趣。
+但要記住，如果你想利用這些自訂動作帶來的好處，那麼你就不該把它們藏起來──確保玩家們知情，好讓他們也能夠進行這些動作！
 
 ### 情境
-Custom moves are great for filling in specific holes in your game. If there’s a
-situation that seems interesting and uncertain, but none of the basic moves
-quite cover it, that’s a good sign you should add a custom move. Superhero
-stories can span vastly different genres and styles, including all kinds of crazy
-elements, so don’t hesitate to come up with new custom moves to deal with
-those surprising situations.
+自訂動作相當適合用於填補你遊戲中的特定空缺。如果某個情境看起來相當有趣又充滿不確定性，但沒有任何一個基本動作能夠涵蓋這個情境的話，那麼這就是你應該要添加自訂動作的一個好徵兆。超級英雄故事能夠橫跨各種不同種類的題材和風格，容納各種各樣的瘋狂元素，所以不要猶豫，構想出一個新的自訂動作來處理這些令人驚奇的情境吧。
 
 ### 物品
-MASKS is a game of superhero stories, and superhero stories are chock-a-block
-full of MacGuffins and crazy super science doodads and fantasy artifacts.
-Making custom moves for these objects gives them greater importance in your
-game, and genuinely makes them more significant than just being things that
-everybody’s after.
+《蒙面少俠》是一個關於超級英雄故事的遊戲，而超級英雄的故事中總是充斥著各式各樣的麥高芬、瘋狂的超科學玩意兒、以及奇幻神物。
+為這些東西編寫自訂動作能夠使它們在你的遊戲中變得更加重要，讓它們真的能帶來影響，而不只是當一個所有人都搶著要的「道具」。
 
 ### 超能力和異能
-Especially when PCs pick up unique or additional powers, a custom move may
-be in order. MASKS covers a lot of ground with fictional positioning, but custom
-moves can draw out important and specific powers. This doesn’t just have to
-be superhuman powers—if the Beacon connects with an Internet community
-of other would-be superheroes, then giving them a custom move to use that
-network is a great idea.
+當PC們挑選了某個獨特或額外的超能力時，自訂動作尤其可能派上用場。
+《蒙面少俠》已經以故事定位涵蓋了大部分，但使用自訂動作可以帶出那些更為重要而特定的超能力。這甚至可以不用是超人類異能──如果明燈連上了一個滿是超級英雄志願者的網路社群，那麼給他一個自訂動作來運用這個網路就是個好主意。
 
 ### 構築場景
-You can use custom moves to frame scenes quickly and skip past some of
-the action. For instance, if the PCs might infiltrate the superhuman prison
-known as the Spike, instead of spending time making several individual rolls
-to unleash powers or assess the situation, you could make a custom move that
-accounts for the whole infiltration in a single roll.
+你也可以使用自訂動作來跳過一些行動來快速構築場景。舉例來說，假如PC們想要滲透進那座被稱作「尖釘監獄」的超人類監獄，那麼與其花時間進行好幾次〈釋放你的力量〉或〈評估局勢〉的瑣碎檢定，你可以直接利用自訂動作，僅僅使用一次擲骰檢定來講述整個滲透的過程。
 
 ### 情書
 當玩家錯過遊戲聚會而你想要讓他們跟上進度、或當你想要快速強硬地開始一些衝突場景時，「情書」就是你最好的選擇。情書能夠提供比一般自訂動作更多的訊息和設置，且它們能更快速容易地處理故事懸念。
@@ -134,21 +116,17 @@ the condition.
 <div class='Move'>
 <h4>傷害軌</h4>
 
-Characters start play with varying numbers of boxes in their harm tracks. PCs always
-have six. NPCs have a number equal to their conditions.
+每個角色都擁有一條傷害軌，傷害軌上會有數個格子。PC永遠有六格，NPC則有著等同它們狀態格數量的格子。
 
-When you trade blows with an NPC, inflict one harm on them. As one of your choices
-for directly engaging a threat, you can choose to inflict an additional harm. If you use
-overwhelming force against a target, you should inflict an additional harm anyway; the
-GM tells you when that’s appropriate.
+當你與一個NPC造成交互打擊時，對他造成一格傷害。做為你〈直面威脅〉的其中一個選項，你可以選擇額外造成一格傷害。如果你使用壓倒性的力量對付目標，則你無論如何都應該額外造成一格傷害；GM會告訴你什麼時候適用這個情況。
 
-When you take a powerful blow, mark one box on your harm track. If half the boxes
-of your harm track are marked, you’re not doing so hot; what once may have been easy
-now requires you to unleash your powers. If all boxes on your harm track are marked,
-you’re in very bad shape; you’re likely to die without immediate help.
+當你〈承受沉重打擊〉時，標記你傷害軌上的一個格子。
+如果你傷害軌上有半數的格子都被標記，你的情況不太好；原本你可以輕易達成的行動現在會需要你進行〈釋放你的力量〉。
+如果你傷害軌上的所有格子都被標記，你的情況糟糕透頂；如果沒有立即的救助，你很有可能會就此死去！
 
-If an NPC ever fills their harm track, they go unconscious. Without help, they’ll die.
-The GM can inflict harm as a hard move.
+如果NPC的傷害軌被填滿，則他將失去意識。如果沒有受到救助，則他將會死去。
+
+GM能夠以一個硬動作來直接造成傷害。
 </div>
 
 Maybe you want physical harm to have more meaning in your game.
