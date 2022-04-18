@@ -4,12 +4,12 @@ weight: 2
 ---
 
 ## 創造引鉤
-每一個引鉤都代表著一個會將PC拉向某個標籤屬性的角色。 每一對引鉤總是以某個PC為中心，並特別聚焦於這個PC可能被定義的兩個標籤屬性上。
+每一個引鉤都代表著一個能把PC拉向某個標籤屬性的角色。 每一對引鉤總是以某個PC為中心，並特別聚焦於這個PC可能被定義的兩個標籤屬性上。
 要為PC設計一對引鉤，最簡單的方法就是自問：「（PC）是（標籤屬性）還是（標籤屬性）的？」
 
-把自己當作你們遊戲漫畫的讀者來回答這個問題。你覺得主角們會往什麼方向前進？你覺得其他人會如何看待他們？你認為是什麼在推動他們採取行動？創建引鉤的過程能夠豎立這些問題和想法，並讓你能夠在遊戲過程中強調它們。
+把你們的遊戲故事當作一本漫畫，並把自己當作這本漫畫的讀者來回答這個問題。你覺得主角們會往什麼方向前進？你覺得其他人會如何看待他們？你認為是什麼在推動他們採取行動？創建引鉤的過程能夠豎立這些問題和想法，並讓你能夠在遊戲過程中強調它們。
 
-在你們第一次聚會結束後創造一些引鉤，並總是在聚會和聚會之間的空檔時間檢查它們。如果你感覺某一對引鉤已經被解決了──尤其是如果PC固定了其中一個與引鉤相關的標籤屬性──那麼就該是時候為這個PC創造一對新引鉤了。通常來說，你可以維持使用同一對引鉤長達大約三到四次聚會，並在這之後改變衝突的內容，並轉為聚焦另一組新的標籤屬性。
+在你們第一次聚會結束後創造一些引鉤，並總是在聚會和聚會之間的空檔檢查它們。如果你感覺某一對引鉤已經被解決了──尤其是如果PC已經固定了其中一個與引鉤相關的標籤屬性──那麼就該是時候為這個PC創造一對新引鉤了。通常來說，你可以持續使用同一對引鉤大約三到四次聚會，並在這之後改變衝突的內容，轉為聚焦另一組新的標籤屬性。
 
 當你創造一對新的引鉤時：
 * 選擇被這對引鉤拉扯的PC
@@ -18,31 +18,19 @@ weight: 2
 
 
 ### 選擇PC
-Ultimately, you need at least one pair of hooks for each PC so you have 
-something to guide you on how to pull each PC’s self-image. When you’re 
-choosing which PC to build a new pair of hooks for, though, only choose PCs 
-who either don’t have hooks yet or who’ve resolved their last pair of hooks.
+你最終會需要為每個PC安排至少一對引鉤，協助你思考該如何拉扯每一個PC的自我印象。
+當你在選擇要為哪一個PC創建新的引鉤時，你只需要選擇那些尚未被安排引鉤、或者上一個引鉤已經被解決掉了的PC。
 
-When you pick the PC, take a look at their Labels, who has Influence over 
-them, whom they have Influence over, and anything else of note about their 
-character.
+當你選好PC之後，看一下他們的標籤屬性，並仔細留意有誰擁有對他們的影響力、有誰會被他們給影響、以及任何跟他們有關的其他角色。
 
 
 ### 選擇標籤屬性
-Each pair of Labels charts a different kind of conflict, a different set of issues. 
-The pairing of Danger vs Savior, for example, is about the tension between 
-destructively defeating enemies and saving lives; the pairing of Danger vs 
-Freak, on the other hand, is about the fine line between appearing strange and 
-powerful, and appearing to be a genuine threat.
+每一組標籤屬性都描繪著一種不同類型的衝突、一組截然不同的議題。
+舉例來說，「危險 VS 救助」的搭配就是在述說關於摧毀敵人以及拯救性命之間的張力；而另一方面，「危險 VS 古怪」的組合則是在探討關於怪異而強大的表現、以及彷彿是個真正的威脅之間的微妙界線。
 
-Each  Label  in  a  hook  comes  with  an  impulse  that  tells  you  a  general 
-direction and drive that hook uses to push the PC toward that Label. For 
-example, a Freak hook might feature an impulse of “To isolate and drive 
-away,” and a Mundane hook might feature an impulse of “To make normal.” 
-When you use those hooks, look for ways to have the Freak hook drive the 
-PC into isolation, making them feel different and separate and alone, while 
-the Mundane hook offers normalcy, both by making them feel normal and by 
-telling them to hide their strangeness and act “normal.” 
+引鉤中的每個標籤屬性都帶有一個「推力」，告訴你這個引鉤用來把PC往特定標籤屬性拉扯的大致方向和動力是什麼。
+舉例來說，古怪屬性的引鉤可能會有一個寫著「孤立並趕走他人」的推力，而平凡屬性引鉤的推力則可能會寫著「使其平常普通」。
+當你要使用這些引鉤時，試著去尋找各種方式來讓古怪屬性引鉤把PC孤立起來，讓他們感到與眾不同、格格不入、與孤獨；而平凡屬性引鉤則反過來，提供他們維持正常的表象的手段，無論是讓他們感覺自己平凡無奇、或是要求他們隱藏自己的怪異之處並表現得像個「正常人」一樣。
 
 <div class='Move'>
 
@@ -100,8 +88,8 @@ feel different enough. Either way, the people involved in this pairing push them
 either further in sync with the normal people of Halcyon City, or push them 
 to be alone, separate from the people around them by their own strangeness.
 
-* 引鉤推力 — 古怪: To isolate and drive away
-* 引鉤推力 — 平凡: To make normal
+* 引鉤推力 — 古怪: 孤立並趕走他人
+* 引鉤推力 — 平凡: 使其平常普通
 </div><div class='Move'>
 
 #### 搭配: 古怪 VS 優越 
@@ -222,20 +210,7 @@ and think about other ways to pull on those Labels with those hooks.
 
 ## 成對引鉤的範例
 {{< hint info >}}
-I’m brainstorming a pair of hooks for Rex, the Transformed. Rex so far has been 
-pretty surly; he’s clearly distraught about his transformed body. He has a high Freak 
-and an especially low Mundane...but he also saved Skysong, and he’s been acting 
-more like a Savior, especially with her around. I know I can’t make Skysong a hook—
-she’s a PC—but I’m thinking about the questions for Rex: maybe “Is he a Freak or a 
-Savior?” or “Is he a Danger or a Freak?”
+我正在思考要為異變者雷克斯安排什麼樣的引鉤。到目前為止，雷克斯的態度一直都相當粗暴；他很顯然對自己那怪異的身體感到煩躁。他有著相當高的古怪屬性和特別低的平凡屬性……但他也救下了天樂女，而且他一直試著表現得像是個救助者，當在她身邊時尤其如此。我知道我不能選擇天樂女作為引鉤──畢竟她是玩家角色──但我在考慮著要給雷克斯的問題：也許是「他是古怪還是救助的？」或「他是危險還是古怪的？」
 
-Ultimately, I settle on “Is he a Freak or Mundane?” It fits his Labels as they sit 
-right now, and I can more easily think of hooks for the pairing. For Freak, it’s clearly 
-Samuel Searley, the television pundit who loves to talk about how terrifying Rex looks. 
-I’ll need to tweak what Searley says a bit moving forward to focus more on Freak 
-than Danger, but it’s an easy fix. For Mundane, I’m thinking about Grasshopper’s little 
-sister, Ciara. Rex met Ciara when he saved her from Carlo the Assassin—and I think 
-it’s interesting to have Ciara treat Rex like a normal person. We haven’t seen them 
-together on screen yet, but I like reincorporating the same character, and creating a 
-PC-NPC-PC triangle with Grasshopper.
+最後我選擇了「他是古怪還是平凡的？」 這不僅符合他現在的標籤屬性，也讓我能更容易想出這一對引鉤的內容。對於古怪屬性的人選，很顯然會是山繆．塞爾利，這位熱愛談論雷克斯的長相有多嚇人的電視名嘴。我會需要調整一下山繆的言論使其更聚焦在古怪而非危險的方向，但這好解決。至於平凡屬性的人選，我在考慮選擇蚱蜢女俠的小妹妹席亞拉。席亞拉是在雷克斯把她從刺客凱洛的手中救下時認識他的──我認為讓席亞拉像對待正常人一樣看待雷克斯將會相當有趣。我們還沒有在遊戲中看過他們同框的情況，但我喜歡把既有的角色整合再利用，並決定把蚱蜢女俠加進來，創造出一個PC-NPC-PC的三角關係。
 {{< /hint >}}

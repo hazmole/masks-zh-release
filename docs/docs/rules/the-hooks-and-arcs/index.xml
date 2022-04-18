@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>第九章：引鉤與故事弧 on 蒙面少俠 中文站</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-hooks-and-arcs/</link><description>Recent content in 第九章：引鉤與故事弧 on 蒙面少俠 中文站</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://hazmole.github.io/masks-zh-release/docs/rules/the-hooks-and-arcs/index.xml" rel="self" type="application/rss+xml"/><item><title>引鉤與故事弧($)</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-hooks-and-arcs/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-hooks-and-arcs/about/</guid><description>引鉤與故事弧
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>第九章：引鉤與故事弧 on 蒙面少俠 中文站</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-hooks-and-arcs/</link><description>Recent content in 第九章：引鉤與故事弧 on 蒙面少俠 中文站</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://hazmole.github.io/masks-zh-release/docs/rules/the-hooks-and-arcs/index.xml" rel="self" type="application/rss+xml"/><item><title>引鉤與故事弧</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-hooks-and-arcs/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-hooks-and-arcs/about/</guid><description>引鉤與故事弧
 #
 當你在主持《蒙面少俠》遊戲時，你難免會湧現出一種想要事前計劃故事發展的衝動。也許你心中會想著：其中一個PC應該要選擇離開團隊，改為加入另一個有企業贊助的新團隊，但這其實是恐怖女王策劃的陷阱，終於，他們發現了這個陷阱的存在，也多虧了他們的新隊友，最終克服了一切難關。當然，這一切故事發生的前提就是PC選擇離開團隊並掉進陷阱，對吧？而你──身為全能的遊戲主持人──可以直接讓這件事發生。
 不要這樣做。
@@ -6,15 +6,24 @@
 要主持《蒙面少俠》，你要做不是事前決定接下來將發生什麼事，而是另外一種準備：你需要創造好幾對引鉤──與PC相繫，並將他們各自往不同方向拉扯的人物或故事要素──以及故事弧──一連串試圖改變神翠市，且通常會導向最糟後果的故事要素。
 引鉤 VS 故事弧
 #
-Hooks are tools for focusing on the PCs and their stories. They remind you of what characters most strongly pull the PCs in different directions, and they give you guidance on how to use those characters during play. Hooks come in pairs: two characters that put two different Labels in conflict for the PC— Danger vs Savior, Freak vs Mundane, Superior vs Danger, Savior vs Freak, etc.</description></item><item><title>創造與使用引鉤($)</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-hooks-and-arcs/the-hooks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-hooks-and-arcs/the-hooks/</guid><description>創造引鉤
+引鉤是一種能讓專注於PC們以及其故事的工具。它們會提醒你哪些角色最能把PC們往不同的方向拉扯，並能夠引導你如何在遊戲中運用這些角色。 引鉤總是成對出現：兩個不同的角色將促使PC的兩個屬性標籤發生衝突──危險vs救助、古怪vs平凡、優越vs危險、救助vs古怪、諸如此類。 每個角色都是一個獨立的引鉤，而這兩個引鉤並不一定要直接與彼此衝突；成對的引鉤並不意味著這兩個角色要彼此爭鬥，而是去發掘PC將會踏上哪一條道路。
+另一方面，故事弧則被用來追蹤你的《蒙面少俠》遊戲中發生的主要事件。並非著眼於個別PC，故事弧讓你有機會構築出一系列不斷升級的問題好讓團隊去面對。 當征服者的外星侵略艦隊一步步向地球逼近，這就是一個故事弧。當「老師」正在組織一支被異次元力量洗腦感染的兒童軍隊時，這也是一個故事弧。 故事弧能幫助你構築出故事的整體架構，並為你提供了一種在好幾次聚會過程中安排衝突節奏的手段。</description></item><item><title>創造與使用引鉤($)</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-hooks-and-arcs/the-hooks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-hooks-and-arcs/the-hooks/</guid><description>創造引鉤
 #
-每一個引鉤都代表著一個會將PC拉向某個標籤屬性的角色。 每一對引鉤總是以某個PC為中心，並特別聚焦於這個PC可能被定義的兩個標籤屬性上。 要為PC設計一對引鉤，最簡單的方法就是自問：「（PC）是（標籤屬性）還是（標籤屬性）的？」
-把自己當作你們遊戲漫畫的讀者來回答這個問題。你覺得主角們會往什麼方向前進？你覺得其他人會如何看待他們？你認為是什麼在推動他們採取行動？創建引鉤的過程能夠豎立這些問題和想法，並讓你能夠在遊戲過程中強調它們。
-在你們第一次聚會結束後創造一些引鉤，並總是在聚會和聚會之間的空檔時間檢查它們。如果你感覺某一對引鉤已經被解決了──尤其是如果PC固定了其中一個與引鉤相關的標籤屬性──那麼就該是時候為這個PC創造一對新引鉤了。通常來說，你可以維持使用同一對引鉤長達大約三到四次聚會，並在這之後改變衝突的內容，並轉為聚焦另一組新的標籤屬性。
+每一個引鉤都代表著一個能把PC拉向某個標籤屬性的角色。 每一對引鉤總是以某個PC為中心，並特別聚焦於這個PC可能被定義的兩個標籤屬性上。 要為PC設計一對引鉤，最簡單的方法就是自問：「（PC）是（標籤屬性）還是（標籤屬性）的？」
+把你們的遊戲故事當作一本漫畫，並把自己當作這本漫畫的讀者來回答這個問題。你覺得主角們會往什麼方向前進？你覺得其他人會如何看待他們？你認為是什麼在推動他們採取行動？創建引鉤的過程能夠豎立這些問題和想法，並讓你能夠在遊戲過程中強調它們。
+在你們第一次聚會結束後創造一些引鉤，並總是在聚會和聚會之間的空檔檢查它們。如果你感覺某一對引鉤已經被解決了──尤其是如果PC已經固定了其中一個與引鉤相關的標籤屬性──那麼就該是時候為這個PC創造一對新引鉤了。通常來說，你可以持續使用同一對引鉤大約三到四次聚會，並在這之後改變衝突的內容，轉為聚焦另一組新的標籤屬性。
 當你創造一對新的引鉤時：
 選擇被這對引鉤拉扯的PC 選擇涉及的標籤屬性 為引鉤指派NPC 選擇PC
 #
-Ultimately, you need at least one pair of hooks for each PC so you have something to guide you on how to pull each PC’s self-image. When you’re choosing which PC to build a new pair of hooks for, though, only choose PCs who either don’t have hooks yet or who’ve resolved their last pair of hooks.</description></item><item><title>創造與使用故事弧($)</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-hooks-and-arcs/the-arcs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-hooks-and-arcs/the-arcs/</guid><description>創造故事弧
+你最終會需要為每個PC安排至少一對引鉤，協助你思考該如何拉扯每一個PC的自我印象。 當你在選擇要為哪一個PC創建新的引鉤時，你只需要選擇那些尚未被安排引鉤、或者上一個引鉤已經被解決掉了的PC。
+當你選好PC之後，看一下他們的標籤屬性，並仔細留意有誰擁有對他們的影響力、有誰會被他們給影響、以及任何跟他們有關的其他角色。
+選擇標籤屬性
+#
+每一組標籤屬性都描繪著一種不同類型的衝突、一組截然不同的議題。 舉例來說，「危險 VS 救助」的搭配就是在述說關於摧毀敵人以及拯救性命之間的張力；而另一方面，「危險 VS 古怪」的組合則是在探討關於怪異而強大的表現、以及彷彿是個真正的威脅之間的微妙界線。
+引鉤中的每個標籤屬性都帶有一個「推力」，告訴你這個引鉤用來把PC往特定標籤屬性拉扯的大致方向和動力是什麼。 舉例來說，古怪屬性的引鉤可能會有一個寫著「孤立並趕走他人」的推力，而平凡屬性引鉤的推力則可能會寫著「使其平常普通」。 當你要使用這些引鉤時，試著去尋找各種方式來讓古怪屬性引鉤把PC孤立起來，讓他們感到與眾不同、格格不入、與孤獨；而平凡屬性引鉤則反過來，提供他們維持正常的表象的手段，無論是讓他們感覺自己平凡無奇、或是要求他們隱藏自己的怪異之處並表現得像個「正常人」一樣。
+搭配: 危險 VS 古怪
+#
+This pairing is about power—especially when it gets out of hand. PCs involved in a Danger vs Freak pairing are often the most powerful of their team, capable of rewriting existence or causing massive destruction.</description></item><item><title>創造與使用故事弧($)</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-hooks-and-arcs/the-arcs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-hooks-and-arcs/the-arcs/</guid><description>創造故事弧
 #
 The plans of villains and antagonists in Halcyon City are sometimes as simple as, “Rob a bank!” “Steal a McGuffin!” But the PCs also have to save the city from grander, more dangerous, more dramatic threats, problems that span across multiple issues of your comic and multiple sessions of your game. Those threats and problems are your arcs.
 Each arc has a cast of NPCs and other fictional elements (places and objects of importance), an arc type, and three phases.</description></item></channel></rss>

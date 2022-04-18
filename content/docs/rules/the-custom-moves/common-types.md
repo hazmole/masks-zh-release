@@ -159,25 +159,22 @@ down particular paths much more strongly, and ensure PCs reach their upper
 level advances much sooner.
 
 <div class='Move'>
-<h4>團隊值</h4>
+<h4>團隊默契屬性</h4>
 
-The team as a whole gains a Team stat, and a Team track with five boxes.
-Your Team stat starts the game at +0. Your Team stat can never go higher than +3
-or lower than -2.
+整個團隊共用一個默契屬性，以及一條有五個格子的團隊軌。
+你們的團隊屬性在遊戲開始時為+0。你們的默契屬性永遠不會高於+3或低於-2。
 
-Whenever you would add a Team to the pool, mark a box on the track instead. When
-you mark the fifth box, clear it and increase your Team stat by +1. 
-Whenever you would spend a Team from the pool, instead clear one box on the track. If there are no filled boxes
-to clear, then decrease your Team stat by -1.
+每當你要增加一點團隊默契時，改為標記一格團隊軌。當你標記了第五個格子，將團隊軌清空並使默契屬性+1。
+每當你要花費一點團隊默契時，改為清除一格團隊軌。如果團隊軌上已經沒有可以清除的格子，則使默契屬性-1。
 
-When you help a teammate, roll + Team. 
+當你協助隊友時，擲<b>+默契</b>。
 
-On a hit, add +1 to their roll. <br>
-On a 7-9, clear one box on the Team track. <br>
-On a miss, clear one box on the Team track in addition to any other hard moves.
+若成功，他的擲骰結果+1。<br>
+擲出7-9時，清除一格團隊軌。<br>
+若失敗，清除一格團隊軌，且GM再進行一個任意的硬動作。
 
-When you act selfishly, say how your actions ignore or insult your teammates and roll + Team instead of your usual Label on any move. 
-After the move is resolved, decrease the Team stat by -1.
+當你自私地採取行動時，說明你的行動是如何忽略或侮辱你的隊友，並擲<b>+默契</b>來取代你原本的標籤屬性。
+在處理完該動作的結果之後，使默契屬性-1。
 </div>
 
 This is a big change, one that messes with a core economy of the game—

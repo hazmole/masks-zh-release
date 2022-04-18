@@ -1,5 +1,5 @@
 ---
-title: 引鉤與故事弧($)
+title: 引鉤與故事弧
 weight: 1
 ---
 
@@ -14,19 +14,10 @@ weight: 1
 
 
 ## 引鉤 VS 故事弧
-Hooks are tools for focusing on the PCs and their stories. They remind you 
-of what characters most strongly pull the PCs in different directions, and they 
-give you guidance on how to use those characters during play. Hooks come 
-in pairs: two characters that put two different Labels in conflict for the PC—
-Danger vs Savior, Freak vs Mundane, Superior vs Danger, Savior vs Freak, etc. 
-Each character is an individual hook. The two hooks aren’t necessarily directly 
-in conflict with each other; the pairing isn’t about those two characters fighting 
-each other, but instead about discovering which path the PC will follow.
+引鉤是一種能讓專注於PC們以及其故事的工具。它們會提醒你哪些角色最能把PC們往不同的方向拉扯，並能夠引導你如何在遊戲中運用這些角色。
+引鉤總是成對出現：兩個不同的角色將促使PC的兩個屬性標籤發生衝突──危險vs救助、古怪vs平凡、優越vs危險、救助vs古怪、諸如此類。
+每個角色都是一個獨立的引鉤，而這兩個引鉤並不一定要直接與彼此衝突；成對的引鉤並不意味著這兩個角色要彼此爭鬥，而是去發掘PC將會踏上哪一條道路。
 
-Arcs, on the other hand, are tools for tracking overarching issues in your 
-game of MASKS. Instead of focusing on any individual PC, they give you the 
-chance to build on the escalating problems facing the team. When Vanquish’s 
-alien invasion fleet is getting closer and closer to Earth, that’s an arc. When the 
-Teacher is assembling an army of brainwashed, extradimensionally infected 
-children, that’s an arc. Arcs help structure your overall story, and give you a 
-way to pace the conflict over multiple sessions. 
+另一方面，故事弧則被用來追蹤你的《蒙面少俠》遊戲中發生的主要事件。並非著眼於個別PC，故事弧讓你有機會構築出一系列不斷升級的問題好讓團隊去面對。
+當征服者的外星侵略艦隊一步步向地球逼近，這就是一個故事弧。當「老師」正在組織一支被異次元力量洗腦感染的兒童軍隊時，這也是一個故事弧。
+故事弧能幫助你構築出故事的整體架構，並為你提供了一種在好幾次聚會過程中安排衝突節奏的手段。
