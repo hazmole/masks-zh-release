@@ -1,5 +1,5 @@
 ---
-title: 常見自訂動作類型($)
+title: 常見自訂動作類型
 weight: 3
 ---
 
@@ -71,13 +71,10 @@ weight: 3
 </div>
 
 ## 更進一步
-There are tons of custom moves you can make to hone and focus your game
-of MASKS—the game is a framework that’s plenty strong enough to manage your
-permutations. But you can push it hard, too, creating custom moves that really
-push the game into whole new directions.
+你可以使用大量的自訂動作來打磨並聚焦你的《蒙面少俠》遊戲──這款遊戲的框架相當強健並足以支持你的改動。
+你甚至可以再更進一步，創建出能夠真正把這款遊戲往不同方向推進的自訂動作。
 
-Here are a few examples of some big changes you can make with custom
-moves in MASKS.
+下面舉幾個範例，顯示你可以如何透過編寫《蒙面少俠》的自訂動作來做出大大的改變。
 
 <div class='Move'>
 <h4>可消耗的影響力</h4>
@@ -91,12 +88,9 @@ moves in MASKS.
 - (對PC) 讓該角色在對你進行的動作中承受-2減值
 </div>
 
-This change will have repercussions all over the system, so if you go with
-it, you’ll have to tweak a bunch of other moves a bit. The ultimate effect,
-though, is that Influence becomes more of a spendable resource, something
-you accumulate and then use. It makes the game much more directly about
-emotional manipulation and leverage—most likely, a game with these rules
-would be darker and more cynical.
+這個改動會對整個遊戲系統產生影響，所以如果你使用了這個改動，你將會需要再修改許多其他動作。
+但這個改動帶來的最終結果是，它把影響力變成了一種可消耗的資源，某個你可以累積起來運用的東西。
+這將使整個遊戲在關於情緒操縱和利用的處理上變得更加直接──最有可能的事，使用這些規則的遊戲將會變得更黑暗和煽惑。
 
 <div class='Move'>
 <h4>自訂狀態</h4>
@@ -106,12 +100,8 @@ would be darker and more cynical.
 如果你在故事中採取了適當的行動來舒緩你的狀態，則你可以將它清除。
 </div>
 
-Custom conditions allow for a much wider array of descriptions of
-the emotions the PCs undergo, and they give you a lot more freedom in
-interpreting when a condition actually affects the situation. But they also lose
-a lot of their focus and tightness—you no longer have clear situations in which
-the condition does or doesn’t matter, and you lose the clear path to removing
-the condition.
+自訂狀態讓你們能更廣泛而靈活地去描述PC們深陷的情緒狀態，並給予你更多的自由去詮釋這些「狀態」是否會對當下的情境造成實際影響。
+但自訂狀態同時也失去了它們絕大部分的重點和嚴密性──你沒有辦法明確地判斷這個狀態會不會造成影響，且你也失去了清除這些狀態的明確手段。
 
 <div class='Move'>
 <h4>傷害軌</h4>
@@ -129,12 +119,8 @@ the condition.
 GM能夠以一個硬動作來直接造成傷害。
 </div>
 
-Maybe you want physical harm to have more meaning in your game.
-Adding a set of custom mechanics like this makes everyone pay more attention
-to physical damage, and the threat of dying becomes real. The tone of the
-game takes a huge swing for darker territory, with death genuinely on the
-line, and Danger takes on a much greater significance as beating enemies into
-submission becomes a much more straightforward and effective tactic.
+也許你希望物理傷害在你的遊戲中佔有更大的意義。加入像這這的機制將會使所有人都更加專注在物理傷害上，而死亡的威脅也會變得更具體。
+伴隨著真正死亡的可能性，整個遊戲的調性將會一口氣變得更加黑暗，而隨著毆打敵人以使之屈服成為了一種更直接且有效的策略，危險屬性的重要性也因此有了顯著的提升。
 
 <div class='Move'>
 <h4>更快的成長發展</h4>
@@ -145,18 +131,10 @@ submission becomes a much more straightforward and effective tactic.
 - 我們是否理解了更多關於某個迫近陰謀的情報？
 - 我們是否像一個團隊一樣彼此連結？
 </div>
-This kind of change may seem pretty small, ultimately, but it plays into
-many of the other economies and balances of MASKS. PCs advance much more
-quickly when they often get three more potential at the end of the session.
-But this also strongly incentivizes taking those specific actions described in
-the move and it takes some emphasis off the existing ways to gain potential—
-namely, making moves with lower Labels so you roll a miss.
+這類改動對於整體系統的衝擊可能看起來不大，但它會對《蒙面少俠》的許多其他經驗值經濟和平衡造成許多影響。首先，因為PC們在每次聚會結束時能額外獲得最多3點前能，他們成長的步調會變得更快。除此之外，這也會強烈鼓勵他們採取那些動作上描述的行為，並在一定程度上把焦點移開原本的潛能獲取手段──也就是使用較弱勢的標籤屬性來進行動作，透過失敗來賺取潛能。
 
-You could tweak the questions attached to this move to really define the
-specific kind of game you’re playing. You could come up with specific questions
-for every playbook in your game, if you wanted. All of them would drive play
-down particular paths much more strongly, and ensure PCs reach their upper
-level advances much sooner.
+你可以修改這個動作中附帶的問題，去真正定義你們遊戲的性質。如果你想的話，你也可以為你們遊戲中的每個扮演書都寫下特定的提問。
+所有這些變動都會更強烈地推動遊戲往特定的路徑發展，並確保PC們能夠更快地進入他們的進階成長發展選項。
 
 <div class='Move'>
 <h4>團隊默契屬性</h4>
@@ -177,8 +155,6 @@ level advances much sooner.
 在處理完該動作的結果之後，使默契屬性-1。
 </div>
 
-This is a big change, one that messes with a core economy of the game—
-Team. Team is less transitory; increasing the Team score can feel cooler than
-just adding Team to the pool. It’s also going to be a lot easier for teammates to
-help each other; even when Team’s at +0, PCs will now be able to roll it to help
-each other out. The added rules might also slow down the game a bit.
+這是個很大的改動，大幅地擾亂整個遊戲機制的核心經濟──團隊默契。
+團隊默契不再是暫時性的資源；而且提高默契屬性會比單純的增加團隊默契更有趣。這也讓團隊成員能更輕易的幫助彼此；就算默契屬性只有+0，PC們現在也可以擲骰來幫助彼此了！
+這些新加入的規則同時也可能讓遊戲的步調稍微慢下來，因為你們有更多東西要去處理了。
