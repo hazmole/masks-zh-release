@@ -6,7 +6,8 @@ weight: 2
 # 浪子 The Nomad
 
 <div class="playbookDesc">
-	也許曾經你有過家，曾有過規律的生活。但就算你曾有過，那也已經是很久很久以前的事了。你已經在廣袤宇宙、時光歲月、和所有一切中獨自一人顛波流離了好幾年。<br>
+	也許曾經你有過家，曾有過規律的生活。但就算你曾有過，那也已經是很久很久以前的事了。<br>
+	你已經在廣袤宇宙、時光歲月、和所有一切中獨自一人顛波流離了好幾年。<br>
 	但現在，你離開了那遙遠星際，回到了地球。讓其他人進入你的生活，可要比穿梭在其他維度之間難得太多了。
 </div>
 
@@ -74,77 +75,67 @@ more settled, and less nomadic.
 
 * 男性, 女性, 模稜兩可, 性別認同轉變, 性別越界
 * 亞洲或南亞裔, 黑人, 西班牙/拉丁美洲人, 印地安人, 中東人, 白人
-* average body, compact body, modified body, sculpted body, wiry body
-* traveling clothing, garish clothing, extraterrestrial clothing, unassuming clothing
-* weird jewelry, strange greatcoat, eccentric boots, unusual gloves, uncanny belt
+* 平均的身體, 結實的身體, 改造過的身體, 雕塑般的身體, 精瘦的身體
+* 旅行服裝, 花俏的服裝, 外星服裝, 不起眼的服裝
+* 怪異的首飾, 奇怪的長大衣, 詭異的靴子, 異常的手套, 怪誕的腰帶
 
 ## 超能力
 <div class="Instructions">
-You’ve seen space, time, and everything in between. One might say you’ve seen it all. Besides your
-tremendous knowledge, experience, and haphazard on-the-job training, you picked up some neat
-toys on your travels. Pick two of your most important.</div>
+你曾見識過宇宙時空中的萬物，其他人或許會宣稱你曾看過所有一切。除了你淵博的學識、經驗、以及雜亂隨意的鍛鍊之外，你在旅途中還撿回了一些奇妙的玩具。選擇二個你最重要的道具。</div>
 
-* rift generator
-* forcefield projectors
-* modular blaster
-* anti-grav pack
-* cloaking rig
-* wearable ultraprocessor
+* 裂隙產生裝置
+* 力場投影儀
+* 組合式爆能槍
+* 反重力背包
+* 隱形裝置
+* 穿戴式超級處理系統
 
 ## 標籤屬性
 <div class="Instructions">在創建角色時，自行選擇一個標籤屬性 +1。</div>
 　危險+0　　古怪+2　　救助-1　　優越+2　　平凡-1
 
 ## 背景故事
-* Who took you from the Earth when you were younger?
-* What farscapes did you explore?
-* Who was your favorite traveling companion?
-* What brought you back to stay (for now)?
-* Why do you care about the team?
+* 誰在你還年輕時把你帶離了地球？
+* 你曾探索過什麼樣的遙遠星際？
+* 你最喜歡的旅行同伴是誰？
+* 是什麼讓你回到了這裡並留下來（至少目前如此）？
+* 你為什麼在乎這個團隊？
 
 ## 關鍵時刻
 <div class="Move">
-  You basically exist with one foot out the door, ready to leave this place, to go back out into the
-wide expanse of the universe. You’ve never fully committed. That is, until today. Until right now.
-Now, you pour everything you have and everything you are into this moment. You pull off tricks
-no one from this planet has ever seen before. You use your tools in ways no one here could have
-ever imagined. You devote yourself, here and now, to a cause, and you achieve your goal in ways
-that you never could’ve if you’d only stayed home. Of course, now you’ve proved to everyone that
-you really don’t belong here, and the very skills that let you succeed are the ones you earned from
-out there...
+	你的存在方式基本上是一隻腳站在門外．隨時準備好離開這裡，回到遙遠宇宙的廣袤天地之中。你從未完全投入過這裡。
+	直到今天，直到現在。就在此時此刻，你將你的所有一切都傾注在這一刻。你施展出了這個星球上從未有人見過的把戲，你用這裡人們從未想像過的方式運用你的工具。你在此刻將自己全身全心地投入了這個目標，並以超乎想像的方式將其實現──如果你只待在家裡，就絕不可能辦到這件事。<br>
+	當然，現在你已經向所有人證明了你確實不屬於這裡，而引領你成功的那些技巧也正是你從遙遠外鄉學到的……
 </div>
 
 ## 團隊動作
 <div class="Move">
-	When you share a triumphant celebration with someone, ask them what they admire about you.
-The GM will shift one of your Labels up and one down based on what they say.
+	當你與某人共同慶祝勝利時，詢問他欣賞你的哪一點。GM會根據他的回答調動你的標籤屬性。
 </div>
 <div class="Move">
-	When you share a vulnerability or weakness with someone, mark a condition, give them Influence
-over you, and mark potential.
+	當你向某人傾訴你的弱點時，標記一個狀態，讓他獲得對你的影響力，並標記一點潛能。
 </div>
 
 ## 額外事物
 <div class="Move">
 
-### 〈Putting Down Roots〉
-You have one foot out the door, and it shows. Over time, you may be able to commit to this place.
-* Adults do not have Influence over you by default. No one does.
-* You can only give a total of 6 Influence.
-* During play, you can only give Influence by revealing a vulnerability or weakness to someone. You can still give out Influence through the end of session move. You cannot give Influence to somebody who already has Influence over you.
-* Others cannot take Influence over you; if they would, instead they choose: mark potential or inflict a condition on you.
-* You reject Influence at -2 by default, instead of +0.
-* When someone takes advantage of their  Influence over you, they can choose two options.
-* At the end of a session, you can take back 1 Influence from someone you choose.
-* If you have given out 0-Influence, you  cannot comfort or support anyone. If you would trigger that move, instead mark a condition as you say exactly the wrong thing. If you have given out 0-Influence and someone tries to comfort or support you, you cannot open up to them.
+### 〈落地生根〉
+你的一隻腳站在門外，且這個事實無疑表現了出來。但隨著時間推移，或許你能夠投入在這個地方。
+* 成年人不再預設擁有對你的影響力。沒有人有。
+* 你只能讓總共 6 個人獲得對你的影響力。
+* 在遊戲中，你只能透過〈傾訴弱點〉來讓其他人獲得對你的影響力。且你仍然能透過聚會結束時的聚會動作來給出你的影響力。你不能讓已經擁有你影響力的角色再次獲得對你的影響力。
+* 其他人無法主動獲得對你的影響力；若他們將要這麼做，則他們改為：標記一點潛能、或是對你造成一個狀態。
+* 當你〈拒絕他人的影響力〉時，你擲骰的預設加值為 -2，而非原本的 +0。
+* 當某人對你進行〈耗用影響力〉時，他們可以選擇兩個選項。
+* 在聚會結束時，你可以選擇拿回一個某人對你的影響力。
+* 若沒有任何人擁有對你的影響力，則你無法〈安慰或支持某人〉。如果你的行為會觸發該動作，則你改為因為失言搞砸而標記一個狀態。若沒有任何人擁有對你的影響力，且某人嘗試對你進行〈安慰或支持某人〉時，則你無法選擇對他們敞開心胸。
 
-You gain benefits based on how much  Influence you have given out. See below. These benefits stack.
-* 1-2 Influence: When you defend someone who has Influence over you, you can ignore the Insecure condition.
-When you directly engage someone who has Influence over you, you can ignore the Afraid condition.
-* 3 Influence: When you take a powerful blow from someone with Influence over you, take -2 to the roll.
-* 4 Influence: When you pierce the mask of someone who has Influence over you, you can always ask them one question, even on a miss.
-* 5 Influence: When you spend a Team to help someone who has Influence over you, it gives them +2.
-* 6 Influence: When you accept the words of someone who has Influence over you, mark potential, clear a condition, or take +1 forward.
+取決於你給出的影響力數量（有多少人擁有對你的影響力），你將獲得相應的好處。如下所示，且這些好處會疊加。
+* 1-2 個影響力: 當你對擁有你影響力的對象進行〈保衛某人〉時，你可以無視「不安」狀態的減值。當你對擁有你影響力的對象進行〈直面威脅〉時，你可以無視「恐懼」狀態的減值。
+* 3 個影響力: 當你受到來自擁有你影響力的對象的打擊而進行〈承受沉重打擊〉時，你的擲骰獲得 -2減值。
+* 4 個影響力: 當你對擁有你影響力的對象進行〈揭穿面具〉時，你永遠可以詢問對方一個問題，即使失敗也一樣。
+* 5 個影響力: 當你消耗一點團隊默契來幫助擁有你影響力的對象時，對方將獲得 +2加值。
+* 6 個影響力: 當你接受擁有你影響力的對象的話語時，你可以選擇標記一點潛能、清除一個狀態、或獲得下次+1。
 </div>
 
 
@@ -153,56 +144,48 @@ When you directly engage someone who has Influence over you, you can ignore the 
 <div class="Instructions">選擇二個：</div>
 <div class="Move">
 
-### 〈No good at being a kid〉
-When you clear a condition, you can shift Labels, your choice.
+### 〈不擅長當個孩子〉
+當你清除狀態時，你可以調動你的標籤屬性，由你決定。
 </div>
 <div class="Move">
 
-### 〈Watched C-beams glitter〉
-When you make a claim about a strange situation or phenomenon based on your experience, roll + Freak. 
-On a hit, you were right; the GM will tell you what opportunity your knowledge grants to you. On a 7-9, your claim is
-incomplete, flawed, or tangential; the GM will
-tell you how. On a miss, your experiences are
-incomplete; the GM will tell you what mistake
-your flawed understanding leads you to make.
+### 〈見證C光束在彼端閃爍〉
+當你根據自己的經歷對一個奇怪的情境或現象提出主張時，擲<b>+古怪</b>。
+
+擲出成功時，你是對的；GM會告訴你你的學識讓你們獲得了什麼樣的機會。<br/>
+擲出7-9時，你的主張並不完整、有瑕疵、或有些扯遠了；GM會告訴你是怎麼樣。<br/>
+擲出失敗時，你的經驗是不完全的；GM會告訴你這錯誤的理解會導致你犯下什麼樣的錯誤。
 </div>
 <div class="Move">
 
-### 〈I hate calling the cavalry〉
-When you call the allies
-you made beyond this world to ask them for help,
-mark a condition and roll + Superior. On a hit,
-someone shows up to lend you a hand. On a 7-9,
-they’re dragging their own problems. On a miss,
-your call reaches someone you wish it hadn’t.
+### 〈我討厭呼叫騎兵隊幫忙〉
+當你打給你在這個世界之外結交的盟友並尋求他們的協助時，標記一個狀態，並擲<b>+優越</b>。
+
+擲出成功時，某人現身並助你一臂之力。<br/>
+擲出7-9時，他們也會帶來他們自己的問題。<br/>
+擲出失敗時，你的傳訊被某個你不希望他收到的人收到了。
 </div>
 <div class="Move">
 
-### 〈The littlest space bandit〉
-When you directly engage a threat that underestimates you, roll + Superior instead of + Danger.
+### 〈最小的宇宙海盜〉
+當你〈直面威脅〉一個低估了你的對手時，擲+優越來取代+危險。
 </div>
 <div class="Move">
 
-### 〈Out of this world〉
-When you plug into the cosmic
-aether and tune out of this world, roll + Freak. On
-a hit, you come to a new, interesting insight about
-your current problems and situation; the GM
-will tell you what. On a 10+, you can also shift
-your own Labels according to match your new
-understanding. On a miss, you realize something
-dangerous or terrible; the GM will tell you what,
-and shift your Labels accordingly.
+### 〈此世之外〉
+當你連接沉浸在宇宙乙太並冥想脫離這個世界時，擲<b>+古怪</b>。
+
+擲出成功時，你帶回了一個與你們當前面對的問題和情境有關的嶄新見解；GM會告訴你那是什麼。<br/>
+擲出10+時，你還可以根據你的新見解來調動你的標籤屬性。<br/>
+擲出失敗時，你意識到某個危險或可怕的事物；GM會告訴你那是什麼，並據此來調動你的標籤屬性。
 </div>
 <div class="Move">
 
-### 〈Sharpened eyes〉
-When you assess the situation,
-you may always ask one of the following
-questions, even on a miss:
-- What’s my best way out/way in/way past?
-- What here would be handy to grab?
-- Who here is susceptible to my words?
+### 〈歷經磨練的目光〉
+當你〈評估局勢〉時，你永遠可以詢問下列其中一個問題，即使失敗也一樣：
+- 我要離開/創入/經過這裡最好的方法是什麼？
+- 這裡有什麼是容易帶走的？
+- 這裡有誰容易被我的話語給影響？
 </div>
 
 ---
@@ -211,14 +194,14 @@ questions, even on a miss:
 </div>
 
 ## 當團隊初次集結時……
-We had to deal with a danger I’d met while traveling the farscapes. What was it, and how did we send it away?
+我們對付了一個我在遙遠星際間旅行時曾經遇過的危險。它是什麼？且我們是如何將它送走的？
 
 ## 人際關係
-* __________________ knows plenty that I don’t about this world, its people, and how to deal with them; I should follow their lead while I’m here.
-* __________________ is...well...boring. But that’s okay! I’m going to make them more interesting.
+* ________ 知道很多我不知道的事情：關於這個世界、人們、以及如何與他們相處的種種；我待在這裡的期間應該聽從他的指示。
+* ________ 還蠻……嗯……無聊的。不過沒關係！我會讓他變有趣的。
 
 ## 影響力
-You’re here, but not, and it’s going to take some time before you really commit. Give no one Influence over you.
+你身處於此，但也不在此間。你還需要一點時間才能真正投入於此。沒有人獲得對你的影響力。
 
 ---
 ## 成長發展

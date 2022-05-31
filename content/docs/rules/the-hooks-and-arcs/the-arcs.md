@@ -32,11 +32,11 @@ should be drawing on for future sessions.
 
 ### 選擇故事弧類型
 你總共有五種故事弧類型可以選擇：
-* 墮落 — something good, positive, or helpful is made dangerous and threatening 
-* 侵略 — threats and enemies fight their way into control 
-* 限制 — those with power place constraints on those without 
-* 毀滅 — threats and enemies break and destroy what stands in their way 
-* 復興 — the heroes push to repair what damage has been done 
+* 墮落 — 某個良善、正面、或有幫助的事物被變得危險且有威脅性。
+* 侵略 — 敵人和威脅透過戰鬥來取得控制權。
+* 限制 — 那些有權力的人們對沒有權力的人們施加了限制。
+* 毀滅 — 敵人和威脅破壞並摧毀擋在他們路上的一切。
+* 復興 — 英雄們努力修復已經造成的傷害。
 
 Each arc type comes with several subtypes to further define exactly what 
 the arc is about and to give it an impulse—an overarching tendency for the 
@@ -156,10 +156,10 @@ someone’s trying to undo the damage done by an arc in the past, they’re like
 calling on the relevant subtype here. 
 
 ##### Restoration Subtypes: 
-•  Redemption (impulse: to draw into the light) 
-•  Reclamation (impulse: to repel through force and battle) 
-•  Rebellion (impulse: to subvert through chaos and mayhem) 
-•  Reconstruction (impulse: to rebuild despite danger) 
+* Redemption (impulse: to draw into the light) 
+* Reclamation (impulse: to repel through force and battle) 
+* Rebellion (impulse: to subvert through chaos and mayhem) 
+* Reconstruction (impulse: to rebuild despite danger) 
 
 ##### Restoration Moves: 
 * Reveal a rebuilt threat 
