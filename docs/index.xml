@@ -276,9 +276,15 @@ The Harbinger makes time travel an important element of the game—but does not 
 #
 每一組標籤屬性都描繪著一種不同類型的衝突、一組截然不同的議題。 舉例來說，「危險 VS 救助」的搭配就是在述說關於摧毀敵人以及拯救性命之間的張力；而另一方面，「危險 VS 古怪」的組合則是在探討關於怪異而強大的表現、以及彷彿是個真正的威脅之間的微妙界線。
 引鉤中的每個標籤屬性都帶有一個「推力」，告訴你這個引鉤用來把PC往特定標籤屬性拉扯的大致方向和動力是什麼。 舉例來說，古怪屬性的引鉤可能會有一個寫著「孤立並趕走他人」的推力，而平凡屬性引鉤的推力則可能會寫著「使其平常普通」。 當你要使用這些引鉤時，試著去尋找各種方式來讓古怪屬性引鉤把PC孤立起來，讓他們感到與眾不同、格格不入、與孤獨；而平凡屬性引鉤則反過來，提供他們維持正常的表象的手段，無論是讓他們感覺自己平凡無奇、或是要求他們隱藏自己的怪異之處並表現得像個「正常人」一樣。
-搭配: 危險 VS 古怪
+組合: 危險 VS 古怪
 #
-This pairing is about power—especially when it gets out of hand. PCs involved in a Danger vs Freak pairing are often the most powerful of their team, capable of rewriting existence or causing massive destruction.</description></item><item><title>成年英雄動作</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-future/adult-moves/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-future/adult-moves/</guid><description>成年英雄動作
+這一組引鉤是關於力量──尤其是當力量開始失控的時候。捲入「危險 VS 古怪」引鉤的PC通常會是他們團隊中最強大的角色，有能力改寫現實法則、或造成大規模的破壞。 他們身邊的人們會質疑他們的力量是否值得信任──也許因為他們仍然是孩子、或者因為他們擁有的力量強大到超過所有人能夠信任的極限。
+引鉤推力 — 危險: 提醒他們的附帶傷害 引鉤推力 — 古怪: 突顯他們的怪異和能力 組合: 危險 VS 平凡
+#
+這一組引鉤是關於恐懼。捲入「危險 VS 平凡」引鉤的PC被他們親近的人們所理解，卻被他人所懼怕──直到事情出了差錯，而恐懼也將如野火蔓延。 他們是否能向那些害怕他們的人展現出，他們的內心也只不過是一個普通人類。或者他們最終會成為那所有人都擔心無法阻止的可怕威脅？
+引鉤推力 — 危險: 去猜疑和煽動 引鉤推力 — 平凡: 中斷危險的情境發展 組合: 危險 VS 救助
+#
+這一組引鉤是關於英雄職責。捲入「危險 VS 救助」引鉤的PC會在擊敗敵人和拯救生命之間掙扎。 當他們被捲入危險的戰鬥時，他們會無法確定自己是該迅速強硬的擊倒反派、還是應該冒著讓反派逃走的風險而專注在保護人民不受傷害。</description></item><item><title>成年英雄動作</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-future/adult-moves/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-future/adult-moves/</guid><description>成年英雄動作
 #
 神翠市中的成年超級英雄可以做到許多年輕英雄做不到的事情。然而，隨著年輕英雄的信心、實力、和超能力的增長，他們的能力也會逐漸成熟。
 成年英雄動作本質上就是更強大版本的基本動作。 但它們無法完全取代基本動作──就算你現在能夠〈制服脆弱的敵人〉，並不代表你就無法再〈直面威脅〉。
@@ -884,7 +890,12 @@ GM基本動作
 #
 當你拒絕某人對你的影響時，擲骰。
 若成功，則你成功堅持自我，並將他拒於門外。 擲出10+時，選擇二項。擲出7-9時，選擇一項。</description></item><item><title>明星 The Star</title><link>https://hazmole.github.io/masks-zh-release/docs/sup_halcyon-city-herald/playbooks/the-star/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/sup_halcyon-city-herald/playbooks/the-star/</guid><description>明星 The Star
-#</description></item><item><title>為什麼要玩這個遊戲？</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-basics/why-play/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-basics/why-play/</guid><description>為什麼要玩這個遊戲？
+#
+Being a hero isn't just about doing right. It's about being seen doing right.
+Let them think you're shallow for loving the spotlight and the cameras, for making speeches, for smiling so much.
+You'll be a hero in all the ways that matter.
+如何扮演明星
+Arrogant, ambitious, flamboyant, delightful. The Star is a young celebrity, aware of their status and interested in obtaining more of it.</description></item><item><title>為什麼要玩這個遊戲？</title><link>https://hazmole.github.io/masks-zh-release/docs/rules/the-basics/why-play/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/masks-zh-release/docs/rules/the-basics/why-play/</guid><description>為什麼要玩這個遊戲？
 #
 為什麼我們要做這些？現在的電視、電影院、甚至書店裡都有很多超級英雄的故事，你不需要花力氣自己寫就可以享受它們，為什麼我們還要花這麼大力氣去講故事呢？
 因為這一切都太他媽棒透了！

@@ -5,6 +5,8 @@ weight: 3
 
 # 不良少年 The Delinquent
 
+{{< playbookImg url="header-delinquent.png" >}}
+
 <div class="playbookDesc">
 	你得到了這些酷炫的能力。但所有人總是對你使用它們的方式指指點點。<br/>
 	你知道他們需要什麼嗎？沒錯，一個給他們添亂的壞胚子，讓他們知道事情不會總順著他們的意。然後，嘿！知道嗎？你正是做這件事的完美英雄人選。

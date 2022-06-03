@@ -5,6 +5,8 @@ weight: 2
 
 # 蠻牛 The Bull
 
+{{< playbookImg url="002.png" >}}
+
 <div class="playbookDesc">
 	你強大、壯碩、而且堅忍結實。你知道什麼才是真正的戰鬥，且你十足擅長。<br/>
 	當然……你也有著軟弱的一面，但你只會把它展現給你最親近的對象。<br/>

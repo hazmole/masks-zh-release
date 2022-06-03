@@ -5,6 +5,8 @@ weight: 1
 
 # 明燈 The Beacon
 
+{{< playbookImg url="header-beacon.png" >}}
+
 <div class="playbookDesc">
 	你沒有必要這麼做。你大可以過著你安全、舒適、單純的人生，那確實不錯。<br/>
 	但……拜託，超能力耶！外星人！巫師！時間旅行！<br/>

@@ -34,41 +34,32 @@ weight: 2
 
 <div class='Move'>
 
-#### 搭配: 危險 VS 古怪
+#### 組合: 危險 VS 古怪
 
-This pairing is about power—especially when it gets out of hand. PCs involved 
-in a Danger vs Freak pairing are often the most powerful of their team, capable 
-of rewriting existence or causing massive destruction. Those around them 
-question whether they can be trusted with their power—maybe because they’re 
-kids or because they have more power than anybody should be trusted with.
+這一組引鉤是關於力量──尤其是當力量開始失控的時候。捲入「危險 VS 古怪」引鉤的PC通常會是他們團隊中最強大的角色，有能力改寫現實法則、或造成大規模的破壞。
+他們身邊的人們會質疑他們的力量是否值得信任──也許因為他們仍然是孩子、或者因為他們擁有的力量強大到超過所有人能夠信任的極限。
 
 * 引鉤推力 — 危險: 提醒他們的附帶傷害
 * 引鉤推力 — 古怪: 突顯他們的怪異和能力
 </div><div class='Move'>
 
-#### 搭配: 危險 VS 平凡
-This pairing is about fear. PCs involved in a Danger vs Mundane pairing are 
-viewed with understanding by those close to them, and fear by others—until 
-things go wrong, and the fear may spread like wildfire. But can they show those 
-who fear them that they’re just a person at heart? Or will they turn out to be 
-the threat everyone worries can’t be stopped?
+#### 組合: 危險 VS 平凡
+這一組引鉤是關於恐懼。捲入「危險 VS 平凡」引鉤的PC被他們親近的人們所理解，卻被他人所懼怕──直到事情出了差錯，而恐懼也將如野火蔓延。
+他們是否能向那些害怕他們的人展現出，他們的內心也只不過是一個普通人類。或者他們最終會成為那所有人都擔心無法阻止的可怕威脅？
 
 * 引鉤推力 — 危險: 去猜疑和煽動
 * 引鉤推力 — 平凡: 中斷危險的情境發展
 </div><div class='Move'>
 
-#### 搭配: 危險 VS 救助
-This pairing is about heroic roles. PCs involved in a Danger vs Savior pairing 
-are torn between defeating enemies and saving lives. When they’re caught in a 
-dangerous fight, they’re not sure if they should take down the villain fast and 
-hard or if they should focus on keeping people safe at the cost of potentially 
-letting the villain escape. 
+#### 組合: 危險 VS 救助
+這一組引鉤是關於英雄職責。捲入「危險 VS 救助」引鉤的PC會在擊敗敵人和拯救生命之間掙扎。
+當他們被捲入危險的戰鬥時，他們會無法確定自己是該迅速強硬的擊倒反派、還是應該冒著讓反派逃走的風險而專注在保護人民不受傷害。
 
-* 引鉤推力 — 危險: 推向戰鬥
+* 引鉤推力 — 危險: 全力戰鬥
 * 引鉤推力 — 救助: 遠離直接的戰鬥，推向拯救人命
 </div><div class='Move'>
 
-#### 搭配: 危險 VS 優越
+#### 組合: 危險 VS 優越
 This pairing is about control. Superior characters are good at looking around, 
 taking in the environment, understanding it, using it...and provoking other 
 people to do what they want. Surgical strikes and efforts. Dangerous characters 
@@ -80,7 +71,7 @@ uncontrolled venting.
 * 引鉤推力 — 優越: To point out failures of control and planning
 </div><div class='Move'>
 
-#### 搭配: 古怪 VS 平凡
+#### 組合: 古怪 VS 平凡
 This pairing is about fitting in, usually focusing on one of two angles: either 
 the PC is especially strange, notably different from the people around them, 
 and unsure if they’ll ever fit in...or they’re especially normal, and they don’t 
@@ -92,7 +83,7 @@ to be alone, separate from the people around them by their own strangeness.
 * 引鉤推力 — 平凡: 使其平常普通
 </div><div class='Move'>
 
-#### 搭配: 古怪 VS 優越 
+#### 組合: 古怪 VS 優越 
 This pairing is about being special. A character who is caught in this pairing 
 hears voices on one side telling them they’re better, stronger, and more capable 
 than everyone around them, and voices on the other side calling them a 
@@ -103,7 +94,7 @@ difference means.
 * 引鉤推力 — 優越:  To  praise  the  power  and  ability  of strangeness
 </div><div class='Move'>
 
-#### 搭配: 古怪 VS 救助 
+#### 組合: 古怪 VS 救助 
 This pairing is about responsibility. What responsibilities does someone with 
 intense power have? Are they beholden only to their own power? Or are they 
 burdened with the need to make use of their powers for the greater good? 
@@ -112,7 +103,7 @@ burdened with the need to make use of their powers for the greater good?
 * 引鉤推力 — 救助: To place responsibility
 </div><div class='Move'>
 
-#### 搭配: 平凡 VS 優越
+#### 組合: 平凡 VS 優越
 This pairing is about human connection. Characters with a high Mundane 
 can connect with other people on a meaningful level...but they can’t get those 
 people to reliably do what they want. Characters with a high Superior, on 
@@ -125,7 +116,7 @@ compromises required of being mundane.
 * 引鉤推力 — 優越: To detach and distance from others
 </div><div class='Move'>
 
-#### 搭配: 平凡 VS 救助 
+#### 組合: 平凡 VS 救助 
 This pairing is about saving others—protecting them from outward and inner 
 threats. Saviors are great at stopping a car flying through the air at someone’s 
 face, but Mundane characters can actually make people feel better, and might 
@@ -136,7 +127,7 @@ even be able to save villains from themselves.
 innocents
 </div><div class='Move'>
 
-#### 搭配: 救助 VS 優越
+#### 組合: 救助 VS 優越
 This pairing is about whether heroes should be proactive or reactive. Saviors 
 respond to threats...but superior PCs read the situation and manipulate those 
 around them to take action. They solve problems proactively, at the cost of 
@@ -208,7 +199,7 @@ and think about other ways to pull on those Labels with those hooks.
 
 ---
 
-## 成對引鉤的範例
+## 引鉤組合的範例
 {{< hint info >}}
 我正在思考要為異變者雷克斯安排什麼樣的引鉤。到目前為止，雷克斯的態度一直都相當粗暴；他很顯然對自己那怪異的身體感到煩躁。他有著相當高的古怪屬性和特別低的平凡屬性……但他也救下了天樂女，而且他一直試著表現得像是個救助者，當在她身邊時尤其如此。我知道我不能選擇天樂女作為引鉤──畢竟她是玩家角色──但我在考慮著要給雷克斯的問題：也許是「他是古怪還是救助的？」或「他是危險還是古怪的？」
 
