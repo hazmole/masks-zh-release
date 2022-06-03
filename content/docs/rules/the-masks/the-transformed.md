@@ -5,6 +5,8 @@ weight: 10
 
 # 異變者 The Transformed
 
+{{< playbookImg url="header-transformed.png" >}}
+
 <div class="playbookDesc">
 	你仍能回想起不久前的時光，那時你看起來仍像是……人類。<br>
 	在那時，你不用感受他們的注視。在那時，你不用聽見他們倒抽涼氣。<br>

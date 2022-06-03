@@ -5,6 +5,8 @@ weight: 6
 
 # 傳承者 The Legacy
 
+{{< playbookImg url="header-legacy.png" >}}
+
 <div class="playbookDesc">
 	你是某個傳奇英雄家族中最新的成員，一個世代傳承著共同名號與理想的家族。<br>
 	現在，所有人都注視著你，等著看你是否已經有足夠的能力堅守傳統。<br>

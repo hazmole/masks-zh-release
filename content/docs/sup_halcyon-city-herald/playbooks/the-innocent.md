@@ -5,6 +5,8 @@ weight: 3
 
 # 天真者 The Innocent
 
+{{< playbookImg url="header-innocent.png" >}}
+
 <div class="playbookDesc">
 	時間旅行很棒！或至少你原本是這麼想的。<br>
 	你來到一個奇怪的新世界，這裡有著另一個黑暗、破碎、受傷、危險的成年版本的你。<br>

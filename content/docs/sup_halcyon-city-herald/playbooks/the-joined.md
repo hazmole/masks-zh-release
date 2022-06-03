@@ -5,6 +5,8 @@ weight: 5
 
 # 雙子 The Joined
 
+{{< playbookImg url="header-joined.png" >}}
+
 <div class="playbookDesc">
 	You'd be nothing without them - your parter, your sibling, your friend, your rival, your other half.
 	You're tied th their powers and to them, through and through.

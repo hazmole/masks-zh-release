@@ -5,7 +5,7 @@ weight: 2
 
 # 蠻牛 The Bull
 
-{{< playbookImg url="002.png" >}}
+{{< playbookImg url="header-bull.png" >}}
 
 <div class="playbookDesc">
 	你強大、壯碩、而且堅忍結實。你知道什麼才是真正的戰鬥，且你十足擅長。<br/>

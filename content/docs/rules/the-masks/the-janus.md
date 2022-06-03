@@ -5,6 +5,8 @@ weight: 5
 
 # 雙面人 The Janus
 
+{{< playbookImg url="header-janus.png" >}}
+
 <div class="playbookDesc">
 	起床，早餐，上學，打工，回家作業，睡覺，如此反覆。<br/>
 	這日復一日的單調生活耗盡了你的精力，使你深陷泥淖，無法做出真正的改變。<br/>

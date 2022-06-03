@@ -5,6 +5,8 @@ weight: 8
 
 # 外來者 The Outsider
 
+{{< playbookImg url="header-outsider.png" >}}
+
 <div class="playbookDesc">
 	你並不屬於這裡。你的家鄉在那遙遠奇妙之地，充滿美好與驚奇。<br/>
 	但在這裡存在著某種東西，某種你在家鄉所缺乏的特別之物，某種……人性。<br/>

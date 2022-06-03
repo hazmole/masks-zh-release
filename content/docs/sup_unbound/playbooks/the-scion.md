@@ -5,6 +5,8 @@ weight: 3
 
 # 新芽 The Scion
 
+{{< playbookImg url="header-scion.png" >}}
+
 <div class="playbookDesc">
 	你是一名真正反派的孩子──不是助手、不是創造物，而只是個該死的孩子。<br/>
 	當每個知道這件事的人看向你，他們眼中看到的就只有你的父母。就彷彿你是誰一點也不重要。<br/>

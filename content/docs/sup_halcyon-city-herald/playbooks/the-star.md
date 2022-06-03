@@ -5,6 +5,8 @@ weight: 4
 
 # 明星 The Star
 
+{{< playbookImg url="header-star.png" >}}
+
 <div class="playbookDesc">
 	Being a hero isn't just about doing right. It's about being seen doing right.
 	Let them think you're shallow for loving the spotlight and the cameras, for making speeches, for smiling so much.

@@ -5,6 +5,8 @@ weight: 7
 
 # 超新星 The Nova
 
+{{< playbookImg url="header-nova.png" >}}
+
 <div class="playbookDesc">
 	你就是力量的泉源。引導它，然後你就能將這個世界重新形塑成你想要的樣子。<br>
 	將它釋放，你就能創造奇蹟。多麼美好……也多麼可怕。<br>

@@ -5,6 +5,8 @@ weight: 2
 
 # 浪子 The Nomad
 
+{{< playbookImg url="header-nomad.png" >}}
+
 <div class="playbookDesc">
 	也許曾經你有過家，曾有過規律的生活。但就算你曾有過，那也已經是很久很久以前的事了。<br>
 	你已經在廣袤宇宙、時光歲月、和所有一切中獨自一人顛波流離了好幾年。<br>

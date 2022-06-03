@@ -5,6 +5,8 @@ weight: 4
 
 # 命帶天劫者 The Doomed
 
+{{< playbookImg url="header-doomed.png" >}}
+
 <div class="playbookDesc">
 	你的能力注定了你的毀滅。而終焉的來臨也只不過是時間問題。<br/>
 	但，在那之前……你有一個必須對抗的死敵、以及一個必須拯救的世界。<br/>

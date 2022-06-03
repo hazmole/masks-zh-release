@@ -5,6 +5,8 @@ weight: 1
 
 # 自新者 The Reformed
 
+{{< playbookImg url="header-reformed.png" >}}
+
 <div class="playbookDesc">
 	邪惡兇行曾經是你的生活方式。然後，你看到了你自私和仇恨所創造的一切。
 	超級反派的生活是如此難以放棄，但你最清楚這一點：有時候，壞人也需要被拯救。

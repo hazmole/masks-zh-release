@@ -5,6 +5,8 @@ weight: 2
 
 # 新生兒 The Newborn
 
+{{< playbookImg url="header-newborn.png" >}}
+
 <div class="playbookDesc">
 	你是個全新的造物，透過科學探究、工程絕藝、或一點隨機變數而誕生在這世界上。<br>
 	這個世界的一切對你而言都是新的，充滿驚奇和冒險。<br>

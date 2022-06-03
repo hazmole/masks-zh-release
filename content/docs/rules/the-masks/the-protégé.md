@@ -5,6 +5,8 @@ weight: 9
 
 # 門徒 The Protégé
 
+{{< playbookImg url="header-protege.png" >}}
+
 <div class="playbookDesc">
 	你向一位老練的英雄證明了你自己，他們認同了你的資質。<br/>
 	他們已經鍛鍊了你好一陣子，而現在你必須做出抉擇：<br/>
