@@ -39,103 +39,73 @@ weight: 2
 這一組引鉤是關於力量──尤其是當力量開始失控的時候。捲入「危險 VS 古怪」引鉤的PC通常會是他們團隊中最強大的角色，有能力改寫現實法則、或造成大規模的破壞。
 他們身邊的人們會質疑他們的力量是否值得信任──也許因為他們仍然是孩子、或者因為他們擁有的力量強大到超過所有人能夠信任的極限。
 
-* 引鉤推力 — 危險: 提醒他們的附帶傷害
-* 引鉤推力 — 古怪: 突顯他們的怪異和能力
+* <b>引鉤推力 — 危險</b>: 提醒他們的附帶傷害
+* <b>引鉤推力 — 古怪</b>: 突顯他們的怪異和能力
 </div><div class='Move'>
 
 #### 組合: 危險 VS 平凡
 這一組引鉤是關於恐懼。捲入「危險 VS 平凡」引鉤的PC被他們親近的人們所理解，卻被他人所懼怕──直到事情出了差錯，而恐懼也將如野火蔓延。
 他們是否能向那些害怕他們的人展現出，他們的內心也只不過是一個普通人類。或者他們最終會成為那所有人都擔心無法阻止的可怕威脅？
 
-* 引鉤推力 — 危險: 去猜疑和煽動
-* 引鉤推力 — 平凡: 中斷危險的情境發展
+* <b>引鉤推力 — 危險</b>: 去猜疑和煽動
+* <b>引鉤推力 — 平凡</b>: 中斷危險的情境發展
 </div><div class='Move'>
 
 #### 組合: 危險 VS 救助
 這一組引鉤是關於英雄職責。捲入「危險 VS 救助」引鉤的PC會在擊敗敵人和拯救生命之間掙扎。
 當他們被捲入危險的戰鬥時，他們會無法確定自己是該迅速強硬的擊倒反派、還是應該冒著讓反派逃走的風險而專注在保護人民不受傷害。
 
-* 引鉤推力 — 危險: 全力戰鬥
-* 引鉤推力 — 救助: 遠離直接的戰鬥，推向拯救人命
+* <b>引鉤推力 — 危險</b>: 全力戰鬥
+* <b>引鉤推力 — 救助</b>: 遠離直接的戰鬥，推向拯救人命
 </div><div class='Move'>
 
 #### 組合: 危險 VS 優越
-This pairing is about control. Superior characters are good at looking around, 
-taking in the environment, understanding it, using it...and provoking other 
-people to do what they want. Surgical strikes and efforts. Dangerous characters 
-are good at punching enemies in the face, at letting loose, at breaking things 
-down.  Characters  caught  in  these  arcs  are  stuck  between  precision  and 
-uncontrolled venting. 
+這一組引鉤是關於控制。優越的角色擅長觀察、理解、利用周遭環境……以及煽動他人去做他所希望的事，精準而有效。危險的角色則擅長用力揍翻眼前的敵人，放縱力量、以及破壞事物。被牽扯進這一組引鉤的角色將被陷困在精確節制以及失控發洩之間掙扎。
 
-* 引鉤推力 — 危險: To infuriate and provoke
-* 引鉤推力 — 優越: To point out failures of control and planning
+* <b>引鉤推力 — 危險</b>: 去激怒與挑釁
+* <b>引鉤推力 — 優越</b>: 指出控制與計畫的失誤
 </div><div class='Move'>
 
 #### 組合: 古怪 VS 平凡
-This pairing is about fitting in, usually focusing on one of two angles: either 
-the PC is especially strange, notably different from the people around them, 
-and unsure if they’ll ever fit in...or they’re especially normal, and they don’t 
-feel different enough. Either way, the people involved in this pairing push them 
-either further in sync with the normal people of Halcyon City, or push them 
-to be alone, separate from the people around them by their own strangeness.
+這一組引鉤是關於融入群體，且通常會著重在下面這兩個視角之一：也許PC特別怪異，與周遭人群有著明顯不同，不確定自己是否能融入其中……或者他們非常普通平凡，並總是覺得自己不夠特別。不管是哪一種情況，涉及這組引鉤的角色要嘛進一步迫使自己融入神翠市的尋常百姓之中、要嘛讓自己孤獨一人，為著自己的古怪之處而與周遭人們分隔開來。
 
-* 引鉤推力 — 古怪: 孤立並趕走他人
-* 引鉤推力 — 平凡: 使其平常普通
+* <b>引鉤推力 — 古怪</b>: 孤立並趕走他人
+* <b>引鉤推力 — 平凡</b>: 使其平常普通
 </div><div class='Move'>
 
 #### 組合: 古怪 VS 優越 
-This pairing is about being special. A character who is caught in this pairing 
-hears voices on one side telling them they’re better, stronger, and more capable 
-than everyone around them, and voices on the other side calling them a 
-worthless monster. Either way, they’re struggling to make sense of what their 
-difference means.
+這一組引鉤是關於與眾不同。被捲入這組引鉤的角色會聽見聲音訴說著他是如何比周遭人們更優秀、更強大、更有能力，但同時又有另一邊的聲音控訴著他是個沒用的怪物。無論如何，他們將會掙扎於理解自己與他人的差異究竟意味著什麼。
 
-* 引鉤推力 — 古怪: To call out the flaws of strangeness
-* 引鉤推力 — 優越:  To  praise  the  power  and  ability  of strangeness
+* <b>引鉤推力 — 古怪</b>: 揭露出古怪特色的缺點
+* <b>引鉤推力 — 優越</b>: 讚揚古怪特色的強大與能力
 </div><div class='Move'>
 
 #### 組合: 古怪 VS 救助 
-This pairing is about responsibility. What responsibilities does someone with 
-intense power have? Are they beholden only to their own power? Or are they 
-burdened with the need to make use of their powers for the greater good? 
+這一組引鉤是關於責任。擁有強大力量的人會背負什麼樣的責任？他們是否只需要對自己的力量負責？又或者他們的肩上扛著必須為了大義運用力量的重擔？
 
-* 引鉤推力 — 古怪: To praise immense power and abilities
-* 引鉤推力 — 救助: To place responsibility
+* <b>引鉤推力 — 古怪</b>: 讚揚強大的力量和能力
+* <b>引鉤推力 — 救助</b>: 賦予責任
 </div><div class='Move'>
 
 #### 組合: 平凡 VS 優越
-This pairing is about human connection. Characters with a high Mundane 
-can connect with other people on a meaningful level...but they can’t get those 
-people to reliably do what they want. Characters with a high Superior, on 
-the other hand, can manipulate other people and their environment much 
-more directly, but they’re more aloof and detached from those people. With 
-this pairing, play up that detachment, the cost of feeling superior and the 
-compromises required of being mundane.
+這一組引鉤是關於人際關係。平凡屬性高的角色能夠與他人建立深厚的關係……但沒有辦法確保這些人能按照他所想的去做。優越屬性高的角色則正好相反，他們能夠更直接地操縱其他人以及周遭環境，但跟這些人的關係也因此更冷漠和疏離。利用這一組引鉤去發揮這種疏離感、表現出優越感帶來的代價、以及做一個普通人所需的妥協。
 
-* 引鉤推力 — 平凡: To require compromise for connection
-* 引鉤推力 — 優越: To detach and distance from others
+* <b>引鉤推力 — 平凡</b>: 要求為了人際關係而做出妥協
+* <b>引鉤推力 — 優越</b>: 疏遠並與他人拉開距離
 </div><div class='Move'>
 
 #### 組合: 平凡 VS 救助 
-This pairing is about saving others—protecting them from outward and inner 
-threats. Saviors are great at stopping a car flying through the air at someone’s 
-face, but Mundane characters can actually make people feel better, and might 
-even be able to save villains from themselves.
+這一組引鉤是關於拯救他人──保護他們不受外在和內在威脅所傷害。救助高的角色擅長停下朝受害者飛砸而至的汽車，但平凡高的角色卻能確實讓人們的心情變得更好，並甚至可能將反派從他們自己的罪惡中拯救出來。
 
-* 引鉤推力 — 平凡: To ask for empathy and mercy
-* 引鉤推力 — 救助:  To  demand  defense  and  protection  for 
-innocents
+* <b>引鉤推力 — 平凡</b>: 尋求同情與憐憫
+* <b>引鉤推力 — 救助</b>: 要求保護與庇護無辜的人們
 </div><div class='Move'>
 
 #### 組合: 救助 VS 優越
-This pairing is about whether heroes should be proactive or reactive. Saviors 
-respond to threats...but superior PCs read the situation and manipulate those 
-around them to take action. They solve problems proactively, at the cost of 
-being coldly removed from those around them. Which method is truly heroic? 
-Fighting the good fight or winning the war?
+這一組引鉤是關於英雄應該主動還是被動。善於救助的角色會在威脅來臨時做出反應……但優越的PC則會審度局勢，並操縱周圍的人們採取行動。他們會積極預先解決問題，代價卻是被他們周圍的人們冷落疏離。哪一種方式才是真正的英雄行徑？打一場漂亮的勝仗、還是贏得整場戰爭？
 
-* 引鉤推力 — 救助: To highlight impending threats
-* 引鉤推力 — 優越: To present opportunities for action
+* <b>引鉤推力 — 救助</b>: 強調步步進逼的威脅
+* <b>引鉤推力 — 優越</b>: 提供行動的機會
 </div>
 
 ### 指派NPC
