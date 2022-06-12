@@ -1,5 +1,5 @@
 ---
-title: 創造與使用引鉤($)
+title: 創造與使用引鉤
 weight: 2
 ---
 
@@ -109,63 +109,31 @@ weight: 2
 </div>
 
 ### 指派NPC
-After selecting the pairing for your hooks, assign the 
-hooks themselves to either side of the pairing. A hook 
-is a fictional element embodying the pull on the PC 
-in the direction of a particular Label. It’s the Janus’s 
-mother, pulling the Janus to be more and more 
-Mundane. It’s the Protégé’s mentor, pulling the 
-Protégé to be more and more Superior. 
+在選好組合之後，為你組合的兩側各自指派一個引鉤。這裡所謂的「引鉤」，是一個體現了能將PC往某個特定標籤屬性拉扯力量的敘事元素。
+這可能會是雙面人的母親，使她變得越來越平凡普通。這也可能會是門徒的導師，將她一步步往優越的方向拉扯。
 
-Hooks should almost always be characters. If 
-you feel very strongly that a location or item could 
-pull the PC in a particular direction, then use 
-it as a hook, but try to stick to characters. 
-They can be villains, or they can be friends, or 
-family members, or anyone, so long as they’d 
-pull the PC in one direction of the pairing. 
+引鉤幾乎永遠會是角色。但如果你強烈地認為某個地點或物品也能夠把PC拉向某個特定的方向，那麼你也可以把它當成是一種引鉤，但盡量還是以角色為佳。
+他們可以是反派、可以是朋友、可以是家庭成員、或可以是任何人，只要這名角色能夠把PC往引鉤組合的方向拉扯就行。
 
-Whenever you can, use the same NPCs 
-across multiple pairings. That way, you 
-instantly generate PC-NPC-PC triangles. 
-When the Protégé’s mentor wants 
-the Protégé to be more 
-of a Savior, but 
-continuously 
-tells the 
-Transformed 
-they’re a Danger, there’s 
-instant tension, even between those two PCs. 
-Reusing the NPCs keeps your game tight and 
-focused on that particular set of characters. 
+只要情況允許，盡可能重複指派相同的NPC給好幾組不同的引鉤。藉著這個方式，你就能立刻做出PC-NPC-PC之間的三角關係。
+門徒的導師希望門徒成為更具救助精神的人物，卻同時總是講述著異變者是多麼的危險，如此這般，即使是在兩個PC之間，戲劇張力也油然而生。除此之外，重複運用NPC也能讓你的遊戲更緊湊，專注在特定的幾個角色上。
 
-If necessary, you can make up a new 
-character to use as a hook for a pairing, but try 
-to use characters that are already in your game, even if they’re 
-only mentioned on someone’s character sheet when you’re 
-filling in your hooks.
+如果有需要的話，你可以為你的引鉤創一個新的角色，但還是盡可能試著使用你們遊戲中既有的角色，即使你在設計引鉤的當下還只有某人的角色卡上曾經提及過他們也行。
 
 ---
 
 ## 如何使用引鉤
-Set up your hooks between sessions. Doing so makes you think about who 
-these characters are, and ask yourself questions about what they might become. 
-During play, use your list of hooks as a reference sheet for your moves. 
+在聚會與聚會之間的空檔準備好你的引鉤。這麼做能幫助你去思考這些角色究竟是什麼人，以及他們可能會成為什麼樣的人物。
+在遊戲過程中，把你的引鉤當作參考來進行你的動作。
 
-When you’re at a loss for the next scene, bring the characters together with 
-their hooks, and pull them towards the Labels involved. Set scenes using the 
-hooks, and push their Labels hard. If you need to make a hard move, have one 
-of the hooks take Influence on the PC and shift their Labels.
+當你對該如何架設下一個場景感到迷惘時，把他們引鉤的角色帶出來，並把他們往涉及的標籤屬性推去。運用這些引鉤來架設場景，並用力影響他們的標籤屬性。
+如果你需要進行硬動作，可以試著讓其中一個引鉤獲得對PC的影響力，並調動他們的標籤屬性。
 
-Use your list of hooks to remind you of the character’s big, primary issue, 
-as well. NPCs not even directly involved in the pairing can still poke and push 
-and pull at those Labels. When you aren’t sure which Label to shift, think about 
-the pairings and the hooks, and try to angle for those Labels.
+同時，利用你寫下的引鉤來提醒自己這些角色們最重大、最主要的議題究竟是什麼。即使不是跟引鉤組合有直接相關的NPC仍然可以戳弄、拉扯、推動這些標籤屬性。
+當你不確定該調動哪個標籤屬性的時候，想一想這些引鉤組合的內容，並試著去把玩這些標籤。
 
-At the end of every session, ask yourself if it’s still an open question whether 
-the PC is one Label or the other. Does the player think it’s resolved? Do you? If 
-so, then change that pairing to a new one. If not, then keep that pairing steady, 
-and think about other ways to pull on those Labels with those hooks.
+在每次聚會結束時，問問你自己，「（PC）是（標籤屬性）還是（標籤屬性）的？」是否仍然是一個問題。玩家是否覺得這個議題已經被探討完畢？你自己又是怎麼想？
+如果答案是肯定的，那麼就新寫一個引鉤組合。如果答案為否，那就維持這組引鉤的穩定，並想想有什麼其他方式可以用來拉扯它們對應的標籤屬性。
 
 ---
 
