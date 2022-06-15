@@ -4,31 +4,23 @@ weight: 3
 ---
 
 ## 創造故事弧
-The plans of villains and antagonists in Halcyon City are sometimes as simple 
-as, “Rob a bank!” “Steal a McGuffin!” But the PCs also have to save the city 
-from grander, more dangerous, more dramatic threats, problems that span 
-across multiple issues of your comic and multiple sessions of your game. Those 
-threats and problems are your arcs. 
+有時候，神翠市裡反派和惡棍的計畫只會是簡單的「搶銀行！」或「偷走那個麥高芬！」，但PC們也會需要從更宏大、更危險、更有戲劇性的威脅中拯救這座城市，解決那些橫跨好幾個議題和遊戲聚會的難題。這些威脅和難題，就是你的故事弧。
 
-Each arc has a cast of NPCs and other fictional elements (places and objects 
-of importance), an arc type, and three phases. It represents a combined set of 
-threats, dangers, and issues that feed into each other to create a larger set of 
-problems facing the PCs. 
+每個故事弧都會有各自的出演陣容和其他敘事元素（重要的地點和物品）、一種故事弧類型、和三個階段。
+它代表了一系列彼此交織的威脅、危險、和議題，創造出一系列更大的難題讓PC們去面對。
 
-Arcs aren’t plots—they’re not lists of things that will definitely happen. 
-They’re compilations of what the antagonists and dangers of Halcyon City 
-might bring to fruition—how they might change the city. They’re a way for 
-you to track what the big, overarching difficulties in the city are, and what you 
-should be drawing on for future sessions. 
+故事弧並不是劇本──它們並不是一定會發生的事件清單。它們是行為後果的彙整，神翠市的反派和威脅可能會帶來什麼──會如何改變這座城市。
+它們是一種工具，幫助你能追蹤釐清城市中最大、最首要的問題是什麼、以及你在未來的聚會中該取用什麼。
 
 
 遵循下列步驟來創造故事弧：
 * 選擇一個故事弧類型
-* 組建演員陣容
+* 組建出演陣容
 * 填寫階段
 * 編寫自訂動作（可選）
 * 給它一個名稱和描述
 
+---
 
 ### 選擇故事弧類型
 你總共有五種故事弧類型可以選擇：
@@ -38,62 +30,51 @@ should be drawing on for future sessions.
 * 毀滅 — 敵人和威脅破壞並摧毀擋在他們路上的一切。
 * 復興 — 英雄們努力修復已經造成的傷害。
 
-Each arc type comes with several subtypes to further define exactly what 
-the arc is about and to give it an impulse—an overarching tendency for the 
-arc, a way to understand where the arc is heading. Arcs also come with their 
-own moves, which you can make any time you could make any other kind of 
-move, to push an arc further along its particular issues.
+每一個故事弧類型底下都還有數個不同的子類別，進一步確切定義這個故事弧的內容，並給予它一個「推動力」──所謂的推動力代表著這個故事弧的整體趨勢，同時也是用來幫助你理解這個故事弧走向的工具。故事弧也帶有自己的動作，你可以在任何你能進行動作的時候使用它們，藉此推動這個故事弧進一步往它特定的主題發展。
 
 <div class='Move'>
+<h3>腐墮</h3>
+腐墮類型的故事弧危險而難以察覺。它們會破壞神翠市的良善，將朋友轉變成敵人、英雄變成反派、希望變為絕望。
 
-#### 墮落 CORRUPTION 
-Corruption  arcs  are  subtle  and  dangerous.  They  undermine  the  good  of 
-Halcyon City, turning friends to foes, heroes to villains, hope to fear. 
+##### 腐墮的子類別: 
+* 墮落英雄 (推動力: 恪守嚴格的道德準則) 
+* 貪婪權力 (推動力: 自私地行使權力) 
+* 被偷走的純真 (推動力: 做出糟糕的決定) 
+* 被扭曲的真相 (推動力: 編造謊言) 
+* 背叛的盟友 (推動力: 背叛) 
 
-##### Corruption Subtypes: 
-* Falling Hero (impulse: to commit to a rigid code of ethics) 
-* Greedy Power (impulse: to wield power selfishly) 
-* Stolen Innocence (impulse: to make terrible decisions) 
-* Twisted Truth (impulse: to spin lies) 
-* Traitorous Ally (impulse: to betray) 
+##### 腐墮動作: 
+* 自以為是地談論關於事物的本質
+* 拋出帶有附加條件的誘人禮物
+* 提供暫時性的同盟
+* 公開歪曲事實
+* 造成威脅，無論隱密與否
 
-##### Corruption Moves: 
-* Pontificate about the true nature of things 
-* Present enticing gifts with strings 
-* Offer a temporary alliance 
-* Twist the narrative publicly 
-* Make threats, subtle or not 
-
-Corruption arcs almost always involve at least some cast members acting 
-as the corruptors and some acting as the corrupted. The transition is never 
-immediate—the PCs get to see the change. 
+腐墮故事弧的出演陣容幾乎總是會涉及幾個作為腐化者的角色、以及幾個擔任墮落者的角色。
+這個轉變永遠不會是立即發生的──PC能夠看到變化的過程。
 </div><div class='Move'>
+<h3>侵略</h3>
+侵略類型的故事弧是關於危險的勢力奪取有用或誘人的資源為自己所用。侵略者的目的是利用力量控制某物，而不是摧毀它。
+畢竟你可沒辦法控制已經被破壞掉的事物。
 
-#### 侵略 INVASION 
-Invasion arcs are about dangerous forces seizing useful or desirable resources 
-for themselves. Invaders are hoping to take control of something by force, not 
-aiming to destroy it. You can’t control something that’s destroyed. 
+##### 侵略的子類別: 
+* 外星人 (推動力: 顛覆或消滅那些擁有力量的) 
+* 罪犯 (推動力: 不計代價奪取領土) 
+* 外來者 (推動力: 顛覆或消滅那些沒有力量的) 
+* 時間旅行者 (推動力: 控制前人的行為) 
+* 密探 (推動力: 掌控有價值的資源) 
 
-##### Invasion Subtypes: 
-* Aliens (impulse: to subvert or eliminate those in power) 
-* Criminals (impulse: to seize territory at any cost) 
-* Outsiders (impulse: to subvert or eliminate those without power) 
-* Time travelers (impulse: to control the actions of predecessors) 
-* Spies (impulse: to take control of valuable resources) 
+##### 侵略動作: 
+* 湧帶出一群群的士兵
+* 直接襲擊一個據點
+* 秘密滲透一個據點
+* 要求投降屈服
+* 擄走無辜者
 
-##### Invasion Moves: 
-* Pour forth a horde of soldiers 
-* Directly assault a stronghold
-* Secretly infiltrate a stronghold 
-* Demand submission 
-* Capture innocents 
-
-Invasion arcs can be subtle or direct, depending on the situation and the 
-invaders. Sometimes, aliens pour from a portal over the city...other times, they 
-shapeshift and secretly infiltrate important agencies. 
+侵略故事弧的發展可以是隱密且難以察覺的、也可以是明顯而直接的，取決於侵略者和情境而定。
+有時候，外星人軍隊會從城市上空的傳送門大舉湧入……而又有些時候，它們會改變身形，悄悄地滲透進那些重要的機構。
 </div><div class='Move'>
-
-#### 限制 RESTRICTION 
+<h3>限制 RESTRICTION </h3>
 Restriction arcs are about powers exerting their might to lock down the heroes 
 and others in the city. Restriction arcs tighten around the PCs, trapping them 
 into rules and situations in which they’re supposed to be unable to take action. 
@@ -118,8 +99,7 @@ up the inexperience and youth of the PCs during a restriction arc—this is the
 quintessential “parents laying down a new curfew” arc, but at a superheroic 
 level.
 </div><div class='Move'>
-
-#### 毀滅 DESTRUCTION 
+<h3>毀滅 DESTRUCTION </h3>
 Destruction arcs are about breaking pieces of the world. They’re always about 
 destroying some specific thing, not everything. Everyone at the table knows 
 that if Halcyon City explodes then the game would be over. An individual 
@@ -147,8 +127,7 @@ Always tie destruction arcs strongly to the human motivations of the
 villains and antagonists involved. The destruction they seek is always strangely 
 justified to them; it’s not a real arc if they’re just doing it for fun. 
 </div><div class='Move'>
-
-#### 復興 RESTORATION 
+<h3>復興 RESTORATION </h3>
 Restoration arcs are about fixing damage, healing wounds, and making the 
 world right again. Often they’re about cleaning up the mess of another arc. 
 Note that some of these subtypes are callbacks to other types of arcs. If 
@@ -173,7 +152,7 @@ looking to restore pieces of the world. The methods NPCs choose to fulfill their
 restoration plans will still put them at odds with the PCs.
 </div>
 
-### BUILD OUT THE CAST
+### 組建出演陣容
 Once you’ve chosen what kind of arc you’re assembling, fill out the cast, a list of 
 NPCs involved with that arc. A few of these characters will be obvious. If you’re 
 creating a destruction arc, whoever’s doing the destruction has to be a cast 
@@ -196,17 +175,17 @@ already shown up in your game, your game will be stronger and more coherent,
 especially if those villains or NPCs are also hooks.
 
 
-### FILL IN THE PHASES
+### 填寫階段
 Arcs are split up into multiple phases, to help you track them as they advance 
 and progress through your story. There are three phases to every arc:
 
-* **Setting the board**:  In this phase, the arc is just getting into motion. The 
+* **布置棋盤**:  In this phase, the arc is just getting into motion. The 
 cast is maneuvering and taking first steps, but nothing has come to a head yet.
 
-* **Making a move**:  In this phase, the arc is in swing. The cast is making moves, 
+* **動手著棋**:  In this phase, the arc is in swing. The cast is making moves, 
 pushing towards their goals, and the issues of the arc are coming to fruition.
 
-* **Endgame**:  In this phase, the arc is hitting the end. The cast is making their 
+* **收官**:  In this phase, the arc is hitting the end. The cast is making their 
 final moves, and the issues of the arc are in do-or-die territory. 
 
 For each phase of your arc, jot down the plans and intents of the different 
@@ -242,7 +221,7 @@ beholden to them if the situation changes substantially—your NPCs would
 react and adjust their intents.
 
 
-### CREATE CUSTOM MOVES
+### 編寫自訂動作
 If you want to further develop an arc, make some custom moves for it. These 
 moves are still always aimed at the players (not you). You’re giving the PCs more 
 ways to interact with the arc and its issues when you create a custom move.
@@ -251,7 +230,7 @@ For more on making custom moves, see CUSTOM MOVES (page 197).
 
 
 
-### GIVE IT A NAME AND DESCRIPTION
+### 給它一個名稱和描述
 Finally, give your arc a name: something evocative and descriptive, that you’d 
 see at the front of the comic book issues to flag they’re all part of the same story-
 line. Make it fun, something that’ll remind you what the arc is actually about: 
@@ -284,14 +263,14 @@ between sessions, build a new arc.
 ---
 ## 範例故事弧
 
-**名稱**:  The Future Perfect
+**名稱**: 未來的完美典範
 
-**類型**:  Invasion (time travelers)
+**類型**: 侵略 (時間旅行者)
 
-**Impulse**:  To control the actions of predecessors
+**推動力**: 控制前人的行為
 
 
-#### CAST: 
+#### 出演陣容: 
 * Future  versions  of  Grasshopper,  Huma,  Toro,  and  Dusk,  known respectively as Antlion, Huma, Crush, and Penumbra
 * Ilijah Intrepid, interdimensional traveler trapped in Halcyon City and looking for a means to escape
 * Doctor Infinity, time traveling android trying to keep the whole length and breadth of time safe from causal wounds
@@ -308,28 +287,27 @@ ensure their future selves will never time travel, while Dominus sees them as
 threatening the entire potential of his future, and Ilijah Intrepid sees them as 
 a potential ticket home.
 
-#### PHASES: 
-**Phase one — Setting the board:**
+#### 階段: 
+**階段一：布置棋盤**
 * The  Hammer:  find  and  confront  their  younger  selves,  testing  their abilities to assess the situation
 * Doctor Infinity: unleash a weaker, generally insignificant, villain on the team to uncover their current weaknesses in this timestream
 * Ilijah  Intrepid:  make  contact  with  the  Hammer  and  offer  them  his assistance in exchange for help getting home
 * Dominus: offer information to the young heroes to sway them against their older selves
 
-**Phase two — Making a move:**
+**階段二：動手著棋:**
 * The  Hammer:  push  the  young  heroes  to  destroy  an  enemy—any  of Doctor Infinity, Ilijah Intrepid, or Dominus
 * Doctor Infinity: directly strike against the young team members 
 * Ilijah Intrepid: earn passage out of Halcyon City by pushing the young heroes to ridiculous lengths with terrible traps
 * Dominus: build a temporal stabilizer and prevent all time travel, thereby stopping the Hammer and protecting their timeline
 
-**Phase three — Endgame:**
+**階段三：收官:**
 * The Hammer: put their younger selves’ loved ones in danger to force the young heroes to destroy an enemy
 * Doctor Infinity: destroy all of Halcyon City to destroy the young team members
 * Ilijah Intrepid: steal the time and dimension traveling technology of the Hammer at any cost
 * Dominus: confront the Hammer in a massive battle and destroy them
 
-#### CUSTOM MOVES:
-When you pierce the mask of your older self, roll + the Label they now 
-embody instead of Mundane.
-When you reject the Influence  of your older self, always take +1.
-
-
+#### 自訂動作:
+<div class='Move'>
+當你對年長版的自己進行〈揭穿面具〉時，擲<b>+他所體現的除了平凡以外的標籤屬性</b>。<br/>
+當你對年長版的自己進行〈拒絕影響力〉時，你永遠獲得+1。
+</div>
