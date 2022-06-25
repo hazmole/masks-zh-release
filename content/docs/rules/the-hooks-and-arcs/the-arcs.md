@@ -15,7 +15,7 @@ weight: 3
 
 遵循下列步驟來創造故事弧：
 * 選擇一個故事弧類型
-* 組建出演陣容
+* 籌措出演陣容
 * 填寫階段
 * 編寫自訂動作（可選）
 * 給它一個名稱和描述
@@ -43,7 +43,7 @@ weight: 3
 * 被扭曲的真相 (推動力: 編造謊言) 
 * 背叛的盟友 (推動力: 背叛) 
 
-##### 腐墮動作: 
+##### 腐墮的動作: 
 * 自以為是地談論關於事物的本質
 * 拋出帶有附加條件的誘人禮物
 * 提供暫時性的同盟
@@ -64,7 +64,7 @@ weight: 3
 * 時間旅行者 (推動力: 控制前人的行為) 
 * 密探 (推動力: 掌控有價值的資源) 
 
-##### 侵略動作: 
+##### 侵略的動作: 
 * 湧帶出一群群的士兵
 * 直接襲擊一個據點
 * 秘密滲透一個據點
@@ -74,58 +74,49 @@ weight: 3
 侵略故事弧的發展可以是隱密且難以察覺的、也可以是明顯而直接的，取決於侵略者和情境而定。
 有時候，外星人軍隊會從城市上空的傳送門大舉湧入……而又有些時候，它們會改變身形，悄悄地滲透進那些重要的機構。
 </div><div class='Move'>
-<h3>限制 RESTRICTION </h3>
-Restriction arcs are about powers exerting their might to lock down the heroes 
-and others in the city. Restriction arcs tighten around the PCs, trapping them 
-into rules and situations in which they’re supposed to be unable to take action. 
+<h3>限禁</h3>
+限禁類型的故事弧是關於權力者運用他們的力量來封鎖或限制英雄和城市中的其他人。
+限禁故事弧會縮緊PC們的周遭環境，將他們陷困在規章和情境中，使他們無法採取行動。
 
-##### Restriction Subtypes: 
-* Law (impulse: to outlaw and restrict) 
-* Military (impulse: to crack down on rampant elements) 
-* Agents (impulse: to control how others use power) 
-* Heroes (impulse: to uphold tradition) 
-* Corporations (impulse: to protect their interests from any threat) 
+##### 限禁的子類別: 
+* 法律 (推動力: 禁止和限制) 
+* 軍隊 (推動力: 打擊猖獗份子) 
+* 特務 (推動力: 控制其他人使用力量的方式) 
+* 英雄 (推動力: 維護傳統) 
+* 企業 (推動力: 保護他們的利益不受任何威脅影響) 
 
-##### Restriction Moves: 
-* Deploy surprising strength and force 
-* Offer a warning 
-* Interfere in heroic situations 
-* Create new rules and restrictions 
-* Reward obedience 
+##### 限禁的動作: 
+* 佈署驚人的力量和武力
+* 提出警告
+* 干預介入英雄場景
+* 創造新的規則和限制
+* 獎勵服從的行為
 
-The casts of restriction arcs are the faces of forces much larger than the 
-PCs, be they superhero teams, corporations, or law enforcement agencies. Play 
-up the inexperience and youth of the PCs during a restriction arc—this is the 
-quintessential “parents laying down a new curfew” arc, but at a superheroic 
-level.
+限禁故事弧的出演陣容是那些比PC更龐大勢力中的人物，他們可以是其他超級英雄團隊、企業、或執法部門。
+利用他們在限禁故事弧中表現出PC們的年輕和經驗不足──這就是那經典的「父母制定了新的宵禁」故事弧，只不過提升到了超級英雄的層級。
 </div><div class='Move'>
 <h3>毀滅 DESTRUCTION </h3>
-Destruction arcs are about breaking pieces of the world. They’re always about 
-destroying some specific thing, not everything. Everyone at the table knows 
-that if Halcyon City explodes then the game would be over. An individual 
-villain’s plan may be to destroy the world, sure, but the arc is about destroying 
-something specific. 
+毀滅類型的故事弧是關於破壞這個世界的部分。他們總是去破壞某個特定的事物，而不是眼前的所有一切。
+遊戲桌上的每個人都很清楚，一旦神翠市整個爆炸，那麼遊戲就結束了。儘管反派的計畫可能確實會是摧毀整個世界，但在故事弧中要破壞的，則只會是某個特定的事物。
 
-Notice that the subtypes for a destruction arc refer to the target of the 
-destruction—not what is doing the destroying. 
+要注意的是，毀滅故事弧的子類別所指稱的是破壞行為的目的──而不是執行破壞的對象。
 
-##### Destruction Subtypes: 
-* Defenders of the City (impulse: to draw out defenders with danger) 
-* Item of Power (impulse: to smash and grab) 
-* Prison (impulse: to free the restrained) 
-* Authorities of the City (impulse: to break tradition) 
-* Dangers to the City (impulse: to hunt and pursue doggedly) 
+##### 毀滅的子類別: 
+* 城市的守護者 (推動力: 用危險引出守護者) 
+* 異能物品 (推動力: 摧毀並奪取) 
+* 囚牢 (推動力: 釋放被拘捕的) 
+* 城市的當權者 (推動力: 破壞傳統) 
+* 城市中的危險 (推動力: 頑強地獵捕追逐) 
 
-##### Destruction Moves: 
-* Leave a trail of rubble and fires 
-* Endanger innocents with collateral damage 
-* Break the bindings on a danger 
-* Destroy a public landmark 
-* Explain the necessity for destruction 
+##### 毀滅的動作: 
+* 留下一片斷垣殘壁和火焰
+* 透過附帶損害來危及無辜者
+* 打破對某個危險的束縛
+* 摧毀一個公共地標
+* 解釋破壞毀滅的必要性
 
-Always tie destruction arcs strongly to the human motivations of the 
-villains and antagonists involved. The destruction they seek is always strangely 
-justified to them; it’s not a real arc if they’re just doing it for fun. 
+記得永遠把毀滅故事弧與參與其中的反派或敵人的人性動機緊緊聯繫在一起。
+對他們來說，他們所尋求的破壞與毀滅總是顯得怪異卻合理；如果他們破壞的目的僅僅是為了找樂子，那這就不是一個真正的故事弧。
 </div><div class='Move'>
 <h3>復興 RESTORATION </h3>
 Restoration arcs are about fixing damage, healing wounds, and making the 
@@ -135,10 +126,10 @@ someone’s trying to undo the damage done by an arc in the past, they’re like
 calling on the relevant subtype here. 
 
 ##### Restoration Subtypes: 
-* Redemption (impulse: to draw into the light) 
-* Reclamation (impulse: to repel through force and battle) 
-* Rebellion (impulse: to subvert through chaos and mayhem) 
-* Reconstruction (impulse: to rebuild despite danger) 
+* Redemption (推動力: to draw into the light) 
+* Reclamation (推動力: to repel through force and battle) 
+* Rebellion (推動力: to subvert through chaos and mayhem) 
+* Reconstruction (推動力: to rebuild despite danger) 
 
 ##### Restoration Moves: 
 * Reveal a rebuilt threat 
@@ -152,7 +143,7 @@ looking to restore pieces of the world. The methods NPCs choose to fulfill their
 restoration plans will still put them at odds with the PCs.
 </div>
 
-### 組建出演陣容
+### 籌措出演陣容
 Once you’ve chosen what kind of arc you’re assembling, fill out the cast, a list of 
 NPCs involved with that arc. A few of these characters will be obvious. If you’re 
 creating a destruction arc, whoever’s doing the destruction has to be a cast 
@@ -179,10 +170,10 @@ especially if those villains or NPCs are also hooks.
 Arcs are split up into multiple phases, to help you track them as they advance 
 and progress through your story. There are three phases to every arc:
 
-* **布置棋盤**:  In this phase, the arc is just getting into motion. The 
+* **布局**:  In this phase, the arc is just getting into motion. The 
 cast is maneuvering and taking first steps, but nothing has come to a head yet.
 
-* **動手著棋**:  In this phase, the arc is in swing. The cast is making moves, 
+* **行棋**:  In this phase, the arc is in swing. The cast is making moves, 
 pushing towards their goals, and the issues of the arc are coming to fruition.
 
 * **收官**:  In this phase, the arc is hitting the end. The cast is making their 
@@ -288,13 +279,13 @@ threatening the entire potential of his future, and Ilijah Intrepid sees them as
 a potential ticket home.
 
 #### 階段: 
-**階段一：布置棋盤**
+**階段一：布局**
 * The  Hammer:  find  and  confront  their  younger  selves,  testing  their abilities to assess the situation
 * Doctor Infinity: unleash a weaker, generally insignificant, villain on the team to uncover their current weaknesses in this timestream
 * Ilijah  Intrepid:  make  contact  with  the  Hammer  and  offer  them  his assistance in exchange for help getting home
 * Dominus: offer information to the young heroes to sway them against their older selves
 
-**階段二：動手著棋:**
+**階段二：行棋:**
 * The  Hammer:  push  the  young  heroes  to  destroy  an  enemy—any  of Doctor Infinity, Ilijah Intrepid, or Dominus
 * Doctor Infinity: directly strike against the young team members 
 * Ilijah Intrepid: earn passage out of Halcyon City by pushing the young heroes to ridiculous lengths with terrible traps
