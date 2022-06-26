@@ -95,7 +95,7 @@ weight: 3
 限禁故事弧的出演陣容是那些比PC更龐大勢力中的人物，他們可以是其他超級英雄團隊、企業、或執法部門。
 利用他們在限禁故事弧中表現出PC們的年輕和經驗不足──這就是那經典的「父母制定了新的宵禁」故事弧，只不過提升到了超級英雄的層級。
 </div><div class='Move'>
-<h3>毀滅 DESTRUCTION </h3>
+<h3>毀滅</h3>
 毀滅類型的故事弧是關於破壞這個世界的部分。他們總是去破壞某個特定的事物，而不是眼前的所有一切。
 遊戲桌上的每個人都很清楚，一旦神翠市整個爆炸，那麼遊戲就結束了。儘管反派的計畫可能確實會是摧毀整個世界，但在故事弧中要破壞的，則只會是某個特定的事物。
 
@@ -118,29 +118,24 @@ weight: 3
 記得永遠把毀滅故事弧與參與其中的反派或敵人的人性動機緊緊聯繫在一起。
 對他們來說，他們所尋求的破壞與毀滅總是顯得怪異卻合理；如果他們破壞的目的僅僅是為了找樂子，那這就不是一個真正的故事弧。
 </div><div class='Move'>
-<h3>復興 RESTORATION </h3>
-Restoration arcs are about fixing damage, healing wounds, and making the 
-world right again. Often they’re about cleaning up the mess of another arc. 
-Note that some of these subtypes are callbacks to other types of arcs. If 
-someone’s trying to undo the damage done by an arc in the past, they’re likely 
-calling on the relevant subtype here. 
+<h3>復興</h3>
+復興類型的故事弧是關於修復損害、治療創傷、以及使這個世界重回正軌。它們經常會是關於清理另一個故事弧留下來的爛攤子。
+要注意的是，這些子類別中有一些其實就是對其他故事弧類型的回覆。如果某人試圖彌補過去某個故事弧導致的傷害，那他們就很可能會使用於此對應的子類別。
 
-##### Restoration Subtypes: 
-* Redemption (推動力: to draw into the light) 
-* Reclamation (推動力: to repel through force and battle) 
-* Rebellion (推動力: to subvert through chaos and mayhem) 
-* Reconstruction (推動力: to rebuild despite danger) 
+##### 復興的子類別: 
+* 贖罪 (推動力: 引向光明) 
+* 開拓 (推動力: 透過力量和戰鬥來驅逐抵抗) 
+* 叛亂 (推動力: 透過混亂和破壞推翻現況) 
+* 重建 (推動力: 不畏艱險地重建) 
 
-##### Restoration Moves: 
-* Reveal a rebuilt threat 
-* Uncover an old secret 
-* Rally the people to a cause 
-* Destroy the forces in power 
-* Share a vision of the future 
+##### 復興的動作: 
+* 揭露一個東山再起的威脅
+* 揭露一個老舊的秘密
+* 召集人群參與某項事業
+* 摧毀掌權的勢力
+* 分享對未來的願景
 
-The PCs may want to restore things on their own, but always have NPCs 
-looking to restore pieces of the world. The methods NPCs choose to fulfill their 
-restoration plans will still put them at odds with the PCs.
+PC們可能會想要修復他們自己的事物，但記得總是讓NPC試圖去恢復這個世界的碎片。NPC為了實現他們復興計畫所採取的手段仍然會使他們與PC們產生衝突。
 </div>
 
 ### 籌措出演陣容
@@ -262,12 +257,12 @@ between sessions, build a new arc.
 
 
 #### 出演陣容: 
-* Future  versions  of  Grasshopper,  Huma,  Toro,  and  Dusk,  known respectively as Antlion, Huma, Crush, and Penumbra
-* Ilijah Intrepid, interdimensional traveler trapped in Halcyon City and looking for a means to escape
-* Doctor Infinity, time traveling android trying to keep the whole length and breadth of time safe from causal wounds
-* Dominus, time traveling apotheosis of metahumanity, seeking to ensure their own creation by controlling the past
+* 未來版本的蚱蜢女俠、神雀、酷牛姊、和黃昏，分別被稱作 蛟蛉女俠、神雀、酷碎姊、和半影
+* 以利亞．因特毗，被困在神翠市的跨維度旅行者，正試圖找到逃出這裡的方式
+* 無限博士，穿梭時間仿生機人，試圖保持整個時間線的長度和寬度不受到因果悖論的傷害
+* 至尊魔主，穿梭時間的神化超人類，嘗試透過控制過去的方式確保自己族類能夠被創造
 
-#### DESCRIPTION: 
+#### 描述: 
 Antlion, Huma, Crush, and Penumbra travel back in time from the future to 
 ensure that this pivotal series of events go exactly as they remember. The adults, 
 collectively calling themselves “The Hammer,” aim to force the young heroes to 

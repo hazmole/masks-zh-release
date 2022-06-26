@@ -19,11 +19,14 @@ weight: 100
 * Rex : 雷克斯
 
 #### 英雄
+* Antlion: 蛟蛉女俠
 * Bryce Brilliant : 輝煌布萊斯
 * Champion : 英勇俠
+* Crush : 酷碎姊
 * Fastball : 快球俠
 * Golden Girl : 黃金女孩
 * Mantis : 螳螂女
+* Penumbra : 半影
 * Red Eagle : 赤鷹
 * The Cast-Iron Man : 鑄鐵人
 * The Haunt : 鬼影
@@ -43,6 +46,7 @@ weight: 100
 * Cygnus : 天鵝座
 * Deadly Devil : 致命魔鬼
 * Doctor Chaotix : 混亂博士
+* Doctor Infinity : 無限博士
 * Dominus : 至尊魔主
 * Dread Queen : 恐怖女王
 * Fanboy : 狂粉男孩
