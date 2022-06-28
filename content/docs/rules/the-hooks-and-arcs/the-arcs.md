@@ -95,27 +95,27 @@ weight: 3
 限禁故事弧的出演陣容是那些比PC更龐大勢力中的人物，他們可以是其他超級英雄團隊、企業、或執法部門。
 利用他們在限禁故事弧中表現出PC們的年輕和經驗不足──這就是那經典的「父母制定了新的宵禁」故事弧，只不過提升到了超級英雄的層級。
 </div><div class='Move'>
-<h3>毀滅</h3>
-毀滅類型的故事弧是關於破壞這個世界的部分。他們總是去破壞某個特定的事物，而不是眼前的所有一切。
-遊戲桌上的每個人都很清楚，一旦神翠市整個爆炸，那麼遊戲就結束了。儘管反派的計畫可能確實會是摧毀整個世界，但在故事弧中要破壞的，則只會是某個特定的事物。
+<h3>毀壞</h3>
+毀壞類型的故事弧是關於破壞這個世界的部分。他們總是去破壞某個特定的事物，而不是眼前的所有一切。
+遊戲桌上的每個人都很清楚，一旦神翠市整個爆炸，那麼遊戲就結束了。儘管反派的計畫可能確實會是摧毀整個世界，但在故事弧中要破壞的就只會是某個特定的事物而已。
 
-要注意的是，毀滅故事弧的子類別所指稱的是破壞行為的目的──而不是執行破壞的對象。
+要注意的是，毀壞故事弧的子類別所指稱的是破壞行為的目的──而不是執行破壞的對象。
 
-##### 毀滅的子類別: 
+##### 毀壞的子類別: 
 * 城市的守護者 (推動力: 用危險引出守護者) 
 * 異能物品 (推動力: 摧毀並奪取) 
 * 囚牢 (推動力: 釋放被拘捕的) 
 * 城市的當權者 (推動力: 破壞傳統) 
-* 城市中的危險 (推動力: 頑強地獵捕追逐) 
+* 城市中的危險 (推動力: 頑強地追逐獵捕) 
 
-##### 毀滅的動作: 
+##### 毀壞的動作: 
 * 留下一片斷垣殘壁和火焰
 * 透過附帶損害來危及無辜者
 * 打破對某個危險的束縛
 * 摧毀一個公共地標
 * 解釋破壞毀滅的必要性
 
-記得永遠把毀滅故事弧與參與其中的反派或敵人的人性動機緊緊聯繫在一起。
+記得永遠把毀壞故事弧與參與其中的反派或敵人的人性動機緊緊聯繫在一起。
 對他們來說，他們所尋求的破壞與毀滅總是顯得怪異卻合理；如果他們破壞的目的僅僅是為了找樂子，那這就不是一個真正的故事弧。
 </div><div class='Move'>
 <h3>復興</h3>
@@ -139,40 +139,25 @@ PC們可能會想要修復他們自己的事物，但記得總是讓NPC試圖去
 </div>
 
 ### 籌措出演陣容
-Once you’ve chosen what kind of arc you’re assembling, fill out the cast, a list of 
-NPCs involved with that arc. A few of these characters will be obvious. If you’re 
-creating a destruction arc, whoever’s doing the destruction has to be a cast 
-member. If you’re creating an invasion arc, the lead invader and their forces 
-need to be listed under the cast. But flesh out the cast with other characters as 
-well, people who aren’t necessarily on board with the overall plan of the arc, 
-but who have a vested interest in the situation in some way. 
+在你選好了要組建的故事弧類型之後，接下來就該填寫你的出演陣容：也就是這個故事弧所涉及的NPC成員清單。
+其中一些角色相當顯而易見，比如說，如果你打算創建一個毀壞類型的故事弧，那麼執行破壞行動的傢伙就必然會是出演陣容的成員之一。如果你打算創建一個侵入類型的故事弧，那麼主要的侵入者和他率領的勢力也當然需要被列在出演陣容之中。但除此之外，也要記得用其他角色去充實你的出演陣容，這些人不一定參與了故事弧的整體計畫，但也許在某種程度上能從該情況中獲取既得利益。
 
-Focus especially on characters you write up as villains. Remember that 
-in this context, “villains” don’t have to be evil (and in fact, shouldn’t be so 
-obviously evil). They just have to be antagonistic, clear opponents for the PCs to 
-face. Try to have at least three or four of these villain cast members for your arc. 
+尤其關注你所寫下的反派角色。要記得，這裡所指的「反派」並不一定要是邪惡的（事實上，它也不該邪惡的如此明顯），他們只需要是PC們將要去面對的，明確且對立的敵人。
+試著為你故事弧的出演陣容寫下至少三到四個這樣的反派角色。
 
-For each cast member, think about how their drive in general relates to 
-how they’d interact with this arc in particular. What would they want out of 
-it? Whose side would they be on? What’s their angle? 
+對於每個出演成員，想一下他們的動機會如何與這個故事弧互相影響。他們想從中得到什麼？他們會站在哪一邊？他們的立場又是什麼？
 
-And as always, try to reincorporate. If you can use villains or NPCs who’ve 
-already shown up in your game, your game will be stronger and more coherent, 
-especially if those villains or NPCs are also hooks.
+一如往常，盡可能重整再利用故事中的元素。如果你有辦法運用那些已經在你們遊戲中登場的反派或NPC，尤其是那些同時作為引鉤的角色，那麼你的遊戲也將變得更強烈且連貫。
 
 
 ### 填寫階段
-Arcs are split up into multiple phases, to help you track them as they advance 
-and progress through your story. There are three phases to every arc:
+故事弧被分成了好幾個不同的階段，幫助你在故事中追蹤它們的發展與進度。每個故事弧都有著三個階段：
 
-* **布局**:  In this phase, the arc is just getting into motion. The 
-cast is maneuvering and taking first steps, but nothing has come to a head yet.
+* **布局**:  在這個階段，故事弧才剛剛開始啟動。出演成員們仍在出謀調動，並採取了一開始的幾個行動，但還沒有什麼結果。
 
-* **行棋**:  In this phase, the arc is in swing. The cast is making moves, 
-pushing towards their goals, and the issues of the arc are coming to fruition.
+* **行棋**:  在這個階段，故事弧正如火如荼的進行中。出演成員們積極行動，推動情勢朝著自己的目標發展，而故事弧的主題也將要產生結果。
 
-* **收官**:  In this phase, the arc is hitting the end. The cast is making their 
-final moves, and the issues of the arc are in do-or-die territory. 
+* **收官**:  在這個階段，故事弧就要來到尾聲。出演成員們在執行他們的最後幾手，而故事弧的主題也來到了最終決戰。
 
 For each phase of your arc, jot down the plans and intents of the different 
 cast members. Start with any cast members directly supporting the overall 
@@ -208,11 +193,10 @@ react and adjust their intents.
 
 
 ### 編寫自訂動作
-If you want to further develop an arc, make some custom moves for it. These 
-moves are still always aimed at the players (not you). You’re giving the PCs more 
-ways to interact with the arc and its issues when you create a custom move.
+如果你想要進一步發展你的故事弧，那麼你可以為它編寫一些自訂動作。同樣的，這些動作總是以玩家為目標（而不是你）。
+當你在編寫新的自訂動作時，你就是在提供PC們更多與這個故事弧及其主題互動的手段。
 
-For more on making custom moves, see CUSTOM MOVES (page 197). 
+更多關於編寫自訂動作的說明，請參閱「<a href='{{< relref path="docs/rules/the-custom-moves/custom-moves" >}}'>自訂動作</a>」章節。
 
 
 
@@ -257,40 +241,32 @@ between sessions, build a new arc.
 
 
 #### 出演陣容: 
-* 未來版本的蚱蜢女俠、神雀、酷牛姊、和黃昏，分別被稱作 蛟蛉女俠、神雀、酷碎姊、和半影
+* 未來版本的蚱蜢女俠、神雀、酷牛姊、和黃昏，分別被稱作 草蛉女俠、神雀、酷碎姊、和半影
 * 以利亞．因特毗，被困在神翠市的跨維度旅行者，正試圖找到逃出這裡的方式
 * 無限博士，穿梭時間仿生機人，試圖保持整個時間線的長度和寬度不受到因果悖論的傷害
 * 至尊魔主，穿梭時間的神化超人類，嘗試透過控制過去的方式確保自己族類能夠被創造
 
 #### 描述: 
-Antlion, Huma, Crush, and Penumbra travel back in time from the future to 
-ensure that this pivotal series of events go exactly as they remember. The adults, 
-collectively calling themselves “The Hammer,” aim to force the young heroes to 
-destroy dangerous villains forthright, ensuring that their younger selves come 
-to understand how important direct, overwhelming action is. Doctor Infinity 
-reacts to the incursion by attempting to destroy the young heroes herself, to 
-ensure their future selves will never time travel, while Dominus sees them as 
-threatening the entire potential of his future, and Ilijah Intrepid sees them as 
-a potential ticket home.
+草蛉女俠、神雀、酷碎姊、和半影從未來穿越回過去，確保這一系列的關鍵事件能完全按照他們記憶中的那樣發生。這些成年英雄們把自己稱作「端正之錘」，目的是強迫這些年輕英雄馬上去摧毀那些危險的反派，並確保年輕版本的自己能夠理解，直接了當而壓倒性的行動是多麼重要。針對這起時間入侵事件的反應，無限博士試圖親自毀滅這些年輕英雄，為的是讓他們永遠失去在未來進行時間旅行的機會。另一方面，至尊魔主認為他們會威脅到自己被創造出來的未來，而以利亞．因特毗則把他們視作一張也許能幫助他的回家車票。
 
 #### 階段: 
 **階段一：布局**
-* The  Hammer:  find  and  confront  their  younger  selves,  testing  their abilities to assess the situation
-* Doctor Infinity: unleash a weaker, generally insignificant, villain on the team to uncover their current weaknesses in this timestream
-* Ilijah  Intrepid:  make  contact  with  the  Hammer  and  offer  them  his assistance in exchange for help getting home
-* Dominus: offer information to the young heroes to sway them against their older selves
+* 端正之錘:  find  and  confront  their  younger  selves,  testing  their abilities to assess the situation
+* 無限博士: unleash a weaker, generally insignificant, villain on the team to uncover their current weaknesses in this timestream
+* 以利亞．因特毗:  make  contact  with  the  Hammer  and  offer  them  his assistance in exchange for help getting home
+* 至尊魔主: offer information to the young heroes to sway them against their older selves
 
 **階段二：行棋:**
-* The  Hammer:  push  the  young  heroes  to  destroy  an  enemy—any  of Doctor Infinity, Ilijah Intrepid, or Dominus
-* Doctor Infinity: directly strike against the young team members 
-* Ilijah Intrepid: earn passage out of Halcyon City by pushing the young heroes to ridiculous lengths with terrible traps
-* Dominus: build a temporal stabilizer and prevent all time travel, thereby stopping the Hammer and protecting their timeline
+* 端正之錘:  push  the  young  heroes  to  destroy  an  enemy—any  of Doctor Infinity, Ilijah Intrepid, or Dominus
+* 無限博士: directly strike against the young team members 
+* 以利亞．因特毗: earn passage out of Halcyon City by pushing the young heroes to ridiculous lengths with terrible traps
+* 至尊魔主: build a temporal stabilizer and prevent all time travel, thereby stopping the Hammer and protecting their timeline
 
 **階段三：收官:**
-* The Hammer: put their younger selves’ loved ones in danger to force the young heroes to destroy an enemy
-* Doctor Infinity: destroy all of Halcyon City to destroy the young team members
-* Ilijah Intrepid: steal the time and dimension traveling technology of the Hammer at any cost
-* Dominus: confront the Hammer in a massive battle and destroy them
+* 端正之錘: put their younger selves’ loved ones in danger to force the young heroes to destroy an enemy
+* 無限博士: destroy all of Halcyon City to destroy the young team members
+* 以利亞．因特毗: steal the time and dimension traveling technology of the Hammer at any cost
+* 至尊魔主: confront the Hammer in a massive battle and destroy them
 
 #### 自訂動作:
 <div class='Move'>

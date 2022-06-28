@@ -19,7 +19,7 @@ weight: 100
 * Rex : 雷克斯
 
 #### 英雄
-* Antlion: 蛟蛉女俠
+* Antlion: 草蛉女俠
 * Bryce Brilliant : 輝煌布萊斯
 * Champion : 英勇俠
 * Crush : 酷碎姊
@@ -84,6 +84,7 @@ weight: 100
 * A.E.G.I.S : 神盾局（調停維安專門特派局）
 * Crystal Corp : 水晶公司
 * Exemplar : 典範者
+* The Hammer : 端正之錘
 * Rook Industries: 盧克企業
 * Spike: 尖釘監獄
 * VENOM : 猛毒幫
