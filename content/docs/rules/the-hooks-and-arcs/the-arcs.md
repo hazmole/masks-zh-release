@@ -201,15 +201,11 @@ react and adjust their intents.
 
 
 ### 給它一個名稱和描述
-Finally, give your arc a name: something evocative and descriptive, that you’d 
-see at the front of the comic book issues to flag they’re all part of the same story-
-line. Make it fun, something that’ll remind you what the arc is actually about: 
-“The Starborn Invasion” or “The Spider’s Web” or “The Doom from Within.”
+最後，給你的故事弧取個名字：一個能描述其內容、並喚起你記憶的名字，就像是你在漫畫封面上看到的那種，表示他們全都是屬於同一個故事的標題。
+取個有趣的名字，某個能提醒你這個故事弧究竟是關於些什麼的文字：「星裔入侵」或「蜘蛛網」或「來自內心的末日」等等。
 
-Then, write a few sentences of description, tying the arc together and 
-making the stakes clear. Since you’re the only one looking at your arcs, you 
-don’t have to worry about making them crystal clear, so long as you have 
-enough that you can use them at your table and know what they’re about.
+接著，寫下幾個描述性的句子，將整個故事弧聯繫在一起，使危機一目瞭然。
+由於你是唯一會去閱讀這個故事弧的人，所以你不用擔心自己寫的不夠清楚，只要你能在遊戲桌上運用它，並知道它是關於些什麼就足夠了。
 
 
 ---
@@ -242,31 +238,31 @@ between sessions, build a new arc.
 
 #### 出演陣容: 
 * 未來版本的蚱蜢女俠、神雀、酷牛姊、和黃昏，分別被稱作 草蛉女俠、神雀、酷碎姊、和半影
-* 以利亞．因特毗，被困在神翠市的跨維度旅行者，正試圖找到逃出這裡的方式
+* 以利亞·因特毗，被困在神翠市的跨維度旅行者，正試圖找到逃出這裡的方式
 * 無限博士，穿梭時間仿生機人，試圖保持整個時間線的長度和寬度不受到因果悖論的傷害
 * 至尊魔主，穿梭時間的神化超人類，嘗試透過控制過去的方式確保自己族類能夠被創造
 
 #### 描述: 
-草蛉女俠、神雀、酷碎姊、和半影從未來穿越回過去，確保這一系列的關鍵事件能完全按照他們記憶中的那樣發生。這些成年英雄們把自己稱作「端正之錘」，目的是強迫這些年輕英雄馬上去摧毀那些危險的反派，並確保年輕版本的自己能夠理解，直接了當而壓倒性的行動是多麼重要。針對這起時間入侵事件的反應，無限博士試圖親自毀滅這些年輕英雄，為的是讓他們永遠失去在未來進行時間旅行的機會。另一方面，至尊魔主認為他們會威脅到自己被創造出來的未來，而以利亞．因特毗則把他們視作一張也許能幫助他的回家車票。
+草蛉女俠、神雀、酷碎姊、和半影從未來穿越回過去，確保這一系列的關鍵事件能完全按照他們記憶中的那樣發生。這些成年英雄們把自己稱作「端正之錘」，目的是強迫這些年輕英雄馬上去摧毀那些危險的反派，並確保年輕版本的自己能夠理解，直接了當而壓倒性的行動是多麼重要。針對這起時間入侵事件的反應，無限博士試圖親自毀滅這些年輕英雄，為的是讓他們永遠失去在未來進行時間旅行的機會。另一方面，至尊魔主認為他們會威脅到自己被創造出來的未來，而以利亞·因特毗則把他們視作一張也許能幫助他的回家車票。
 
 #### 階段: 
 **階段一：布局**
-* 端正之錘:  find  and  confront  their  younger  selves,  testing  their abilities to assess the situation
-* 無限博士: unleash a weaker, generally insignificant, villain on the team to uncover their current weaknesses in this timestream
-* 以利亞．因特毗:  make  contact  with  the  Hammer  and  offer  them  his assistance in exchange for help getting home
-* 至尊魔主: offer information to the young heroes to sway them against their older selves
+* 端正之錘: 尋找並對峙年輕版本的自己，測試他們的實力以評估局勢
+* 無限博士: 釋放出一個弱小，通常無關緊要的惡棍去對付團隊，找出他們在這條時間線的弱點
+* 以利亞·因特毗: 聯繫端正之錘，為他們提供協助以換取讓他能回家的幫助
+* 至尊魔主: 提供情報給年輕英雄，誘使他們去對抗年長版本的自己
 
-**階段二：行棋:**
-* 端正之錘:  push  the  young  heroes  to  destroy  an  enemy—any  of Doctor Infinity, Ilijah Intrepid, or Dominus
-* 無限博士: directly strike against the young team members 
-* 以利亞．因特毗: earn passage out of Halcyon City by pushing the young heroes to ridiculous lengths with terrible traps
-* 至尊魔主: build a temporal stabilizer and prevent all time travel, thereby stopping the Hammer and protecting their timeline
+**階段二：行棋:**·
+* 端正之錘: 催促年輕英雄去摧毀其中一名敵人──無限博士、以利亞·因特毗、或至尊魔主都行
+* 無限博士: 直接襲擊年輕英雄團隊的成員
+* 以利亞·因特毗: 竭盡所能地利用可怕陷阱來逼迫年輕英雄，藉此得到離開神翠市的機會
+* 至尊魔主: 建造一個時間穩定器來防範一切時間旅行，藉此阻止端正之錘並保護他自己的時間線
 
 **階段三：收官:**
-* 端正之錘: put their younger selves’ loved ones in danger to force the young heroes to destroy an enemy
-* 無限博士: destroy all of Halcyon City to destroy the young team members
-* 以利亞．因特毗: steal the time and dimension traveling technology of the Hammer at any cost
-* 至尊魔主: confront the Hammer in a massive battle and destroy them
+* 端正之錘: 將他們年輕版本自己的摯愛置於危險之中來逼迫年輕英雄去摧毀敵人
+* 無限博士: 藉由摧毀整個神翠市來徹底摧毀年輕英雄團隊的成員
+* 以利亞·因特毗: 不計代價偷走端正之錘的時間次元傳旅科技
+* 至尊魔主: 在大規模的戰鬥中與端正之錘對峙並摧毀他們
 
 #### 自訂動作:
 <div class='Move'>
