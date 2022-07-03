@@ -1,5 +1,5 @@
 ---
-title: 創造與使用故事弧($)
+title: 創造與使用故事弧
 weight: 3
 ---
 
@@ -159,37 +159,18 @@ PC們可能會想要修復他們自己的事物，但記得總是讓NPC試圖去
 
 * **收官**:  在這個階段，故事弧就要來到尾聲。出演成員們在執行他們的最後幾手，而故事弧的主題也來到了最終決戰。
 
-For each phase of your arc, jot down the plans and intents of the different 
-cast members. Start with any cast members directly supporting the overall 
-nature of the arc, and then move to the cast members either opposing the arc or 
-acting in its periphery. Phrase all their plans as statements of what they’re going 
-to do, each one beginning with a verb: “Steal the Quantum Splicer,” “Collect 
-evidence on superheroic mistakes,” “Find a weakness in the Spike’s defenses.” 
+針對你故事弧的每個階段，寫下出演成員們各自不同的計畫和意圖。從能直接關連到故事弧本質的角色開始，接著擴展到那些與故事弧發展對立、或者在外圍行動的角色。
+把他們的計畫寫成一個句子去描述他們會去做什麼事情，並用動詞作為這個句子的開頭，像是：「偷走量子接合機」、「收集超級英雄過失的證據」、「尋找尖釘監獄的防衛系統的弱點」。
 
-Escalate the plans across the different phases. Make them raise the stakes 
-and build on prior plans. If an NPC’s plan in the first phase is “Collect the 
-pieces for the Infinite Portal,” then in the second phase, push their plan forward 
-a step: “Open up the Infinite Portal.” And in the third phase, push their plan 
-forward into its final step: “Summon the hordes of Deathdream through the 
-Infinite Portal.” If you can, create plans that can function independently across 
-the different phases. But in general, it’s most important that the plans escalate 
-the sense of danger and potential disaster. 
+接著，在不同的階段中升級這些計畫的層級。提升他們的風險與危害，並建基於前個計劃的結果。如果某個NPC在第一個階段的計畫是「收集無盡傳送門的碎片」，那麼在第二階段，將他的計畫更進一步：「開啟無盡傳送門」，而在第三個階段，將這個計畫推進到最後一步：「召喚成群的死噩之夢通過無盡傳送門」。如果可以的話，盡量寫下能夠在不同階段中獨立運作的計畫。但總的來說，撰寫計畫時最重要的，就是使危險和潛在災難的氛圍能夠不斷升級。
 
-As long as you have three or four plans recorded for your cast, you’re good 
-for each phase. If you have more cast members, you don’t need to come up with 
-a plan for each and every one. 
+只要你為你的演員們寫下總共三到四個計劃，那麼你就能胸有成竹地去應付每個階段。
+就算你的出演成員數量比這還多，你也不需要為每個角色都各自想一個計劃。
 
-These plans tell you what the characters involved with the arc will do 
-throughout the game. They let you think between panels ( page 133), and 
-make moves accordingly. When you’re looking for another way to stir the pot, 
-look to these plans. Have your NPCs pursue their plans, making moves and 
-stirring up trouble. When two of your NPCs have resolved their plans for the 
-current phase, either failing at them entirely or succeeding, move onto the next 
-phase and start making moves from those plans.
+這些計畫將告訴你，這些參與在故事弧中的角色在遊戲中將會做出什麼行動。它們能夠幫助你考慮畫框外的事物（參見「<a href='{{< relref path="docs/rules/the-gm/the-principles" >}}'>GM的原則</a>」章節），並據此進行相應的動作。
+當你需要使用另一個方式來把局勢攪得翻天覆地時，就是這些計畫派上用場的時候了。讓你的NPC去執行他們的計畫，採取行動，並製造麻煩。當你有兩個NPC在當前階段的計畫已經被解決，無論結果是成功還是徹底失敗，你都應該將故事弧推進到下一個階段，並開始進行這些計畫的相應動作。
 
-You can always come in and adjust your NPCs’ plans if necessary. Don’t feel 
-beholden to them if the situation changes substantially—your NPCs would 
-react and adjust their intents.
+你永遠可以在需要的時候去調整NPC的計畫。如果情況有了重大變化，不要覺得自己好像有義務要實行它們──你的NPC會對情勢做出反應，並調整他們的目的。
 
 
 ### 編寫自訂動作
@@ -210,21 +191,13 @@ react and adjust their intents.
 
 ---
 ## 如何使用故事弧
-Your arcs provide you with a framework to help guide what moves you make 
-and what actions your NPCs take. When you’re at a loss, look down at your 
-arcs for some guidance. You can always make arc moves when appropriate, 
-and you can frame scenes around the PCs encountering and dealing with the 
-plans of the arc’s cast.
+你的故事弧將給你一個框架來協助你，指引你該在什麼時候進行什麼動作、又該讓NPC採取什麼樣的行動。當你感到迷惘時，你可以看看你的故事弧來尋求指示。
+你永遠可以在合適的時候進行你的故事弧動作，你也可以去架設場景，讓PC們去遭遇並應付故事弧的出演成員所策畫的計畫。
 
-Keep track of when the plans of the cast members are resolved during the 
-arc, too. Remember that once two such plans are resolved for any single phase 
-of the arc, you should move to the next phase. Use the current phase of the 
-arc to help determine how hard you should be making your moves. As you 
-advance phases, the tension should increase, and your moves should get harder.
+在此同時，不要忘記去追蹤出演成員們的計畫被解決的時間點。記住，一旦某個階段的兩個這類計畫被解決，你就應該把故事弧推到下一個階段。
+根據故事弧當下所處的階段去決定你進行的動作有多「硬」。隨著階段一步步推進，故事張力將不斷攀升，你的動作也會越來越強硬。
 
-When two plans of the third phase of your current arc have been resolved, 
-then the whole arc should resolve. Reassess the current state of the city, and 
-between sessions, build a new arc. 
+一旦當前故事弧第三個階段的二個計畫被解決，那麼就該是整個故事弧畫下句點的時候了。重新審視整個城市的狀態，然後在聚會之間的空檔創造一個新的故事弧。
 
 ---
 ## 範例故事弧
@@ -252,7 +225,7 @@ between sessions, build a new arc.
 * 以利亞·因特毗: 聯繫端正之錘，為他們提供協助以換取讓他能回家的幫助
 * 至尊魔主: 提供情報給年輕英雄，誘使他們去對抗年長版本的自己
 
-**階段二：行棋:**·
+**階段二：行棋:**
 * 端正之錘: 催促年輕英雄去摧毀其中一名敵人──無限博士、以利亞·因特毗、或至尊魔主都行
 * 無限博士: 直接襲擊年輕英雄團隊的成員
 * 以利亞·因特毗: 竭盡所能地利用可怕陷阱來逼迫年輕英雄，藉此得到離開神翠市的機會
