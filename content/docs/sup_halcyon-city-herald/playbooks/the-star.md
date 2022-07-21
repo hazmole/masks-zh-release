@@ -8,9 +8,9 @@ weight: 4
 {{< playbookImg url="header-star.png" >}}
 
 <div class="playbookDesc">
-	Being a hero isn't just about doing right. It's about being seen doing right.
-	Let them think you're shallow for loving the spotlight and the cameras, for making speeches, for smiling so much.
-	You'll be a hero in all the ways that matter.
+	當一個英雄不僅僅是要做對的事，而是要被大家看見你正在做對的事。<br>
+	就讓他們認定你是個熱愛聚光燈和鏡頭、喜歡演說、笑容大放送的膚淺之人吧。<br>
+	你將會成為一個全方位的英雄。
 </div>
 
 {{< details title="如何扮演明星" >}}
@@ -79,90 +79,84 @@ unless your audience is right there.
 
 * 男性, 女性, 模稜兩可, 性別認同轉變, 性別越界
 * 亞洲或南亞裔, 黑人, 西班牙/拉丁美洲人, 印地安人, 中東人, 白人
-* charming smile, coy smile, broad smile, warm smile, teasing smile
-* designer clothing, formal wear, beautiful outfits, preppy clothing, casual clothing
-* branded costume, flashy costume, focus-tested costume, stylish costume, ridiculous costume
+* 充滿魅力的笑容, 靦腆的笑容, 燦爛的笑容, 溫暖的笑容, 挑逗的笑容
+* 精心設計的服裝, 正式服裝, 漂亮的套裝禮服, 筆挺的服裝, 休閒的服裝
+* 名牌英雄服, 華麗的英雄服, 焦點測試過的英雄服, 時尚的英雄服, 荒謬的英雄服
 
 ## 超能力
 <div class="Instructions">
-Your powers are flashy and impressive. Choose one.</div>
+你的超能力華麗且令人印象深刻。選擇一項。</div>
 
-* sonic control
-* light control
-* body plasticity and stretching
-* electrodynamic control
-* strange wings
-* flame control
+* 聲波控制
+* 光線控制
+* 身體可塑化與延展拉伸
+* 電磁動力控制
+* 奇特的翅膀
+* 火焰控制
 
 ## 標籤屬性
 <div class="Instructions">在創建角色時，自行選擇一個標籤屬性 +1。</div>
 　危險-1　　古怪+1　　救助+1　　優越+2　　平凡-1
 
 ## 背景故事
-* When did you first appear onscreen?
-* What do you tell people about how you got your powers?
-* Who, outside of the team, supports your burgeoning star in every way possible?
-* Who, outside of the team, loathes what you represent?
+* 你在什麼時候第一次出現在螢幕上？
+* 關於你獲得你超能力的由來，你跟大眾說了些什麼？
+* 團隊之外的誰，盡一切可能的手段來支持你的明星事業？
+* 團隊之外的誰，厭惡你所表現出的事物？
 * 你為什麼在乎這個團隊？
 
 ## 關鍵時刻
 <div class="Move">
-Sometimes it can be hard to tell where the show stops and where you begin—but not today. Not
-now. Because right now, there is no show. Right now, you are the thing you pretend to be—bold and
-bright and beautiful and amazing and powerful and confident. Right now, you draw strength from
-your audience, comfort from their belief in you, and you can do anything they think you can. Of
-course, after such an impassioned performance, your audience will just have even more demands...
+有時候，你很難分辨表演該在哪裡開始、又該從哪裡結束──但不是今天，不是現在。因為此時此刻，這不再是演出。此時此刻，你就是你一直在假裝成為的那個人──勇敢、聰明、美麗、驚人、強大、且自信。此時此刻，你從你的觀眾那裏得到了力量，從他們對你的信任中得到安慰，你甚至能做到任何他們相信你能做到的壯舉！<br>
+當然，在這樣一番激情熱烈的演出之後，你的觀眾對你將會做出更多更多的要求……
 </div>
 
 ## 團隊動作
 <div class="Move">
-	When you share a triumphant celebration with someone, say whether it’s part of the show or
-not. If it is, then you can shift your Labels as you choose. If it is not, then they shift your Labels,
-and you can clear a condition or mark potential.
+	當你與某人共同慶祝勝利時，說出這是否為演出的一部份。若是，則你可以自己調動自己的標籤屬性。若不是，則讓他調動你的標籤屬性，且你可以清除一個狀態或標記一格潛能。
 </div>
 <div class="Move">
-	When you share a vulnerability or weakness with someone, ask them if they will tell anyone the
-truth about you. If they agree to keep it a secret, clear a condition or mark potential. If they don’t
-agree, the GM shifts your Labels.
+	當你向某人傾訴你的弱點時，詢問他是否會把你的真面目告訴其他人。如果他同意保守秘密，則你清除一個狀態或標記一格潛能。若他不同意，則GM調動你的標籤屬性。
 </div>
 
 ## 額外事物
 <div class="Move">
 
-### 〈Audience〉
-You are a celebrity in the city. By default, your audience is a limited group of interested fans, and
-you speak to them through after-action interviews and infrequent press conferences. Why does
-your audience love you? Mark all that apply.
-* You’re just like them
-* You’re a dangerous person, a bad seed
-* You’re noble warrior for justice
-* You’re stunning, unique, and beautiful
-* You’re charming, well-spoken, and smart
-* You’re a firebrand, a rabble rouser
+### 〈觀眾粉絲〉
+你是個城市中的名人。預設來說，你的觀眾是一群數量有限、對你感興趣的粉絲群，且你能夠透過事後採訪以及偶爾招開的記者會來對他們說話。
 
-Choose two advantages:
-* Your audience is utterly devoted to you
-* You can easily speak to them at any time
-* You have a PR agent to handle your audience
-* You earn a lot of money from their interest
-* You have a major hero’s endorsement
-* You have a much wider audience
+為什麼你的觀眾喜歡你？標記所有符合的項目：
+* 你跟他們很相像
+* 你是個危險的傢伙，一個壞種
+* 你是個為正義而戰的高貴戰士
+* 你令人驚嘆、獨特、且美麗動人
+* 你魅力十足、談吐得體、聰穎過人
+* 你善於煽動人群，是個帶風向專家
 
-Choose two demands your audience makes on you:
-* They require constant stimulation
-* They require perfection—no mistakes
-* They require frequent bouts of drama
-* They require major acts of heroism
-* They require novelty and brand new action
-* They require chemistry with your allies
+選擇二項優點：
+* 你的觀眾完全投入在你身上
+* 你可以在任何時候輕易與他們交談
+* 你有一個公關負責人來應付你的觀眾
+* 你從他們的興趣中賺了大把鈔票
+* 你的到了某個主流英雄的支持
+* 你有著更廣泛的觀眾群體
 
-When you accept what your audience tells you about yourself, clear a condition. When you reject
-what your audience tells you about yourself, on a hit mark potential and expect retribution.
+選擇二項觀眾對你的要求：
+* 他們要求持續性的刺激和鼓勵
+* 他們要求完美──不能犯錯
+* 他們要求頻繁的戲劇性事件
+* 他們要求你做出重大的英雄行動
+* 他們要求新奇未見的嶄新行為
+* 他們要求你與隊友之間的化學反應
 
-When you seek help from your audience, roll + Superior. On a hit, someone in your audience
-can hook you up. On a 10+, they only make a small demand. On a 7-9, their demands are a
-lot higher. On a miss, you’ve made a mistake, and your audience won’t help you until you’ve
-redeemed yourself in their eyes.
+當你接受了觀眾告訴你關於你是誰的話語時，清除一個狀態。<br>
+當你拒絕了觀眾告訴你關於你是誰的話語時，若成功，標記一格潛能，並預期發生反撲。
+
+當你向你的觀眾粉絲們尋求協助時，擲<b>+優越</b>。<br>
+擲出成功時，觀眾中的某人能夠幫上忙。<br>
+擲出10+時，他們只會提出一個小要求。<br>
+擲出7-9時，他們要求的回報要高昂得多。<br>
+擲出失敗時，你犯了錯，且直到你在他們眼中挽回了自己，否則你的觀眾都不會再為你提供幫助。
 </div>
 
 
@@ -171,50 +165,49 @@ redeemed yourself in their eyes.
 <div class="Instructions">選擇二個：</div>
 <div class="Move">
 
-### 〈The gossip mags〉
-When you tap into the gossip and rumor of the celebrity industry for information on an important city figure, roll + Superior.
+### 〈八卦雜誌〉
+當你涉入名人行業的八卦謠言之中以打探某個重要城市人物的情報時，擲<b>+優越</b>。
 
-On a hit, you can ask the GM questions.<br>
-On a 10+, ask three.<br>
-On a 7-9, ask one:
-- What are they up to?
-- What or who do they most care about?
-- What allies do they have? Enemies?
-- Where and when can I find them?
-- How could I make them vulnerable to me?
+擲出成功時，你可以詢問GM幾個問題。<br>
+擲出10+時，詢問三項。<br>
+擲出7-9時，詢問一項：
+- 他在忙些什麼？
+- 他最在乎什麼人或什麼事？
+- 他有哪些盟友？或是哪些敵人？
+- 我可以在何時何地找到他？
+- 我該怎麼使他對我露出弱點？
 
-On a miss, ask one anyway, but they hear about
-your interest in them.
+擲出失敗時，你仍然可以詢問一項，但他會得知你對他感興趣。
 </div>
 <div class="Move">
 
-### 〈Stage-fighting〉
-When you directly engage a threat with an audience watching, mark a condition to roll + Superior instead of Danger.
+### 〈武打戲〉
+當你在有觀眾注目的情況下進行〈直面威脅〉時，標記一個狀態以擲+優越來取代+危險。
 </div>
 <div class="Move">
 
-### 〈Time for the show〉
-When you put on a flamboyant display of your powers, roll + Superior.
+### 〈演出時間〉
+當你誇耀展示你的超能力時，擲<b>+優越</b>。
 
-On a 7-9, name one NPC present.<br>
-On a 10+, name two NPCs present. The named NPCs must either volunteer help or information, express admiration, or ask for your help, GM’s choice.<br>
-On a miss, your display catches someone watching in the wrong way.
+擲出7-9時，指名一個在場的NPC。<br>
+擲出10+時，指名二個在場的NPC。<br>
+被指名的NPC必須選擇自願提供協助或情報、表達讚賞、或向你尋求幫助，由GM決定。
+
+擲出失敗時，你的炫耀行為引來了某人以錯誤的方式觀看。
 </div>
 <div class="Move">
 
-### 〈Take it from me〉
-When you comfort or support
-someone who openly admires your celebrity persona,
-roll + Superior instead of Mundane.
+### 〈聽我的就對了〉
+當你對某個公開讚賞你名人特質的對象進行〈安慰或支持某人〉時，擲+優越來取代+平凡。
 </div>
 <div class="Move">
 
-### 〈Cold and Cruel〉
-When you shut someone down, roll + Superior. 
+### 〈冷酷無情〉
+當你無情地打斷了某人的言行，擲<b>+優越</b>。
 
-On a 10+, you either inflict a condition on them, make them lose Influence over you, or take Influence over them, your choice. <br>
-On a 7-9, you either each inflict a condition on the other, or both lose Influence over each other, your choice. <br>
-On a miss, they gain Influence over you.
+擲出10+時，你選擇要對他造成一個狀態、讓他失去對你的影響力、或者讓你獲得對他的影響力。<br>
+擲出7-9時，你選擇要讓雙方互相對彼此造成一個狀態、或者雙方失去對彼此的影響力。<br>
+擲出失敗時，他獲得對你的影響力。
 </div>
 
 ---
@@ -223,17 +216,16 @@ On a miss, they gain Influence over you.
 </div>
 
 ## 當團隊初次集結時……
-We, as a team, attracted the attention of a major media outlet within the city, thanks to our efforts.
-Who are they? Why do they support us?
+在我們的努力之下，我們以一個團隊的身分，吸引了城市中一家主要媒體的關注。他們是誰？他們為什麼支持我們？
 
 ## 人際關係
-* __________________ might wind up being more of a star than me some day.
-* __________________ would be a great sidekick; I try to keep them around.
+* __________________ 或許終有一天會變得比我更像個明星。
+* __________________ 會是個很棒的跟班；我試著盡可能把他留在身邊。
 
 ## 影響力
-Choose how you see the team: as a means to an end, or as something worthwhile on its own.
-If you see the team as a means to an end, give no one Influence. If you see the team as something
-worthwhile, give three teammates Influence.
+選擇你看待團隊的方式：他們是你達成目標的一種手段、還是本身就有價值的事物？<br>
+若你把團隊視為達成目標的手段，沒有任何隊友獲得對你的影響力；<br>
+若你把團隊視為本身就有價值的事物，讓三個隊友獲得對你的影響力。
 
 ---
 ## 成長發展
