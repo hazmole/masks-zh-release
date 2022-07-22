@@ -14,55 +14,23 @@ weight: 4
 </div>
 
 {{< details title="如何扮演明星" >}}
-Arrogant, ambitious, flamboyant, delightful. The Star is a young celebrity, aware of their
-status and interested in obtaining more of it. They’re a showboat, but they’re also still a
-superhero, and those two poles pull them in drastically different directions. Should they
-make sure they land the last strike on the villain, so they can take the credit? Or should
-they avoid interfering with their teammate’s fight and possibly messing things up?
+傲慢、野心勃勃、浮誇華麗、討人喜歡。明星是年輕的城市名人，他們知道自己的地位，且有興趣去得到更多。他們是愛現的傢伙，但同時仍然是個超級英雄，而這兩個身分會把他們往截然不同的方向拉扯。他們是否該確保自己能給予反派最後一擊，好為自己爭取功勞？又或者他們應該避免干擾隊友們的戰鬥，以免把事情搞砸呢？
 
-The questions are complicated by your audience. When you play as the Star, your
-audience is a constant presence intruding upon your life. They will tell you who you are
-and, more than anything, they’ll try to reshape you into what they want. But they also
-provide you with help when you need it, when you speak to them or organize them for a
-particular end. Don’t play the Star unless you’re already interested in interacting with the
-audience regularly and juggling their impression of you along with actual heroics.
+你的觀眾粉絲會進一步把這些問題複雜化。當你在扮演明星時，你的觀眾粉絲會不斷出現在你的生活中。他們會告訴你你是什麼樣的人，最重要的是，他們會試圖把你重新塑造成他們想要的樣子。
+但同時，當你跟他們說話、或為了某個特定的目標去組織他們時，他們也能在你需要的時候為你提供援助。除非你對定期與觀眾粉絲互動，並透過實際英雄行為去改變他們對你的印象感興趣，否則不要輕易挑選明星這個扮演書。
 
-Remember that your audience is your audience and that, while people may be paying
-attention to you as part of a team, they’re also paying attention to you individually. That’s
-another source of fruitful tension for the Star, whether they belong to a team or are an
-individual celebrity. Play into it, and don’t hesitate to be a bit of a heel sometimes, trying
-to nab all the attention for yourself.
+要記住，你的觀眾就是「你」的觀眾，而儘管人們可能會把你當作團隊的一部分來看待，他們同時也會關注你這個人。這正是明星扮演書另一個美味的劇情張力來源：他究竟是團隊中的一員、還是身為名人的個體。去發揮這一點，不要遲疑於偶爾耍點心機，試著把所有人的注意力都引到自己身上。
 
-Most importantly, always keep in mind that the Star, while a celebrity, is also still a
-hero. They may be interested in their own popularity quite a bit. They may desperately
-be trying to stay in the news. But they’re also still ultimately interested in helping people,
-in making things better. If someone is in pain in front of them, they won’t just let it keep
-going. If you veer too much into making decisions purely for the audience, then your
-character will become unsympathetic fast.
+最重要的是要永遠記得：儘管明星是個名人，但他也同樣是個英雄。他們可能會汲汲營營於自己的人氣名望，他們也許會拼命的博取新聞版面；但他們也依舊會樂於幫助有需要的人，並使這個世界變得更好。如果有個正在受苦的人出現在他們面前，他們不會就這麼一走了之。如果你的行動抉擇過於傾向於為了觀眾服務，那麼你的角色會很快地變得冷酷無情。
 
 ### 關於你的動作 & 額外事物
-For Time for the show, a flamboyant display of your powers needs to primarily
-be just that—a flamboyant display. It doesn’t trigger if you are using another
-move, but flamboyantly. If you’re trying to stop a building from falling down,
-but you’re doing it flamboyantly, the move won’t trigger. But if you’re standing
-on a stage juggling fireballs, then you are doing a flamboyant display, and the
-move will trigger.
+關於〈演出時間〉，誇耀展示超能力必須要是這個行動主要的目的──也就是誇張華麗的展示。如果你使用了另一個動作，就算你的手法再華麗誇張，也不會因此觸發這個動作。打個比方，如果你試著用非常華麗誇張的方式去阻止大樓崩塌，那麼這個動作不會被觸發。但如果你是站在舞台上拋接雜耍著火球，那麼你就是在誇耀展示你的超能力，這個動作也因此會被觸發。
 
-Stage-fighting requires you to fight with an audience watching. “An audience”
-is more than just a couple people. If you’re fighting in an abandoned warehouse
-with five hostages watching, then the move won’t trigger. But if you’re fighting in
-the city streets with news choppers following you, it will.
+〈武打戲〉要求你在有觀眾注目的情況下戰鬥。這裡所指的「觀眾」不能只是一小搓人。如果你是在一間廢棄倉庫，旁邊有五個人質觀看的情況下戰鬥，那這個動作就不會被觸發。但如果你是在城市街道熱血開打，後面還跟著一台新聞台的直升機，那就會觸發這個動作。
 
-Cold and cruel requires you to shut someone down. That could involve outright
-telling them to shut up or it could involve a cold look, but it has to be clear to both
-parties that you are demeaning, insulting, or reducing them.
+〈冷酷無情〉要求你無情地打斷某人的言行。這可以是當場叫他們閉嘴、或可能是給他們一個冷冷的眼色，無論如何，這個行動必須讓雙方都感受到你正在貶低或侮辱他們。
 
-Seeking help from your audience is when you are either putting out a general call
-for aid from your audience, or searching through people you know to be fans to
-find someone who can help you out. You aren’t necessarily speaking to the group,
-so much as combing through them to see if anyone can give you a hand. It takes
-some time, so it’s unlikely that you can trigger the move in the middle of a fight,
-unless your audience is right there.
+所謂的「向你的觀眾粉絲尋求協助」，可以是指你向你的觀眾群體發出協助的請求、或者從你認識的粉絲群體中尋找某個能幫助你的人。你不一定要對你的觀眾群體說話，而是透過梳理他們來看看有沒有任何人能提供援助。這會需要花點時間，所以你不太可能在戰鬥之中觸發這個動作，除非你的觀眾們就在現場。
 
 ### 明星的靈感來源
 * Striker, Avengers Academy
@@ -138,7 +106,7 @@ unless your audience is right there.
 * 你可以在任何時候輕易與他們交談
 * 你有一個公關負責人來應付你的觀眾
 * 你從他們的興趣中賺了大把鈔票
-* 你的到了某個主流英雄的支持
+* 你得到了某個主流英雄的支持
 * 你有著更廣泛的觀眾群體
 
 選擇二項觀眾對你的要求：
