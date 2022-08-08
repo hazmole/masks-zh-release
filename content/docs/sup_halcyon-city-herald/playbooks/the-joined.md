@@ -8,10 +8,9 @@ weight: 5
 {{< playbookImg url="header-joined.png" >}}
 
 <div class="playbookDesc">
-	You'd be nothing without them - your parter, your sibling, your friend, your rival, your other half.
-	You're tied th their powers and to them, through and through.
-	The rest of the world only ever sees you two as halves of a whole -- not as two seperate people.
-	And the two of you aren't sure if they're right.
+	沒有了他，你就什麼都不是──你的搭檔、你的兄弟、你的摯友、你的勁敵、你的另外一半。<br>
+	你們以及你們的超能力與彼此緊緊相連，其他人也總是只把你們兩個看做一個整體的一半──而非兩個獨立的個體。
+	然而你們兩個無法確定，他們是否才是正確的。
 </div>
 
 {{< details title="如何扮演雙子" >}}
@@ -74,158 +73,111 @@ to have an audience—you can’t just grumble to yourself, under your breath.
 ---
 
 ## 外貌
-<div class="Instructions">You look similar to your other half, and your costume choice is always the same as theirs.
-Choose two other options they have selected that you share; then, choose two options from the lists below.</div>
+<div class="Instructions">
+你的外貌和你的半身相似，你的英雄服選項也總是與他所選的相同。<br>
+選擇另外兩項他所選擇的，且你與他共享的外貌選項；接著從以下列表中選擇剩下的兩項：</div>
 
 * 男性, 女性, 模稜兩可, 性別認同轉變, 性別越界
 * 亞洲或南亞裔, 黑人, 西班牙/拉丁美洲人, 印地安人, 中東人, 白人
-* brooding face, curious face, judging face, unreadable face
-* casual clothing, eccentric clothing, dark clothing, light clothing
+* 沉思的臉龐, 好奇的臉龐, 評斷的臉龐, 難以捉摸的臉龐
+* 休閒服裝, 乖僻的服裝, 暗色的服裝, 明亮的服裝
 
 ## 超能力
 <div class="Instructions">
-Your powers complement your other half’s. You have the same abilities they have. At least for now.</div>
+你的超能力與你的半身互補。你擁有與他相同的超能力，起碼目前是這樣。</div>
 
 ## 標籤屬性
-<div class="Instructions">Your Labels start off the same as your other half ’s, but you may shift up any one Label, and shift down any one Label.</div>
+<div class="Instructions">
+你的標籤屬性一開始與你的半身相同，但你可以選擇自己調動一次標籤屬性：提升其中一個標籤屬性，降低另外一個。</div>
 
 ## 背景故事
-* How did you and your other half become connected?
-* Who or what did you have to give up because of your connection?
-* Apart from your powers, what keeps you together?
-* Someone outside the team thinks you’d be better off on your own. Who are they and why do they think that?
-* Why do you care about the team?
+* 你與你的半身是怎麼變得如此緊密相連？
+* 你因為你們之間的聯繫而不得不放棄了誰或什麼東西？
+* 除了你們的超能力之外，還有什麼使你們持續待在一起？
+* 團隊之外的某人認為你一個人獨立會更好。他是誰？他為什麼會這麼認為？
+* 你為什麼在乎這個團隊？
 
 ## 關鍵時刻
 <div class="Move">
-When you trigger your Moment of Truth, choose—are you working with your other half, or are you on your own?
+當你觸發你的關鍵時刻時，選擇：你是與你的半身一起合作，還是獨自行動？
 
-If you’re working with your other half, use the text of their Moment of Truth and treat it as if it
-applies to both of you. Remember to lock your Label and switch a bond to a distinction because
-you’ll probably never reach these heights of perfect connection, of being one, ever again…
+如果你是與你的半身一起合作，則使用他關鍵時刻上的文字，並視作其同時適用於你們兩個。<br>
+記得在這之後要固定你的其中一個標籤屬性，並把一個羈絆換成區別特色，因為你們可能再也無法達到這麼完美的同心合作，也再無法這麼完美的成為一體……
 
-If you’re on your own, use the following text:
+如果你是獨自行動，則使用下列文字：
 
-You’re on your own. It’s like missing an arm. Like fighting naked. Like holding your breath. You’re
-missing something vital...but you’re moving faster than ever, thinking faster than ever, doing
-things you couldn’t even do while relying on both of your strength combined. And it’s hitting you,
-hard—you can do this. Without them. And you can win. It’s going to be hard to come down off
-this high and rejoin with them afterwards, isn’t it?
+<div class="Move">
+你只能靠自己了。這就像是少了一隻手，就像是裸身上陣，像是屏住呼吸。你缺少了重要的那一塊……但你的行動比任何時候都要快，思緒比任何時候都要敏銳，甚至能做到結合了你們兩個力量時都做不到的壯舉。這件事狠狠衝擊了你──你能做到，即使沒有他，你也能夠取得勝利。在達到了這樣的高度後，要恢復與他原本的關係也將變得困難起來，不是嗎？
+</div>
 
-Remember to lock a Label and switch a bond to a distinction, afterward.
+記得在這之後固定一個標籤屬性，並將一個羈絆換成區別特色。
 </div>
 
 ## 團隊動作
 <div class="Move">
-	When one of you shares moment of vulnerability or shares a triumphant celebration without the other one present, mark a condition to mark a potential.
+	當你們其中一人在自己的半身不在場的時候，與某人共同慶祝勝利、或向某人傾訴你的弱點時，可以標記一個狀態來標記一格潛能。
 </div>
 
 ## 額外事物
 <div class="Move">
 
-### 〈Your Other Half〉
-You share a deep bond with your other half. You are stronger together than you are apart, for
-now. If your other half is a Delinquent, Outsider, or Transformed, take two moves from their
-playbook: one they have and one they don’t. Remember that you share much beyond your moves;
-i.e., if your other half is an Outsider, you both hail from the same dimension/planet/etc. For all
-other playbooks, you share in the core extras of your other half.
+### 〈你的另外一半〉
+你與你的半身之間有著一道緊密深刻的羈絆。你們在一起時遠比你們各自分開要來得強大，起碼現在是這樣。<br>
+如果你的半身是<b>不良少年</b>、<b>外來者</b>、或<b>異變者</b>，則從他的扮演書中獲得二個動作：一個是他也有的、另一個是他沒有的。
+要記住，你跟你的半身之間的共同之處遠遠不只有動作；舉例來說，如果你的半身是外來者，那你們可能都源自同一個維度/星球，諸如此類。至於所有其他的扮演書，你共有與你的半身相同的核心額外事物。
 
-* Beacon:<br>
-Take drives and mark four of your
-choice. When your other half strikes out a drive,
-strike it out as well.
+* **明燈**:<br>
+獲得「驅動力」並自己標記四個。當你的半身劃掉某個驅動力時，把自己的該驅動力劃掉。
 
-* Bull:<br>
-Take The Bull’s Heart with the same love
-and rival as your other half. Choose a different
-role that you commonly fulfill.
+* **蠻牛**:<br>
+獲得「蠻牛之心」，並選擇跟你半身相同的摯愛和勁敵。接著選擇一個不同的角色身分。
 
-* Janus:<br>
-Take The Mask and a secret identity.
-Choose a different Label for your Mask. Take two
-obligations: one shared, one unique to you.
+* **雙面人**:<br>
+獲得「祕密身分」和〈面具〉動作。為你的〈面具〉動作選擇一個不同的標籤屬性。選擇總共二個義務：其中一個與你的半身相同，另一個則是你獨有的。
 
-* Legacy:<br>
-Take a legacy. Your other half fills in as
-many names in the initial list as they choose;
-you fill in the rest. You can never answer the
-questions for your other half’s Legacy move.
+* **傳承者**:<br>
+獲得「家族傳承」。由你的半身在家族成員列表中填入任意數量的名字後，由你填寫剩下的內容。你永遠不能替你半身的「家族傳承」動作回答問題。
 
-* Protégé:<br>
-You share a mentor with your other
-half. When they finish defining your mentor and
-resources, choose an additional resource.
+* **門徒**:<br>
+你與你的半身共有一個相同的「導師」。你的半身決定好了你們的導師的選項和導師資源後，你選擇一個額外的導師資源。
 
-* Doomed:<br>
-Take a sanctuary, a doom, and a
-doom track: You and your other half share the
-conditions that bring your doom closer and a
-doom track; when it fills, you both choose a
-new doomsign. You start with the doomsign
-your other half chose. Your other half picks the
-initial features and downsides of your shared
-sanctuary. You choose one more of each.
+* **命帶天劫者**:<br>
+獲得「避難聖所」、「末日」、和「末日軌」：你和你的半身共用同一個末日軌和末日逼近條件；當末日軌填滿時，你們兩個都可以選擇一個新的末日徵兆。你起始的末日徵兆與你半身所選擇的相同。由你的半身決定你們共有的避難聖所的起始特色和缺點，接著你再額外為它們各選擇一項。
 
-* Nova:<br>
-Take burn and four flares, two shared and
-two unique to you.
+* **超新星**:<br>
+獲得「熊熊燃燒」和四個「耀焰」，其中二個是你們共有的，另外二個是你獨有的。
 </div>
 <div class="Move">
 
-### 〈Bonds and Distinctions〉
-At character creation you start with Two of a kind, and choose one other bond. When either you or
-your other half locks a Label, cross off one of your chosen bonds and choose a distinction.
+### 〈羈絆與區別〉
+在角色創建時，你起始擁有【天生一對】，並選擇另一個羈絆。當你或你的半身固定了一個標籤屬性，劃掉其中一個你已經選擇的羈絆，並改為選擇一個區別特色。
 
-##### BONDS:
-* 【Two of a kind】<br>
-When time passes, you and your
-other half gain Influence over each other. When
-you or your other half pierces the
+##### 羈絆:
+* 【天生一對】<br>
+當一段時間經過，你和你的半身將獲得對彼此的影響力。當你或你的半身對彼此進行〈揭穿面具〉時，可以標記一個狀態以直接取得10+的結果。
 
-* 【Fastball special】<br>
-When you perform a coordinated
-fighting maneuver with your other half, say who
-takes the lead and who assists. The leader rolls
-the adult move overwhelm a vulnerable foe. The
-assistant marks a condition.
+* 【速球特技】<br>
+當你與你的半身合作施展戰鬥特技時，宣言誰擔任主導者，誰擔任協助者。主導者將擲骰進行成年英雄動作的〈制服脆弱敵人〉，而協助者則需要標記一個狀態。
 
-* 【Powers, activate!】<br>
-When you and your other half
-pool your powers, say who takes the lead and who
-assists. The leader unleashes their powers with
-your combined Freak (max+4). The assistant shifts
-Savior down, Mundane up.
+* 【雙重能力，發動！】<br>
+當你和你的半身把你們的超能力匯聚起來時，宣言誰擔任主導者，誰擔任協助者。主導者將使用你們兩個的古怪標籤屬性的總和（最多+4）來進行〈釋放你的力量〉，而協助者則需要把優越標籤屬性降低一級，並把平凡標籤屬性提升一級。
 
-* 【Four eyes are better】<br>
-When you and your other half
-assess the situation from two different vantage points,
-one of you makes the move, and the other may either
-clear a condition or ask an additional question. You
-both get +1 when following the answers.
+* 【多一雙眼睛更好】<br>
+當你和你的半身從兩個不同的角度〈評估局勢〉時，由你們其中一個人進行該動作，而另一個人則可以選擇要清除一個狀態、或是再詢問一個額外的問題。你們兩個都可以在依據問題的回答行動時獲得+1加值。
 
 
-##### DISTINCTIONS:
-* 【Mirror, mirror】<br>
-When you pierce someone’s mask,
-you can ask them “What are you really feeling right
-now?”, even on a miss. If you do, they can ask you
-the same question.
+##### 區別特色:
+* 【魔鏡啊魔鏡】<br>
+當你對某人〈揭穿面具〉時，你可以問他「你現在真正的感受是什麼？」，即使骰出失敗也一樣。如果你這麼做，則他也可以問你同樣的問題。
 
-* 【Shouldering the burden】<br>
-When you push yourself
-to do something your other half failed at or can’t
-do, mark a condition to use the adult move wield
-your powers.
+* 【肩負重擔】<br>
+當你強迫自己去做某個你的半身失敗了或不能做的事情時，標記一個狀態，以使用成年英雄動作的〈行使你的力量〉。
 
-* 【Going solo】<br>
-When you directly engage a threat
-entirely on your own, you can roll + Superior
-instead of + Danger.
+* 【獨行】<br>
+當你在完全只靠自己的情況下〈直面威脅〉時，你可以擲+優越來取代+危險。
 
-* 【Internal strife】<br>
-When you snipe about your other
-half behind their back, remove one Team from the
-pool and clear a condition.
+* 【兄弟鬩牆】<br>
+當你在你的半身背後說他壞話時，減少一點團隊默契，並清除一個狀態。
 </div>
 
 ---
@@ -234,15 +186,14 @@ pool and clear a condition.
 </div>
 
 ## 當團隊初次集結時……
-The connection between our two halves was threatened by the crisis. How? By what?
+我們兩個半身彼此之間的聯繫受到了某個危機的威脅。這個危機是什麼？又是怎麼威脅的？
 
 ## 人際關係
-* When you have problems with your other half, you talk to _________________.
-* You are jealous of the relationship between your other half and _________________, and you keep trying to interject yourself.
+* 當你和你的半身發生問題時，你總是會跟 _________________ 聊聊。
+* 你很忌妒你的半身和 _________________ 之間的關係，且你一直試著介入其中。
 
 ## 影響力
-Are you more or less trusting than your other half? If more trusting, give out one more Influence than they did. If less, then give out one less Influence than they did.
-If you didn’t get Influence over your other half, then take it now. If you didn’t give Influence to your other half, then give it now.
+你是否比你的半身更容易信任他人？如果是，則讓比他多一個的人數獲得對你的影響力。如果不是，則讓比他少一個的人數獲得對你的影響力。如果你尚未獲得對你半身的影響力，現在馬上獲得它。如果你的半身尚未獲得對你的影響力，也現在馬上讓他獲得。
 
 ---
 ## 成長發展
