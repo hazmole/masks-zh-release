@@ -14,53 +14,26 @@ weight: 5
 </div>
 
 {{< details title="如何扮演雙子" >}}
-Unsure, supportive, jealous, defiant. The Joined is a mix of emotions and ideas, defined
-more by the hero to whom they are connected than by anything else. The Joined is
-different from any other playbook in Masks, and making it work requires substantial
-buy-in from all the players involved. Don’t play the Joined unless both you and the other
-player are on-board.
+缺乏自信、相互扶持、嫉妒、反抗。雙子是情感和思想的混合體，那位與他緊密相連的英雄──他的半身──比起其他任何人都還要更深的定義了他的存在。
+雙子跟《蒙面少俠》中的其他扮演書有非常大的不同，且要讓它運作會需要所有參與者的認同與協作。所以除非你和對方玩家都同意，否則不要使用雙子這個扮演書。
 
-Both the Joined’s player and their partner player need to be okay with shared
-uniqueness. You will share in a lot of the same powers and abilities, and in some ways
-that diminishes the other character’s uniqueness. No one should agree to play your other
-half if they really want to have sole access to their playbook’s cool stuff.
+扮演雙子和其半身的玩家都需要接受他們角色的獨特性被共享。你們將會擁有許多相同的力量和能力，而這也會在某種程度上削弱了角色的獨特性。如果某個人真的很想要獨享他們扮演書裡的酷東西，那他就不該同意作為你的半身。
 
-Because of the connection between the two characters, creating the Joined is a much
-more collaborative process. You can’t start the Joined without knowing to whom you are
-connected, and you should let them finish a lot of the initial steps of their character before
-you get into the Joined. As such, creating a Joined can’t be a “heads-down” kind of thing.
-Talk to the other player and bounce ideas off each other throughout the process.
+由於這兩個角色之間的聯繫，創建雙子角色的過程需要更多的協作。你不可能在不知道你的半身是誰的情況下開始作業，且你需要等到對方完成許多創角的步驟後才能動手。因此，雙子的創建過程並不是「埋頭自幹」的行動，你需要在整個過程中跟其他玩家討論，互相交流彼此的想法。
 
-During play, you will obviously spend a lot of time with the character to whom you are
-joined. But make sure your Joined develops relationships with the other PCs, outside of
-that primary connection. The story of the Joined moves toward separation and distinction,
-and you can’t have that story without the opportunity for each half to define themself
-independently.
+在遊戲過程中，你顯然會花大量的時間在與擔任你半身的角色相處。但同時確保雙子除了這最主要的連結之外，也要各自發展與其他PC們之間的關係。雙子的故事主軸在於一步步走向分離與差異，如果你們兩個沒有這些獨自定義自己的機會，就不可能發展出這樣的故事。
 
-Use locking a Label to mark the moments when your Joined defines themself separately
-from their other half. Most of the time, locking a Label comes after using a Moment
-of Truth, so watch out for when you or your other half wants to do that. Remember
-that when either of you locks a Label, a bond switches to a distinction. If you have no
-more bonds to switch to distinctions, then you’re already pretty divided—nothing extra
-happens.
+雙子透過「固定標籤屬性」來表示他重新定義了自己，並把自己與他的半身分別了出來。大部分時候，固定標籤屬性這件事會發生在使用關鍵時刻之後，所以請特別注意你或你的半身想在什麼時候這麼做。要記住，當你們之中的任何一位固定了一個標籤屬性，你就必須把一個羈絆之力轉變成獨特之處。如果你已經沒有可以轉變成獨特之處的羈絆之力，那表示你們兩個已經相當不同──不會再發生其他事。
+
 
 ### 關於你的動作 & 額外事物
-For Your other half, you’re probably going to need to borrow your other half ’s
-playbook for a bit, to jot down all the relevant information. It may help for you to
-have a spare copy of their playbook yourself.
+關於〈你的另外一半〉，你可能會需要稍微借用一下你半身的扮演書，把所有相關的內容給抄下來。給自己再準備一份他們所使用的扮演書也能夠帶來不少幫助。
 
-For Fastball Special and Powers, Activate!, you’ll need to say who’s in the lead.
-Go with your gut about which one of you is leading the maneuver. If you and
-your other half wind up talking too long about it, then that’s the equivalent of
-giving the GM a golden opportunity—instead of doing your cool maneuver,
-you’re bickering.
+關於〈速球特技〉和〈雙重能力，發動！〉，你們會需要宣告誰是主導者。用你們的直覺去決定是誰在負責主導這個特技的執行。如果你和你的半身在討論這個問題上花了太多的時間，這就等於是給了GM一個黃金時機──你們光顧著彼此爭吵，而沒能做出那些酷炫的行動。
 
-For Going solo, you really have to engage the threat on your own. If any teammate
-could potentially spend Team from the pool to help you, then you’re not really
-on your own.
+關於〈獨行〉，你必須真的在完全只靠自己的情況下〈直面威脅〉。如果其他隊友有辦法花費團隊默契來協助你的話，那麼你就不是真的完全只靠自己。
 
-For Internal strife, sniping about your other half behind their back requires you
-to have an audience—you can’t just grumble to yourself, under your breath.
+關於〈兄弟鬩牆〉，你會需要有至少一個聽眾才在你的半身背後說他壞話──你不能只是壓低聲音，自言自語的抱怨他。
 
 ### 雙子的靈感來源
 * The Stepford Cuckoos, New X-Men
