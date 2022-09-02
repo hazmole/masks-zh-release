@@ -174,11 +174,11 @@ weight: 7
 ## 擴充〈神翠市先驅報集錦〉
 
 ### 自新者 THE REFORMED
-* Remind them of what they’ve done
-* Ask them for a criminal or villainous favor
-* Doubt them from a position of moral superiority
-* Offer them solace with a criminal or villainous source
-* Confront them with a nightmare from their past
+* 提醒他們關於他們過去的所作所為
+* 要求他們提供犯罪或邪惡的幫助
+* 從道德制高點去質疑他們
+* 提供他們來自犯罪或邪惡源頭的心靈慰藉
+* 讓他們面對一個來自他們過去的夢魘
 
 Introducing the Reformed provides a through-line into the villainous side of Halcyon
 City. The Reformed was once important in that scene and still has plenty of contacts in
@@ -199,11 +199,11 @@ in the present.
 <hr class="minor"/>
 
 ### 新生兒 THE NEWBORN
-* Teach them a new lesson
-* Correct an existing lesson
-* Push one of their lessons to the brink
-* Remind them of their fundamental inhumanity
-* Exert ownership or control over them as a piece of property
+* 教導他們一個新的教訓
+* 修正一個既有的教訓
+* 將他們的其中一個教訓推到極限邊緣
+* 提醒他們從本質上的非人性
+* 把他們當作財產來行使所有權和控制權
 
 The Newborn is a strangely fluid playbook that makes explicit what is implicit in
 many of the others. For the Newborn, moral lessons are hard-coded, written down on the
@@ -230,11 +230,11 @@ Regeneration. Those moves signs that the Newborn wants to be punched. So don’t
 <hr class="minor"/>
 
 ### 天真者 THE INNOCENT
-* Confront them with their future self
-* Mirror the steps on their future self ’s path
-* Show them an absurdity of the present (their future)
-* Show them an artifact of the past (their present)
-* Judge them by their future self ’s standard
+* 讓他們面對未來的自己
+* 映照出他們未來自己的道路上的腳步
+* 向他們展示一個現代（他們視角中的未來）的荒謬之處
+* 向他們展示一個過去（他們視角中的現代）的遺物
+* 以他們未來自己的標準來評判他們
 
 The Innocent is a simultaneously hopeful and dark hero. They are, themselves, hopeful
 and light, but they are on a path to becoming something much more dangerous, and the
@@ -252,11 +252,11 @@ sympathetic, like a future version of them who’s been through hell.
 <hr class="minor"/>
 
 ### 明星 THE STAR
-* Reinterpret their actions in the media
-* Make a demand from their audience
-* Offer an opportunity for public attention
-* Offer an opportunity for quiet heroism
-* Demean their superficiality
+* 在媒體上重新詮釋他們的行動
+* 讓他們的觀眾提出一個要求
+* 提供一個獲得大眾關注的機會
+* 提供一個當無名英雄的機會
+* 貶低他們的膚淺虛榮
 
 The Star introduces the need for media attention and public responses into Masks.
 Their audience and celebrity affords the Star some excellent advantages and opportunities,
@@ -279,11 +279,11 @@ with the costs of their own celebrity
 <hr class="minor"/>
 
 ### 雙子 THE JOINED
-* Offer them, and them alone, opportunities for success or fun
-* Flaunt the abilities and successes of their other half in front of them
-* Mistake them and their other half for being each other, or a single entity
-* Express interest in them, and them alone
-* Separate them
+* 提供他，也只為他一個人提供，一個通往成功或樂趣的機會
+* 在他們面前誇耀他半身的能力和成功
+* 將他與他的半身誤認為彼此、或把他們視為一個個體
+* 表達出對他，且只對他一人，的興趣
+* 拆散他們
 
 The Joined is an advanced playbook, and as soon as two players agree to play with it,
 they’re taking on a higher burden than a normal Masks playbook. They’re agreeing to have
@@ -316,11 +316,11 @@ world has thoughts about their relationship, as well
 ## 擴充〈無拘無束〉
 
 ### 先驅者 THE HARBINGER
-* Center a plot around their “remembered” characters
-* Undermine what they think they know
-* Reveal clear future paths
-* Evoke the pleasures of the present
-* Show the timeline ripples of their actions
+* 讓一個陰謀圍繞著他們「記得」的角色們發展
+* 顛覆他們認為自己知道的事實
+* 揭露清晰的未來走向
+* 讓他們體驗現代的樂趣
+* 展現他們的行動對時間線造成的影響
 
 The Harbinger makes “the future” a tangible thing in your game. As GM, you are responsible for juggling the idea of causality changes, predestination paradoxes, and multiple timelines. Essentially, you must account for the timetravel nonsense the Harbinger brings to the game so as to amp up the drama and difficult choices. They’re not in charge of making sure the timelines make sense (or at least, comic-book sense); you are, and your goal in doing so is to ensure the different timelines and ripple effects and future selves contribute to interesting and cool stories without being too confusing.
 
@@ -331,11 +331,11 @@ Because of the way that move works, at the beginning of the game, you are most l
 <hr class="minor"/>
 
 ### 浪子 THE NOMAD
-* Introduce bizarre elements from their adventures
-* Offer them solace, comfort, and the feeling of home
-* Threaten what anchors they have
-* Restrain and confine them
-* Show them how little they really know
+* 導入來自他們過去冒險的奇異元素
+* 提供他們慰藉、舒適、和家園的感覺
+* 威脅他們心繫的事物
+* 約束並限制他們
+* 讓他們了解自己知道的事情只不過是九牛一毛
 
 The Nomad is a character defined by a desire to wander and be detached—
 to be free from the ties that bind. It’s your job as GM to make sure that the
