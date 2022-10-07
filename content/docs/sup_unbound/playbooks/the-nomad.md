@@ -14,52 +14,23 @@ weight: 2
 </div>
 
 {{< details title="如何扮演浪子" >}}
-Weird, playful, mischievous, lonely. The Nomad has seen things that their peers
-can’t even imagine. They’ve seen the universe at play. They’ve encountered
-other cultures and ideas, and they have their own collection of cool toys. And
-for all that awesomeness, the Nomad has never had their own home or family.
-Their story is all about connecting deeply to the people and world around
-them, instead of bouncing off to something new and different.
+古怪、愛開玩笑、淘氣、孤獨。浪子曾經見識過他們的同齡人甚至無法想像的事物。他們曾看過宇宙運行，他們曾體驗過其他其他文化和思想、他們甚至自己收藏了許多有趣的酷玩意兒。
+而儘管人生如此精彩，浪子卻從來沒有他們自己的家鄉或家庭。他們的故事將是關於與周圍的人們和世界建立起深刻關係，而非跳離去尋找新穎且不同的事物。
 
-The two crucial questions for the Nomad during character creation are
-“What brought you back to stay (for now)?” and “Why do you care about the
-team?” The Nomad only works because they have chosen to remain with the
-team—if they followed their wanderlust, they wouldn’t be part of a MASKS game.
+浪子在角色創建過程中最關鍵的兩個問題是「是什麼讓你回到了這裡並留下來（至少目前如此）？」以及「你為什麼在乎這個團隊？」。浪子這個扮演書之所以能成立，是因為他們決定並選擇待在這個團隊──如果他們依舊遵循他們心中的流浪癖，那麼他們就無法成為蒙面少俠遊戲中的一部份。
 
-Make sure that between these two questions, your Nomad has clear, durable
-reasons to stick with the team. “I came back to stay because I need to get a flux
-capacitor to repay my debt to the Pirate Queen of Orion” is a cool answer, but
-not a durable answer—as soon as the Nomad gets the flux capacitor, they can
-go back to space. “I came back to stay because I’m wanted across space for a
-crime I didn’t commit” is better—as long as you remain wanted, you’re stuck
-on Earth, and there’s no clear path to having that status changed.
+確保你的浪子在這兩個問題上能回答出清楚、持久的理由，來把他們留在團隊裡。「我回到地球是因為我需要搞到一個時空電容器，用來償還我欠獵戶座的海盜女王的債務」是一個很酷的回答，但它並不能長久──一旦時空電容器到手，浪子就能夠重回宇宙遊蕩。「我回到地球是因為我因為一起從未犯過的罪而在整個宇宙被通緝」就好一點──只要你仍然被通緝，你就被仍被困在地球上，而且你可沒有什麼明確的手段能夠改變這個狀態。
 
-Finally, your extra, Putting down roots, has you uniquely playing with
-Influence. You are incentivized to give out Influence, for all the benefits you
-get—but remember, you can only give out Influence to six characters total,
-including teammates. Some of the benefits are much more advantageous when
-you give Influence to an enemy than when you give it to an ally, too. And while
-you can take back Influence at the end of every session, it’s otherwise pretty
-hard to shift it around once you’ve given it out. Balancing the tension between
-wanting to give out your Influence and picking exactly the right people to give
-it to is at the heart of the whole playbook—so have fun with it!
+最後，關於你的額外事物：〈落地生根〉，讓你能夠用一種特別的方式去操作影響力。你被鼓勵去給出影響力，好讓你拿到所有的好處──但記住，你總共只能讓六個角色獲得對你的影響力，這也包括你的隊友。在這其中，有一些好處是當你把影響力給敵人時，會收穫到比給隊友更大的效益。儘管你可以在每次聚會結束時收回影響力，但你一旦給出影響力，你就很難透過其他手段去改變轉移它們。
+在「希望盡可能的給出影響力」以及「挑選最適當的人選去給予」之間拿捏平衡，正是這整個扮演書的核心所在─所以好好去享受這一點吧！
 
 ### 關於你的動作 & 額外事物
-For Out of this world, what it means to plug into the cosmic aether is up to
-you. Maybe you listen to some weird music you picked up out in space; maybe
-you burn some transdimensional incense and meditate. Whatever you choose,
-it should be consistent—it shouldn’t shift every time you do it.
+關於<b>〈此世之外〉</b>，「連接浸入宇宙乙太」代表什麼將完全取決於你。也許你需要聆聽某種你在宇宙中找到的怪異音樂；又或許你需要焚燒跨維度薰香並冥想沉思。無論你選擇什麼樣的方式，它都必須要有一致性──它不能每次你要做的時候都不一樣。
 
-For Putting down roots, all rules not called out as different here function
-as normal. For example, those you give Influence to can still shift your Labels,
-and you can still reject their Influence. Your benefits are based on how many
-other characters have Influence over you—meaning that if you take Influence
-over you away from other characters, you may lose some of those benefits.
+關於<b>〈落地生根〉</b>，所有沒有特別列出不同之處的規則都將如常運作。舉例來說，那些你給出影響力的人仍然可以調動你的標籤屬性，而你也仍然能〈拒絕他們的影響力〉。你從中獲得的好處將取決於有多少其他角色擁有對你的影響力──這意味著如果你收回你給其他角色的影響力，你也會因此失去其中一些好處。
 
-Note that you do not have an advancement to retire or become a paragon;
-instead, you depart for reaches unknown, never to return. If you wish to retire
-or become a paragon, you must change playbooks first and become someone
-more settled, and less nomadic.
+注意，你沒有「從生涯退役，或成為城市的典範」這個成長發展選項；取而代之的是，你將「出發前往未知之處，再也不復返」。
+如果你想要退休並成為城市的典範，那麼你必須先更換扮演書，成為某個更能安定下來、不那麼浪子的人物。
 
 ### 浪子的靈感來源
 * Cammi Benally, AVENGERS ARENA/UNDERCOVER
@@ -175,7 +146,7 @@ more settled, and less nomadic.
 <div class="Move">
 
 ### 〈此世之外〉
-當你連接沉浸在宇宙乙太並冥想脫離這個世界時，擲<b>+古怪</b>。
+當你連接浸入宇宙乙太並冥想脫離這個世界時，擲<b>+古怪</b>。
 
 擲出成功時，你帶回了一個與你們當前面對的問題和情境有關的嶄新見解；GM會告訴你那是什麼。<br/>
 擲出10+時，你還可以根據你的新見解來調動你的標籤屬性。<br/>
@@ -185,7 +156,7 @@ more settled, and less nomadic.
 
 ### 〈歷經磨練的目光〉
 當你〈評估局勢〉時，你永遠可以詢問下列其中一個問題，即使失敗也一樣：
-- 我要離開/創入/經過這裡最好的方法是什麼？
+- 我要離開/闖入/經過這裡最好的方法是什麼？
 - 這裡有什麼是容易帶走的？
 - 這裡有誰容易被我的話語給影響？
 </div>

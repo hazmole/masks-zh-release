@@ -14,53 +14,25 @@ weight: 3
 </div>
 
 {{< details title="如何扮演天真者" >}}
-Hopeful, troubled, out of place, noble. The Innocent is the kid version of a dangerous
-person, in whom anyone else can see the potential for great nobility...and the potential for
-great horror. Their story is all about simultaneously being an unformed font of possibility
-while having clear evidence for a particular life path in front of them.
+充滿希望、困擾不安、格格不入、心地高尚。天真者是某個危險人物的孩童版本，且每個人都能看見他體內那能成就尊貴高尚的可能性……以及化身盛大恐怖的潛力。
+他們的故事是關於他們那尚未定型、能夠往兩方發展的可能性，且在此同時，一條特定的人生道路已經帶著明確正確擺在他們的眼前。
 
-Your future self will be a major character in the story from character creation, but
-early on, they’re liable to be a bit of a flat stereotype. Discovering your future self ’s path
-is the means by which you make them more and more sympathetic. Always pursue
-opportunities to learn about that path. After all, who wouldn’t be curious about the events
-that made their future self into a particular kind of person? If you have the chance to talk
-to a villain who knew your future self in their early days, do it. If you have the chance to
-talk directly to your future self, take it. And if ever you feel like something fits one of the
-steps as listed in Your Future Self, don’t hesitate to circle it.
+你未來的自己將會是故事中的一個重要角色。但在前期，他們很可能只是一個扁平的刻板形象角色。發掘你未來自己的道路將會是讓你越來越能與他共感的方式。總是去尋找機會來了解關於這條道路的種種。畢竟，有誰不會對「是什麼樣的事件導致了未來的自己變成了這樣的人物」感到好奇呢。如果你有機會跟某個知道你未來自己過去事蹟的反派聊聊，好好把握它！如果你有機會跟未來的自己直接交談，決不要放過它！而如果你感覺某件事符合你〈未來的自己〉中列出的事件，不要猶豫，趕緊把它圈起來。
 
-Similarly, don’t hesitate to strike out a step that your Innocent seems to have
-encountered, and don’t hesitate to push into those situations. Your Innocent is walking a
-dangerous path; actively avoiding that path can be interesting and save them from villainy,
-but won’t tap the dramatic core of the playbook. Nor will it give you some of those neat
-additional unique abilities of the playbook. So play into the path. Take actions that seem
-nasty. A good rate is to circle one step every two sessions, and strike out one step every
-two or three sessions.
+同樣的，如果你的天真者似乎遭遇了這類事件，不要遲疑於將其劃掉！也不要猶豫於把他們推往這類事件去。你的天真者正行走在一條危險的路上；主動避開這條道路或許會很有趣，且可以把他們從邪惡中拯救出來，但這麼做既無法觸及這個扮演書的戲劇核心，也無法讓你獲得這個扮演書中那些超讚的額外獨特能力。因此，踏上這條道路吧！採取那些看似討人厭的行動。理想的速度是每兩次聚會圈起一個事件，且每兩到三次聚會劃掉一個事件。
 
-If you need a break from the drama of the Innocent, play into the time-lost Innocent.
-There’s a lot of fun and humor to be had in the Innocent being in a strange world, and
-it’s great for providing an excuse to hang out with your teammates and for getting the
-Innocent’s Labels shifted, as well.
+如果你需要從天真者的嚴肅戲劇中喘口氣，試著享受扮演一下天真者迷失在不同時間的那一面。讓天真者身處在一個奇異陌生的未來世界中能夠帶來許多的樂趣和幽默，這同時也提供了一個好藉口讓你和隊友們一起出去玩耍，並同時能夠調動天真者的標籤屬性。
 
 ### 關於你的動作 & 額外事物
-You are the ultimate judge of whether you should strike out or circle one of the
-steps to your future self, but use the GM to help you make your decisions.
+你擁有最終的決定權來判斷你是否應該劃掉或圈起你未來的自己曾經歷的事件，但你可以求助GM來幫助你做出決定。
 
-For Growing into power, you explicitly know three things that your future self
-can do that you can’t from your abilities section, but the move also applies to
-anything else you’ve seen your future self do over the course of play.
+關於〈漸成力量〉，你明確知曉三個你未來的自己能做到，但你自己做不到的超能力應用。但隨著遊戲進行，這個動作也能應用在任何你看過你未來的自己做過的事情上。
 
-For What’s this thing?, the GM is the final arbiter of whether or not it goes poorly
-when you follow the other person’s advice.
+關於〈這是什麼東西？〉 ，當你照著其他人的建議去行動時，對於怎麼樣才算是「情況變得糟糕」，GM擁有最終的裁定權。
 
-For Martyr, you can easily ensure you take a powerful blow while defending
-someone any time you roll a 7-9 and choose to expose yourself to danger. You
-should also remind the GM of this move when you roll a miss on defending
-someone.
+關於〈殉道者〉，透過在任何時候進行〈保衛某人〉時骰出7-9的結果並選擇「使你自己暴露在危險之中」，你可以輕易地確保自己將會〈承受沉重打擊〉。你也可以在進行〈保衛某人〉並骰出失敗時提醒GM關於這個動作的存在。
 
-When you replace one of your basic moves with one from Your Future Self, it
-means you no longer have access to that basic move. You cannot trigger it. In any
-situation when you would, either resort to another move if possible, or the GM
-says what happens.
+一旦你把你的其中一個基本動作替換成你〈未來的自己〉中的另一個動作，就代表你再也無法進行原本的那個基本動作。你再也無法觸發它，而當遭遇到任何你原本會觸發該動作的情況，你要嘛改為使用另一個動作去處理，要嘛GM直接描述會發生什麼事。
 
 
 ### 天真者的靈感來源
@@ -138,7 +110,7 @@ says what happens.
 你未來的自己就在這裡。一個對神翠市和外面世界而言相當重要的人物──以及一個你希望自己永遠不會成為的人物。
 然而，去找出他是如何成為現在的自己，可能反而會推動你走上類似的道路。
 
-選擇一個你已經知道的，關於你未來的自己曾經歷過的事件，將其打勾。
+選擇一個你已經知道的，關於你未來的自己曾經歷過的事件，將其圈起來。
 
 * 他失去了某個他最關心的人
 * 他在某個崇高的追求或事業中經歷了可怕的失敗
@@ -149,10 +121,10 @@ says what happens.
 * 他公開對抗了另一位英雄
 * 他傷害了某個無辜的人
 
-當你得知了另一個關於你未來自己曾走過的事件，將其打勾。你可以有最多 5 個勾起的事件。
+當你得知了另一個關於你未來自己曾走過的事件，將其圈起來。你可以有最多 5 個被圈起來的事件。
 當你經歷了一個能與上述選項相似的事件時（由你決定），將其劃掉。
 
-<b>當你劃掉了一個被勾起的事件、或打勾了一個被劃掉的事件時</b>，從下列選擇一項。
+<b>當你劃掉了一個被圈起來的事件、或圈起了一個被劃掉的事件時</b>，從下列選擇一項。
 
 * <b>把〈安慰或支持某人〉替換成下面這個動作：</b><br>
 當你冷酷地摒棄某人，擲+平凡。<br>

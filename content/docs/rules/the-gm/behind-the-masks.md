@@ -171,7 +171,198 @@ weight: 7
 
 
 ---
+## 擴充〈神翠市先驅報集錦〉
+
+### 自新者 THE REFORMED
+* 提醒他們關於他們過去的所作所為
+* 要求他們提供犯罪或邪惡的幫助
+* 從道德制高點去質疑他們
+* 提供他們來自犯罪或邪惡源頭的心靈慰藉
+* 讓他們面對一個來自他們過去的夢魘
+
+Introducing the Reformed provides a through-line into the villainous side of Halcyon
+City. The Reformed was once important in that scene and still has plenty of contacts in
+that world. That means it’s more important than ever for you to portray the villains as full
+humans, with sympathetic drives and believable personas. The empathy that the Reformed
+demands makes it tough to also have ridiculous, grandstanding, unsympathetic villains
+at the same time.
+
+In addition to the increased focus on villains and sympathetic criminals, the Reformed
+also adds another element to Masks that no other playbook focuses on as clearly—the
+past. Even though the Reformed is young, they’ve been in the superhero scene for a
+while, and they’ve taken many actions in that time. The past of the Reformed is very
+important for their present, and as a result the Reformed requires you to spend more
+time asking questions and talking about the past than any other playbook. Don’t hesitate
+to ask questions about what’s happened if it ever becomes important to what’s going on
+in the present.
+
+<hr class="minor"/>
+
+### 新生兒 THE NEWBORN
+* 教導他們一個新的教訓
+* 修正一個既有的教訓
+* 將他們的其中一個教訓推到極限邊緣
+* 提醒他們從本質上的非人性
+* 把他們當作財產來行使所有權和控制權
+
+The Newborn is a strangely fluid playbook that makes explicit what is implicit in
+many of the others. For the Newborn, moral lessons are hard-coded, written down on the
+character sheet, and thereby granted all the more meaning and importance. The player
+is the most involved with those lessons—monitoring them, watching them, and calling
+out when they come into play—but that doesn’t mean you can ignore them. Pay attention
+to those lessons as best you can, especially any time the Newborn writes a new one or
+changes an existing lesson. Those are important moments that tell you a lot about where
+the character is going...and where to press them dramatically.
+
+Also, you are the final arbiter of whether or not the Newborn embodies lessons, but
+that doesn’t mean you should be stingy. Give them credit where it is due.
+
+A great way to use NPCs around the Newborn is to teach them lessons, whether by
+outright trying to communicate a new principle or arguing with an existing principle.
+You can be very explicit with NPCs trying to teach the Newborn lessons, especially if they
+know the Newborn’s true nature—the creator of an android is absolutely going to try to
+teach the android in a straightforward fashion.
+
+Finally, the Newborn is a surprisingly durable playbook, where conditions matter a great
+deal. Push them a lot. Make them mark conditions, especially if they’ve taken Damage or
+Regeneration. Those moves signs that the Newborn wants to be punched. So don’t back off.
+
+<hr class="minor"/>
+
+### 天真者 THE INNOCENT
+* 讓他們面對未來的自己
+* 映照出他們未來自己的道路上的腳步
+* 向他們展示一個現代（他們視角中的未來）的荒謬之處
+* 向他們展示一個過去（他們視角中的現代）的遺物
+* 以他們未來自己的標準來評判他們
+
+The Innocent is a simultaneously hopeful and dark hero. They are, themselves, hopeful
+and light, but they are on a path to becoming something much more dangerous, and the
+drama of the playbook comes from toying with that path. Give the Innocent plenty of
+reasons and opportunities to venture down that path. Don’t let their life be easy, and don’t
+ever let them forget the other person that people see when they look at the Innocent.
+
+Introducing the Innocent into your game immediately creates an important figure in
+your Halcyon City setting—the Innocent’s future self. They need to be someone all of the
+other characters would recognize and fear. Make sure to integrate the future self into the
+setting through your questions. Don’t let their future self ever appear definitively to be a
+villain. It’s your job to play on their choices and make sure their future self really seems
+sympathetic, like a future version of them who’s been through hell.
+
+<hr class="minor"/>
+
+### 明星 THE STAR
+* 在媒體上重新詮釋他們的行動
+* 讓他們的觀眾提出一個要求
+* 提供一個獲得大眾關注的機會
+* 提供一個當無名英雄的機會
+* 貶低他們的膚淺虛榮
+
+The Star introduces the need for media attention and public responses into Masks.
+Their audience and celebrity affords the Star some excellent advantages and opportunities,
+but also puts on them enormous pressure, and provides a clearer source of constant
+judgment than any other character might have. Don’t let up. If the Star wants to call for a
+public appearance, or if the Star wants to get any kind of attention, they should be able to
+without any difficulty...but if they ever try to escape the limelight, it should only ever be
+a temporary reprieve. The demands of the audience always give you an excuse to make
+them intrude and let the Star know what they think.
+
+On the same note, the offers, opportunities, temptations, and difficult decisions offered
+to the Star need to almost always be oriented toward popularity and celebrity. The Star’s
+drama isn’t served by offers of terrible power or by incredibly difficult moral decisions,
+but by seemingly innocuous choices between popularity and justice. Taking credit for a
+friend’s good deeds; showing a hard line response to a villain you might actually want to
+give mercy; focusing on the more publicly disliked threat than the actual threat—these
+are the decisions the Star’s story is made of. Throw them at the Star so they have to deal
+with the costs of their own celebrity
+
+<hr class="minor"/>
+
+### 雙子 THE JOINED
+* 提供他，也只為他一個人提供，一個通往成功或樂趣的機會
+* 在他們面前誇耀他半身的能力和成功
+* 將他與他的半身誤認為彼此、或把他們視為一個個體
+* 表達出對他，且只對他一人，的興趣
+* 拆散他們
+
+The Joined is an advanced playbook, and as soon as two players agree to play with it,
+they’re taking on a higher burden than a normal Masks playbook. They’re agreeing to have
+their stories deeply entwined, to share a lot of the cool bits of their playbooks, and to bounce
+off each other for the rest of the story. That can be absolutely amazing, but they will need
+your help to make it come together.
+
+In general, use the Joined only when you have 4 or more PCs. That way, you’ll have
+at least two other PCs outside of the Joined’s core connection. Any fewer, and the game
+becomes less about the team and more about the Joined.
+
+Keep an eye out for the Joined and their other half becoming too wrapped up in their
+own world. If the Joined and their other half are barely interacting with any other PCs at
+all, then there’s a problem. Put them in situations where they’re forced to act as individuals,
+with the other PCs around.
+
+Use your NPCs to simultaneously divide them and force them together. Push in the
+opposite of whichever direction they’re already tending. If they’re coming together, separate
+them by having an NPC offer an opportunity to only the Joined and not their other half.
+If they’re separate from each other, smoosh them together by having a major hero think of
+them only as a single unit, or mistake them for each other.
+
+Your job when dealing with the Joined is to make the rest of the world intrudes on their
+relationship. Chances are, the two players involved will already be interested in the drama
+and stakes of the relationship. You need to make sure neither one forgets that the rest of the
+world has thoughts about their relationship, as well
+
+
+---
 ## 擴充〈無拘無束〉
+
+### 先驅者 THE HARBINGER
+* 讓一個陰謀圍繞著他們「記得」的角色們發展
+* 顛覆他們認為自己知道的事實
+* 揭露清晰的未來走向
+* 讓他們體驗現代的樂趣
+* 展現他們的行動對時間線造成的影響
+
+The Harbinger makes “the future” a tangible thing in your game. As GM, you are responsible for juggling the idea of causality changes, predestination paradoxes, and multiple timelines. Essentially, you must account for the timetravel nonsense the Harbinger brings to the game so as to amp up the drama and difficult choices. They’re not in charge of making sure the timelines make sense (or at least, comic-book sense); you are, and your goal in doing so is to ensure the different timelines and ripple effects and future selves contribute to interesting and cool stories without being too confusing.
+
+This playbook needs major figures who play roles in both the present and the future to function, and its Connect the dots section is designed to foster just that. The player is responsible for trying to fill those names in by triggering the attached move. When a player does trigger the move, they’re signaling that they are interested in this character, so keep that in mind when deciding your portion of the move. Deciding on a miss that the future has no record of the character could write them off in some cases...but it could raise interesting questions in others. Why wouldn’t the future have any records of Champion, one of the greatest heroes of Halcyon City?
+
+Because of the way that move works, at the beginning of the game, you are most likely to have significant say over the role those characters play in the future. As time goes on, the player will have more and more say, but fewer and fewer roles to choose from along with a clearer picture of the future. But ultimate responsibility for making sure that everything fits together into a coherent picture of the future lies with you. And for the most part, all the choices and the information you reveal need to build on each other—until the Harbinger uses their Moment of Truth, and resets everything
+
+<hr class="minor"/>
+
+### 浪子 THE NOMAD
+* 導入來自他們過去冒險的奇異元素
+* 提供他們慰藉、舒適、和家園的感覺
+* 威脅他們心繫的事物
+* 約束並限制他們
+* 讓他們了解自己知道的事情只不過是九牛一毛
+
+The Nomad is a character defined by a desire to wander and be detached—
+to be free from the ties that bind. It’s your job as GM to make sure that the
+Nomad’s desire is complicated, foiled, and countered.
+
+The extent to which the Nomad is tied into the world around them is
+(somewhat) measurable, by how much Influence the Nomad has actually given
+out. If the Nomad has given out 0-Influence, then they are ready to run—but
+if they have given out 6-Influence, then they’re heavily tied into the world.
+
+As GM, introduce characters who are interested in the Nomad, who
+want to have Influence over them, and who go about pursuing that Influence
+through myriad means, whether by impressing the Nomad or fostering them
+or even overpowering them. You have no control over whether these characters
+actually gain Influence over the Nomad—it’s all in the player’s hands—so all
+you can do is present interesting and complicated options to the player.
+
+As the Nomad does give out Influence, those relationships become the
+most important to threaten and stress. Keep those relationships in mind for
+hard moves and interesting complications.
+
+The Nomad also gives you great license to really go gonzo with the fiction
+around them. They’re an interdimensional/galactic/temporal traveler—and
+the issues they bring with them can range the full spectrum of those madcap
+settings. Have fun with it!
+
+<hr class="minor"/>
 
 ### 新芽 THE SCION
 * 因為他們父母的行為而怪罪他們

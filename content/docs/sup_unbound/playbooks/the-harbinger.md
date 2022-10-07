@@ -13,49 +13,23 @@ weight: 1
 </div>
 
 {{< details title="如何扮演先驅者" >}}
-Fixated, skeptical, searching, damaged. The Harbinger is from the future, and has
-come back in time to change that future—but the transition has scrambled their
-memories and their knowledge. Now they have to try to piece together what they
-came here to fix by remembering who in the present became what in the future.
+執著眷念、懷疑、探究、受損。先驅者來自未來，並及時回到現在以改變未來──但穿梭時空的過程打亂了他們的記憶和知識。現在他們必須透過回想起現在的哪些人物在未來變成了什麼，來試圖拼湊出他們來這裡究竟要修復什麼問題。
 
-The Harbinger makes time travel an important element of the game—but does
-not actually travel through time during the game. They’re not bopping around, and
-are in fact stuck in this time period. Only their memories will let them get some
-insight on what is coming. For that reason, “Connecting the dots” is crucial for the
-Harbinger. You need to fill in a few names in that area of your playbook to have
-some people to investigate, so go for it immediately, even though you’re rolling at
-a -1. If you find an NPC you think is interesting, then connect the dots on them!
+先驅者會讓時間旅行變成遊戲中的一個重要元素──但不會真的在遊戲過程中穿梭時間。他們並不會在時間線之間四處跳動，相反的，他們被困在了這個時間段。他們只能依靠自己的記憶來幫助他們去理解即將發生的事情。正因如此，〈串聯記憶點〉對先驅者來說至關重要。你會需要在扮演書上的這個區塊中填上幾個名字才有辦法展開調查，所以最好趕快動腦回想一下，就算你擲骰時的加值只有-1也一樣！如果你遇到了一個你感興趣的NPC，那麼就立刻串聯關於他們的記憶吧！
 
-Your primary tension is that of the young person driven to make the world
-better, but not entirely sure how to do it. Most of the other PCs want to do
-good and make the world better, but they either take situations as they happen,
-or they have guidance from an external force. The Harbinger, however, can
-actually begin to fill in a picture of what is going to happen, and then take steps
-to circumvent that outcome. So be proactive! Pursue your attempt to change
-the future, especially when it conflicts with more immediate threats or goals!
+你的主要故事張力在於，年輕人試圖推動世界變得更美好，卻不完全確定該怎麼做。當然，大部分其他的PC也都會想要做好事，並試圖讓這個世界變得更好，但他們要嘛是在事情發生時才做出應對、要嘛就是接受外在勢力或個人的指導。然而，先驅者卻不同，他們能夠確實勾勒出即將發生事件的畫面，並採取行動以規避這個結果。因此你需要積極主動！實行你改變未來的嘗試，尤其當它與更直接的威脅或目標有所衝突的時候更要如此！
 
 ### 關於你的動作 & 額外事物
-For Stick to the mission, whether or not someone is “critically important to the
-future” is in some ways down to your character’s beliefs more than any statement
-of fact. But you must be able to explain why it is that you think the character in
-question is critically important. The same idea applies to Applied history.
+關於<b>〈堅持使命〉</b>，一個人是否「對未來而言至關重要」，某種程度上更取決於你角色的想法，而非客觀事實。但你必須要能解釋為什麼你認為這個角色相當重要。這個邏輯也同樣適用於<b>〈應用歷史學〉</b>。
 
-For You haven’t learned you can do that yet, you are telling your teammate
-about something you’ve seen or heard them do in the future. Have fun with it!
-Come up with crazy maneuvers. But you share in the costs and complications
-of the moves, including marking conditions or being affected by Influence.
+關於<b>〈你還不知道你能夠用這一招〉</b>，你可以告訴你的隊友關於某個你在未來曾看過或聽過他們做過的事情。盡情發揮吧！儘管想出各種瘋狂的特技。但你也同樣會受到這些動作的代價和後果影響，包括標記狀態、或是被影響力給影響。
 
-For 21st century studies, you can always ask what the future knows about
-this moment, but the answer might very well be “Nothing.” You can still take a
-+1 ongoing to act on such an answer if you can make it relevant to your actions.
+關於<b>〈21世紀研究成果〉</b>，你永遠可以詢問「對於此時此刻，未來知道些什麼？」，但回答有可能會是「什麼都不知道」。但如果你有辦法讓你的行動跟這個回答扯上關係，那麼你就仍能在採取相應行動時得到持續+1的加值。
 
-When you push yourself to remember for Connecting the dots, the roles
-are fairly open to interpretation. But once a name is filled in, you can’t erase it
-(except for the Moment of Truth). For the start of session move, on a hit, you
-have a lead to follow, while on a 10+, you get some information immediately.
+當你在「串連記憶點」中強迫自己回想關於某人的種種時，關於角色位置的解釋可以相當自由開放。然而一旦你把名字填上去，你就不能再把它抹除（除非透過關鍵時刻）。
+至於每次聚會開始時觸發的動作，如果擲出成功，則你將得到一個能追下去的線索；而當你擲出10+時，你將能立刻得到一些相關情報。
 
-When you use your Moment of Truth, clear all the names in the Connecting
-the dots section—allowing you to start remembering a new future.
+當你使用你的關鍵時刻時，清除你「串連記憶點」區塊中填寫的所有名字──這讓你可以開始回憶關於嶄新未來的種種。
 
 ### 先驅者的靈感來源
 * Bishop, X-MEN
@@ -128,7 +102,7 @@ the dots section—allowing you to start remembering a new future.
 
 擲出成功時，你把他現在與未來的樣子串聯在一起；選擇一個他在未來擔當的角色位置，GM將會告訴你他在未來是什麼樣子。<br>
 擲出10+時，你可以接續詢問一個問題。<br>
-擲出失敗時，他完全不是你所想的那樣；GM將選擇他擔當的角色位置，或者告訴你就你所知，他並不存在於你的未來。
+擲出失敗時，他完全不是你所想的那樣；GM將選擇他擔當的角色位置，或者告訴你：他並不存在於你所知的未來之中。
 
 * 怪物: _____________________________
 * 背叛者: ______________________________

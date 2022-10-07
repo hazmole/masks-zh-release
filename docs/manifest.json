@@ -1,14 +1,14 @@
 {
   "name": "蒙面少俠 中文站",
   "short_name": "蒙面少俠 中文站",
-  "start_url": "/masks-zh-release/",
-  "scope": "/masks-zh-release/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/masks-zh-release/favicon.svg",
+      "src": "/favicon.svg",
       "sizes": "512x512"
     }
   ]
