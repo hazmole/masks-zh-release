@@ -3,7 +3,7 @@
 baseURL = 'https://hazmole.github.io/masks-zh-release'
 title = '蒙面少俠 中文站'
 theme = 'book'
-publishDir = "docs"
+publishDir = "public"
 
 # Book configuration
 disablePathToLower = true
